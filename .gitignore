@@ -1,0 +1,13 @@
+.idea/
+WrittenInPython2.7/
+.data/
+Misc/
+Results/
+
+*.txt
+*.png
+*.py.bak
+*.zip
+*.docx
+*.xlsx
+*.sh
