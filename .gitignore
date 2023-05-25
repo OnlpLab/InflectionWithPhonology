@@ -4,7 +4,6 @@ WrittenInPython2.7/
 Misc/
 Results/
 
-*.txt
 *.png
 *.py.bak
 *.zip
