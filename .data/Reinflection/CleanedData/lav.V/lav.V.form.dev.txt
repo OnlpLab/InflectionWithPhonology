@@ -1,0 +1,1000 @@
+V;2;SG;PRS;IND	neatvaino	V;V.PTCP;PRS;PASS	neatvainojams
+V;V.PTCP;PRS;LGSPEC6	izcepamies	V;LGSPEC2;LGSPEC7	esot jāizcepas
+V;NFIN	nestudēt	V;2;SG;FUT;IND	nestudēsi
+V;V.PTCP;PRS;LGSPEC5	netelefonējot	V;LGSPEC1;FUT	netelefonēšot
+V;1;SG;PRS;IND	negribu	V;V.PTCP;PRS;LGSPEC6	negribam
+V;COND;PST	būtu plosījis	V;V.PTCP;PRS;LGSPEC3	plosošs
+V;2;PL;PST;IND	turējāt	V;V.PTCP;PRS;LGSPEC4	turēdams
+V;3;PL;PST;IND	necepās	V;COND;PST	nebūtu cepies
+V;V.PTCP;PRS;LGSPEC6	dzemdējam	V;V.PTCP;PRS;LGSPEC5	dzemdējot
+V;LGSPEC1;IMP	lai nepaarot	V;LGSPEC1;PST	neesot paaris
+V;2;PL;IMP	neariet	V;3;SG;IMP	lai near
+V;V.PTCP;PRS;LGSPEC6	neejam	V;LGSPEC2;LGSPEC7	neesot jāiet
+V;1;PL;PST;IND	aplikām	V;LGSPEC1;PST	esot aplicis
+V;LGSPEC1;IMP	lai nenākot	V;3;SG;PST;IND	nenāca
+V;1;SG;PRS;IND	dzīvoju	V;V.PTCP;PRS;LGSPEC4	dzīvodams
+V;2;SG;FUT;IND	cepināsi	V;3;PL;PRS;IND	cepina
+V;1;PL;IMP	mācīsim	V;2;SG;IMP	māci
+V;2;SG;IMP	ķemmē	V;3;PL;IMP	lai ķemmē
+V;LGSPEC1;IMP	lai necerot	V;V.PTCP;PST;ACT	necerējis
+V;2;SG;PST;IND	nekustēji	V;NFIN;NEG	kustēt
+V;3;PL;PRS;IND	tur	V;LGSPEC1;FUT	turēšot
+V;V.PTCP;PRS;LGSPEC4	mazinādams	V;V.MSDR	mazināšana
+V;V.MSDR	nefotografēšana	V;3;PL;PST;IND	nefotografēja
+V;3;SG;PRS;IND	nespriež	V;2;SG;PRS;IND	nespried
+V;LGSPEC1;IMP	lai gaidot	V;COND;PRS	gaidītu
+V;COND;PST	būtu sapratis	V;3;PL;FUT;IND	sapratīs
+V;2;PL;IMP	nesauļojieties	V;LGSPEC1;FUT	nesauļošoties
+V;2;SG;IMP	nekļūsti	V;2;PL;PST;IND	nekļuvāt
+V;3;PL;PST;IND	burbuļoja	V;NFIN;NEG	neburbuļot
+V;NFIN	zust	V;1;PL;PST;IND	zudām
+V;V.PTCP;PRS;LGSPEC6	klājam	V;3;PL;FUT;IND	klās
+V;LGSPEC2;IND	nebūt jāsaka	V;V.PTCP;PST;PASS	nesacīts
+V;LGSPEC1;FUT	neprasīšot	V;NFIN;NEG	prasīt
+V;3;PL;IMP	lai nevāra	V;NFIN;NEG	vārīt
+V;2;SG;FUT;IND	nepiearsi	V;3;SG;PST;IND	nepieara
+V;LGSPEC1;FUT	izteikšot	V;2;SG;PST;IND	izteici
+V;LGSPEC1;PST	esot iearis	V;2;SG;IMP	iear
+V;1;SG;FUT;IND	paaršu	V;LGSPEC1;PRS	paarot
+V;3;SG;FUT;IND	indēs	V;LGSPEC2;LGSPEC7	esot jāindē
+V;COND;PRS	turpinātu	V;NFIN	turpināt
+V;V.PTCP;PRS;LGSPEC3	līdošs	V;NFIN	līst
+V;3;SG;PST;IND	neintonēja	V;2;SG;PRS;IND	neintonē
+V;2;SG;PRS;IND	neatcep	V;3;PL;PRS;IND	neatcep
+V;3;PL;PRS;IND	negaist	V;LGSPEC1;PRS	negaistot
+V;1;PL;FUT;IND	skarsim	V;3;SG;PST;IND	skara
+V;COND;PRS	neklepotu	V;COND;PST	nebūtu klepojis
+V;LGSPEC2;IND	būt jāstāda	V;LGSPEC1;FUT	stādīšot
+V;COND;PST	būtu vannojis	V;3;SG;FUT;IND	vannos
+V;3;SG;FUT;IND	jautrinās	V;COND;PST	būtu jautrinājis
+V;LGSPEC2;IND	nebūt jāraudina	V;3;PL;FUT;IND	neraudinās
+V;2;SG;PRS;IND	zīdi	V;2;SG;PST;IND	zīdīji
+V;1;SG;PST;IND	neseksualizēju	V;V.PTCP;PRS;LGSPEC4	neseksualizēdams
+V;1;PL;IMP	neprostituēsim	V;V.PTCP;PST;PASS	neprostituēts
+V;3;PL;PRS;IND	nazalizē	V;COND;PRS	nazalizētu
+V;V.PTCP;PRS;LGSPEC4	neraudinādams	V;3;PL;PRS;IND	neraudina
+V;1;PL;IMP	neizarsim	V;V.PTCP;PST;PASS	neizarts
+V;3;SG;PRS;IND	nebiezina	V;2;SG;FUT;IND	nebiezināsi
+V;2;PL;PRS;IND	necerat	V;LGSPEC2;IND	nebūt jācer
+V;2;PL;IMP	nemazgājiet	V;LGSPEC1;PST	neesot mazgājis
+V;1;SG;FUT;IND	purināšu	V;V.PTCP;PRS;LGSPEC4	purinādams
+V;3;PL;IMP	lai rej	V;3;PL;FUT;IND	ries
+V;LGSPEC1;IMP	lai atcepot	V;V.PTCP;PST;PASS	atcepts
+V;V.PTCP;PRS;LGSPEC6	velkam	V;V.MSDR	vilkšana
+V;V.PTCP;PST;PASS	izskatīts	V;3;SG;FUT;IND	izskatīs
+V;1;PL;PRS;IND	nemodernizējam	V;3;SG;IMP	lai nemodernizē
+V;2;PL;PRS;IND	aizmirstat	V;V.PTCP;PRS;LGSPEC4	aizmirsdams
+V;V.PTCP;PRS;LGSPEC6	vannojam	V;COND;PRS	vannotu
+V;2;PL;FUT;IND	nebučosit	V;2;SG;PRS;IND	nebučo
+V;1;PL;PRS;IND	nepiederam	V;V.PTCP;PRS;PASS	nepiederams
+V;V.PTCP;PRS;LGSPEC4	negribēdams	V;V.PTCP;PRS;LGSPEC3	negribošs
+V;LGSPEC1;FUT	nepirkšot	V;3;SG;FUT;IND	nepirks
+V;V.PTCP;PST;ACT	cēlis	V;1;SG;PRS;IND	ceļu
+V;COND;PST	būtu aplicis	V;1;PL;PST;IND	aplikām
+V;LGSPEC1;FUT	nestigšot	V;1;SG;PRS;IND	nestiegu
+V;3;PL;PST;IND	neskatīja	V;3;PL;PRS;IND	neskata
+V;COND;PRS	neredzētos	V;COND;PST	nebūtu redzējies
+V;V.PTCP;PST;PASS	nediskutēts	V;1;SG;FUT;IND	nediskutēšu
+V;3;PL;PRS;IND	dzemdē	V;V.PTCP;PRS;LGSPEC6	dzemdējam
+V;1;SG;PST;IND	ceļoju	V;V.MSDR	ceļošana
+V;LGSPEC2;LGSPEC7	esot jāskata	V;1;PL;FUT;IND	skatīsim
+V;2;SG;FUT;IND	nekonstatēsi	V;3;PL;PST;IND	nekonstatēja
+V;1;PL;IMP	vemsim	V;1;PL;FUT;IND	vemsim
+V;3;SG;PRS;IND	necepina	V;LGSPEC1;FUT	necepināšot
+V;1;PL;IMP	klausīsim	V;V.PTCP;PST;PASS	klausīts
+V;1;PL;PST;IND	apbrīnojām	V;2;SG;PST;IND	apbrīnoji
+V;LGSPEC1;PRS	nepļaujot	V;3;SG;IMP	lai nepļauj
+V;3;SG;IMP	lai neatar	V;2;SG;PST;IND	neatari
+V;V.MSDR	uzdošana	V;3;PL;FUT;IND	uzdos
+V;COND;PRS	degtu	V;V.MSDR	degšana
+V;V.PTCP;PRS;LGSPEC5	pārarot	V;1;PL;PRS;IND	pāraram
+V;LGSPEC1;PRS	nedegot	V;1;SG;PRS;IND	nedegu
+V;1;PL;PRS;IND	adām	V;3;SG;PRS;IND	ada
+V;V.PTCP;PRS;LGSPEC6	tinam	V;2;PL;PST;IND	tināt
+V;1;SG;FUT;IND	nesauļošos	V;3;SG;PST;IND	nesauļojās
+V;V.MSDR	murrāšana	V;3;SG;PRS;IND	murrā
+V;V.MSDR	iedošana	V;V.PTCP;PST;ACT	iedevis
+V;V.PTCP;PRS;LGSPEC6	nākam	V;LGSPEC2;LgSPEC8	jānākot
+V;V.PTCP;PST;PASS	necentrēts	V;V.PTCP;PST;ACT	necentrējis
+V;COND;PRS	nelidotu	V;1;PL;FUT;IND	nelidosim
+V;LGSPEC1;PRS	dejot	V;1;SG;PRS;IND	deju
+V;LGSPEC2;LgSPEC8	jāsoļojot	V;2;SG;FUT;IND	soļosi
+V;V.PTCP;PRS;LGSPEC6	meklējam	V;2;PL;PRS;IND	meklējat
+V;LGSPEC1;IMP	lai nenocepot	V;LGSPEC2;LGSPEC7	neesot jānocep
+V;LGSPEC1;IMP	lai netrūkstot	V;3;PL;IMP	lai netrūkst
+V;V.PTCP;PRS;LGSPEC4	dzerdams	V;1;SG;PRS;IND	dzeru
+V;2;PL;PST;IND	neatarāt	V;2;PL;FUT;IND	neatarsit
+V;3;SG;FUT;IND	žvankstēs	V;3;SG;PRS;IND	žvankst
+V;2;PL;PST;IND	neradāt	V;2;SG;IMP	nerodi
+V;3;SG;FUT;IND	zīdīs	V;V.PTCP;PST;PASS	zīdīts
+V;NFIN	negaist	V;1;PL;PRS;IND	negaistam
+V;3;SG;IMP	lai tempj	V;LGSPEC1;PST	esot tempis
+V;LGSPEC2;LgSPEC8	jāliedzot	V;V.PTCP;PST;PASS	liegts
+V;2;SG;PRS;IND	neiztulko	V;COND;PRS	neiztulkotu
+V;3;SG;IMP	lai lido	V;2;PL;IMP	lidojiet
+V;NFIN	piecept	V;LGSPEC2;LGSPEC7	esot jāpiecep
+V;3;PL;IMP	lai dodas	V;2;PL;FUT;IND	dosities
+V;2;PL;FUT;IND	nesūkāsit	V;COND;PST	nebūtu sūkājis
+V;NFIN	nebagātināt	V;3;PL;PST;IND	nebagātināja
+V;V.PTCP;PST;ACT	necēlis	V;1;PL;PRS;IND	neceļam
+V;1;PL;IMP	zīdīsim	V;2;PL;PRS;IND	zīdāt
+V;V.PTCP;PRS;PASS	novietojams	V;1;PL;IMP	novietosim
+V;3;PL;FUT;IND	nepiederēs	V;3;SG;IMP	lai nepieder
+V;2;SG;FUT;IND	pārarsi	V;V.PTCP;PST;ACT	pāraris
+V;LGSPEC1;PST	neesot mazinājis	V;3;PL;FUT;IND	nemazinās
+V;3;SG;PST;IND	nedrošināja	V;LGSPEC2;IND	nebūt jādrošina
+V;V.PTCP;PRS;LGSPEC5	dienot	V;2;PL;FUT;IND	dienēsit
+V;3;SG;FUT;IND	vilks	V;1;PL;PST;IND	vilkām
+V;V.PTCP;PST;ACT	sējis	V;1;PL;PRS;IND	sienam
+V;LGSPEC2;LgSPEC8	jādegot	V;NFIN;NEG	nedegt
+V;V.PTCP;PRS;LGSPEC5	neturot	V;3;PL;FUT;IND	neturēs
+V;LGSPEC2;LGSPEC7	neesot jāintonē	V;1;SG;PRS;IND	neintonēju
+V;2;PL;PST;IND	negādājāt	V;1;SG;PRS;IND	negādāju
+V;2;PL;PST;IND	bijāties	V;1;PL;FUT;IND	bīsimies
+V;LGSPEC2;LgSPEC8	jāatkaļot	V;V.PTCP;PRS;LGSPEC3	atkaļošs
+V;1;SG;FUT;IND	nevienošu	V;2;PL;IMP	nevienojiet
+V;V.PTCP;PST;ACT	piedevis	V;3;SG;IMP	lai piedod
+V;LGSPEC2;LGSPEC7	esot jāzīmē	V;3;PL;IMP	lai zīmē
+V;2;SG;FUT;IND	nezīdināsi	V;V.PTCP;PRS;LGSPEC3	nezīdinošs
+V;1;PL;PST;IND	nesauļojām	V;2;SG;FUT;IND	nesauļosi
+V;V.PTCP;PRS;LGSPEC6	nestumjam	V;V.PTCP;PST;ACT	nestūmis
+V;3;PL;IMP	lai met	V;LGSPEC2;IND	būt jāmet
+V;3;PL;PRS;IND	ziemo	V;3;PL;IMP	lai ziemo
+V;2;SG;IMP	paar	V;1;SG;FUT;IND	paaršu
+V;1;PL;PRS;IND	cenšamies	V;V.PTCP;PRS;LGSPEC5	cenšoties
+V;1;PL;IMP	nepļāpāsim	V;3;PL;PST;IND	nepļāpāja
+V;1;PL;PST;IND	paarām	V;NFIN	paart
+V;3;PL;FUT;IND	novietos	V;1;SG;PST;IND	novietoju
+V;2;SG;IMP	dali	V;2;SG;PRS;IND	dali
+V;2;SG;PRS;IND	nejoko	V;2;PL;IMP	nejokojiet
+V;LGSPEC2;LGSPEC7	esot jādod	V;NFIN;NEG	nedot
+V;2;PL;PRS;IND	paslēpjat	V;LGSPEC1;PST	esot paslēpis
+V;V.MSDR	neintonēšana	V;1;SG;PRS;IND	neintonēju
+V;3;SG;PST;IND	sacīja	V;2;SG;IMP	saki
+V;2;SG;IMP	centralizē	V;LGSPEC1;PST	esot centralizējis
+V;V.PTCP;PRS;LGSPEC5	nepārcepot	V;3;SG;FUT;IND	nepārceps
+V;COND;PRS	nezāģētu	V;LGSPEC2;LGSPEC7	neesot jāzāģē
+V;NFIN	pacept	V;V.PTCP;PRS;PASS	pacepams
+V;LGSPEC1;PST	esot adījis	V;V.PTCP;PRS;LGSPEC4	adīdams
+V;2;SG;PST;IND	likies	V;3;PL;PST;IND	likās
+V;2;SG;FUT;IND	nešķērsosi	V;V.PTCP;PRS;LGSPEC5	nešķērsojot
+V;1;SG;PST;IND	neziepēju	V;2;PL;FUT;IND	neziepēsit
+V;2;SG;PST;IND	zudi	V;V.MSDR	zušana
+V;COND;PST	būtu vingrinājis	V;V.PTCP;PRS;LGSPEC6	vingrinām
+V;2;SG;PST;IND	pārcepi	V;1;PL;PST;IND	pārcepām
+V;1;SG;FUT;IND	pacepšu	V;NFIN	pacept
+V;LGSPEC2;IND	būt jāvemj	V;COND;PRS	vemtu
+V;3;SG;IMP	lai dancina	V;2;SG;PST;IND	dancināji
+V;V.PTCP;PST;PASS	vingrots	V;3;PL;FUT;IND	vingros
+V;2;SG;PST;IND	neakcentēji	V;NFIN;NEG	akcentēt
+V;2;PL;PRS;IND	nemīlat	V;COND;PST	nebūtu mīlējis
+V;3;PL;PST;IND	ceļoja	V;LGSPEC1;PRS	ceļojot
+V;V.PTCP;PST;PASS	neabstrahēts	V;2;PL;PST;IND	neabstrahējāt
+V;LGSPEC1;PST	neesot klepojis	V;NFIN;NEG	klepot
+V;LGSPEC1;IMP	lai nezīdinot	V;2;PL;FUT;IND	nezīdināsit
+V;LGSPEC1;IMP	lai lidojot	V;V.PTCP;PRS;LGSPEC5	lidojot
+V;V.PTCP;PST;PASS	neiearts	V;3;PL;PRS;IND	neiear
+V;1;PL;FUT;IND	lūgsim	V;3;PL;PRS;IND	lūdz
+V;1;SG;PST;IND	nedzēru	V;V.PTCP;PST;PASS	nedzerts
+V;V.PTCP;PRS;PASS	nespējams	V;LGSPEC2;IND	būt jānespēj
+V;LGSPEC2;LgSPEC8	jāēdot	V;3;PL;PST;IND	ēda
+V;V.PTCP;PRS;LGSPEC5	dejot	V;2;PL;FUT;IND	diesit
+V;3;SG;PRS;IND	glābj	V;3;SG;PST;IND	glāba
+V;2;SG;FUT;IND	glābsi	V;1;SG;FUT;IND	glābšu
+V;2;PL;PST;IND	nebijāt	V;3;SG;IMP	lai nav
+V;1;SG;FUT;IND	nestudēšu	V;1;PL;PRS;IND	nestudējam
+V;LGSPEC1;PST	esot raksturojis	V;2;PL;PST;IND	raksturojāt
+V;1;SG;PST;IND	zudu	V;1;PL;PRS;IND	zūdam
+V;2;PL;PST;IND	turpinājāt	V;3;PL;FUT;IND	turpinās
+V;3;PL;FUT;IND	nedancinās	V;LGSPEC1;PRS	nedancinot
+V;V.PTCP;PRS;LGSPEC6	dzeram	V;3;SG;PRS;IND	dzer
+V;3;SG;PST;IND	dejoja	V;V.PTCP;PRS;LGSPEC6	dejojam
+V;1;SG;FUT;IND	uzdošu	V;V.PTCP;PST;ACT	uzdevis
+V;V.PTCP;PRS;LGSPEC6	nedemokratizējam	V;V.PTCP;PRS;LGSPEC5	nedemokratizējot
+V;LGSPEC2;LgSPEC8	jāapcepoties	V;V.MSDR	apcepšanās
+V;1;SG;PRS;IND	nezaudēju	V;2;PL;PRS;IND	nezaudējat
+V;V.PTCP;PRS;LGSPEC3	bagātinošs	V;V.PTCP;PRS;LGSPEC6	bagātinām
+V;1;SG;PST;IND	mīnēju	V;2;PL;FUT;IND	mīnēsit
+V;2;SG;PRS;IND	neēd	V;1;PL;IMP	neēdīsim
+V;LGSPEC1;PRS	neapcepoties	V;LGSPEC2;IND	nebūt jāapcepas
+V;V.PTCP;PRS;LGSPEC6	vienojam	V;LGSPEC1;FUT	vienošot
+V;1;PL;PRS;IND	nerealizējam	V;3;PL;PST;IND	nerealizēja
+V;2;SG;FUT;IND	piearsi	V;2;SG;IMP	piear
+V;V.PTCP;PRS;LGSPEC5	ēdot	V;3;PL;PRS;IND	ēd
+V;LGSPEC2;IND	būt jāpūš	V;1;SG;PST;IND	pūtu
+V;COND;PRS	iztulkotu	V;2;SG;PST;IND	iztulkoji
+V;1;SG;PST;IND	nemezgloju	V;NFIN;NEG	mezglot
+V;2;SG;PRS;IND	nestum	V;1;SG;PRS;IND	nestumju
+V;NFIN	apspriesties	V;COND;PST	būtu apspriedies
+V;V.PTCP;PRS;LGSPEC4	sarkdams	V;3;PL;FUT;IND	sarks
+V;2;PL;PST;IND	nepratāt	V;2;SG;IMP	neproti
+V;2;PL;PST;IND	rūpējāt	V;1;PL;PRS;IND	rūpējam
+V;V.PTCP;PRS;LGSPEC3	nevajagošs	V;3;SG;FUT;IND	nevajadzēs
+V;V.PTCP;PRS;LGSPEC3	kapājošs	V;V.PTCP;PRS;LGSPEC6	kapājam
+V;NFIN;NEG	nevemt	V;LGSPEC1;PRS	vemjot
+V;LGSPEC2;IND	būt jājūt	V;NFIN;NEG	nejust
+V;3;SG;PST;IND	valdīja	V;LGSPEC1;PST	esot valdījis
+V;3;PL;PRS;IND	vaislojas	V;3;PL;IMP	lai vaislojas
+V;LGSPEC1;PRS	neraksturojot	V;1;PL;PRS;IND	neraksturojam
+V;V.PTCP;PST;PASS	neraksturots	V;1;SG;PRS;IND	neraksturoju
+V;3;SG;FUT;IND	līs	V;LGSPEC1;PRS	līstot
+V;2;SG;PST;IND	ķemmēji	V;2;PL;IMP	ķemmējiet
+V;1;SG;PRS;IND	gādāju	V;3;PL;PRS;IND	gādā
+V;3;SG;FUT;IND	nespļaus	V;2;SG;IMP	nespļauj
+V;LGSPEC2;LGSPEC7	esot jāziepē	V;1;PL;FUT;IND	ziepēsim
+V;LGSPEC2;LGSPEC7	esot jādeso	V;V.PTCP;PST;PASS	desots
+V;2;PL;PST;IND	skatījāt	V;V.PTCP;PRS;LGSPEC6	skatām
+V;1;PL;PRS;IND	paslēpjam	V;2;PL;IMP	paslēpiet
+V;NFIN;NEG	nenolikt	V;LGSPEC1;PRS	noliekot
+V;2;PL;FUT;IND	nogursit	V;1;PL;FUT;IND	nogursim
+V;NFIN;NEG	zināt	V;2;PL;PRS;IND	nezināt
+V;LGSPEC2;IND	jāpelna	V;2;SG;PRS;IND	nepelni
+V;V.PTCP;PST;PASS	nabadzināts	V;1;SG;PST;IND	nabadzināju
+V;NFIN;NEG	nepiedot	V;3;SG;PST;IND	piedeva
+V;COND;PST	būtu piecepis	V;1;PL;FUT;IND	piecepsim
+V;NFIN	neatcept	V;COND;PST	nebūtu atcepis
+V;1;SG;FUT;IND	pirkšu	V;2;PL;PST;IND	pirkāt
+V;3;SG;IMP	lai nestāv	V;1;SG;PST;IND	nestāvēju
+V;3;SG;FUT;IND	adīs	V;2;SG;PST;IND	adīji
+V;3;PL;IMP	lai neskaita	V;V.PTCP;PST;PASS	neskaitīts
+V;1;SG;PRS;IND	dusu	V;V.PTCP;PRS;LGSPEC3	dusošs
+V;COND;PST	būtu noguris	V;1;SG;PRS;IND	nogurstu
+V;3;PL;PST;IND	neabstrahēja	V;V.PTCP;PRS;LGSPEC6	neabstrahējam
+V;LGSPEC2;LGSPEC7	neesot jāceļ	V;2;PL;PST;IND	necēlāt
+V;1;SG;PST;IND	neradu	V;1;SG;PRS;IND	nerodu
+V;V.PTCP;PRS;LGSPEC5	purinot	V;V.PTCP;PST;PASS	purināts
+V;3;PL;PST;IND	neaudzināja	V;V.PTCP;PRS;LGSPEC4	neaudzinādams
+V;2;PL;IMP	nekodiet	V;1;SG;PRS;IND	nekožu
+V;3;PL;IMP	lai aizstāv	V;COND;PRS	aizstāvētu
+V;2;PL;PRS;IND	žestikulējat	V;1;PL;FUT;IND	žestikulēsim
+V;1;SG;FUT;IND	zudīšu	V;LGSPEC2;IND	būt jāzūd
+V;COND;PST	nebūtu akcentējis	V;2;PL;FUT;IND	neakcentēsit
+V;V.PTCP;PRS;LGSPEC3	negatavojošs	V;3;SG;PRS;IND	negatavo
+V;1;PL;IMP	nebučosim	V;LGSPEC2;IND	nebūt jābučo
+V;1;PL;PRS;IND	uzdodam	V;2;PL;PST;IND	uzdevāt
+V;3;SG;PST;IND	piemirsa	V;V.PTCP;PST;PASS	piemirsts
+V;2;SG;PRS;IND	ēd	V;V.PTCP;PST;ACT	ēdis
+V;V.PTCP;PRS;LGSPEC5	stiegot	V;1;PL;FUT;IND	stigsim
+V;V.PTCP;PRS;LGSPEC3	nezīdinošs	V;3;SG;PRS;IND	nezīdina
+V;3;SG;PRS;IND	nesukā	V;3;PL;FUT;IND	nesukās
+V;V.PTCP;PRS;LGSPEC6	neticam	V;3;PL;PST;IND	neticēja
+V;NFIN	kļūt	V;2;PL;PST;IND	kļuvāt
+V;COND;PST	būtu saucis	V;V.PTCP;PRS;PASS	saucams
+V;V.PTCP;PRS;LGSPEC5	ceļot	V;2;SG;FUT;IND	celsi
+V;1;PL;IMP	raksturosim	V;LGSPEC2;LGSPEC7	esot jāraksturo
+V;3;PL;PRS;IND	pērk	V;1;PL;FUT;IND	pirksim
+V;1;PL;FUT;IND	klāsim	V;3;PL;FUT;IND	klās
+V;LGSPEC1;IMP	lai putinot	V;COND;PRS	putinātu
+V;LGSPEC2;LgSPEC8	jālaizot	V;1;SG;FUT;IND	laizīšu
+V;2;PL;FUT;IND	vingrosit	V;LGSPEC1;PST	esot vingrojis
+V;V.MSDR	atcepšana	V;1;PL;IMP	atcepsim
+V;1;PL;IMP	žestikulēsim	V;LGSPEC2;LgSPEC8	jāžestikulējot
+V;LGSPEC1;PRS	neejakulējot	V;NFIN;NEG	ejakulēt
+V;1;PL;PRS;IND	darām	V;3;PL;FUT;IND	darīs
+V;3;SG;IMP	lai modernizē	V;LGSPEC2;LGSPEC7	esot jāmodernizē
+V;1;SG;PST;IND	nedarīju	V;1;SG;PRS;IND	nedaru
+V;LGSPEC2;LGSPEC7	neesot jāapspriež	V;V.PTCP;PRS;PASS	neapspriežams
+V;3;PL;IMP	lai ziemo	V;V.PTCP;PRS;LGSPEC4	ziemodams
+V;2;PL;PST;IND	iecepāt	V;LGSPEC2;IND	būt jāiecep
+V;NFIN;NEG	pacept	V;1;SG;PRS;IND	nepacepu
+V;3;SG;FUT;IND	vedīs	V;3;SG;IMP	lai ved
+V;COND;PRS	neintonētu	V;3;PL;FUT;IND	neintonēs
+V;1;SG;PST;IND	tempu	V;LGSPEC2;LgSPEC8	jātempjot
+V;3;SG;FUT;IND	temps	V;2;PL;PST;IND	tempāt
+V;1;SG;PRS;IND	cepinos	V;LGSPEC2;LgSPEC8	jācepinoties
+V;V.PTCP;PST;PASS	neraudāts	V;V.PTCP;PRS;LGSPEC5	neraudot
+V;1;PL;IMP	neadīsim	V;V.PTCP;PRS;LGSPEC4	neadīdams
+V;NFIN	diskutēt	V;1;PL;PRS;IND	diskutējam
+V;3;PL;FUT;IND	nenāvēs	V;NFIN;NEG	nāvēt
+V;1;SG;PRS;IND	nedzimstu	V;V.PTCP;PRS;LGSPEC3	nedzimstošs
+V;LGSPEC2;IND	būt jādomā	V;2;PL;PST;IND	domājāt
+V;1;PL;PST;IND	šķērsojām	V;1;PL;IMP	šķērsosim
+V;3;SG;FUT;IND	atvainos	V;3;SG;PST;IND	atvainoja
+V;V.PTCP;PRS;LGSPEC5	cepinot	V;3;PL;IMP	lai cepina
+V;V.PTCP;PRS;LGSPEC5	neitralizējot	V;COND;PRS	neitralizētu
+V;V.PTCP;PRS;LGSPEC5	neapspriežoties	V;1;SG;PRS;IND	neapspriežos
+V;V.PTCP;PRS;LGSPEC6	atcepam	V;V.PTCP;PST;PASS	atcepts
+V;NFIN;NEG	nekost	V;LGSPEC2;LgSPEC8	jākožot
+V;1;PL;FUT;IND	nemežģīsim	V;V.MSDR	nemežģīšana
+V;V.MSDR	skaitīšana	V;3;PL;PST;IND	skaitīja
+V;V.PTCP;PST;ACT	nearis	V;2;SG;PST;IND	neari
+V;V.PTCP;PRS;PASS	realizējams	V;2;PL;IMP	realizējiet
+V;NFIN	zīmēt	V;LGSPEC2;IND	būt jāzīmē
+V;1;PL;FUT;IND	sapratīsim	V;3;SG;FUT;IND	sapratīs
+V;1;SG;PST;IND	šmaucu	V;2;PL;IMP	šmauciet
+V;NFIN;NEG	nediskutēt	V;1;PL;IMP	diskutēsim
+V;1;PL;FUT;IND	plēsīsim	V;LGSPEC1;PST	esot plēsis
+V;3;PL;IMP	lai nemaina	V;2;SG;FUT;IND	nemainīsi
+V;V.PTCP;PRS;PASS	nezīdināms	V;V.PTCP;PRS;LGSPEC5	nezīdinot
+V;LGSPEC2;LgSPEC8	jāiniciējot	V;1;SG;PST;IND	iniciēju
+V;NFIN	neatcept	V;COND;PRS	neatceptu
+V;LGSPEC2;LGSPEC7	neesot jātausta	V;1;PL;FUT;IND	netaustīsim
+V;V.PTCP;PRS;PASS	negaršojams	V;2;PL;IMP	negaršojiet
+V;3;SG;PST;IND	nezīdināja	V;V.PTCP;PRS;LGSPEC6	nezīdinām
+V;COND;PRS	neaizmirstu	V;LGSPEC1;PST	neesot aizmirsis
+V;2;SG;PRS;IND	nešuj	V;3;PL;PST;IND	nešuva
+V;NFIN	prostituēties	V;COND;PST	būtu prostituējies
+V;1;PL;IMP	nedzirdēsim	V;3;SG;PRS;IND	nedzird
+V;LGSPEC2;LGSPEC7	esot jāpatulko	V;V.PTCP;PRS;LGSPEC4	patulkodams
+V;3;SG;PRS;IND	nekurina	V;3;PL;FUT;IND	nekurinās
+V;V.PTCP;PRS;LGSPEC4	nedzemdēdams	V;1;PL;PRS;IND	nedzemdējam
+V;1;SG;PRS;IND	neadu	V;3;PL;PRS;IND	neada
+V;LGSPEC1;PST	neesot dalījis	V;V.PTCP;PRS;LGSPEC4	nedalīdams
+V;3;SG;FUT;IND	nelidos	V;3;SG;IMP	lai nelido
+V;3;PL;PRS;IND	brauc	V;2;SG;PST;IND	brauci
+V;V.MSDR	ķemmēšana	V;V.PTCP;PRS;LGSPEC6	ķemmējam
+V;V.PTCP;PRS;LGSPEC6	nedusam	V;LGSPEC2;IND	nebūt jādus
+V;NFIN	nemirst	V;2;SG;PST;IND	nemirsi
+V;2;PL;IMP	nejautriniet	V;COND;PST	nebūtu jautrinājis
+V;3;SG;FUT;IND	uzceps	V;V.PTCP;PRS;LGSPEC6	uzcepam
+V;LGSPEC2;LGSPEC7	esot jāpatīk	V;1;SG;FUT;IND	patikšu
+V;2;PL;FUT;IND	paslēpsit	V;1;PL;IMP	paslēpsim
+V;2;PL;FUT;IND	dejosit	V;1;PL;PST;IND	dejojām
+V;V.PTCP;PRS;LGSPEC3	skanošs	V;2;SG;IMP	skani
+V;2;PL;FUT;IND	līsit	V;LGSPEC2;IND	būt jālīst
+V;3;PL;PRS;IND	neprostituē	V;2;SG;FUT;IND	neprostituēsi
+V;LGSPEC1;FUT	liekšot	V;1;SG;PST;IND	liecu
+V;2;SG;FUT;IND	burbuļosi	V;V.PTCP;PST;ACT	burbuļojis
+V;2;SG;PST;IND	liki	V;V.PTCP;PRS;PASS	liekams
+V;2;SG;PST;IND	neprostituējies	V;2;PL;PRS;IND	neprostituējaties
+V;LGSPEC2;LGSPEC7	esot jāsēj	V;3;SG;PST;IND	sēja
+V;LGSPEC1;PRS	netulkojot	V;V.PTCP;PRS;LGSPEC6	netulkojam
+V;3;PL;IMP	lai dabū	V;3;SG;IMP	lai dabū
+V;1;PL;PRS;IND	nenoteicam	V;3;SG;PRS;IND	nenoteic
+V;3;SG;PRS;IND	nezvejo	V;1;PL;PST;IND	nezvejojām
+V;V.PTCP;PRS;LGSPEC5	nezīdinot	V;LGSPEC1;FUT	nezīdināšot
+V;2;PL;IMP	nepiederiet	V;LGSPEC1;IMP	lai nepiederot
+V;1;SG;PST;IND	ēdu	V;V.PTCP;PST;PASS	ēsts
+V;NFIN	atzīt	V;2;PL;IMP	atzīstiet
+V;NFIN;NEG	neiztulkot	V;3;PL;IMP	lai iztulko
+V;2;PL;PRS;IND	vienojat	V;2;PL;IMP	vienojiet
+V;V.PTCP;PST;ACT	zaudējis	V;COND;PRS	zaudētu
+V;2;PL;PRS;IND	purinat	V;COND;PRS	purinātu
+V;1;PL;IMP	dzersim	V;3;PL;PST;IND	dzēra
+V;3;SG;IMP	lai veļ	V;1;SG;PST;IND	vēlu
+V;NFIN	realizēt	V;2;PL;PST;IND	realizējāt
+V;LGSPEC2;IND	nebūt jāšuj	V;1;PL;FUT;IND	nešūsim
+V;V.PTCP;PRS;LGSPEC3	zaudējošs	V;3;PL;FUT;IND	zaudēs
+V;2;SG;PRS;IND	paar	V;3;SG;FUT;IND	paars
+V;2;SG;PST;IND	nevingroji	V;V.PTCP;PRS;LGSPEC5	nevingrojot
+V;1;PL;PST;IND	plēsām	V;LGSPEC2;IND	būt jāplēš
+V;NFIN	neiecept	V;1;PL;PRS;IND	neiecepam
+V;1;PL;PST;IND	kārtojām	V;1;SG;PRS;IND	kārtoju
+V;LGSPEC1;IMP	lai diskutējot	V;2;PL;PST;IND	diskutējāt
+V;1;PL;FUT;IND	zudīsim	V;3;PL;IMP	lai zūd
+V;V.PTCP;PRS;LGSPEC3	nepērkošs	V;2;PL;FUT;IND	nepirksit
+V;2;PL;FUT;IND	prostituēsit	V;NFIN	prostituēt
+V;V.PTCP;PST;ACT	sarkis	V;LGSPEC2;LgSPEC8	jāsarkstot
+V;V.MSDR	nemaksāšana	V;V.PTCP;PRS;LGSPEC4	nemaksādams
+V;V.PTCP;PRS;LGSPEC4	nepalīdzēdams	V;1;PL;PST;IND	nepalīdzējām
+V;2;PL;IMP	nepaariet	V;COND;PST	nebūtu paaris
+V;3;SG;IMP	lai iet	V;LGSPEC2;LGSPEC7	esot jāiet
+V;LGSPEC1;FUT	jautāšot	V;2;PL;IMP	jautājiet
+V;NFIN	pelnīt	V;1;PL;IMP	pelnīsim
+V;1;SG;PRS;IND	pilu	V;3;SG;PST;IND	pilēja
+V;3;PL;IMP	lai kustas	V;1;SG;PST;IND	kustējos
+V;3;PL;PST;IND	kāva	V;V.MSDR	kaušana
+V;LGSPEC1;FUT	neaušot	V;2;PL;PST;IND	neāvāt
+V;3;PL;PST;IND	rēja	V;2;PL;PRS;IND	rejat
+V;3;SG;IMP	lai blāvo	V;3;PL;PRS;IND	blāvo
+V;LGSPEC1;PRS	žestikulējot	V;V.PTCP;PST;PASS	žestikulēts
+V;V.PTCP;PST;PASS	slepkavots	V;2;SG;FUT;IND	slepkavosi
+V;2;SG;PST;IND	putināji	V;V.PTCP;PRS;LGSPEC3	putinošs
+V;LGSPEC1;PST	esot minējis	V;V.PTCP;PRS;LGSPEC5	minot
+V;LGSPEC1;FUT	nemeklēšot	V;V.PTCP;PST;ACT	nemeklējis
+V;COND;PRS	neblāvotu	V;V.MSDR	neblāvošana
+V;NFIN	šūt	V;LGSPEC2;LGSPEC7	esot jāšuj
+V;V.MSDR	skaršana	V;COND;PST	būtu skaris
+V;2;SG;FUT;IND	neiecepsi	V;3;SG;PRS;IND	neiecep
+V;3;SG;FUT;IND	nestums	V;LGSPEC2;LGSPEC7	neesot jāstumj
+V;V.PTCP;PRS;LGSPEC6	nedejojam	V;COND;PST	nebūtu dejojis
+V;LGSPEC1;PST	esot ģidis	V;3;SG;IMP	lai ģied
+V;NFIN	gaidīt	V;1;PL;FUT;IND	gaidīsim
+V;3;PL;PST;IND	demokratizēja	V;V.PTCP;PST;PASS	demokratizēts
+V;3;SG;IMP	lai skābē	V;2;PL;PST;IND	skābējāt
+V;3;SG;FUT;IND	brokastos	V;NFIN;NEG	nebrokastot
+V;V.PTCP;PRS;LGSPEC4	apcepdamies	V;LGSPEC1;PST	esot apcepies
+V;LGSPEC2;IND	būt jājūt	V;LGSPEC1;FUT	jutīšot
+V;LGSPEC2;LGSPEC7	neesot jādejo	V;V.PTCP;PRS;LGSPEC3	nedejojošs
+V;NFIN	izcept	V;3;PL;FUT;IND	izceps
+V;LGSPEC2;IND	būt jāšuj	V;V.PTCP;PST;PASS	šūts
+V;1;SG;FUT;IND	purināšu	V;V.PTCP;PRS;PASS	purinams
+V;V.PTCP;PST;ACT	nešuvis	V;3;SG;IMP	lai nešuj
+V;LGSPEC1;FUT	nedrošināšot	V;3;PL;FUT;IND	nedrošinās
+V;COND;PST	būtu reģistrējis	V;COND;PRS	reģistrētu
+V;3;PL;FUT;IND	nevarēs	V;NFIN;NEG	varēt
+V;2;PL;PST;IND	pētījāt	V;1;SG;PST;IND	pētīju
+V;3;PL;FUT;IND	atars	V;LGSPEC1;PRS	atarot
+V;COND;PRS	nebučotu	V;1;SG;FUT;IND	nebučošu
+V;2;PL;PST;IND	nezīdinājāt	V;V.MSDR	nezīdināšana
+V;3;PL;PST;IND	nežestikulēja	V;3;PL;FUT;IND	nežestikulēs
+V;3;PL;FUT;IND	paskatīsies	V;3;PL;IMP	lai paskatās
+V;V.PTCP;PST;PASS	slepkavots	V;2;SG;IMP	slepkavo
+V;NFIN	garšot	V;1;PL;FUT;IND	garšosim
+V;V.PTCP;PRS;LGSPEC3	nākošs	V;1;SG;FUT;IND	nākšu
+V;1;PL;IMP	nesukāsim	V;1;SG;PST;IND	nesukāju
+V;LGSPEC1;PST	esot plosījis	V;LGSPEC1;PRS	plosot
+V;3;PL;FUT;IND	dusēs	V;3;PL;IMP	lai dus
+V;3;SG;PRS;IND	stāsta	V;V.PTCP;PRS;LGSPEC5	stāstot
+V;LGSPEC1;PST	esot pūtis	V;2;SG;PST;IND	pūti
+V;LGSPEC1;PST	neesot īsinājis	V;3;SG;PST;IND	neīsināja
+V;LGSPEC1;IMP	lai nekožot	V;3;SG;PRS;IND	nekož
+V;2;SG;IMP	asini	V;V.MSDR	asināšana
+V;LGSPEC1;IMP	lai sakot	V;LGSPEC1;FUT	sacīšot
+V;1;SG;FUT;IND	sacīšu	V;LGSPEC2;IND	būt jāsaka
+V;1;PL;PRS;IND	nepiemirstam	V;3;SG;PST;IND	nepiemirsa
+V;3;SG;IMP	svēta	V;NFIN	svētīt
+V;1;PL;IMP	iearsim	V;1;SG;PST;IND	iearu
+V;V.PTCP;PRS;LGSPEC4	rūpēdams	V;LGSPEC1;PST	esot rūpējis
+V;LGSPEC2;IND	nebūt jāsāk	V;1;PL;PRS;IND	nesākam
+V;3;PL;PST;IND	garoja	V;3;PL;IMP	lai garo
+V;3;SG;FUT;IND	nešūs	V;3;PL;FUT;IND	nešūs
+V;NFIN;NEG	neģist	V;LGSPEC2;LGSPEC7	esot jāģied
+V;LGSPEC1;PST	neesot noteicis	V;V.PTCP;PRS;LGSPEC6	nenoteicam
+V;LGSPEC1;IMP	lai mānot	V;V.PTCP;PST;PASS	mānīts
+V;2;SG;IMP	paliec	V;1;SG;PST;IND	paliecu
+V;V.PTCP;PRS;LGSPEC3	neizteicošs	V;3;SG;FUT;IND	neizteiks
+V;LGSPEC1;PST	neesot zinājis	V;V.PTCP;PRS;LGSPEC5	nezinot
+V;3;PL;PRS;IND	sarkst	V;V.PTCP;PRS;LGSPEC6	sarkstam
+V;V.PTCP;PRS;LGSPEC3	nevingrinošs	V;V.PTCP;PRS;LGSPEC4	nevingrinādams
+V;COND;PST	nebūtu aizaris	V;3;PL;FUT;IND	neaizars
+V;LGSPEC1;IMP	lai aizejot	V;COND;PRS	aizietu
+V;2;PL;PRS;IND	purinat	V;V.PTCP;PRS;LGSPEC3	purinošs
+V;V.MSDR	izskatīšanās	V;LGSPEC1;PRS	izskatoties
+V;3;SG;IMP	lai biedina	V;1;PL;FUT;IND	biedināsim
+V;3;SG;PRS;IND	atzīst	V;2;SG;FUT;IND	atzīsi
+V;2;PL;PRS;IND	nestrādājat	V;3;SG;PST;IND	nestrādāja
+V;1;PL;FUT;IND	nejokosim	V;V.PTCP;PRS;LGSPEC4	nejokodams
+V;3;SG;PST;IND	apcepa	V;LGSPEC1;FUT	apcepšot
+V;NFIN	nereģistrēt	V;V.PTCP;PST;PASS	nereģistrēts
+V;COND;PRS	uzdotos	V;1;PL;IMP	uzdosimies
+V;3;PL;FUT;IND	ziemos	V;1;PL;IMP	ziemosim
+V;2;PL;FUT;IND	nabadzināsit	V;1;PL;PRS;IND	nabadzinām
+V;3;SG;IMP	lai neredzas	V;3;PL;PRS;IND	neredzas
+V;COND;PST	būtu rējis	V;2;SG;PST;IND	rēji
+V;LGSPEC1;PST	esot aris	V;1;PL;PST;IND	arām
+V;LGSPEC1;FUT	neapspriedīšoties	V;LGSPEC2;LGSPEC7	neesot jāapspriežas
+V;3;SG;PRS;IND	uzvar	V;LGSPEC1;IMP	lai uzvarot
+V;1;PL;IMP	apbrīnosim	V;V.PTCP;PST;PASS	apbrīnots
+V;V.PTCP;PST;PASS	neatvainots	V;V.PTCP;PRS;LGSPEC4	neatvainodams
+V;V.PTCP;PST;ACT	nepavēlējis	V;3;PL;PRS;IND	nepavēl
+V;2;SG;IMP	raksti	V;3;PL;FUT;IND	rakstīs
+V;NFIN	nogurt	V;V.PTCP;PRS;LGSPEC4	nogurdams
+V;NFIN;NEG	nedarīt	V;LGSPEC1;IMP	lai darot
+V;3;PL;PST;IND	pagaidīja	V;V.PTCP;PST;ACT	pagaidījis
+V;3;SG;FUT;IND	ies	V;1;PL;IMP	iesim
+V;2;SG;PST;IND	seksualizēji	V;1;SG;FUT;IND	seksualizēšu
+V;V.PTCP;PST;ACT	nekūris	V;V.PTCP;PRS;LGSPEC4	nekurdams
+V;1;PL;PRS;IND	neiztulkojam	V;V.PTCP;PRS;LGSPEC6	neiztulkojam
+V;2;PL;FUT;IND	aparsit	V;NFIN	apart
+V;2;PL;PRS;IND	pētāt	V;2;SG;PST;IND	pētīji
+V;LGSPEC2;LGSPEC7	neesot jākļūst	V;LGSPEC2;IND	nebūt jākļūst
+V;1;SG;FUT;IND	akcentēšu	V;V.MSDR	akcentēšana
+V;V.PTCP;PRS;PASS	necepināms	V;V.PTCP;PRS;LGSPEC5	necepinot
+V;V.PTCP;PST;PASS	klāts	V;LGSPEC2;LGSPEC7	esot jāklāj
+V;2;SG;PRS;IND	baidi	V;V.PTCP;PST;PASS	baidīts
+V;2;PL;PST;IND	šmaucāt	V;3;PL;PST;IND	šmauca
+V;3;PL;PRS;IND	nav	V;2;SG;PRS;IND	neesi
+V;3;SG;FUT;IND	spļaus	V;V.PTCP;PST;PASS	spļauts
+V;LGSPEC1;IMP	lai spējot	V;LGSPEC2;LgSPEC8	jāspējot
+V;3;PL;PRS;IND	parod	V;3;PL;PST;IND	parada
+V;NFIN;NEG	raudināt	V;2;PL;FUT;IND	neraudināsit
+V;NFIN;NEG	nepakost	V;3;PL;FUT;IND	pakodīs
+V;LGSPEC1;PRS	pārcepoties	V;LGSPEC2;LGSPEC7	esot jāpārcepas
+V;3;PL;FUT;IND	lasīs	V;3;SG;PRS;IND	lasa
+V;LGSPEC1;PRS	nešujot	V;2;SG;PST;IND	nešuvi
+V;NFIN	atkalt	V;2;SG;IMP	atkal
+V;LGSPEC2;IND	būt jāšķērso	V;3;SG;IMP	lai šķērso
+V;3;SG;PST;IND	nepiederēja	V;3;PL;FUT;IND	nepiederēs
+V;V.PTCP;PRS;LGSPEC3	neraudošs	V;2;SG;FUT;IND	neraudāsi
+V;LGSPEC2;LGSPEC7	esot jāiesit	V;LGSPEC1;FUT	iesitīšot
+V;LGSPEC2;LgSPEC8	jāuzvarot	V;2;PL;FUT;IND	uzvarēsit
+V;1;SG;FUT;IND	līdīšu	V;LGSPEC1;FUT	līdīšot
+V;V.PTCP;PRS;PASS	nedziedams	V;3;SG;PST;IND	nedziedāja
+V;V.PTCP;PRS;PASS	sēdams	V;LGSPEC1;PRS	sēžot
+V;2;SG;IMP	bīsties	V;1;PL;PST;IND	bijāmies
+V;3;SG;FUT;IND	noceps	V;COND;PRS	noceptu
+V;1;PL;FUT;IND	pakalsim	V;2;PL;PRS;IND	pakaļat
+V;2;SG;FUT;IND	neslaucīsi	V;2;PL;PST;IND	neslaucījāt
+V;V.PTCP;PRS;LGSPEC5	nerunājot	V;V.PTCP;PRS;LGSPEC4	nerunādams
+V;3;PL;FUT;IND	mīnēs	V;1;SG;FUT;IND	mīnēšu
+V;LGSPEC2;LgSPEC8	jāvannojot	V;3;PL;IMP	lai vanno
+V;1;PL;PRS;IND	uzcepam	V;V.PTCP;PRS;PASS	uzcepams
+V;1;PL;PRS;IND	liekam	V;LGSPEC1;IMP	lai liekot
+V;2;PL;FUT;IND	nerunāsit	V;3;SG;PRS;IND	nerunā
+V;2;SG;IMP	nekaplē	V;LGSPEC1;PRS	nekaplējot
+V;1;SG;FUT;IND	nejokošu	V;V.MSDR	nejokošana
+V;LGSPEC1;PRS	nazalizējot	V;COND;PRS	nazalizētu
+V;2;PL;PRS;IND	baidāt	V;LGSPEC2;LGSPEC7	esot jābaida
+V;2;SG;PST;IND	nestādīji	V;3;SG;PRS;IND	nestāda
+V;V.PTCP;PRS;LGSPEC5	nedancinot	V;LGSPEC1;IMP	lai nedancinot
+V;LGSPEC1;PRS	vingrojot	V;2;PL;PST;IND	vingrojāt
+V;COND;PST	būtu paliecis	V;3;SG;IMP	lai paliec
+V;1;PL;PRS;IND	saprotam	V;COND;PRS	saprastu
+V;NFIN	netīrīt	V;1;SG;FUT;IND	netīrīšu
+V;V.PTCP;PRS;LGSPEC4	sacepdamies	V;NFIN	sacepties
+V;1;SG;FUT;IND	atvainošos	V;2;PL;IMP	atvainojieties
+V;LGSPEC2;IND	būt jāblāvo	V;LGSPEC1;IMP	lai blāvojot
+V;1;PL;IMP	neaizarsim	V;V.PTCP;PRS;LGSPEC5	neaizarot
+V;LGSPEC1;PST	esot apspriedies	V;V.PTCP;PST;ACT	apspriedies
+V;LGSPEC1;FUT	dalīšot	V;3;SG;PRS;IND	dala
+V;V.PTCP;PRS;LGSPEC4	nedrošinādams	V;V.PTCP;PRS;LGSPEC5	nedrošinot
+V;3;SG;FUT;IND	vienos	V;V.PTCP;PRS;PASS	vienojams
+V;V.PTCP;PRS;LGSPEC5	diskutējot	V;2;SG;PRS;IND	diskutē
+V;3;SG;IMP	neauj	V;V.PTCP;PRS;LGSPEC4	neaudams
+V;3;PL;PRS;IND	atcep	V;LGSPEC1;IMP	lai atcepot
+V;3;SG;FUT;IND	neēdīs	V;NFIN	neēst
+V;V.PTCP;PRS;LGSPEC6	žestikulējam	V;1;PL;PST;IND	žestikulējām
+V;3;SG;FUT;IND	lēks	V;V.PTCP;PRS;LGSPEC4	lēkdams
+V;2;PL;PRS;IND	pūšat	V;1;SG;PRS;IND	pūšu
+V;3;SG;PST;IND	vēla	V;COND;PST	būtu vēlis
+V;1;SG;FUT;IND	nedzemdēšu	V;2;SG;PRS;IND	nedzemdē
+V;1;PL;PRS;IND	nepārtulkojam	V;1;PL;PST;IND	nepārtulkojām
+V;2;PL;PST;IND	vingrinājāt	V;V.PTCP;PRS;LGSPEC6	vingrinām
+V;3;PL;IMP	lai nebloķē	V;V.PTCP;PST;PASS	nebloķēts
+V;1;SG;PST;IND	neīsināju	V;2;PL;PRS;IND	neīsināt
+V;1;PL;IMP	redzēsimies	V;1;SG;PST;IND	redzējos
+V;2;SG;IMP	neakcentē	V;1;PL;FUT;IND	neakcentēsim
+V;V.PTCP;PRS;LGSPEC5	klājot	V;LGSPEC2;IND	būt jāklāj
+V;V.PTCP;PRS;LGSPEC6	neredzamies	V;V.PTCP;PRS;LGSPEC4	neredzēdamies
+V;3;PL;FUT;IND	neadīs	V;LGSPEC1;IMP	lai neadot
+V;V.PTCP;PRS;LGSPEC6	darām	V;3;PL;PST;IND	darīja
+V;LGSPEC2;IND	būt jāpin	V;3;PL;FUT;IND	pīs
+V;V.PTCP;PRS;PASS	neitralizējams	V;COND;PST	būtu neitralizējis
+V;V.PTCP;PRS;LGSPEC3	nešmaucošs	V;2;PL;IMP	nešmauciet
+V;V.PTCP;PRS;LGSPEC4	iesizdams	V;3;PL;PRS;IND	iesit
+V;1;SG;PST;IND	klausījos	V;1;PL;FUT;IND	klausīsimies
+V;3;PL;PST;IND	brauca	V;1;PL;IMP	brauksim
+V;1;SG;FUT;IND	neīgšu	V;V.PTCP;PRS;LGSPEC5	neīgstot
+V;LGSPEC1;PRS	aizstāvot	V;V.PTCP;PST;ACT	aizstāvējis
+V;COND;PST	būtu prostituējies	V;LGSPEC1;PST	esot prostituējies
+V;1;PL;FUT;IND	slaucīsim	V;1;SG;PST;IND	slaucīju
+V;V.MSDR	došana	V;3;SG;PST;IND	deva
+V;V.PTCP;PRS;LGSPEC4	gādādams	V;2;SG;IMP	gādā
+V;V.PTCP;PRS;LGSPEC4	uzcepdamies	V;LGSPEC2;LgSPEC8	jāuzcepoties
+V;LGSPEC1;PST	neesot izcepies	V;3;SG;PST;IND	neizcepās
+V;3;PL;FUT;IND	iears	V;V.PTCP;PRS;LGSPEC6	iearam
+V;2;SG;FUT;IND	necepināsi	V;3;SG;PRS;IND	necepina
+V;3;SG;PST;IND	nedalīja	V;V.PTCP;PRS;LGSPEC6	nedalām
+V;3;PL;PRS;IND	nejautā	V;V.PTCP;PRS;LGSPEC4	nejautādams
+V;2;SG;IMP	nemīli	V;V.PTCP;PST;ACT	nemīlējis
+V;3;SG;FUT;IND	necentrēs	V;3;SG;PST;IND	necentrēja
+V;NFIN;NEG	prostituēties	V;3;SG;PST;IND	neprostituējās
+V;LGSPEC1;FUT	ejakulēšot	V;V.PTCP;PRS;LGSPEC6	ejakulējam
+V;1;PL;PST;IND	nemazinājām	V;LGSPEC2;IND	nebūt jāmazina
+V;2;PL;PST;IND	cēlāt	V;LGSPEC2;LGSPEC7	esot jāceļ
+V;V.MSDR	neblāvošana	V;COND;PRS	neblāvotu
+V;3;PL;IMP	lai nogurst	V;2;PL;PRS;IND	nogurstat
+V;V.PTCP;PRS;LGSPEC5	necepoties	V;V.PTCP;PRS;LGSPEC6	necepamies
+V;2;SG;PRS;IND	neziepē	V;V.PTCP;PST;ACT	neziepējis
+V;V.PTCP;PRS;LGSPEC5	mānot	V;LGSPEC2;LGSPEC7	esot jāmāna
+V;1;SG;FUT;IND	stiepšu	V;2;SG;FUT;IND	stiepsi
+V;V.PTCP;PST;PASS	nezaudēts	V;NFIN;NEG	zaudēt
+V;LGSPEC2;IND	nebūt jāsaprot	V;1;SG;PST;IND	nesapratu
+V;2;PL;IMP	meklējiet	V;3;SG;IMP	lai meklē
+V;V.PTCP;PRS;PASS	neizarams	V;V.PTCP;PST;PASS	neizarts
+V;V.PTCP;PRS;LGSPEC6	ejakulējam	V;V.PTCP;PRS;LGSPEC3	ejakulējošs
+V;3;PL;IMP	lai sacep	V;3;SG;PST;IND	sacepa
+V;1;SG;PRS;IND	kurinu	V;3;PL;PST;IND	kurināja
+V;V.MSDR	peldēšana	V;3;SG;IMP	lai peld
+V;V.MSDR	mišana	V;2;PL;PST;IND	mitāt
+V;3;PL;PST;IND	apoda	V;LGSPEC2;LGSPEC7	esot jāapož
+V;3;SG;PRS;IND	nedzimst	V;COND;PRS	nedzimtu
+V;2;PL;PST;IND	neaudzinājāt	V;1;SG;PRS;IND	neaudzinu
+V;3;SG;PRS;IND	uzcepas	V;NFIN	uzcepties
+V;3;SG;PST;IND	neseksualizēja	V;COND;PST	nebūtu seksualizējis
+V;NFIN;NEG	prast	V;V.PTCP;PST;ACT	nepratis
+V;LGSPEC1;PST	esot noguris	V;LGSPEC2;IND	būt jānogurst
+V;LGSPEC1;IMP	lai sējot	V;LGSPEC2;LgSPEC8	jāsējot
+V;V.PTCP;PRS;LGSPEC4	rūpēdams	V;V.MSDR	rūpēšana
+V;V.PTCP;PST;ACT	paslēpis	V;3;SG;IMP	lai paslēpj
+V;3;PL;PRS;IND	nezāģē	V;1;PL;PST;IND	nezāģējām
+V;COND;PRS	neprasītu	V;V.PTCP;PRS;LGSPEC6	neprasām
+V;V.PTCP;PRS;LGSPEC6	līstam	V;1;PL;PRS;IND	līstam
+V;1;PL;PST;IND	neīstenojām	V;V.PTCP;PST;ACT	neīstenojis
+V;NFIN	nemezglot	V;LGSPEC2;IND	nebūt jāmezglo
+V;1;PL;FUT;IND	liesim	V;3;SG;PRS;IND	lej
+V;V.PTCP;PST;PASS	neskatīts	V;3;SG;PRS;IND	neskata
+V;NFIN;NEG	neiecept	V;LGSPEC2;IND	būt jāiecep
+V;V.PTCP;PRS;LGSPEC3	modernizējošs	V;LGSPEC2;LGSPEC7	esot jāmodernizē
+V;V.PTCP;PRS;LGSPEC6	reģistrējam	V;2;PL;PRS;IND	reģistrējat
+V;LGSPEC2;LgSPEC8	jāgarojot	V;LGSPEC1;PST	esot garojis
+V;2;SG;FUT;IND	ejakulēsi	V;LGSPEC2;LGSPEC7	esot jāejakulē
+V;1;PL;PRS;IND	spējam	V;2;PL;FUT;IND	spēsit
+V;2;PL;PST;IND	runājāt	V;1;PL;PST;IND	runājām
+V;3;PL;FUT;IND	īstenos	V;LGSPEC2;LGSPEC7	esot jāīsteno
+V;V.PTCP;PST;PASS	patulkots	V;V.PTCP;PRS;LGSPEC5	patulkojot
+V;V.MSDR	saaršana	V;1;PL;FUT;IND	saarsim
+V;LGSPEC2;LGSPEC7	neesot jāraudina	V;2;PL;PRS;IND	neraudināt
+V;LGSPEC2;LGSPEC7	esot jāžestikulē	V;2;PL;IMP	žestikulējiet
+V;V.PTCP;PST;PASS	raudināts	V;3;PL;IMP	lai raudina
+V;1;PL;PRS;IND	nedodam	V;2;SG;PRS;IND	nedod
+V;3;SG;IMP	lai apar	V;LGSPEC2;IND	būt jāapar
+V;2;SG;IMP	cepies	V;NFIN;NEG	necepties
+V;3;SG;PST;IND	ejakulēja	V;LGSPEC2;IND	būt jāejakulē
+V;V.PTCP;PRS;LGSPEC4	skardams	V;2;PL;PST;IND	skarāt
+V;COND;PRS	nepārceptu	V;3;PL;FUT;IND	nepārceps
+V;LGSPEC1;FUT	murrāšot	V;3;SG;PST;IND	murrāja
+V;2;PL;PST;IND	nekustējāties	V;LGSPEC1;PRS	nekustoties
+V;LGSPEC2;IND	būt jāatstāsta	V;LGSPEC1;IMP	lai atstāstot
+V;V.PTCP;PST;ACT	devies	V;3;PL;IMP	lai dodas
+V;3;PL;PRS;IND	nedejo	V;2;PL;PRS;IND	nedejojat
+V;LGSPEC2;LGSPEC7	neesot jāskata	V;1;PL;PRS;IND	neskatām
+V;1;PL;FUT;IND	nenocepsim	V;3;PL;PST;IND	nenocepa
+V;2;SG;FUT;IND	klausīsi	V;1;SG;FUT;IND	klausīšu
+V;COND;PST	būtu aris	V;NFIN	art
+V;3;PL;IMP	lai neintonē	V;COND;PST	nebūtu intonējis
+V;3;SG;FUT;IND	nemodernizēs	V;LGSPEC1;IMP	lai nemodernizējot
+V;V.PTCP;PRS;LGSPEC6	atbildam	V;2;SG;PRS;IND	atbildi
+V;2;PL;IMP	pateiciet	V;LGSPEC2;IND	būt jāpateic
+V;2;PL;PST;IND	vārījāt	V;LGSPEC2;LgSPEC8	jāvārot
+V;2;PL;PST;IND	vannojāt	V;NFIN	vannot
+V;V.MSDR	cenšanās	V;COND;PST	būtu centies
+V;1;PL;PRS;IND	neapspriežam	V;2;SG;PRS;IND	neapspried
+V;V.PTCP;PRS;LGSPEC4	pacepdamies	V;LGSPEC2;LgSPEC8	jāpacepoties
+V;LGSPEC2;IND	būt jāizcepas	V;LGSPEC2;LGSPEC7	esot jāizcepas
+V;3;PL;FUT;IND	neatbildēs	V;LGSPEC2;LGSPEC7	neesot jāatbild
+V;V.PTCP;PRS;LGSPEC4	gatavodams	V;1;PL;PST;IND	gatavojām
+V;1;SG;FUT;IND	pelnīšu	V;1;PL;IMP	pelnīsim
+V;3;SG;IMP	lai ļauj	V;3;SG;PRS;IND	ļauj
+V;V.PTCP;PRS;LGSPEC3	neraksturojošs	V;LGSPEC1;FUT	neraksturošot
+V;1;PL;FUT;IND	producēsim	V;2;PL;PST;IND	producējāt
+V;LGSPEC1;IMP	lai zīmējot	V;NFIN	zīmēt
+V;1;PL;FUT;IND	neuzdosimies	V;2;PL;FUT;IND	neuzdosities
+V;V.PTCP;PRS;LGSPEC4	uzardams	V;3;PL;PRS;IND	uzar
+V;1;PL;PRS;IND	dusam	V;V.PTCP;PRS;LGSPEC4	dusēdams
+V;V.PTCP;PRS;LGSPEC6	atceramies	V;1;SG;FUT;IND	atcerēšos
+V;2;SG;PST;IND	runāji	V;1;SG;PST;IND	runāju
+V;2;PL;PRS;IND	dalāt	V;V.PTCP;PRS;PASS	dalāms
+V;1;SG;PRS;IND	nedodu	V;2;SG;FUT;IND	nedosi
+V;1;PL;IMP	neaparsim	V;V.PTCP;PRS;PASS	neaparams
+V;2;SG;PRS;IND	pacep	V;1;PL;PRS;IND	pacepam
+V;V.PTCP;PRS;PASS	pateicams	V;1;PL;PST;IND	pateicām
+V;V.PTCP;PRS;LGSPEC6	saprotam	V;COND;PST	būtu sapratis
+V;1;PL;IMP	neatcepsim	V;LGSPEC2;LGSPEC7	neesot jāatcep
+V;3;SG;PST;IND	neziepēja	V;1;PL;PST;IND	neziepējām
+V;V.PTCP;PRS;LGSPEC4	neiedodams	V;3;SG;IMP	lai neiedod
+V;LGSPEC2;IND	būt jāmodernizē	V;3;SG;FUT;IND	modernizēs
+V;1;SG;PRS;IND	neindēju	V;1;PL;FUT;IND	neindēsim
+V;3;SG;FUT;IND	raksturos	V;V.PTCP;PST;ACT	raksturojis
+V;2;SG;FUT;IND	nezīdināsi	V;LGSPEC1;PST	neesot zīdinājis
+V;V.PTCP;PRS;LGSPEC6	neabstrahējam	V;LGSPEC1;FUT	neabstrahēšot
+V;V.PTCP;PRS;LGSPEC3	nepārtulkojošs	V;LGSPEC1;IMP	lai nepārtulkojot
+V;V.PTCP;PST;PASS	neaiziets	V;3;PL;PRS;IND	neaiziet
+V;COND;PRS	prostituētu	V;2;PL;IMP	prostituējiet
+V;NFIN;NEG	runāt	V;LGSPEC2;IND	nebūt jārunā
+V;LGSPEC2;LgSPEC8	jāpārcepoties	V;V.PTCP;PRS;LGSPEC6	pārcepamies
+V;2;SG;FUT;IND	apvienosi	V;1;PL;FUT;IND	apvienosim
+V;V.PTCP;PRS;LGSPEC5	dodoties	V;LGSPEC1;PRS	dodoties
+V;3;PL;FUT;IND	neraudās	V;3;SG;IMP	lai neraud
+V;1;PL;IMP	sūkāsim	V;V.PTCP;PRS;LGSPEC3	sūkājošs
+V;3;SG;FUT;IND	pelnīs	V;LGSPEC2;LgSPEC8	jāpelnot
+V;LGSPEC1;FUT	nekaplēšot	V;V.PTCP;PRS;LGSPEC4	nekaplēdams
+V;LGSPEC2;LGSPEC7	neesot jāatbild	V;1;PL;PST;IND	neatbildējām
+V;V.PTCP;PRS;LGSPEC4	ziemodams	V;LGSPEC1;PST	esot ziemojis
+V;1;SG;PRS;IND	svētu	V;LGSPEC1;PRS	svētot
+V;NFIN	pacept	V;LGSPEC2;LgSPEC8	jāpacepot
+V;2;SG;PRS;IND	nemazini	V;2;PL;IMP	nemaziniet
+V;COND;PST	būtu zīdinājis	V;LGSPEC2;LgSPEC8	jāzīdinot
+V;2;SG;IMP	sit	V;1;PL;PST;IND	sitām
+V;2;SG;PRS;IND	paliec	V;2;PL;IMP	palieciet
+V;3;PL;IMP	lai neņem	V;3;SG;PRS;IND	neņem
+V;3;PL;PST;IND	ģida	V;1;PL;FUT;IND	ģidīsim
+V;3;SG;FUT;IND	pakodīs	V;V.PTCP;PRS;LGSPEC5	pakožot
+V;2;PL;FUT;IND	uzcepsit	V;1;PL;IMP	uzcepsim
+V;LGSPEC1;FUT	atbildēšot	V;LGSPEC1;PRS	atbildot
+V;V.PTCP;PRS;LGSPEC4	vilkdams	V;2;SG;PRS;IND	velc
+V;V.PTCP;PRS;PASS	spējams	V;2;SG;PRS;IND	spēj
+V;V.PTCP;PRS;LGSPEC5	skarot	V;NFIN	skart
+V;3;SG;PST;IND	plēsa	V;COND;PRS	plēstu
+V;1;PL;IMP	inspirēsim	V;LGSPEC1;IMP	lai inspirējot
+V;3;SG;FUT;IND	liegs	V;3;SG;PST;IND	liedza
+V;LGSPEC2;LGSPEC7	esot jālec	V;1;SG;PRS;IND	lecu
+V;3;PL;FUT;IND	nedzels	V;V.MSDR	nedzelšana
+V;V.PTCP;PRS;LGSPEC6	nelasām	V;1;PL;PST;IND	nelasījām
+V;V.PTCP;PST;PASS	novietots	V;2;SG;PRS;IND	novieto
+V;1;PL;FUT;IND	bloķēsim	V;2;SG;FUT;IND	bloķēsi
+V;LGSPEC1;PST	esot spriedis	V;3;PL;PRS;IND	spriež
+V;2;SG;IMP	neceri	V;V.PTCP;PRS;LGSPEC5	necerot
+V;3;SG;IMP	lai neneitralizē	V;3;PL;FUT;IND	neneitralizēs
+V;1;SG;PST;IND	gatavoju	V;V.PTCP;PRS;LGSPEC5	gatavojot
+V;3;PL;FUT;IND	neturēs	V;V.PTCP;PST;ACT	neturējis
+V;3;SG;IMP	lai neiet	V;3;SG;PST;IND	negāja
+V;3;PL;PRS;IND	tempj	V;2;SG;IMP	temp
+V;2;PL;IMP	nestrādājiet	V;1;PL;PRS;IND	nestrādājam
+V;V.PTCP;PRS;PASS	pārcepams	V;2;SG;PRS;IND	pārcep
+V;3;PL;FUT;IND	baidīs	V;2;SG;IMP	baidi
+V;V.PTCP;PRS;LGSPEC3	neitralizējošs	V;1;PL;IMP	neitralizēsim
+V;3;PL;PRS;IND	nedzīvo	V;COND;PRS	nedzīvotu
+V;3;SG;PRS;IND	sola	V;LGSPEC1;FUT	solīšot
+V;3;PL;PST;IND	neoda	V;1;PL;PST;IND	neodām
+V;3;PL;PRS;IND	dodas	V;1;SG;PST;IND	devos
+V;1;SG;PRS;IND	pazīstu	V;3;PL;FUT;IND	pazīs
+V;LGSPEC1;FUT	palīdzēšot	V;COND;PRS	palīdzētu
+V;3;SG;PST;IND	neskaitīja	V;V.PTCP;PST;ACT	neskaitījis
+V;1;SG;PRS;IND	reģistrēju	V;2;SG;PRS;IND	reģistrē
+V;LGSPEC1;PST	esot licis	V;V.PTCP;PST;PASS	likts
+V;LGSPEC1;IMP	lai atceroties	V;3;SG;PRS;IND	atceras
+V;1;SG;PST;IND	nocepu	V;NFIN;NEG	nenocept
+V;V.PTCP;PRS;PASS	neaizliedzams	V;V.PTCP;PRS;LGSPEC6	neaizliedzam
+V;2;SG;IMP	nepiederi	V;2;PL;FUT;IND	nepiederēsit
+V;3;SG;PRS;IND	nesacep	V;LGSPEC2;IND	nebūt jāsacep
+V;2;PL;PRS;IND	apvienojat	V;LGSPEC1;FUT	apvienošot
+V;LGSPEC1;FUT	burbuļošot	V;LGSPEC1;PRS	burbuļojot
+V;2;PL;FUT;IND	mazgāsit	V;2;PL;IMP	mazgājiet
+V;2;SG;PRS;IND	nestādi	V;2;PL;PRS;IND	nestādāt
+V;1;PL;PST;IND	neuzcepām	V;3;SG;PST;IND	neuzcepa
+V;1;PL;PRS;IND	nedrīkstam	V;2;SG;PRS;IND	nedrīksti
+V;2;PL;PST;IND	nedegāt	V;LGSPEC1;FUT	nedegšot
+V;1;PL;PRS;IND	zīdām	V;LGSPEC1;PST	esot zīdījis
+V;3;SG;IMP	lai atzīst	V;3;PL;FUT;IND	atzīs
+V;3;PL;FUT;IND	darīs	V;V.PTCP;PRS;LGSPEC4	darīdams
+V;NFIN	nesaprast	V;1;SG;FUT;IND	nesapratīšu
+V;3;PL;PST;IND	pārcepās	V;LGSPEC2;LGSPEC7	esot jāpārcepas
+V;1;PL;IMP	neejakulēsim	V;V.PTCP;PRS;PASS	neejakulējams
+V;3;SG;IMP	lai izcepas	V;3;PL;PST;IND	izcepās
+V;1;SG;PST;IND	neatstāstīju	V;3;SG;IMP	lai neatstāsta
+V;1;SG;FUT;IND	tapšu	V;2;PL;FUT;IND	tapsit
+V;2;PL;PRS;IND	žestikulējat	V;2;PL;PST;IND	žestikulējāt
+V;V.PTCP;PRS;LGSPEC4	negriezdams	V;NFIN;NEG	griezt
+V;2;SG;PST;IND	dzīvoji	V;1;PL;PRS;IND	dzīvojam
+V;1;PL;PRS;IND	vaislojamies	V;3;PL;PRS;IND	vaislojas
+V;2;SG;PST;IND	nejautrināji	V;2;PL;PRS;IND	nejautrināt
+V;COND;PRS	nepārtulkotu	V;1;PL;IMP	nepārtulkosim
+V;LGSPEC1;FUT	kaušot	V;V.PTCP;PRS;PASS	kaujams
+V;3;SG;PRS;IND	atkaļ	V;1;SG;FUT;IND	atkalšu
+V;3;SG;PST;IND	nozīmēja	V;1;PL;FUT;IND	nozīmēsim
+V;V.PTCP;PRS;PASS	mīnējams	V;V.PTCP;PST;PASS	mīnēts
+V;3;SG;IMP	lai jautrina	V;2;PL;FUT;IND	jautrināsit
+V;COND;PST	būtu skanējis	V;2;PL;PRS;IND	skanat
+V;LGSPEC1;PST	esot nabadzinājis	V;V.PTCP;PRS;LGSPEC5	nabadzinot
+V;3;PL;PST;IND	neaizliedza	V;NFIN	neaizliegt
+V;2;SG;PST;IND	abstrahēji	V;COND;PRS	abstrahētu
+V;V.PTCP;PRS;LGSPEC3	gatavojošs	V;V.PTCP;PRS;PASS	gatavojams
+V;1;SG;FUT;IND	žvankstēšu	V;V.PTCP;PST;ACT	žvankstējis
+V;LGSPEC2;IND	nebūt jāpavēl	V;3;SG;FUT;IND	nepavēlēs
+V;3;PL;PST;IND	neuzcepās	V;COND;PRS	neuzceptos
+V;LGSPEC1;FUT	nestudēšot	V;V.MSDR	nestudēšana
+V;V.PTCP;PRS;LGSPEC3	nepaslēpjošs	V;LGSPEC2;LGSPEC7	neesot jāpaslēpj
+V;1;PL;PST;IND	neiedzērām	V;V.PTCP;PRS;LGSPEC6	neiedzeram
+V;LGSPEC2;LGSPEC7	esot jāstrebj	V;V.PTCP;PRS;LGSPEC6	strebjam
+V;V.MSDR	vemšana	V;1;SG;PRS;IND	vemju
+V;3;PL;PRS;IND	neinspirē	V;COND;PRS	neinspirētu
+V;1;PL;PRS;IND	nenoteicam	V;1;PL;FUT;IND	nenoteiksim
+V;NFIN	likt	V;COND;PST	būtu licis
+V;2;PL;PRS;IND	neticat	V;V.PTCP;PST;ACT	neticējis
+V;3;SG;FUT;IND	nazalizēs	V;1;PL;PST;IND	nazalizējām
+V;3;PL;FUT;IND	nenabadzinās	V;3;PL;PRS;IND	nenabadzina
+V;3;SG;FUT;IND	nedzirdēs	V;V.PTCP;PST;PASS	nedzirdēts
+V;3;PL;PST;IND	neklepoja	V;LGSPEC1;IMP	lai neklepojot
+V;3;SG;IMP	lai deg	V;1;PL;IMP	degsim
+V;3;SG;IMP	lai nemodernizē	V;V.PTCP;PST;PASS	nemodernizēts
+V;1;SG;PST;IND	plēsu	V;1;SG;FUT;IND	plēsīšu
+V;3;SG;PST;IND	neejakulēja	V;2;PL;PST;IND	neejakulējāt
+V;1;SG;PRS;IND	nedzīvoju	V;V.PTCP;PRS;LGSPEC3	nedzīvojošs
+V;1;PL;FUT;IND	neslaucīsim	V;V.PTCP;PST;ACT	neslaucījis
+V;NFIN;NEG	dzimt	V;2;SG;PRS;IND	nedzimsti
+V;1;PL;FUT;IND	salsim	V;1;PL;PRS;IND	salstam
+V;V.PTCP;PRS;LGSPEC3	skarošs	V;2;SG;PST;IND	skari
+V;2;SG;PRS;IND	nestrādā	V;2;PL;PST;IND	nestrādājāt
+V;3;PL;PST;IND	nolika	V;1;SG;PRS;IND	nolieku
+V;3;PL;PRS;IND	neskaita	V;3;SG;PST;IND	neskaitīja
+V;LGSPEC2;LGSPEC7	neesot jābrauc	V;LGSPEC1;PST	neesot braucis
+V;V.PTCP;PRS;LGSPEC4	līzdams	V;V.MSDR	līšana
+V;2;SG;IMP	pēti	V;2;SG;FUT;IND	pētīsi
+V;V.PTCP;PRS;LGSPEC5	lāpot	V;NFIN;NEG	nelāpīt
+V;2;PL;PST;IND	neizteicāt	V;1;PL;FUT;IND	neizteiksim
+V;V.PTCP;PRS;LGSPEC4	dienēdams	V;V.MSDR	dienēšana
+V;LGSPEC2;LgSPEC8	jāsalstot	V;3;PL;IMP	lai salst
+V;2;SG;PST;IND	brauci	V;V.PTCP;PST;ACT	braucis
+V;3;SG;PST;IND	nemodernizēja	V;1;PL;IMP	nemodernizēsim
+V;2;PL;PST;IND	aizarāt	V;V.PTCP;PRS;LGSPEC4	aizardams
+V;2;PL;FUT;IND	izskatīsities	V;V.MSDR	izskatīšanās
+V;LGSPEC1;FUT	nediskutēšot	V;V.PTCP;PST;PASS	nediskutēts
+V;3;PL;PST;IND	neslepkavoja	V;V.PTCP;PST;ACT	neslepkavojis
+V;3;SG;IMP	lai neslauka	V;1;SG;PST;IND	neslaucīju
+V;V.PTCP;PST;PASS	pagaidīts	V;2;SG;FUT;IND	pagaidīsi
+V;COND;PST	būtu aizgājis	V;COND;PRS	aizietu
+V;1;PL;PST;IND	negribējām	V;V.PTCP;PRS;PASS	negribams
+V;V.PTCP;PST;ACT	nabadzinājis	V;LGSPEC2;LgSPEC8	jānabadzinot
+V;1;PL;PRS;IND	atrodam	V;V.PTCP;PST;ACT	atradis
+V;LGSPEC1;IMP	lai netrūkstot	V;LGSPEC1;FUT	netrūkšot
+V;NFIN;NEG	neputināt	V;1;PL;IMP	putināsim
+V;NFIN	apspriesties	V;2;PL;IMP	apspriedieties
+V;3;SG;PRS;IND	iedzer	V;1;PL;PRS;IND	iedzeram
+V;3;PL;FUT;IND	riesies	V;LGSPEC2;LgSPEC8	jārejoties
+V;2;SG;PST;IND	uzdevi	V;3;SG;PRS;IND	uzdod
+V;LGSPEC2;IND	nebūt jāceļ	V;3;SG;IMP	lai neceļ
+V;LGSPEC1;PRS	skanot	V;3;PL;FUT;IND	skanēs
+V;1;SG;PRS;IND	neuzaru	V;3;PL;IMP	lai neuzar
+V;V.PTCP;PRS;LGSPEC4	necentrēdams	V;3;SG;IMP	lai necentrē
+V;2;PL;PRS;IND	lienat	V;1;PL;IMP	līdīsim
+V;V.PTCP;PST;ACT	inspirējis	V;1;SG;PST;IND	inspirēju
+V;COND;PST	nebūtu garšojis	V;V.PTCP;PST;PASS	negaršots
+V;V.PTCP;PST;ACT	mitis	V;1;PL;PRS;IND	mītam
+V;2;PL;PRS;IND	neaizarat	V;2;PL;IMP	neaizariet
+V;LGSPEC1;FUT	skanēšot	V;LGSPEC1;IMP	lai skanot
+V;2;PL;PST;IND	vaislojāties	V;2;PL;FUT;IND	vaislosities
+V;NFIN	neliegt	V;1;SG;FUT;IND	neliegšu
+V;1;PL;PST;IND	neseksualizējām	V;2;SG;PRS;IND	neseksualizē
+V;2;SG;IMP	nestrādā	V;3;PL;PRS;IND	nestrādā
+V;3;PL;PRS;IND	tempj	V;2;SG;PRS;IND	temp
+V;LGSPEC1;PRS	mītot	V;3;SG;IMP	lai mīt
+V;3;SG;PRS;IND	nenoteic	V;COND;PRS	nenoteiktu
+V;V.PTCP;PRS;LGSPEC5	neraudinot	V;COND;PST	nebūtu raudinājis
+V;3;PL;IMP	lai dabū	V;2;SG;PST;IND	dabūji
+V;LGSPEC1;FUT	neprostituēšoties	V;3;PL;PRS;IND	neprostituējas
+V;V.MSDR	konstatēšana	V;2;SG;PRS;IND	konstatē
+V;2;PL;PRS;IND	neglābjat	V;3;PL;PRS;IND	neglābj
+V;NFIN;NEG	vārīt	V;V.PTCP;PRS;LGSPEC6	nevārām
+V;V.PTCP;PRS;PASS	skarams	V;2;SG;FUT;IND	skarsi
+V;2;SG;FUT;IND	neņemsi	V;V.PTCP;PRS;LGSPEC4	neņemdams
+V;V.PTCP;PST;ACT	pircis	V;3;SG;PRS;IND	pērk
+V;NFIN	neejakulēt	V;2;SG;FUT;IND	neejakulēsi
+V;V.PTCP;PRS;LGSPEC6	bīstamies	V;LGSPEC2;LGSPEC7	esot jābīstas
+V;3;SG;PST;IND	lidoja	V;LGSPEC2;LgSPEC8	jālidojot
+V;2;PL;IMP	neaudziniet	V;3;PL;PRS;IND	neaudzina
+V;COND;PRS	sūkātu	V;LGSPEC1;PRS	sūkājot
+V;3;SG;PRS;IND	abstrahē	V;3;SG;FUT;IND	abstrahēs
+V;2;SG;PRS;IND	vingrini	V;LGSPEC2;LGSPEC7	esot jāvingrina
+V;3;SG;PST;IND	iespēja	V;3;PL;PRS;IND	iespēj
+V;2;SG;PRS;IND	nezāģē	V;COND;PRS	nezāģētu
+V;3;SG;PRS;IND	tur	V;1;PL;PRS;IND	turam
+V;1;PL;IMP	noteiksim	V;V.PTCP;PRS;PASS	noteicams
+V;1;PL;PRS;IND	neejakulējam	V;3;PL;PRS;IND	neejakulē
+V;V.PTCP;PRS;LGSPEC4	nesacīdams	V;1;SG;FUT;IND	nesacīšu
+V;3;SG;FUT;IND	reģistrēs	V;LGSPEC1;PRS	reģistrējot
+V;3;SG;PST;IND	netulkoja	V;V.PTCP;PST;PASS	netulkots
+V;NFIN;NEG	saldināt	V;LGSPEC2;IND	nebūt jāsaldina
+V;NFIN	nežestikulēt	V;3;PL;FUT;IND	nežestikulēs
+V;2;SG;FUT;IND	cepināsi	V;COND;PRS	cepinātu
+V;LGSPEC2;LgSPEC8	jāgādājot	V;3;PL;PST;IND	gādāja
+V;LGSPEC1;PRS	biedējot	V;V.PTCP;PRS;LGSPEC5	biedējot
+V;NFIN	diskutēt	V;LGSPEC2;LGSPEC7	esot jādiskutē
+V;1;PL;PRS;IND	reģistrējam	V;NFIN;NEG	nereģistrēt
+V;V.PTCP;PRS;LGSPEC4	plosīdams	V;1;PL;IMP	plosīsim
+V;LGSPEC1;IMP	lai liecot	V;3;PL;PRS;IND	liec
+V;NFIN	nesauļoties	V;2;PL;FUT;IND	nesauļosities
+V;COND;PRS	prostituētos	V;NFIN	prostituēties
+V;1;PL;PRS;IND	palīdzam	V;2;SG;IMP	palīdzi
+V;1;PL;PST;IND	tecējām	V;3;PL;PRS;IND	tek
+V;3;PL;IMP	lai konstatē	V;1;SG;PST;IND	konstatēju
+V;3;SG;IMP	lai neceļ	V;2;SG;PST;IND	necēli
+V;V.PTCP;PST;ACT	atvainojies	V;LGSPEC1;PRS	atvainojoties
+V;LGSPEC1;FUT	pārcepšoties	V;3;SG;IMP	lai pārcepas
+V;3;SG;IMP	lai pērk	V;V.MSDR	pirkšana
+V;V.PTCP;PRS;PASS	nekustams	V;V.PTCP;PST;ACT	nekustējis
+V;V.MSDR	maksāšana	V;2;SG;PRS;IND	maksā
+V;LGSPEC1;PST	neesot gaisis	V;2;SG;PST;IND	negaisi
+V;2;SG;FUT;IND	nejautāsi	V;3;SG;PRS;IND	nejautā
+V;1;SG;PST;IND	izaru	V;LGSPEC1;PRS	izarot
+V;V.PTCP;PRS;PASS	paarams	V;LGSPEC2;IND	būt jāpaar
+V;LGSPEC2;LGSPEC7	esot jāsēj	V;V.PTCP;PRS;LGSPEC5	sējot
+V;V.MSDR	paliekšana	V;LGSPEC2;IND	būt jāpaliec
+V;2;PL;PST;IND	metāt	V;3;PL;IMP	lai met
+V;3;SG;PST;IND	neaicināja	V;V.PTCP;PRS;LGSPEC5	neaicinot
+V;LGSPEC2;IND	būt jāsauc	V;2;PL;FUT;IND	sauksit
+V;3;PL;IMP	lai nepacep	V;LGSPEC2;IND	nebūt jāpacep
+V;3;PL;PST;IND	neuzdevās	V;1;PL;FUT;IND	neuzdosimies
+V;V.PTCP;PRS;LGSPEC6	pilam	V;2;PL;IMP	piliet
+V;1;SG;PRS;IND	neskūpstu	V;3;PL;PST;IND	neskūpstīja
+V;1;SG;PRS;IND	vannoju	V;3;SG;PRS;IND	vanno
+V;LGSPEC1;PST	neesot indējis	V;LGSPEC2;LGSPEC7	neesot jāindē
+V;3;SG;FUT;IND	necepinās	V;3;PL;FUT;IND	necepinās
+V;LGSPEC2;IND	būt jāpateic	V;NFIN;NEG	nepateikt
+V;COND;PST	būtu iesitis	V;LGSPEC1;PRS	iesitot
+V;V.MSDR	raudināšana	V;V.PTCP;PST;PASS	raudināts
+V;1;SG;PST;IND	neatradu	V;V.PTCP;PST;PASS	neatrasts
+V;2;PL;FUT;IND	robosit	V;2;SG;IMP	robo
+V;1;SG;PST;IND	tinu	V;V.PTCP;PST;ACT	tinis
+V;2;PL;FUT;IND	nezvejosit	V;2;PL;PST;IND	nezvejojāt
+V;1;SG;PST;IND	laidu	V;LGSPEC1;FUT	laidīšot
+V;3;SG;PRS;IND	dabū	V;3;SG;IMP	lai dabū
+V;LGSPEC1;PRS	skūpstot	V;1;PL;PST;IND	skūpstījām
+V;1;PL;FUT;IND	uzcepsim	V;2;SG;PRS;IND	uzcep
+V;1;SG;PRS;IND	nevienoju	V;LGSPEC1;FUT	nevienošot
+V;1;PL;PST;IND	necerējām	V;2;SG;FUT;IND	necerēsi
+V;3;SG;FUT;IND	nemīlēs	V;2;PL;PST;IND	nemīlējāt
+V;3;SG;PRS;IND	jūt	V;2;SG;FUT;IND	jutīsi
+V;V.PTCP;PRS;LGSPEC4	neīstenodams	V;LGSPEC1;FUT	neīstenošot
+V;1;SG;PRS;IND	ķemmēju	V;NFIN;NEG	neķemmēt
+V;NFIN	nenākt	V;1;SG;PST;IND	nenācu
+V;2;PL;FUT;IND	nestrādāsit	V;V.PTCP;PRS;LGSPEC3	nestrādājošs
+V;3;SG;FUT;IND	vingrinās	V;NFIN	vingrināt
+V;2;SG;FUT;IND	skaitīsi	V;2;PL;IMP	skaitiet
+V;V.PTCP;PST;ACT	ņēmis	V;V.MSDR	ņemšana
+V;2;PL;PRS;IND	neskābstat	V;3;PL;PRS;IND	neskābst
+V;1;PL;PRS;IND	pilam	V;V.PTCP;PRS;LGSPEC4	pilēdams
+V;1;SG;PST;IND	pakodu	V;2;SG;PST;IND	pakodi
+V;2;SG;PRS;IND	konstatē	V;3;SG;IMP	lai konstatē
+V;1;SG;PRS;IND	neauju	V;LGSPEC1;PRS	neaunot
+V;1;SG;PST;IND	nediskutēju	V;1;PL;IMP	nediskutēsim
+V;2;SG;PST;IND	iedevi	V;3;PL;PRS;IND	iedod
+V;NFIN;NEG	vingrināt	V;3;SG;PST;IND	nevingrināja
+V;2;PL;PRS;IND	akcentējat	V;V.PTCP;PST;ACT	akcentējis
+V;1;SG;PRS;IND	uzdodos	V;3;SG;PRS;IND	uzdodas
+V;LGSPEC1;IMP	lai plosot	V;V.PTCP;PRS;LGSPEC5	plosot
+V;1;PL;PST;IND	nepavēlējām	V;2;SG;PST;IND	nepavēlēji
+V;3;SG;PRS;IND	netraucē	V;2;SG;FUT;IND	netraucēsi
+V;3;SG;PST;IND	nekaplēja	V;1;PL;PRS;IND	nekaplējam
+V;1;PL;IMP	neatstāstīsim	V;V.PTCP;PST;PASS	neatstāstīts
+V;1;SG;FUT;IND	dejošu	V;V.MSDR	dejošana
+V;2;PL;FUT;IND	pakodīsit	V;2;SG;FUT;IND	pakodīsi
+V;3;SG;FUT;IND	neizteiks	V;V.PTCP;PRS;LGSPEC3	neizteicošs
+V;V.PTCP;PRS;LGSPEC5	iesitot	V;3;SG;FUT;IND	iesitīs
+V;3;SG;FUT;IND	vels	V;LGSPEC2;LgSPEC8	jāveļot
+V;1;PL;PRS;IND	prostituējam	V;2;PL;PRS;IND	prostituējat
+V;2;PL;PRS;IND	smejaties	V;3;SG;PRS;IND	smejas
+V;3;PL;PST;IND	neaudzēja	V;1;PL;PRS;IND	neaudzējam
+V;1;SG;PST;IND	rēju	V;2;PL;IMP	rejiet
+V;NFIN;NEG	raksturot	V;LGSPEC2;IND	nebūt jāraksturo
+V;COND;PST	būtu pacepies	V;3;SG;IMP	lai pacepas
+V;LGSPEC1;PRS	neaugot	V;1;SG;PRS;IND	neaugu
+V;1;PL;PRS;IND	neiedodam	V;2;PL;PST;IND	neiedevāt
+V;2;SG;IMP	sien	V;1;SG;PST;IND	sēju
+V;3;PL;FUT;IND	nedabūs	V;1;SG;PRS;IND	nedabūju
+V;3;PL;PST;IND	pļāva	V;1;SG;PST;IND	pļāvu
+V;1;PL;IMP	nediskutēsim	V;V.PTCP;PRS;LGSPEC3	nediskutējošs
+V;1;PL;FUT;IND	nekļūsim	V;COND;PST	nebūtu kļuvis
+V;V.PTCP;PRS;LGSPEC5	mānot	V;2;PL;PRS;IND	mānāt
+V;LGSPEC2;LGSPEC7	neesot jāiedod	V;2;SG;PRS;IND	neiedod
+V;1;PL;IMP	nekustēsimies	V;2;PL;PRS;IND	nekustaties
+V;V.MSDR	paliekšana	V;2;PL;PST;IND	paliecāt
+V;COND;PST	nebūtu krēslojis	V;V.PTCP;PRS;LGSPEC3	nekrēslojošs
+V;2;SG;PST;IND	smējies	V;LGSPEC1;PST	esot smējies
+V;NFIN;NEG	neglābt	V;2;PL;PRS;IND	glābjat
+V;3;PL;PRS;IND	skatās	V;2;PL;PRS;IND	skatāties
+V;1;SG;PRS;IND	negaršoju	V;2;SG;PRS;IND	negaršo
+V;3;SG;PST;IND	neeksistēja	V;V.PTCP;PRS;LGSPEC5	neeksistējot
+V;COND;PRS	koptu	V;LGSPEC2;IND	būt jākopj
+V;V.PTCP;PRS;LGSPEC3	skarošs	V;V.PTCP;PRS;PASS	skarams
+V;LGSPEC1;PST	neesot blāvojis	V;V.PTCP;PRS;LGSPEC6	neblāvojam
+V;3;SG;PST;IND	uzdeva	V;V.PTCP;PRS;LGSPEC6	uzdodam
+V;2;SG;PRS;IND	skani	V;COND;PST	būtu skanējis
+V;3;SG;FUT;IND	sapratīs	V;1;PL;PRS;IND	saprotam
+V;1;SG;FUT;IND	ataršu	V;1;SG;PST;IND	ataru
+V;NFIN	nedzīvot	V;1;SG;PRS;IND	nedzīvoju
+V;3;PL;FUT;IND	nežestikulēs	V;LGSPEC1;FUT	nežestikulēšot
+V;2;PL;FUT;IND	lūgsit	V;NFIN;NEG	nelūgt
+V;NFIN	atvainoties	V;1;SG;PRS;IND	atvainojos
+V;2;SG;IMP	neskābē	V;LGSPEC1;PRS	neskābējot
+V;2;SG;PST;IND	neodi	V;3;PL;PST;IND	neoda
+V;1;PL;PST;IND	mirsām	V;2;PL;PRS;IND	mirstat
+V;V.PTCP;PST;ACT	dejojis	V;1;PL;PRS;IND	dejojam
+V;V.PTCP;PRS;LGSPEC5	klausoties	V;V.PTCP;PRS;LGSPEC6	klausāmies
+V;COND;PST	būtu pelnījis	V;V.PTCP;PRS;LGSPEC3	pelnošs
+V;LGSPEC2;LGSPEC7	esot jādrīkst	V;2;SG;IMP	drīksti
+V;1;PL;PST;IND	pļāvām	V;NFIN;NEG	nepļaut
+V;3;SG;FUT;IND	neglābs	V;3;PL;IMP	lai neglābj
+V;V.PTCP;PRS;PASS	sakāms	V;V.PTCP;PRS;LGSPEC3	sakošs
+V;LGSPEC1;PST	neesot diskutējis	V;2;SG;PST;IND	nediskutēji
+V;LGSPEC1;FUT	pūtīšot	V;V.PTCP;PRS;LGSPEC5	pūšot
+V;3;PL;PST;IND	tempa	V;NFIN;NEG	netempt
+V;1;PL;FUT;IND	sauksim	V;3;SG;PRS;IND	sauc
+V;COND;PST	būtu gaidījis	V;2;PL;IMP	gaidiet
+V;1;PL;PRS;IND	stiepjam	V;1;PL;PST;IND	stiepām
+V;LGSPEC2;IND	būt jāapcepas	V;3;SG;IMP	lai apcepas
+V;3;SG;PRS;IND	neizcep	V;LGSPEC1;IMP	lai neizcepot
+V;1;PL;FUT;IND	paslēpsim	V;V.PTCP;PST;ACT	paslēpis
+V;3;PL;PST;IND	neatvainoja	V;1;PL;PST;IND	neatvainojām
+V;1;SG;PST;IND	jautrināju	V;V.PTCP;PRS;LGSPEC3	jautrinošs
+V;V.PTCP;PRS;PASS	atrodams	V;3;SG;FUT;IND	atradīs
+V;1;SG;FUT;IND	sitīšu	V;2;PL;PST;IND	sitāt
+V;3;PL;IMP	lai šķiet	V;2;SG;PRS;IND	šķiet
+V;LGSPEC2;LgSPEC8	jāuzvarot	V;1;SG;FUT;IND	uzvarēšu
+V;1;PL;PST;IND	demokratizējām	V;3;PL;FUT;IND	demokratizēs
+V;2;SG;PRS;IND	nedzemdē	V;1;SG;PRS;IND	nedzemdēju
+V;V.PTCP;PRS;PASS	beidzams	V;LGSPEC2;IND	būt jābeidz
+V;COND;PST	būtu pelnījis	V;LGSPEC1;FUT	pelnīšot
+V;1;PL;IMP	skanēsim	V;2;SG;PRS;IND	skani
+V;1;PL;IMP	atkalsim	V;3;PL;IMP	lai atkaļ
+V;COND;PST	būtu ziemojis	V;V.PTCP;PRS;LGSPEC4	ziemodams
+V;V.MSDR	bagātināšana	V;LGSPEC1;FUT	bagātināšot
+V;COND;PRS	apceptos	V;LGSPEC2;LGSPEC7	esot jāapcepas
+V;1;SG;PRS;IND	nepatulkoju	V;LGSPEC1;PST	neesot patulkojis
+V;V.PTCP;PRS;PASS	abstrahējams	V;3;SG;PRS;IND	abstrahē
+V;3;SG;PRS;IND	pacepas	V;LGSPEC2;LgSPEC8	jāpacepoties
+V;LGSPEC2;LGSPEC7	esot jālasa	V;V.PTCP;PRS;LGSPEC4	lasīdams
+V;2;PL;PST;IND	neaugāt	V;V.PTCP;PRS;LGSPEC3	neaugošs
+V;2;PL;FUT;IND	laidīsit	V;2;SG;IMP	laid
+V;LGSPEC1;PST	esot gatavojis	V;LGSPEC1;IMP	lai gatavojot

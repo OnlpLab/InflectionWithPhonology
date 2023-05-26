@@ -1,0 +1,1000 @@
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyülü değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bilgisayarlı değilsin	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bilgisayarlı mıymışım?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	çirkindiler
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bilgisayarlı değilmiş
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyülüydünüz	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyülü değil miydiler?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin	ADJ;LGSPEC1;PST;3;SG;POS;DECL	çirkindi
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bilgisayarlı mıyım?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bilgisayarlı değiller mi?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bilgisayarlı
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	çirkin değiller mi?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	çirkin değil miymişsin?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	erdemli değildi	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	erdemli değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	çirkin değilmişim	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	çirkin değildi
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	erdemli değil misin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	erdemli değilmişiz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	barbar mıyız?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	çirkin değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	çirkin değilmişiz
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	alımlılar mı?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	alımlıyız
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	barbar değiliz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	barbarmışız
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	alımlıyız	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	alımlılar	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	alımlı mıyım?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	sıradan değil miydik?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	büyülü değilmişsin	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	erdemli miyiz?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	erdemliydim
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	erdemliler	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bilgisayarlı mıyız?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bilgisayarlıymışlar
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	erdemli değil miyim?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	erdemliler
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	çirkin değildiler	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	barbar
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	alımlı değil miymişsin?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	alımlıydı
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	erdemli değildiler
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	sıradan değil mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	barbar mıydılar?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	barbar değilmişim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	sıradan mıymışlar?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	barbar değilsin	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	alımlı mıymışım?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	barbardım	ADJ;LGSPEC1;PST;1;PL;POS;DECL	barbardık
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	çirkin değil misin?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bilgisayarlı mıyız?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bilgisayarlı değildiler
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	barbardın	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	erdemli miydin?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	erdemli değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	alımlı mıymışsın?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	alımlılar mı?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	çirkin değil
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyülü değiller mi?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	büyülüsünüz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyülüymüşüz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	alımlı değil miymişiz?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyülü değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyülü değil misin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bilgisayarlı mıymış?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	bilgisayarlılar
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	çirkindiniz
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	erdemliymişsin	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	erdemli değildiler
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	barbar değil miymiş?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyülü değilsiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	sıradan değilim	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	sıradan değildiler
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bilgisayarlı değil miydim?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	çirkinmişim	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	barbar değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bilgisayarlıymışsın	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyülüymüşsün	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyülü değil miyiz?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	barbar mısın?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	erdemliymiş	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	erdemli değilsin
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyülü değilmişsiniz
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	çirkin miydim?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	alımlı değilmişim	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	çirkin değildiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	erdemli miymiş?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	sıradanlar mı?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	erdemliydi	ADJ;LGSPEC1;PST;3;PL;POS;INTR	erdemli miydiler?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	erdemli değil misiniz?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	erdemli misiniz?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	çirkin miyim?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyülü müymüş?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	büyülüydük
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	barbar değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	barbar değil miymiş?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bilgisayarlı mıyız?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	bilgisayarlı değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	barbar değilmişim	ADJ;LGSPEC1;PST;1;PL;POS;INTR	barbar mıydık?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	alımlıymışsın	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	alımlı mıymışlar?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bilgisayarlı mısın?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	bilgisayarlı değildik
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	barbar değildim
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	barbarmışsınız	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	çirkin miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	sıradan değil miymişim?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	sıradan değil miydik?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	alımlıyız	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	alımlı değil misiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bilgisayarlı mısınız?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	sıradan değilsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız	ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	erdemli değil miymiş?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	erdemli değilim
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	bilgisayarlı mıydınız?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bilgisayarlı değil miymişim?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	barbar değildim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	barbarım
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyülüler mi?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyülü değildiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyülü değil miymişiz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	barbar değil mi?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	erdemli miymişsin?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	erdemliydin	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	erdemli değiliz
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	bilgisayarlı mıydın?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bilgisayarlı değildiler
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	çirkin değil miymiş?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyülü değildin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	erdemliler mi?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	erdemli değilmişim
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	erdemliymişsiniz
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bilgisayarlıymışsınız	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	erdemli değilmişiz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	erdemliymişsin
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyülü müydük?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	sıradan mıyım?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	sıradan değiliz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	çirkindiler	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	çirkinmiş
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	barbar mıydılar?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	barbar değiliz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyülü	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	erdemli değil miydiler?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	erdemli değil miydi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	sıradan değilsiniz	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	barbar değilmişim	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	barbar değil miyiz?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	barbar değiliz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bilgisayarlı değil miymiş?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bilgisayarlıymışsınız	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	bilgisayarlı değilim
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	sıradan değildin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	çirkin miymiş?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyülüydün	ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	sıradan değilmişsin	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	büyülü değil miydik?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	erdemli değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	erdemli değilmişim
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	alımlı değil miydik?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	alımlı değil miydin?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	çirkindi
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	çirkin miydiler?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	çirkin miydim?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	sıradan değildin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	barbar mıydınız?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	barbarlar
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	çirkin miydik?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	çirkin değil miymişsin?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	erdemli değil miyim?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	erdemli değil miydim?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	alımlı değil
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	bilgisayarlı mıydık?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	bilgisayarlılar mı?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	alımlı değil miymişsiniz?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	alımlısınız
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	alımlıyım	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	çirkin miydi?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	çirkin değil miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	erdemlisiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bilgisayarlı değil miydim?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bilgisayarlı değil miydiler?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	bilgisayarlı değil miydiniz?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	sıradan değil miydiler?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	sıradan değilmişim
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	alımlı değil miydim?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	büyülüydüm	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	erdemli miyiz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	büyülü değil misiniz?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyülüymüşler
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	erdemli miyiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	erdemli değil miymişsin?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	çirkin değildi	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	çirkin değilmişim
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	barbar mıyız?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyülüymüş	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	büyülü değilmişiz
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	çirkin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	barbardık	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	barbar değil miydim?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bilgisayarlı değil miydiler?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	sıradan değildi	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	sıradan değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	alımlıymışsınız	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	alımlı değil misin?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	çirkinsin	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	çirkin değil miymiş?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	erdemlisin	ADJ;LGSPEC1;PST;3;SG;POS;INTR	erdemli miydi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	erdemli değil misin?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	erdemli değiliz	ADJ;LGSPEC1;PST;3;SG;POS;DECL	erdemliydi
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	barbar mıymışım?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	erdemli değildin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar	ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	alımlı değil miymiş?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	alımlı değilmişler
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	sıradan mıydık?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	sıradan değildiniz
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	erdemli miydin?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	bilgisayarlı değil miymişsiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bilgisayarlı değil miydiler?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyülüydü	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyülü değildiniz
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyülü değil miydim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyülü müydüm?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyülü değil miymiş?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bilgisayarlı değiller mi?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	sıradan değildiler
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bilgisayarlı mısınız?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	alımlı değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	alımlıymışlar
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	erdemli değil misiniz?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	çirkin değil misiniz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	çirkin değil mi?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	çirkin değilim
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	çirkin miymişiz?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	çirkin değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	sıradan değil miymişim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	sıradan mıymışız?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	çirkin değil miymişsin?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş	ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyülü müymüş?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	büyülü değilmişsin
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	büyülü değildik	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	büyülüyüz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyülüymüşsünüz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyülü değil miymiş?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	erdemli değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	erdemli miymişiz?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	sıradan mıydılar?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	erdemli miydik?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	erdemliymişler
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	erdemli değil miymiş?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	erdemliymişim
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyülüymüş	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyülü değiller mi?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	büyülüydüm	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	büyülüsünüz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin	ADJ;LGSPEC1;PST;1;PL;POS;INTR	erdemli miydik?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	alımlıydı	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	çirkin değilmişim
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin	ADJ;LGSPEC1;PST;3;PL;POS;DECL	barbardılar
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	çirkin değilim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	çirkinim
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	alımlı değil miyim?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	alımlı değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	barbarmışlar	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bilgisayarlı değil miydim?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bilgisayarlı değildiniz	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	bilgisayarlılar
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	barbarmışım	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	barbar değilmişim
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bilgisayarlı mısın?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	alımlı değilmişsin
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	alımlı değiliz	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	alımlı değilmişsin
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	erdemli değil miydim?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	erdemli miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bilgisayarlı	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	alımlı mısın?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	alımlı mıydınız?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	sıradansın
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	sıradandık	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	sıradan mısın?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	bilgisayarlı mıydım?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bilgisayarlı mıymışız?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bilgisayarlı mıymışsın?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bilgisayarlı değiller	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	çirkin miymişsin?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	erdemli değil misiniz?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	sıradan değilmişim	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	sıradan mıymışız?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyülüymüşler	ADJ;LGSPEC1;PST;3;SG;POS;INTR	büyülü müydü?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyülü
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	barbar değildiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	barbar değil miymişsin?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	bilgisayarlı değildik	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bilgisayarlısın	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	erdemliydi	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	erdemliymiş
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyülü değil miymişiz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	alımlı mı?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	alımlıydı
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	çirkin miymişiz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	barbarmışım	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	barbarlar
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	büyülü değilmişsin	ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyülüymüşsünüz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	erdemli değilsin	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	erdemli değildin
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	çirkin değil mi?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	çirkin değil misin?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	sıradandın	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	sıradan değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	erdemli değildi
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	alımlı mıymışsın?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	alımlıymışsın
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	erdemli değil miydi?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	erdemli miydiler?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	barbar mıyız?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyülü müydük?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyülüydü
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	sıradan değildik
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	barbar mıyız?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	barbarmışız
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bilgisayarlıyım	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	barbardılar	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	büyülü değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyülü değil miymişim?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	çirkinmişiz
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	barbar değildik	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	sıradan değil miymişim?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	sıradan mıymış?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	barbardınız
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	barbarmışsın	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	barbar değildim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	alımlı değilmişim	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	alımlı mıyım?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	alımlı değil miydi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	alımlı değil miymişler?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	barbar değil miyiz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	barbar değildiniz
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	erdemliydiniz	ADJ;LGSPEC1;PST;1;PL;POS;DECL	erdemliydik
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	alımlı değil miymişim?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	alımlıydık
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	alımlı değil mi?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	sıradan değilmişim
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bilgisayarlı mıymışız?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	barbar değilmiş
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	çirkin miydik?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	çirkin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	çirkinmişsiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	çirkin değil misiniz?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	çirkin değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	çirkin değilmişsiniz
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyülü değil misin?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyülüymüşsün
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	alımlı değil miymişiz?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	alımlıydın
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	barbarmışlar
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	alımlı değil	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	barbar değil mi?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	çirkin değilsin	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	çirkin değilmişiz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	alımlı değil miymişler?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	barbar değil mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	barbar değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	sıradan değil
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyülü değildin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyülü değildin
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	erdemli değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	erdemli miymişsiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	bilgisayarlı mıydı?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bilgisayarlı değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	sıradan değildiniz
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyülüydün	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyülü müydüler?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	barbar değil misiniz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	barbar değil miymişsin?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyülü müydüm?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	sıradan mıydım?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	sıradan mıyım?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	erdemli değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	erdemliymişiz
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bilgisayarlı değil mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	barbarmışsınız	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	barbar değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	çirkin değilmişler	ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	sıradanlar mı?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	sıradan mıydık?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	barbarsın	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	bilgisayarlı değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	bilgisayarlıydı
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	bilgisayarlı değil miyiz?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bilgisayarlı
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bilgisayarlıymış	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	alımlı değil miymişler?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	alımlıymışlar
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bilgisayarlı değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bilgisayarlı mıymışsınız?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	alımlı mısın?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	alımlı değil miydiler?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	barbar değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	alımlıymışım
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	alımlıymış	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	alımlı değildiler
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	bilgisayarlı mıydı?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bilgisayarlı değilsin
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	sıradan değil miymişsiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	erdemli değil misin?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	erdemliyiz	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	erdemli değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	barbarmışım
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	bilgisayarlı mıydık?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bilgisayarlı değilsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyülü değil miymişler?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	büyülü değil miydiniz?
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	çirkin miydin?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyülü değil miymişler?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	çirkinsin	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bilgisayarlı mıymışsın?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	barbarmışsın	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	barbar mıyım?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bilgisayarlı mıymışsın?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	sıradan değildik
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	çirkin değil misiniz?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	sıradandın	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	sıradan değilsiniz
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	çirkin değilsin	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	çirkinmişsiniz
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	alımlı değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	erdemli değildiler	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	erdemli değil miydi?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyülüymüşüz	ADJ;LGSPEC1;PST;1;PL;POS;DECL	büyülüydük
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyülüymüşüz	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyülü değildin
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	alımlısın	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	alımlı değil mi?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	alımlı değil miydi?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyülü değil miymişler?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	barbar değildiler	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	barbarlar
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bilgisayarlı değilmiş	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bilgisayarlı değil miydi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	çirkin değilsiniz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	erdemli değil miydi?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	erdemli değil miydiler?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyülü müyüm?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	bilgisayarlı değil miymişler?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	bilgisayarlıyız
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	erdemli değildiler	ADJ;LGSPEC1;PST;3;SG;POS;INTR	erdemli miydi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	çirkin değilsiniz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	çirkinsiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyülü değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	barbarmış	ADJ;LGSPEC1;PST;3;SG;POS;DECL	barbardı
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	büyülü değil miydin?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	büyülü değil mi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	erdemli değiliz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyülü	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	büyülüymüşüm
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	sıradanmışım	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	sıradan değildin
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	çirkindi	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	çirkin miymişsin?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	erdemliydiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	erdemli miymişiz?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	çirkin değildiniz	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	alımlı mıymışsın?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	alımlı değildiler
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bilgisayarlı değil miydi?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	bilgisayarlı değildik
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	erdemli değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	erdemliymişim
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	erdemliyim
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	barbar değilmişler	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değilsiniz
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	çirkin değilmişler
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyülüymüşüz
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	alımlı değil miydik?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	alımlı mıymışsınız?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	erdemli değil miydim?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	erdemliyim
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz	ADJ;LGSPEC1;PST;1;SG;POS;INTR	barbar mıydım?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın	ADJ;LGSPEC1;PST;1;SG;POS;INTR	bilgisayarlı mıydım?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	büyülü değil miydin?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	sıradan mıymış?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	çirkin değil miydim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bilgisayarlıymışsın	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	erdemli miydiler?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	sıradansınız	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	sıradan değildiler
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyülüymüşler	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bilgisayarlı değil	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bilgisayarlıymışlar
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bilgisayarlı değil mi?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	bilgisayarlıydılar
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	erdemli miydi?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	erdemli değil miydiler?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyülü değil miydim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	erdemli miymişsiniz?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	erdemlisiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	erdemli değil miydik?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bilgisayarlı değiller mi?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	çirkin değildiniz	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	çirkinim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	barbar mıymışlar?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	barbar değil miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	barbar değil mi?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	çirkin değil miydim?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	erdemliyim	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	erdemli miydim?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	çirkinsiniz	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	çirkin değiller
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyülü müydüm?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;PST;2;SG;POS;INTR	bilgisayarlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	sıradan değilmişsin	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	çirkin değilsin	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	erdemli değildi	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	erdemli değiliz
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	bilgisayarlı mı?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyülüymüşler	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyülü değilmişim
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	alımlıydılar	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	alımlı mıyız?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	alımlıydı
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz	ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;PST;2;SG;POS;INTR	sıradan mıydın?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	alımlı değil misin?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	alımlı değil mi?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	bilgisayarlı değilim
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyülü değil misin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyülü değilmişim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	erdemliymişler	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	barbar mıydık?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;PST;1;SG;POS;INTR	bilgisayarlı mıydım?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyülü değil miyiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	büyülü değil miymişsin?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	alımlı mıydınız?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	alımlı değil miydi?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	alımlısınız	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	alımlı değil miymişiz?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	erdemli değil miydim?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	barbar değildiler	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	barbar değil miydim?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	sıradandın	ADJ;LGSPEC1;PST;2;PL;POS;INTR	sıradan mıydınız?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	erdemliydim
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	büyülü değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyülü değil miymişiz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	barbar	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	alımlı değildin	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	alımlılar mı?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	alımlı mıyım?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	alımlı mıydı?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	alımlısın	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	barbar değilmişim	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	barbar değil miydim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz	ADJ;LGSPEC1;PST;1;PL;POS;DECL	alımlıydık
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	erdemlisin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	barbar değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	erdemli değiller mi?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	alımlı değiller	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	sıradan mıymışız?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bilgisayarlı mıymışım?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyülü değilmişsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	büyülüsün
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	erdemli değilmişiz	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	erdemli değildiler
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	sıradan değilmişim
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	alımlı değilmişler	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	alımlı değiller
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	barbar mıymış?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	barbar değil miymişim?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	alımlıyım	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	alımlı mıymışız?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	alımlı değilmişim	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	alımlısınız
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bilgisayarlı değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	erdemli değilmişim	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	sıradan değil	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	alımlılar mı?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bilgisayarlı değiliz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	sıradanız	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	sıradan mıymışlar?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	çirkin değil	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	çirkinmiş
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	alımlı değildik	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	alımlılar
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyülüler mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	alımlı değil miymişsiniz?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	alımlı değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	çirkinmişim	ADJ;LGSPEC1;PST;1;PL;POS;INTR	çirkin miydik?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bilgisayarlı değil miyim?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	erdemlisiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	barbar değil miymişiz?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	çirkinsiniz
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	sıradan mıymışım?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bilgisayarlı değiliz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	büyülü müyüz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	sıradan değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bilgisayarlı mıyız?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	çirkin değilim
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	alımlı değildiler	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	alımlı değil misin?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	erdemli değildin
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	barbarmışım	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	barbar değil misiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	bilgisayarlı mıydı?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	alımlı değil mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	alımlı değilmişler
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyülü değil misin?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	büyülü değiliz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	erdemli misiniz?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	erdemli değilmişiz	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	erdemli değil mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyülü değil miymiş?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	sıradan mıymış?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyülü değilmişim	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyülü müymüşsün?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bilgisayarlıymışsın
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyülü müymüşüm?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyülüler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	erdemliymiş	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	erdemli değil miydiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	alımlı değil miymişiz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	barbar mıymışlar?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın	ADJ;LGSPEC1;PST;3;PL;POS;DECL	sıradandılar
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	sıradansın	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	sıradan değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	alımlı değildin	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	sıradan değil miymişsin?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	barbar değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	barbar değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;PST;3;PL;POS;DECL	sıradandılar
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	çirkinsin
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	sıradan değil misin?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyülü değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	erdemli değil miymişsiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	sıradan mıymışsınız?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	bilgisayarlıyız
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	barbar mıymışım?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	barbar mısın?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	sıradan değilsiniz	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	sıradan
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyülü değildiniz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyülü müsün?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	çirkin miymişler?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz	ADJ;LGSPEC1;PST;2;PL;POS;DECL	alımlıydınız
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyülü değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	büyülü müymüşsünüz?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	büyülü değil miydiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	sıradansınız	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	sıradan mısın?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	barbar değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	barbar değilmişsiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	alımlı değil miydiler?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	çirkin değilmişiz	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	çirkin değiller
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	barbar değil miydiler?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	çirkin değil miyim?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	çirkinsin
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	erdemliymişsiniz	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	erdemliymiş
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	çirkin misin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	çirkin değilmişiz
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	çirkin değilmişsiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bilgisayarlı değildiler	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bilgisayarlı değil
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bilgisayarlı mısınız?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bilgisayarlı değil mi?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	çirkin değil miydim?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	bilgisayarlı değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	çirkinmişiz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	alımlı değil	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değilsiniz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	alımlı mıydık?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	alımlı mıymışım?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	çirkin miymiş?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	çirkin değilmişsin
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	sıradan değil misiniz?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	erdemli miydim?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	erdemli değil miydiler?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	alımlı değil miymişim?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyülü değildin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	barbardınız	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	barbar mıymışız?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bilgisayarlıymışsınız	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	sıradan değil miymişim?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	çirkin değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	alımlı mıymışım?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	sıradan mıymış?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	çirkin değilmişler	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	erdemlisiniz	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	erdemli değildin
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	çirkinmişim	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	sıradan mıydılar?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bilgisayarlıymış	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	bilgisayarlılar
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	çirkinim	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	çirkin miymişiz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	erdemli değilmişler	ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyülü değilsiniz	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi	ADJ;LGSPEC1;PST;1;PL;POS;INTR	bilgisayarlı mıydık?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bilgisayarlı değiller
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız	ADJ;LGSPEC1;PST;1;SG;POS;DECL	sıradandım
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	sıradan değil miydi?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	sıradan değildiniz
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	barbardı	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bilgisayarlısın	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyülüydünüz	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyülü değil miyim?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyülü değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyülü değil miyim?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	çirkindin	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	çirkin değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin	ADJ;LGSPEC1;PST;2;SG;POS;DECL	barbardın
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	barbar değildiler	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	barbar değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	erdemliymişiz	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	erdemli değilsin
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	çirkin miydik?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	çirkindin
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyülü müyüm?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	büyülüsünüz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	barbar
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	erdemli değil misiniz?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	erdemli miydiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	sıradan mıyız?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	sıradan değilmişiz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	sıradanmışım
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bilgisayarlı değiller mi?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	erdemli miymişiz?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bilgisayarlıymış
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	alımlıydılar	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	sıradan değil misiniz?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	barbar değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	sıradan mıymışsınız?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	çirkin miyiz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	barbarmışlar	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	barbarmış
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	barbar değil miydiniz?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	alımlı değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	barbar değil miymişim?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	alımlı değil miydin?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	alımlı değilsiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	erdemli miymişsin?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	erdemliydiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	alımlıydılar	ADJ;LGSPEC1;PST;1;SG;POS;INTR	alımlı mıydım?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	barbar değilmişsiniz	ADJ;LGSPEC1;PST;2;PL;POS;INTR	barbar mıydınız?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bilgisayarlı değildiniz	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	çirkin değil mi?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	bilgisayarlı değil miymişler?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bilgisayarlıydım
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	erdemli değilmiş	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	alımlı değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bilgisayarlıymışlar	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	sıradan mıymışsınız?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz	ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bilgisayarlı değil miydi?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	sıradan değil miymişsin?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	sıradansınız
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	sıradanız
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	barbar değil miydiniz?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	barbar
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyülü değil miydim?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bilgisayarlı mıyım?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bilgisayarlı değil miymiş?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	alımlı değilsiniz	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	alımlı değil miyiz?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	bilgisayarlı mıydık?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	bilgisayarlılar
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	alımlı değil miymişiz?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	alımlıydık
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	erdemli değildiniz	ADJ;LGSPEC1;PST;1;SG;POS;INTR	erdemli miydim?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	barbar mıymışız?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	barbar değilmiş
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	çirkinim	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	çirkin değildiniz
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	çirkin değil miymiş?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bilgisayarlı değildiler	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bilgisayarlıyım
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyülüymüşsün	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	erdemli	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	erdemli değil miydiler?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bilgisayarlı değilsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	erdemli değildiniz
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	alımlı değil miymiş?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	alımlı değildik
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	erdemli değiller mi?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	erdemli değiliz
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	erdemliymişsiniz
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	çirkin değil miydi?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	sıradan mıymışız?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	barbarmışsın
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	sıradan mıydım?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	barbarmışız	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	barbar mıymışsın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	çirkin miymişiz?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	çirkindi
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyülü değilmişim	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyülü değil miymişiz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyülü değil miydiler?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	sıradan değil miydi?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	büyülü değiliz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyülüymüşsünüz
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	barbardık	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	erdemliler	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	alımlı değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	alımlıymışım
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	çirkinmişim
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	barbar değilmişiz	ADJ;LGSPEC1;PST;3;PL;POS;INTR	barbar mıydılar?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	büyülü değilmişsin	ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	erdemliymişler	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	erdemliymiş
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	erdemli miydiniz?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	erdemliymişiz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	bilgisayarlılar
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	erdemli değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	sıradan değilmişim	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	sıradan değildin
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	çirkinmişim	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	erdemli değildin	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	erdemliymişim
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bilgisayarlı değilsin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	sıradan mısın?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyülü değilmişim	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyülü müyüm?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	sıradanız	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	sıradan değiller
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	bilgisayarlı mıydın?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bilgisayarlıydın
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	sıradan mıyım?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	sıradandı
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyülüydüler
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	barbar değilim	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bilgisayarlıymış	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bilgisayarlı değil mi?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bilgisayarlıydılar	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	erdemliler mi?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	erdemliydi
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bilgisayarlı değildiler
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyülü müsünüz?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyülü değil
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	çirkin miymiş?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	çirkin miydi?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	çirkin değil miydiniz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	sıradan mıymışız?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	barbar değildim	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	bilgisayarlıyız	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bilgisayarlı mıymışsın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	barbarmışız	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	alımlı değil miydiler?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	alımlı değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bilgisayarlı değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	büyülü değilmişiz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyülüymüşsünüz
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	bilgisayarlı değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bilgisayarlı mıymışız?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	sıradan değilim	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	alımlı değildik
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	erdemli miymişim?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	erdemliymişsin
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	sıradan mıyız?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	çirkin miyim?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	çirkin miymiş?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız	ADJ;LGSPEC1;PST;2;PL;POS;INTR	bilgisayarlı mıydınız?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bilgisayarlısınız	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bilgisayarlı mıymış?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	sıradan değildik	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	çirkin değilmişsiniz	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bilgisayarlı değildi	ADJ;LGSPEC1;PST;2;SG;POS;INTR	bilgisayarlı mıydın?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyülü değil miyim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyülü değil misin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyülü müyüm?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	sıradan mıyım?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	erdemli mi?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	alımlıymışsınız	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	sıradandım	ADJ;LGSPEC1;PST;1;PL;POS;DECL	sıradandık
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	alımlı değil misin?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	alımlı değildim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	sıradan değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	bilgisayarlı mıydınız?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	çirkin değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	çirkin miymişler?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	çirkin değil misin?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	erdemli değildim	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	erdemli miyim?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	erdemli değilsiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	barbar mıymışsın?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	barbar değiller
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	alımlıymışlar
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	barbardım	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	barbar mıyız?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	alımlı mıymış?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	alımlı değilmiş
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	erdemli değiller	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	erdemli değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	alımlı değil miymiş?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	alımlı değil miymişsiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	barbarım	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	barbar değildiniz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	çirkindiler
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	barbardı	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	barbar mıymışlar?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bilgisayarlı değil miymiş?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	büyülü değil mi?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyülüydü
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	erdemli miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bilgisayarlı mıyım?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bilgisayarlıymışsın
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	alımlı değil miymişsin?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	alımlı değil
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	alımlı değiller	ADJ;LGSPEC1;PST;2;PL;POS;INTR	alımlı mıydınız?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	çirkin değil miydin?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	çirkin mi?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyülü müydüler?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyülü değilsiniz
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	çirkin değiller	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	çirkin değil mi?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	erdemli miydiniz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	erdemliymişsiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	barbar mıymışsın?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler	ADJ;LGSPEC1;PST;2;SG;POS;INTR	sıradan mıydın?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	erdemli değil miydik?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	erdemli değilsin
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	sıradan değildik	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	sıradan değil miymişler?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	barbardım	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	alımlıydın	ADJ;LGSPEC1;PST;3;PL;POS;INTR	alımlı mıydılar?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	alımlı değiliz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	alımlı değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	barbar mıymış?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	barbar değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	sıradan değil miymişsin?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	sıradan değiller
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	barbar mıymışsın?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	erdemli miymişsiniz?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler	ADJ;LGSPEC1;PST;3;PL;POS;INTR	sıradan mıydılar?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	çirkin miyim?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	çirkin değiller
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bilgisayarlıydılar	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	sıradandılar	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	sıradan değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	çirkinmişiz	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	çirkin mi?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	çirkin değildi	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	erdemli değilmişler	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	erdemliymişiz
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bilgisayarlı değiliz
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	çirkin değil miyim?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	çirkin değilmişsin
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	sıradan değildi
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	alımlıymışsın	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	alımlı değilsiniz
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	barbardık	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	barbar mı?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	erdemli değilmişler
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değilsiniz
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	barbar mıydın?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	alımlıydık	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	alımlı değilmişler
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	sıradan değil
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyülüymüş
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyülü müymüşler?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	alımlı mıydınız?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	alımlı değil miydim?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	sıradan değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	sıradan değil miymişsiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	alımlı değilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	alımlı mıymış?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	alımlı değil miydin?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	çirkin değil	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	çirkinmişsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyülüymüşüz	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyülü değiller
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	sıradanız	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	sıradan değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bilgisayarlı değilmişsiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	bilgisayarlı değilsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	erdemli değil mi?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	erdemli değiller mi?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	erdemliydin	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	erdemli değiller	ADJ;LGSPEC1;PST;2;SG;POS;INTR	erdemli miydin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	barbar değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	alımlı mı?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	alımlı değilsin
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	sıradan değil miymiş?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	sıradan değil miydik?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	sıradan değil miydim?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	erdemlisin	ADJ;LGSPEC1;PST;1;PL;POS;DECL	erdemliydik
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	alımlı değildik
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	çirkin değil miymişim?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	erdemliler mi?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	çirkin miyim?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	çirkin değilmişsiniz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	alımlı değil miyiz?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyülü değildi
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	bilgisayarlı mıydık?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bilgisayarlıymışlar
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	alımlı değil miymiş?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	alımlıydınız
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	çirkin değil miyim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	barbardın
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	çirkindiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	çirkin değilmişler	ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	çirkin değilmişsin	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	çirkin mi?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	barbar değilim	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	barbarmış
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	barbar değilsin	ADJ;LGSPEC1;PST;2;SG;POS;INTR	barbar mıydın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	sıradan değildi
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	sıradan değil miydi?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	sıradan mıydılar?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	büyülüydüm	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyülü değil miyiz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	alımlı değil misiniz?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	sıradan mıymışlar?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	erdemli miymişler?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	erdemliydik
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	alımlıymışız	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	alımlıymışım
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	sıradan değiller mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bilgisayarlıymışız
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyülüydü	ADJ;LGSPEC1;PST;2;SG;POS;INTR	büyülü müydün?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	büyülü değil miymişsin?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyülü müydüler?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	sıradanmışsın
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	sıradan mıydın?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bilgisayarlı mıymışız?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	bilgisayarlıydınız
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	bilgisayarlıydınız	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	sıradan değil miydiler?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	sıradan değildiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	çirkin değilmişiz	ADJ;LGSPEC1;PST;3;PL;POS;INTR	çirkin miydiler?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	bilgisayarlıydı	ADJ;LGSPEC1;PST;1;PL;POS;DECL	bilgisayarlıydık
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bilgisayarlı değilmişsin	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bilgisayarlı değildin
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	çirkin değildiler	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	çirkinsin
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	erdemliydiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	erdemli değiller mi?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	erdemli misiniz?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	sıradan değil miydik?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	barbar mıymışsınız?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	sıradan değil	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	çirkin değiller mi?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyülü değilim	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyülü değilsiniz
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	sıradan değil miydin?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bilgisayarlı mıymışlar?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bilgisayarlı değil miymiş?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	sıradandım	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	çirkindin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	çirkin miymişiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	sıradanmışsınız	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	sıradan mıymışsın?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	barbar mıydık?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	barbar mıydım?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	barbar mıydılar?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyülü müydüler?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyülüydün
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	alımlı mıymışız?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	alımlı değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	çirkin değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	alımlı mıymışım?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	alımlı mıydınız?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	çirkin miydiler?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	çirkin
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	büyülü değil misiniz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyülü değildiniz
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	alımlı mıydım?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	alımlıymışım
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	sıradan değildim	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değilsiniz	ADJ;LGSPEC1;PST;1;SG;POS;DECL	barbardım
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	erdemliymişsiniz	ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	çirkin miymişim?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	çirkin değiller mi?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	alımlıydın
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyülü değil miymişler?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyülü müymüş?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	alımlı mıymışsınız?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	barbar değil misin?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	barbardım
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	sıradanlar	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	sıradan mıyım?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	barbar değil miydin?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	barbar değiller mi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	alımlı değil misiniz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	büyülü müydü?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyülü müsünüz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	barbar değil miymişler?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	barbarlar mı?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	alımlı değildi	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	alımlı değildiniz
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;PST;1;SG;POS;INTR	erdemli miydim?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	çirkindin	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyülü değildim	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyülüler
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	barbarsınız	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bilgisayarlı mıydı?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	alımlı değilmişiz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	alımlıymışlar
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	sıradan	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	sıradan değildik
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	çirkin değiliz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	erdemli değil miydin?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler	ADJ;LGSPEC1;PST;1;SG;POS;INTR	çirkin miydim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	erdemli değil miymişiz?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	erdemli değil miyiz?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	alımlı mıyız?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	alımlı değilmişim
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	çirkin değiller	ADJ;LGSPEC1;PST;2;SG;POS;DECL	çirkindin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	barbarmış	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	barbar değil miymişsin?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	çirkin değilsiniz	ADJ;LGSPEC1;PST;2;PL;POS;DECL	çirkindiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	erdemli değilmişsin	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	erdemli miyiz?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	alımlılar	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	alımlı değiller mi?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	barbar mısın?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	barbar değil miydik?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	alımlı mıymışız?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	alımlı değil miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	erdemli değil mi?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	erdemli miydim?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	çirkin değil miydiler?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	çirkin değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	barbar değilmişler	ADJ;LGSPEC1;PST;2;PL;POS;DECL	barbardınız
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bilgisayarlı değildim	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bilgisayarlı değilmiş
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	barbar değil miydim?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	barbar değil miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	alımlı mı?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	çirkin değilmişsiniz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	çirkinsiniz
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bilgisayarlı değil misin?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bilgisayarlı mıyız?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	erdemli değildik	ADJ;LGSPEC1;PST;3;SG;POS;DECL	erdemliydi
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyülüymüşler	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyülü müydüler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	erdemlisiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bilgisayarlı değilmişler	ADJ;LGSPEC1;PST;2;PL;POS;DECL	bilgisayarlıydınız
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	erdemli misin?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	sıradan mıydım?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	barbar değil miyiz?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	barbar değilim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	çirkin miymişler?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	çirkinler	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	çirkin değil misiniz?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	büyülü değildik	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyülü değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	çirkin
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	erdemliydik	ADJ;LGSPEC1;PST;3;SG;POS;INTR	erdemli miydi?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	sıradan mısınız?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bilgisayarlı değil miydik?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bilgisayarlı değildiniz
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyülüydünüz	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyülü değilmişsiniz
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	sıradan değiliz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	sıradan değilmiş
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	çirkin değil miydim?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	erdemliyiz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyülü müydük?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyülüyüm
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	alımlı mısınız?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	alımlı mıydın?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyülü müymüşüz?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	erdemli değildiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	erdemli değil
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bilgisayarlıydılar	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bilgisayarlı mıydılar?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyülü müydünüz?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyülü değil miymişim?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	barbar değildik	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	barbar mıyım?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	çirkinmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyülü müymüşsün?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	büyülü müydün?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bilgisayarlı değil miydim?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bilgisayarlı değil
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	sıradan mısın?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	sıradan mıymış?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	barbarsın	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	barbar değildi
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyülü değil miydim?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyülü değil miydi?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	barbardın	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	barbar değildin
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	bilgisayarlıyız	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	bilgisayarlı değil miymişsiniz?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	bilgisayarlı değilmişiz
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	erdemli değilmişsiniz	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	erdemli değilim
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	erdemli misin?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	erdemli değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	alımlı değildik	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	alımlısınız
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	sıradan değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	barbar değil miyim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	barbar mıymışız?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	erdemliydik	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	erdemli değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	çirkin değildim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	sıradanmışlar	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	sıradanız
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	erdemli değil miymişler?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	erdemli değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	barbar değilmişsiniz	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	barbar değil miydi?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyülü değil miydim?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	büyülüsün
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	sıradan değildiniz	ADJ;LGSPEC1;PST;2;PL;POS;DECL	sıradandınız
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	çirkin değil miydim?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	çirkin değilmişler
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	çirkinmişler	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	çirkin değil miymişiz?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	çirkin miyim?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	çirkindim
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyülü değilsin	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyülü değildiler
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	çirkin değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	barbar değilmişsin	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	barbar mısınız?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	sıradan mıydı?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	sıradan değil miymişiz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	sıradanım	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	sıradan değil miyim?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	sıradan değil miyiz?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	sıradandım
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	sıradanlar mı?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	sıradan mıydılar?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	alımlı değilsiniz	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	alımlı değildim
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	sıradan mıydık?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	sıradan mıymışlar?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyülü müymüş?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyülü değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	barbarmışız	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	barbarım
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	bilgisayarlıydık	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bilgisayarlı değil miydin?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bilgisayarlı değil miymiş?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bilgisayarlıymışsın
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	çirkindik	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	çirkin miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	büyülü değilmişiz	ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyülüydün
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	çirkin miydi?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	çirkin miymişler?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	çirkin miydim?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	alımlı	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	alımlı değil
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	barbarmışsın	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	barbar değilsiniz
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	çirkinmiş
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	barbar değilmişler	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	barbarız
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	çirkin değil miymişsiniz?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	çirkiniz
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	çirkin değil miydik?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	çirkinler mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	alımlıymış	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	alımlı değil miydik?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	erdemli miymişim?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	erdemliydiler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	sıradanmış	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	sıradanmışız
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	alımlı mıydık?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	alımlı değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	alımlı mıymışız?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	alımlı mıydık?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım	ADJ;LGSPEC1;PST;3;SG;POS;DECL	bilgisayarlıydı
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	çirkin misiniz?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	çirkin misin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bilgisayarlı değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bilgisayarlıymışım
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	çirkin değildik	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	çirkinmişiz
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyülü müyüm?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	büyülüydüm
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bilgisayarlı mıymışım?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	bilgisayarlıydılar
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyülü değil miymişler?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyülüydünüz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	erdemliymişler	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	erdemli değiller
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	alımlısınız	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	alımlı mıymış?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	alımlıyım	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	alımlı değil miymişsiniz?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	alımlı mısın?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	alımlı değildin
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	çirkinsiniz	ADJ;LGSPEC1;PST;2;PL;POS;DECL	çirkindiniz
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	çirkin değildin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	çirkin miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	barbar değil	ADJ;LGSPEC1;PST;1;PL;POS;DECL	barbardık
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	sıradan değil misiniz?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	sıradan değilsin

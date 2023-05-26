@@ -1,0 +1,1000 @@
+V;NEC;PST;PROG;2;PL;INTR;POS	okuyor olmalı mıydınız	V;IND;FUT;PRSP;2;PL;POS;DECL	okuyacak olacaksınız
+V;NEC;PST;PROG;2;PL;INTR;POS	rahmetli oluyor olmalı mıydınız	V;IND;PST;HAB;1;PL;NEG;INTR	rahmetli olmaz mıydık
+V;NEC;INFR;PST;1;SG;INTR;POS	ilklendirmeli miymişim	V;INFR;PST;PERF;2;PL;INTR;POS	ilklendirmiş miydiniz
+V;IND;PST;PRSP;PROG;2;PL;NEG;DECL	doğuruyor olmayacaktınız	V;IND;FUT;3;PL;INTR;POS	doğuracaklar mı
+V;INFR;FUT;PERF;2;SG;NEG;DECL	solmuş olmayacaksın	V;INFR;PST;3;SG;INTR;POS	solmuş mu
+V;IND;PST;2;PL;POS;DECL	boşaldınız	V;INFR;FUT;HAB;1;SG;NEG;INTR	boşalır olmayacak mıymışım
+V;NEC;INFR;PST;2;SG;POS;DECL	aramalıymışsın	V;INFR;FUT;PROG;3;PL;NEG;DECL	arıyor olmayacaklarmış
+V;IND;PST;1;PL;NEG;DECL	oynamadık	V;NEC;PST;3;SG;NEG;DECL	oynamamalıydı
+V;INFR;FUT;PROG;2;SG;NEG;DECL	işliyor olmayacakmışsın	V;NEC;INFR;PST;3;SG;NEG;DECL	işlememeliymiş
+V;IND;PST;PRSP;1;SG;NEG;DECL	boşalmayacaktım	V;IND;PRS;HAB;3;SG;INTR;POS	boşalır mı
+V;INFR;LGSPEC1;PST;1;PL;NEG;INTR	yıpranmamış mıymışız	V;NEC;PST;PROG;2;SG;NEG;INTR	yıpranıyor olmamalı mıydın
+V;IND;FUT;PRSP;3;PL;POS;DECL	şikâyet edecek olacaklar	V;INFR;FUT;PROG;2;SG;INTR;POS	şikâyet ediyor olacak mıymışsın
+V;IND;PST;PRSP;PROG;2;PL;POS;DECL	iğreniyor olacaktınız	V;IND;PST;PRSP;3;SG;NEG;INTR	iğrenmeyecek miydi
+V;INFR;LGSPEC1;PST;1;SG;NEG;INTR	azmamış mıymışım	V;INFR;FUT;PRSP;2;PL;INTR;POS	azacak olacak mıymışsınız
+V;NEC;INFR;PRS;PROG;2;SG;NEG;DECL	programlattırıyor olmamalıymışsın	V;INFR;FUT;PROG;1;SG;INTR;POS	programlattırıyor olacak mıymışım
+V;INFR;LGSPEC1;PST;2;SG;INTR;POS	aldatmış mıymışsın	V;INFR;FUT;PROG;3;PL;POS;DECL	aldatıyor olacaklarmış
+V;INFR;PRS;PROG;2;SG;NEG;DECL	öpüşmüyormuşsun	V;INFR;PST;PRSP;2;SG;NEG;DECL	öpüşmüş olmayacaktın
+V;IND;PST;PROG;2;SG;NEG;INTR	rahmetli olmuyor muydun	V;IND;FUT;PROG;3;SG;INTR;POS	rahmetli oluyor olacak mı
+V;IND;FUT;PROG;2;PL;NEG;INTR	düşünüyor olmayacak mısınız	V;IND;PST;PRSP;3;SG;POS;DECL	düşünecekti
+V;NEC;PRS;1;PL;POS;DECL	yıpranmeliyiz	V;INFR;LGSPEC1;PST;2;PL;NEG;DECL	yıpranmamışmışsınız
+V;IND;FUT;PROG;1;PL;POS;DECL	topluyor olacağız	V;INFR;FUT;PERF;3;SG;INTR;POS	toplamış olacak mı
+V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	kurutuyor olmalıymışız	V;IND;PRS;PROG;1;PL;INTR;POS	kurutuyor muyuz
+V;IND;PST;1;SG;NEG;DECL	tanıtmadım	V;NEC;INFR;PST;2;PL;INTR;POS	tanıtmalı mıymışsınız
+V;INFR;PST;1;SG;NEG;INTR	emmemiş miyim	V;INFR;LGSPEC1;PST;2;SG;NEG;DECL	emmemişmişsin
+V;INFR;PST;PRSP;3;PL;INTR;POS	boşalmış olacaklar mıydı	V;NEC;PST;PROG;3;PL;NEG;DECL	boşalıyor olmamalılardı
+V;IND;PST;1;PL;POS;DECL	aldattık	V;NEC;INFR;PRS;PROG;3;SG;NEG;DECL	aldatıyor olmamalıymış
+V;INFR;FUT;PRSP;3;PL;NEG;INTR	bilecek olmayacaklar mıymış	V;IND;PST;PERF;1;SG;NEG;DECL	bilmediydim
+V;NEC;PST;3;SG;POS;DECL	sürtmeliydi	V;IND;PST;PRSP;PROG;1;PL;NEG;INTR	sürtüyor olmayacak mıydık
+V;INFR;FUT;HAB;1;PL;POS;DECL	saldırır olacakmışız	V;INFR;FUT;3;SG;INTR;POS	saldıracak mıymış
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	işliyor olmalı mıymışsınız	V;NEC;INFR;PRS;PROG;3;PL;POS;DECL	işliyor olmalılarmış
+V;IND;FUT;PROG;1;SG;POS;DECL	cartayı çekiyor olacağım	V;NEC;INFR;PRS;PROG;3;SG;INTR;POS	cartayı çekiyor olmalı mıymış
+V;IND;PST;HAB;PROG;1;PL;NEG;DECL	yaptırtıyor olmazdık	V;NEC;PST;PROG;2;SG;INTR;POS	yaptırtıyor olmalı mıydın
+V;IND;PST;HAB;PROG;3;SG;INTR;POS	sıyırıyor olur muydu	V;INFR;PRS;PROG;3;SG;INTR;POS	sıyırıyor muymuş
+V;IND;FUT;PROG;1;PL;POS;DECL	kısıyor olacağız	V;IND;PST;HAB;PROG;3;PL;POS;DECL	kısıyor olurlardı
+V;NEC;PST;1;SG;NEG;INTR	doğurmamalı mıydım	V;IND;PST;HAB;2;PL;NEG;DECL	doğurmazdınız
+V;NEC;PRS;PROG;1;SG;NEG;DECL	kakıyor olmamalıyım	V;NEC;PRS;PROG;1;SG;NEG;INTR	kakıyor olmamalı mıyım
+V;IND;PST;HAB;PROG;1;SG;POS;DECL	yaptırtıyor olurdum	V;IND;PST;PRSP;PROG;1;PL;POS;DECL	yaptırtıyor olacaktık
+V;INFR;PST;1;SG;NEG;INTR	düşünmemiş miyim	V;IND;PRS;HAB;2;SG;NEG;DECL	düşünmezsin
+V;IND;FUT;PRSP;2;SG;INTR;POS	makyaj yapacak olacak mısın	V;IND;PST;HAB;2;PL;NEG;INTR	makyaj yapmaz mıydınız
+V;IND;FUT;1;PL;NEG;INTR	okumayacak mıyız	V;NEC;INFR;PST;2;PL;NEG;INTR	okumamalı mıymışsınız
+V;INFR;PST;PERF;3;PL;POS;DECL	iyileşmişlerdi	V;INFR;FUT;1;SG;INTR;POS	iyileşecek miymişim
+V;IND;PST;3;SG;NEG;INTR	paylaşmadı mı	V;INFR;FUT;2;SG;NEG;INTR	paylaşmayacak mıymışsın
+V;INFR;PRS;HAB;1;SG;NEG;INTR	binmez miymişim	V;IND;FUT;PRSP;1;PL;INTR;POS	binecek olacak mıyız
+V;IND;PST;PRSP;PROG;3;SG;NEG;DECL	şaşırttırıyor olmayacaktı	V;NEC;INFR;PRS;PROG;2;SG;INTR;POS	şaşırttırıyor olmalı mıymışsın
+V;IND;PST;PRSP;PROG;1;SG;POS;DECL	yaptırtıyor olacaktım	V;NEC;INFR;PRS;PROG;3;PL;NEG;INTR	yaptırtıyor olmamalılar mıymış
+V;IND;PST;1;SG;NEG;DECL	sürtmedim	V;INFR;FUT;HAB;2;PL;POS;DECL	sürter olacakmışsınız
+V;INFR;FUT;2;SG;NEG;DECL	sikmeyecekmişsin	V;INFR;FUT;PERF;1;SG;INTR;POS	sikmiş olacak mıyım
+V;INFR;LGSPEC1;PST;1;PL;NEG;DECL	çarmıha germemişmişiz	V;INFR;FUT;PROG;1;SG;INTR;POS	çarmıha geriyor olacak mıymışım
+V;IND;PST;PRSP;PROG;2;PL;POS;DECL	elliyor olacaktınız	V;IND;PST;PRSP;PROG;3;SG;POS;DECL	elliyor olacaktı
+V;INFR;LGSPEC1;PST;1;SG;NEG;DECL	boğmamışmışım	V;INFR;FUT;1;PL;POS;DECL	boğacakmışız
+V;IND;PST;PERF;2;PL;NEG;INTR	soymadı mıydınız	V;IND;FUT;PROG;3;PL;NEG;DECL	soyuyor olmayacaklar
+V;INFR;FUT;PRSP;1;PL;NEG;DECL	yaptırtacak olmayacakmışız	V;INFR;PST;PERF;3;PL;INTR;POS	yaptırtmışlar mıydı
+V;IND;PST;HAB;PROG;2;PL;NEG;INTR	yarıyor olmaz mıydınız	V;IND;FUT;2;SG;NEG;INTR	yarmayacak mısın
+V;IND;PRS;HAB;1;SG;INTR;POS	gönderir miyim	V;INFR;PRS;PROG;3;SG;NEG;DECL	göndermiyormuş
+V;NEC;INFR;PST;1;SG;NEG;INTR	paylaşmamalı mıymışım	V;IND;PST;PRSP;PROG;2;PL;NEG;DECL	paylaşıyor olmayacaktınız
+V;INFR;FUT;PERF;1;SG;POS;DECL	okumuş olacağım	V;INFR;PRS;HAB;3;SG;NEG;INTR	okumaz mıymış
+V;INFR;FUT;PRSP;3;PL;POS;DECL	kurutacak olacaklarmış	V;NEC;INFR;PRS;PROG;3;SG;POS;DECL	kurutuyor olmalıymış
+V;NEC;PST;1;SG;NEG;DECL	düşünmemeliydim	V;INFR;PST;1;PL;INTR;POS	düşünmüş müyüz
+V;NEC;INFR;PRS;PROG;3;SG;NEG;INTR	sürtüyor olmamalı mıymış	V;IND;PST;PRSP;PROG;1;SG;NEG;DECL	sürtüyor olmayacaktım
+V;INFR;FUT;PERF;1;PL;NEG;INTR	programlattırmış olmayacak mıyız	V;IND;PST;PRSP;PROG;3;PL;POS;DECL	programlattırıyor olacaklardı
+V;IND;PRS;PROG;3;SG;NEG;INTR	emmiyor mu	V;IND;PST;2;SG;POS;DECL	emdin
+V;IMP;2;PL;LGSPEC2;POS;DECL	düşününüz	V;NEC;INFR;PST;2;SG;NEG;INTR	düşünmemeli miymişsin
+V;IND;PST;PERF;3;PL;NEG;INTR	ilklendirmediler miydi	V;INFR;FUT;2;SG;POS;DECL	ilklendirecekmişsin
+V;INFR;PST;PERF;2;SG;POS;DECL	boğmuştun	V;IND;FUT;PRSP;2;SG;NEG;DECL	boğacak olmayacaksın
+V;IND;PST;HAB;1;SG;POS;DECL	geciktirirdim	V;IND;PST;PRSP;2;SG;NEG;DECL	geciktirmeyecektin
+V;INFR;LGSPEC1;PST;3;SG;NEG;INTR	canlandırmamamış mıymış	V;IND;PST;3;PL;NEG;INTR	canlandırmamadılar mı
+V;INFR;FUT;HAB;3;SG;POS;DECL	sıyırır olacakmış	V;IND;PST;2;PL;INTR;POS	sıyırdınız mı
+V;IND;FUT;PROG;1;SG;NEG;INTR	şaşırttırıyor olmayacak mıyım	V;IND;PST;3;PL;NEG;DECL	şaşırttırmadılar
+V;IND;FUT;2;PL;NEG;DECL	kurutmayacaksınız	V;INFR;PST;PRSP;1;PL;INTR;POS	kurutmuş olacak mıydık
+V;INFR;FUT;HAB;3;SG;POS;DECL	erir olacakmış	V;NEC;INFR;PST;3;PL;POS;DECL	erimelilermiş
+V;IND;PST;PRSP;2;SG;POS;DECL	bilecektin	V;NEC;PST;2;PL;INTR;POS	bilmeli miydiniz
+V;IND;PST;HAB;PROG;3;SG;INTR;POS	biliyor olur muydu	V;IND;PST;PRSP;3;SG;NEG;INTR	bilmeyecek miydi
+V;IND;PRS;PROG;1;SG;NEG;INTR	ellemiyor muyum	V;NEC;PRS;PROG;2;PL;NEG;INTR	elliyor olmamalı mısınız
+V;INFR;PST;PRSP;2;SG;NEG;INTR	bağlamış olmayacak mıydın	V;IND;PST;PROG;3;SG;NEG;DECL	bağlamıyordu
+V;IND;FUT;3;PL;POS;DECL	düşünecekler	V;INFR;FUT;PROG;3;SG;INTR;POS	düşünüyor olacak mıymış
+V;IND;PRS;HAB;3;SG;POS;DECL	yarar	V;INFR;FUT;HAB;3;SG;NEG;INTR	yarar olmayacak mıymış
+V;NEC;INFR;PRS;PROG;3;SG;INTR;POS	biniyor olmalı mıymış	V;IND;PST;1;SG;INTR;POS	bindim mi
+V;NEC;PST;3;SG;NEG;DECL	erimemeliydi	V;INFR;PST;PRSP;3;PL;INTR;POS	erimiş olacaklar mıydı
+V;IND;PST;PERF;3;PL;POS;DECL	şikâyet ettilerdi	V;INFR;FUT;PROG;3;PL;NEG;DECL	şikâyet ediyor olmayacaklarmış
+V;NEC;PRS;3;SG;NEG;INTR	aldatmameli mi	V;IND;PST;1;PL;POS;DECL	aldattık
+V;INFR;PRS;HAB;3;SG;NEG;INTR	kısmaz mıymış	V;IND;PST;HAB;PROG;3;SG;POS;DECL	kısıyor olurdu
+V;IND;PST;HAB;PROG;2;PL;NEG;INTR	boşalıyor olmaz mıydınız	V;IND;PST;PROG;3;PL;POS;DECL	boşalıyorlardı
+V;IND;PST;PRSP;1;PL;NEG;DECL	şaşırttırmayacaktık	V;INFR;PRS;PROG;1;PL;INTR;POS	şaşırttırıyor muymuşuz
+V;INFR;FUT;PERF;3;SG;INTR;POS	iyileşmiş olacak mı	V;IND;PST;PRSP;PROG;2;PL;NEG;DECL	iyileşiyor olmayacaktınız
+V;IND;PST;PRSP;1;PL;INTR;POS	cartayı çekecek miydik	V;IND;FUT;PRSP;3;PL;INTR;POS	cartayı çekecek olacaklar mı
+V;IND;FUT;PRSP;1;SG;POS;DECL	oynayacak olacağım	V;IND;PST;PRSP;1;PL;NEG;INTR	oynamayacak mıydık
+V;IND;PST;PRSP;2;SG;NEG;INTR	süpürmeyecek miydin	V;IND;FUT;PRSP;3;PL;POS;DECL	süpürecek olacaklar
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	bağlıyor olmalı mıymışsınız	V;IND;PST;1;PL;NEG;INTR	bağlamadık mı
+V;NEC;INFR;PRS;PROG;1;SG;POS;DECL	sıyırıyor olmalıymışım	V;IND;FUT;PRSP;1;SG;INTR;POS	sıyıracak olacak mıyım
+V;IND;FUT;PRSP;1;PL;POS;DECL	arayacak olacağız	V;INFR;FUT;PROG;3;PL;INTR;POS	arıyor olacaklar mıymış
+V;IND;FUT;PROG;1;SG;NEG;INTR	süpürüyor olmayacak mıyım	V;IND;PST;PROG;1;SG;NEG;INTR	süpürmüyor muydum
+V;NEC;PRS;1;PL;NEG;DECL	okumameliyiz	V;IND;PST;PROG;1;SG;POS;DECL	okuyordum
+V;IND;PST;PRSP;3;SG;NEG;INTR	sikişmeyecek miydi	V;INFR;FUT;PRSP;1;PL;INTR;POS	sikişecek olacak mıymışız
+V;INFR;FUT;PROG;3;SG;NEG;DECL	okuyor olmayacakmış	V;NEC;INFR;PST;2;SG;POS;DECL	okumalıymışsın
+V;INFR;FUT;PROG;3;SG;NEG;INTR	emiyor olmayacak mıymış	V;IND;PST;PERF;3;PL;POS;DECL	emdilerdi
+V;INFR;FUT;2;SG;NEG;INTR	rahmetli olmayacak mıymışsın	V;INFR;FUT;PRSP;1;PL;INTR;POS	rahmetli olacak olacak mıymışız
+V;INFR;FUT;PERF;1;SG;NEG;DECL	soymuş olmayacağım	V;IND;PST;PROG;3;SG;POS;DECL	soyuyordu
+V;IND;PST;PERF;1;PL;POS;DECL	taklitçi olduyduk	V;INFR;FUT;PERF;1;PL;NEG;DECL	taklitçi olmuş olmayacağız
+V;INFR;PRS;PROG;2;PL;NEG;DECL	boşalmıyormuşsunuz	V;IND;PST;HAB;PROG;1;SG;NEG;DECL	boşalıyor olmazdım
+V;INFR;PST;PERF;1;SG;POS;DECL	kısmıştım	V;IND;PST;2;PL;NEG;DECL	kısmadınız
+V;INFR;PST;PERF;1;SG;INTR;POS	saldırmış mıydım	V;INFR;FUT;PROG;3;PL;INTR;POS	saldırıyor olacaklar mıymış
+V;INFR;FUT;PRSP;1;SG;POS;DECL	programlattıracak olacakmışım	V;IND;PST;PERF;3;SG;NEG;INTR	programlattırmadı mıydı
+V;INFR;FUT;PROG;1;PL;NEG;INTR	eriyor olmayacak mıymışız	V;INFR;FUT;PERF;3;PL;NEG;DECL	erimiş olmayacaklar
+V;IND;PST;PRSP;3;PL;NEG;DECL	kanamayacaklardı	V;NEC;INFR;PST;3;SG;POS;DECL	kanamalıymış
+V;INFR;FUT;PROG;1;PL;NEG;INTR	şikâyet ediyor olmayacak mıymışız	V;IND;PST;PROG;1;PL;INTR;POS	şikâyet ediyor muyduk
+V;IND;FUT;PRSP;1;SG;POS;DECL	kısacak olacağım	V;IND;PST;HAB;PROG;3;PL;POS;DECL	kısıyor olurlardı
+V;INFR;FUT;HAB;1;PL;POS;DECL	türer olacakmışız	V;NEC;PST;3;PL;NEG;INTR	türememeliler miydi
+V;INFR;LGSPEC1;PST;1;PL;POS;DECL	boğmuşmuşuz	V;IND;PRS;PROG;1;PL;NEG;DECL	boğmuyoruz
+V;NEC;PRS;1;PL;NEG;INTR	kakmameli miyiz	V;IND;PST;HAB;PROG;1;SG;NEG;INTR	kakıyor olmaz mıydım
+V;NEC;INFR;PST;3;SG;NEG;INTR	iğrenmemeli miymiş	V;INFR;FUT;1;PL;NEG;DECL	iğrenmeyecekmişiz
+V;IND;PST;PERF;3;PL;NEG;DECL	toplamadılardı	V;IND;PST;PRSP;1;SG;NEG;DECL	toplamayacaktım
+V;INFR;PST;PRSP;1;SG;POS;DECL	şikâyet etmiş olacaktım	V;INFR;FUT;PRSP;3;SG;INTR;POS	şikâyet edecek olacak mıymış
+V;IND;PST;PERF;3;PL;POS;DECL	yaptırttılardı	V;INFR;PST;PERF;2;PL;NEG;DECL	yaptırtmamıştınız
+V;IND;PST;PRSP;3;SG;POS;DECL	cartayı çekecekti	V;NEC;INFR;PST;1;SG;NEG;INTR	cartayı çekmemeli miymişim
+V;IND;PST;1;SG;NEG;DECL	ilklendirmedim	V;NEC;PRS;3;SG;INTR;POS	ilklendirmeli mi
+V;IND;PST;PRSP;2;SG;NEG;INTR	kanamayacak mıydın	V;INFR;PST;PRSP;2;SG;POS;DECL	kanamış olacaktın
+V;NEC;PST;1;SG;POS;DECL	paylaşmalıydım	V;INFR;PST;3;PL;POS;DECL	paylaşmışlar
+V;INFR;PST;3;SG;NEG;DECL	boğmamış	V;IND;PRS;HAB;1;PL;NEG;DECL	boğmayız
+V;IND;PST;PRSP;2;PL;INTR;POS	ayıracak mıydınız	V;INFR;PST;PRSP;1;PL;INTR;POS	ayırmış olacak mıydık
+V;NEC;INFR;PRS;PROG;2;SG;POS;DECL	aldatıyor olmalıymışsın	V;NEC;PRS;PROG;2;SG;POS;DECL	aldatıyor olmalısın
+V;IND;FUT;PROG;2;SG;NEG;INTR	kısıyor olmayacak mısın	V;INFR;PRS;PROG;2;SG;NEG;DECL	kısmıyormuşsun
+V;INFR;FUT;HAB;3;SG;POS;DECL	iğrenir olacakmış	V;INFR;PST;PERF;3;SG;NEG;DECL	iğrenmemişti
+V;INFR;FUT;HAB;2;PL;POS;DECL	eller olacakmışsınız	V;INFR;FUT;2;SG;POS;DECL	elleyecekmişsin
+V;IND;FUT;PRSP;1;PL;POS;DECL	bağlayacak olacağız	V;NEC;INFR;PST;1;PL;POS;DECL	bağlamalıymışız
+V;IND;PST;1;SG;INTR;POS	işledim mi	V;INFR;PRS;HAB;3;SG;NEG;INTR	işlemez miymiş
+V;NEC;INFR;PRS;PROG;3;SG;POS;DECL	eriyor olmalıymış	V;NEC;INFR;PST;2;PL;NEG;INTR	erimemeli miymişsiniz
+V;IND;PST;PERF;2;SG;INTR;POS	işledi miydin	V;IND;PST;PROG;2;PL;NEG;DECL	işlemiyordunuz
+V;INFR;PRS;PROG;2;PL;INTR;POS	iğreniyor muymuşsunuz	V;NEC;PRS;PROG;2;PL;INTR;POS	iğreniyor olmalı mısınız
+V;INFR;FUT;PERF;2;PL;POS;DECL	şaşırttırmış olacaksınız	V;NEC;PRS;1;SG;INTR;POS	şaşırttırmeli miyim
+V;IND;PRS;HAB;3;PL;POS;DECL	iğrenirler	V;IND;PST;PERF;3;PL;INTR;POS	iğrendiler miydi
+V;INFR;FUT;HAB;3;PL;INTR;POS	türer olacaklar mıymış	V;INFR;FUT;1;SG;NEG;DECL	türemeyecekmişim
+V;IND;PST;HAB;PROG;1;SG;NEG;INTR	ilklendiriyor olmaz mıydım	V;IND;PST;HAB;PROG;3;SG;NEG;INTR	ilklendiriyor olmaz mıydı
+V;NEC;PRS;2;SG;NEG;DECL	satın almamelisin	V;INFR;PST;PERF;1;PL;NEG;INTR	satın almamış mıydık
+V;INFR;FUT;PROG;2;SG;NEG;INTR	geciktiriyor olmayacak mıymışsın	V;INFR;FUT;3;SG;INTR;POS	geciktirecek miymiş
+V;IND;PRS;PROG;2;PL;NEG;DECL	yıpranmıyorsunuz	V;IND;PRS;PROG;2;SG;NEG;INTR	yıpranmıyor musun
+V;IND;PST;PROG;2;PL;NEG;INTR	sürtmüyor muydunuz	V;INFR;PST;PRSP;3;SG;NEG;DECL	sürtmüş olmayacaktı
+V;IND;PST;HAB;PROG;2;PL;NEG;INTR	canlandırıyor olmaz mıydınız	V;INFR;PST;3;PL;POS;DECL	canlandırmamışlar
+V;NEC;PRS;PROG;3;PL;NEG;INTR	eskiyor olmamalılar mı	V;NEC;INFR;PRS;PROG;2;SG;NEG;INTR	eskiyor olmamalı mıymışsın
+V;IND;PST;PRSP;PROG;2;PL;POS;DECL	yıpranıyor olacaktınız	V;NEC;PST;2;PL;NEG;INTR	yıpranmamalı mıydınız
+V;IND;PST;HAB;3;SG;POS;DECL	sıyırırdı	V;IND;PST;PRSP;1;PL;POS;DECL	sıyıracaktık
+V;INFR;PST;3;SG;INTR;POS	kurutmuş mu	V;INFR;FUT;HAB;3;SG;INTR;POS	kurutur olacak mıymış
+V;IND;PST;PRSP;PROG;1;SG;INTR;POS	aldatıyor olacak mıydım	V;INFR;PST;PRSP;1;PL;POS;DECL	aldatmış olacaktık
+V;INFR;FUT;3;SG;NEG;INTR	eskimeyecek miymiş	V;INFR;LGSPEC1;PST;1;SG;INTR;POS	eskimiş miymişim
+V;NEC;PST;3;SG;POS;DECL	bağlamalıydı	V;INFR;PRS;PROG;1;PL;INTR;POS	bağlıyor muymuşuz
+V;IND;PST;2;PL;NEG;DECL	satın almadınız	V;INFR;FUT;PRSP;3;SG;NEG;INTR	satın alacak olmayacak mıymış
+V;INFR;PST;PRSP;2;PL;NEG;INTR	ayırmış olmayacak mıydınız	V;IND;PST;HAB;1;PL;INTR;POS	ayırır mıydık
+V;IND;PST;1;SG;INTR;POS	düşündüm mü	V;INFR;FUT;PRSP;3;PL;INTR;POS	düşünecek olacaklar mıymış
+V;IND;PST;PRSP;PROG;3;PL;NEG;DECL	sikiyor olmayacaklardı	V;IND;PST;HAB;PROG;3;PL;NEG;DECL	sikiyor olmazlardı
+V;NEC;PST;PROG;3;SG;NEG;DECL	biliyor olmamalıydı	V;INFR;PRS;HAB;1;PL;NEG;INTR	bilmez miymişiz
+V;IND;FUT;PROG;3;SG;INTR;POS	kakıyor olacak mı	V;NEC;PST;3;SG;NEG;DECL	kakmamalıydı
+V;NEC;INFR;PST;1;SG;NEG;DECL	kurutmamalıymışım	V;INFR;FUT;PRSP;3;PL;POS;DECL	kurutacak olacaklarmış
+V;INFR;PST;PERF;1;PL;NEG;DECL	sıyırmamıştık	V;INFR;PRS;HAB;3;PL;POS;DECL	sıyırırlarmış
+V;IMP;2;PL;LGSPEC2;POS;DECL	azınız	V;INFR;FUT;PROG;2;SG;NEG;DECL	azıyor olmayacakmışsın
+V;INFR;PST;2;SG;NEG;DECL	düşünmemişsin	V;INFR;PRS;PROG;2;PL;POS;DECL	düşünüyormuşsunuz
+V;INFR;PRS;PROG;3;PL;NEG;INTR	paylaşmıyorlar mıymış	V;IND;FUT;PROG;3;SG;POS;DECL	paylaşıyor olacak
+V;IND;PST;HAB;PROG;3;PL;POS;DECL	işliyor olurlardı	V;IND;FUT;PROG;2;PL;INTR;POS	işliyor olacak mısınız
+V;IND;PST;PERF;3;PL;NEG;INTR	iyileşmediler miydi	V;INFR;PRS;PROG;1;PL;NEG;INTR	iyileşmiyor muymuşuz
+V;INFR;FUT;PERF;1;SG;INTR;POS	ellemiş olacak mıyım	V;INFR;FUT;HAB;3;SG;NEG;INTR	eller olmayacak mıymış
+V;INFR;PST;PRSP;3;SG;POS;DECL	erimiş olacaktı	V;INFR;PST;PRSP;1;SG;NEG;INTR	erimiş olmayacak mıydım
+V;IND;PRS;PROG;1;SG;NEG;INTR	binmiyor muyum	V;INFR;FUT;PROG;3;PL;INTR;POS	biniyor olacaklar mıymış
+V;IND;PRS;PROG;3;SG;INTR;POS	düşünüyor mu	V;IND;PST;3;SG;POS;DECL	düşündü
+V;INFR;FUT;3;SG;POS;DECL	kanayacakmış	V;IND;PST;PROG;2;PL;POS;DECL	kanıyordunuz
+V;NEC;PST;3;SG;NEG;DECL	geciktirmemeliydi	V;INFR;FUT;HAB;1;PL;NEG;INTR	geciktirir olmayacak mıymışız
+V;IND;FUT;1;PL;NEG;DECL	paylaşmayacağız	V;IND;FUT;2;SG;POS;DECL	paylaşacaksın
+V;IND;FUT;3;PL;POS;DECL	solacaklar	V;NEC;PST;2;SG;NEG;DECL	solmamalıydın
+V;IND;PST;PROG;1;PL;NEG;INTR	soymuyor muyduk	V;IND;FUT;PRSP;1;SG;NEG;DECL	soyacak olmayacağım
+V;INFR;PRS;PROG;3;PL;NEG;INTR	kanamıyorlar mıymış	V;NEC;PST;3;SG;INTR;POS	kanamalı mıydı
+V;IND;FUT;PROG;1;PL;INTR;POS	güceniyor olacak mıyız	V;IND;PRS;HAB;2;SG;INTR;POS	gücenir misin
+V;NEC;PST;3;SG;POS;DECL	yarmalıydı	V;INFR;PRS;HAB;1;PL;NEG;DECL	yarmazmışız
+V;IND;PST;PERF;1;SG;INTR;POS	tanıttı mıydım	V;INFR;PRS;HAB;2;PL;NEG;DECL	tanıtmazmışsınız
+V;IND;PRS;HAB;3;PL;NEG;INTR	bağlamazlar mı	V;INFR;PRS;PROG;1;SG;NEG;DECL	bağlamıyormuşum
+V;INFR;PRS;HAB;3;PL;POS;DECL	ararlarmış	V;IND;PST;2;SG;INTR;POS	aradın mı
+V;IND;PST;PRSP;3;PL;NEG;DECL	yaptırtmayacaklardı	V;INFR;LGSPEC1;PST;2;SG;NEG;INTR	yaptırtmamış mıymışsın
+V;IND;PST;3;PL;NEG;INTR	taklitçi olmadılar mı	V;IND;FUT;PROG;3;PL;NEG;INTR	taklitçi oluyor olmayacaklar mı
+V;IND;PST;PROG;3;PL;NEG;INTR	aldatmıyorlar mıydı	V;IND;FUT;PRSP;3;SG;POS;DECL	aldatacak olacak
+V;NEC;PST;3;SG;INTR;POS	sikişmeli miydi	V;IND;PST;PRSP;PROG;2;PL;INTR;POS	sikişiyor olacak mıydınız
+V;IND;FUT;3;SG;INTR;POS	emecek mi	V;INFR;LGSPEC1;PST;3;SG;INTR;POS	emmiş miymiş
+V;INFR;LGSPEC1;PST;1;SG;NEG;INTR	kurutmamış mıymışım	V;INFR;PST;PRSP;2;PL;NEG;DECL	kurutmuş olmayacaktınız
+V;IND;PRS;PROG;1;PL;NEG;INTR	kakmıyor muyuz	V;IND;PST;2;SG;NEG;INTR	kakmadın mı
+V;IND;FUT;PROG;2;PL;NEG;INTR	okuyor olmayacak mısınız	V;INFR;FUT;HAB;2;SG;POS;DECL	okur olacakmışsın
+V;NEC;PRS;PROG;2;SG;INTR;POS	şikâyet ediyor olmalı mısın	V;NEC;INFR;PST;2;PL;POS;DECL	şikâyet etmeliymişsiniz
+V;INFR;FUT;PROG;2;SG;INTR;POS	geciktiriyor olacak mıymışsın	V;INFR;PST;1;SG;NEG;DECL	geciktirmemişim
+V;IND;PST;PRSP;2;SG;POS;DECL	bilecektin	V;INFR;PST;3;PL;INTR;POS	bilmişler mi
+V;IND;PRS;PROG;3;SG;INTR;POS	emiyor mu	V;IND;PST;1;PL;NEG;INTR	emmedik mi
+V;IND;PST;HAB;PROG;1;PL;NEG;INTR	bağlıyor olmaz mıydık	V;IND;PST;HAB;1;PL;INTR;POS	bağlar mıydık
+V;INFR;PRS;PROG;3;PL;POS;DECL	boşalıyorlarmış	V;NEC;PST;PROG;2;PL;POS;DECL	boşalıyor olmalıydınız
+V;NEC;INFR;PRS;PROG;3;PL;POS;DECL	öpüşüyor olmalılarmış	V;IND;FUT;3;PL;INTR;POS	öpüşecekler mi
+V;IND;PST;1;SG;INTR;POS	tanıttım mı	V;INFR;LGSPEC1;PST;2;SG;NEG;INTR	tanıtmamış mıymışsın
+V;IND;PRS;HAB;1;SG;INTR;POS	ayırır mıyım	V;INFR;LGSPEC1;PST;1;PL;POS;DECL	ayırmışmışız
+V;NEC;PST;3;PL;NEG;DECL	kurutmamalılardı	V;IND;PRS;PROG;2;PL;POS;DECL	kurutuyorsunuz
+V;NEC;INFR;PST;1;SG;NEG;INTR	toplamamalı mıymışım	V;INFR;FUT;PRSP;1;SG;INTR;POS	toplaacak olacak mıymışım
+V;IND;PST;HAB;PROG;3;SG;NEG;DECL	cartayı çekiyor olmazdı	V;INFR;FUT;PERF;2;PL;NEG;INTR	cartayı çekmiş olmayacak mısınız
+V;NEC;PST;3;PL;INTR;POS	yarmalılar mıydı	V;IND;FUT;PRSP;2;PL;NEG;INTR	yaracak olmayacak mısınız
+V;IND;PST;PERF;2;PL;POS;DECL	azdıydınız	V;IND;PST;HAB;PROG;2;SG;NEG;DECL	azıyor olmazdın
+V;NEC;PRS;1;PL;NEG;DECL	taklitçi olmameliyiz	V;IND;PST;PERF;2;SG;INTR;POS	taklitçi oldu muydun
+V;NEC;PRS;PROG;1;SG;POS;DECL	soluyor olmalıyım	V;IND;PRS;HAB;1;SG;POS;DECL	solarım
+V;IND;PRS;PROG;3;SG;POS;DECL	öpüşüyor	V;IND;FUT;2;PL;POS;DECL	öpüşeceksiniz
+V;IND;FUT;PROG;1;PL;POS;DECL	tanıtıyor olacağız	V;INFR;FUT;PERF;3;PL;INTR;POS	tanıtmış olacaklar mı
+V;IND;FUT;PROG;1;PL;NEG;DECL	türüyor olmayacağız	V;INFR;FUT;PROG;2;PL;POS;DECL	türüyor olacakmışsınız
+V;INFR;PST;PRSP;3;PL;INTR;POS	okumuş olacaklar mıydı	V;IND;PST;3;SG;POS;DECL	okudu
+V;INFR;PST;PERF;1;SG;NEG;INTR	saldırmamış mıydım	V;INFR;PST;PERF;3;PL;INTR;POS	saldırmışlar mıydı
+V;INFR;FUT;HAB;3;SG;POS;DECL	kanar olacakmış	V;NEC;INFR;PST;1;SG;NEG;INTR	kanamamalı mıymışım
+V;IND;PST;HAB;PROG;2;PL;NEG;DECL	iyileşiyor olmazdınız	V;NEC;PRS;PROG;2;PL;NEG;DECL	iyileşiyor olmamalısınız
+V;INFR;FUT;PRSP;1;SG;NEG;DECL	çarmıha gerecek olmayacakmışım	V;INFR;FUT;HAB;3;PL;NEG;INTR	çarmıha gerer olmayacaklar mıymış
+V;INFR;FUT;PRSP;1;SG;POS;DECL	paylaşacak olacakmışım	V;INFR;FUT;HAB;1;SG;NEG;DECL	paylaşır olmayacakmışım
+V;INFR;FUT;HAB;1;PL;INTR;POS	şaşırttırır olacak mıymışız	V;INFR;FUT;HAB;2;PL;INTR;POS	şaşırttırır olacak mıymışsınız
+V;IND;FUT;PRSP;1;SG;INTR;POS	türeyecek olacak mıyım	V;INFR;FUT;PERF;2;PL;NEG;INTR	türemiş olmayacak mısınız
+V;IND;PST;PERF;2;SG;POS;DECL	boğduydun	V;IND;PST;PRSP;PROG;3;PL;POS;DECL	boğuyor olacaklardı
+V;INFR;PST;1;PL;INTR;POS	makyaj yapmış mıyız	V;NEC;INFR;PRS;PROG;1;PL;INTR;POS	makyaj yapıyor olmalı mıymışız
+V;INFR;PRS;HAB;3;PL;NEG;INTR	bağlamazlar mıymış	V;INFR;FUT;2;SG;NEG;INTR	bağlamayacak mıymışsın
+V;INFR;FUT;PRSP;1;PL;NEG;INTR	yaptırtacak olmayacak mıymışız	V;INFR;PST;2;SG;INTR;POS	yaptırtmış mısın
+V;IND;PST;HAB;1;PL;NEG;DECL	kanamazdık	V;IND;PRS;HAB;2;SG;NEG;DECL	kanamazsın
+V;INFR;FUT;PRSP;3;PL;NEG;INTR	süpürecek olmayacaklar mıymış	V;IND;PRS;HAB;1;PL;NEG;INTR	süpürmez miyiz
+V;INFR;PRS;HAB;2;SG;POS;DECL	öpüşürmüşsün	V;NEC;PRS;3;SG;POS;DECL	öpüşmeli
+V;NEC;PRS;PROG;1;PL;NEG;INTR	elliyor olmamalı mıyız	V;NEC;PRS;PROG;2;PL;NEG;INTR	elliyor olmamalı mısınız
+V;NEC;PRS;1;SG;NEG;DECL	düşünmemeliyim	V;INFR;FUT;PRSP;1;SG;INTR;POS	düşünecek olacak mıymışım
+V;INFR;PST;PRSP;1;SG;NEG;DECL	sürtmüş olmayacaktım	V;IND;FUT;PROG;3;SG;POS;DECL	sürtüyor olacak
+V;INFR;FUT;PERF;3;PL;NEG;DECL	paylaşmış olmayacaklar	V;IMP;2;PL;POS;DECL	paylaşın
+V;IND;PST;PERF;3;PL;INTR;POS	süpürdüler miydi	V;NEC;PRS;1;PL;NEG;DECL	süpürmemeliyiz
+V;IND;PRS;HAB;2;PL;INTR;POS	bilir misiniz	V;IND;PRS;PROG;3;PL;POS;DECL	biliyorlar
+V;IND;PRS;PROG;1;SG;POS;DECL	geciktiriyorum	V;IND;PST;PRSP;PROG;2;PL;NEG;INTR	geciktiriyor olmayacak mıydınız
+V;INFR;FUT;PROG;2;PL;NEG;INTR	öpüşüyor olmayacak mıymışsınız	V;INFR;LGSPEC1;PST;1;SG;INTR;POS	öpüşmüş müymüşüm
+V;IND;PST;PERF;1;PL;NEG;DECL	binmediydik	V;INFR;PST;PERF;3;SG;POS;DECL	binmişti
+V;INFR;FUT;1;PL;NEG;DECL	doğurmayacakmışız	V;INFR;PST;PRSP;1;SG;POS;DECL	doğurmuş olacaktım
+V;NEC;PRS;1;PL;NEG;DECL	yarmameliyiz	V;IND;PRS;PROG;3;PL;INTR;POS	yarıyorlar mı
+V;IND;PST;PERF;1;PL;INTR;POS	eridi miydik	V;IND;PST;HAB;PROG;2;SG;NEG;INTR	eriyor olmaz mıydın
+V;INFR;FUT;2;SG;NEG;DECL	büktürtmemeyecekmişsin	V;NEC;INFR;PST;2;PL;NEG;DECL	büktürtmememeliymişsiniz
+V;INFR;PRS;HAB;2;SG;NEG;DECL	ilklendirmezmişsin	V;IND;PST;HAB;3;SG;POS;DECL	ilklendirirdi
+V;INFR;PRS;PROG;3;PL;POS;DECL	yıpranıyorlarmış	V;INFR;PST;PERF;1;PL;NEG;DECL	yıpranmamıştık
+V;IND;PST;HAB;PROG;3;SG;NEG;DECL	rahmetli oluyor olmazdı	V;IND;PRS;HAB;3;SG;NEG;INTR	rahmetli olmaz mı
+V;NEC;PST;PROG;3;SG;POS;DECL	yaptırtıyor olmalıydı	V;INFR;PST;2;PL;INTR;POS	yaptırtmış mısınız
+V;IND;FUT;PROG;3;PL;INTR;POS	biliyor olacaklar mı	V;IND;PRS;HAB;3;SG;NEG;DECL	bilmez
+V;INFR;PST;PERF;1;SG;NEG;DECL	yaptırtmamıştım	V;IND;PST;PROG;2;SG;INTR;POS	yaptırtıyor muydun
+V;INFR;PRS;HAB;1;PL;NEG;INTR	eskimez miymişiz	V;IND;PRS;HAB;2;SG;NEG;INTR	eskimez misin
+V;IND;PST;PRSP;PROG;2;PL;INTR;POS	türüyor olacak mıydınız	V;NEC;INFR;PRS;PROG;1;PL;INTR;POS	türüyor olmalı mıymışız
+V;INFR;PRS;PROG;3;PL;NEG;INTR	programlattırmıyorlar mıymış	V;INFR;PST;PRSP;1;SG;NEG;INTR	programlattırmış olmayacak mıydım
+V;INFR;PST;1;SG;INTR;POS	geçmiş miyim	V;NEC;PRS;2;SG;NEG;INTR	geçmemeli misin
+V;IND;PST;HAB;PROG;2;SG;NEG;INTR	biliyor olmaz mıydın	V;IND;PST;PRSP;PROG;3;SG;POS;DECL	biliyor olacaktı
+V;INFR;FUT;PRSP;1;SG;NEG;DECL	kurutacak olmayacakmışım	V;IND;PST;HAB;PROG;3;PL;INTR;POS	kurutuyor olurlar mıydı
+V;INFR;FUT;PRSP;2;PL;NEG;INTR	ilklendirecek olmayacak mıymışsınız	V;NEC;INFR;PST;3;SG;INTR;POS	ilklendirmeli miymiş
+V;INFR;FUT;PROG;3;SG;NEG;DECL	iğreniyor olmayacakmış	V;INFR;FUT;1;PL;INTR;POS	iğrenecek miymişiz
+V;NEC;INFR;PRS;PROG;2;PL;POS;DECL	yıpranıyor olmalıymışsınız	V;IND;PST;HAB;1;SG;INTR;POS	yıpranır mıydım
+V;NEC;PRS;2;SG;POS;DECL	yarmelisin	V;NEC;PST;PROG;2;SG;INTR;POS	yarıyor olmalı mıydın
+V;IND;FUT;1;SG;NEG;INTR	kakmayacak mıyım	V;NEC;PST;PROG;3;PL;INTR;POS	kakıyor olmalılar mıydı
+V;INFR;PST;3;PL;NEG;INTR	toplamamışlar mı	V;IND;PST;3;PL;NEG;INTR	toplamadılar mı
+V;NEC;PRS;3;PL;POS;DECL	sikmeliler	V;INFR;PST;3;PL;NEG;DECL	sikmemişler
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	oynuyor olmalı mıymışsınız	V;IND;FUT;3;PL;POS;DECL	oynayacaklar
+V;NEC;PST;2;SG;INTR;POS	yaptırtmalı mıydın	V;IND;PST;1;PL;NEG;INTR	yaptırtmadık mı
+V;INFR;PST;PERF;3;PL;NEG;INTR	binmemişler miydi	V;IND;FUT;PROG;1;SG;POS;DECL	biniyor olacağım
+V;INFR;FUT;PRSP;2;PL;NEG;INTR	saldıracak olmayacak mıymışsınız	V;INFR;PRS;HAB;1;PL;NEG;INTR	saldırmaz mıymışız
+V;NEC;PST;PROG;2;SG;NEG;DECL	rahmetli oluyor olmamalıydın	V;IND;FUT;PRSP;3;PL;INTR;POS	rahmetli olacak olacaklar mı
+V;IND;PRS;HAB;2;PL;INTR;POS	süpürür müsünüz	V;INFR;FUT;HAB;2;SG;INTR;POS	süpürür olacak mıymışsın
+V;INFR;PRS;HAB;2;SG;NEG;INTR	gücenmez miymişsin	V;NEC;PST;PROG;3;PL;INTR;POS	güceniyor olmalılar mıydı
+V;IND;PST;PROG;2;SG;POS;DECL	tanıtıyordun	V;NEC;INFR;PST;1;SG;INTR;POS	tanıtmalı mıymışım
+V;NEC;PST;3;SG;INTR;POS	taklitçi olmalı mıydı	V;NEC;PRS;PROG;2;PL;INTR;POS	taklitçi oluyor olmalı mısınız
+V;IND;PST;PERF;1;PL;INTR;POS	geçti miydik	V;NEC;PRS;2;PL;NEG;INTR	geçmemeli misiniz
+V;INFR;FUT;PROG;3;SG;POS;DECL	işliyor olacakmış	V;IND;FUT;PROG;2;SG;NEG;DECL	işliyor olmayacaksın
+V;NEC;PRS;PROG;2;SG;POS;DECL	sürtüyor olmalısın	V;IND;PST;HAB;1;PL;NEG;DECL	sürtmezdik
+V;IND;FUT;PROG;3;PL;POS;DECL	eskiyor olacaklar	V;INFR;FUT;PROG;3;SG;INTR;POS	eskiyor olacak mıymış
+V;INFR;FUT;PROG;3;PL;POS;DECL	soluyor olacaklarmış	V;INFR;PST;PRSP;1;PL;INTR;POS	solmuş olacak mıydık
+V;IND;PST;1;PL;INTR;POS	solduk mu	V;INFR;FUT;HAB;1;PL;NEG;DECL	solar olmayacakmışız
+V;INFR;PST;PERF;1;PL;POS;DECL	bağlamıştık	V;IND;FUT;PROG;1;PL;INTR;POS	bağlıyor olacak mıyız
+V;INFR;LGSPEC1;PST;3;PL;NEG;INTR	eskimemişler miymiş	V;IND;PST;PRSP;1;PL;INTR;POS	eskiyecek miydik
+V;IND;PST;PRSP;1;SG;NEG;INTR	azmayacak mıydım	V;INFR;FUT;PROG;3;SG;NEG;DECL	azıyor olmayacakmış
+V;INFR;PRS;HAB;2;PL;POS;DECL	canlandırırmışsınız	V;IND;PRS;PROG;2;SG;POS;DECL	canlandırıyorsun
+V;IND;PST;PROG;2;PL;NEG;DECL	emmiyordunuz	V;NEC;PST;3;PL;NEG;INTR	emmemeliler miydi
+V;IND;PST;HAB;PROG;2;SG;NEG;DECL	eskiyor olmazdın	V;NEC;INFR;PST;3;PL;NEG;DECL	eskimemelilermiş
+V;IND;PRS;PROG;1;PL;NEG;INTR	rahmetli olmuyor muyuz	V;IND;PST;PRSP;3;PL;NEG;INTR	rahmetli olmayacaklar mıydı
+V;IND;PST;HAB;3;PL;NEG;DECL	sürtmezlerdi	V;INFR;PST;3;PL;NEG;INTR	sürtmemişler mi
+V;NEC;PST;1;SG;INTR;POS	eskimeli miydim	V;IND;PST;PRSP;PROG;1;PL;NEG;DECL	eskiyor olmayacaktık
+V;IND;PST;HAB;PROG;1;SG;NEG;DECL	sürtüyor olmazdım	V;INFR;FUT;HAB;1;PL;NEG;INTR	sürter olmayacak mıymışız
+V;NEC;INFR;PST;2;SG;POS;DECL	kakmalıymışsın	V;IND;PST;PROG;2;PL;POS;DECL	kakıyordunuz
+V;IND;PST;PRSP;2;PL;NEG;INTR	yarmayacak mıydınız	V;INFR;LGSPEC1;PST;3;PL;NEG;DECL	yarmamışlarmış
+V;INFR;PRS;PROG;3;SG;INTR;POS	elliyor muymuş	V;IND;PST;HAB;2;SG;NEG;INTR	ellemez miydin
+V;INFR;PRS;PROG;1;PL;POS;DECL	canlandırtılıyormuşuz	V;INFR;FUT;PERF;2;SG;POS;DECL	canlandırtılmış olacaksın
+V;INFR;PRS;HAB;3;SG;NEG;DECL	göndermezmiş	V;IND;PST;3;SG;NEG;DECL	göndermedi
+V;INFR;PST;1;PL;INTR;POS	boşalmış mıyız	V;NEC;PST;PROG;2;SG;POS;DECL	boşalıyor olmalıydın
+V;NEC;PRS;2;PL;NEG;INTR	boşalmameli misiniz	V;IND;PST;PROG;2;SG;NEG;DECL	boşalmıyordun
+V;INFR;PST;3;PL;POS;DECL	eskimişler	V;INFR;FUT;PROG;2;SG;NEG;INTR	eskiyor olmayacak mıymışsın
+V;NEC;PST;2;SG;POS;DECL	ilklendirmeliydin	V;INFR;FUT;PRSP;3;PL;NEG;DECL	ilklendirecek olmayacaklarmış
+V;NEC;INFR;PRS;PROG;3;PL;NEG;DECL	doğuruyor olmamalılarmış	V;IND;PST;PRSP;2;PL;POS;DECL	doğuracaktınız
+V;IND;PST;HAB;PROG;2;PL;INTR;POS	makyaj yapıyor olur muydunuz	V;IND;PST;HAB;3;PL;POS;DECL	makyaj yaparlardı
+V;IND;PRS;PROG;2;SG;NEG;DECL	sikmiyorsun	V;IND;PST;PROG;2;SG;INTR;POS	sikiyor muydun
+V;NEC;PST;PROG;3;SG;POS;DECL	eskiyor olmalıydı	V;IND;PRS;PROG;3;SG;NEG;INTR	eskimiyor mu
+V;IND;PST;PROG;1;PL;INTR;POS	boşalıyor muyduk	V;IND;FUT;PRSP;1;SG;POS;DECL	boşalacak olacağım
+V;IND;PRS;PROG;1;SG;NEG;DECL	boğmuyorum	V;INFR;FUT;PERF;1;SG;NEG;INTR	boğmuş olmayacak mıyım
+V;INFR;FUT;3;PL;POS;DECL	emeceklermiş	V;IND;FUT;1;SG;POS;DECL	emeceğim
+V;INFR;FUT;PROG;2;PL;INTR;POS	azıyor olacak mıymışsınız	V;IND;PST;PRSP;2;SG;POS;DECL	azacaktın
+V;IND;PST;PRSP;2;PL;POS;DECL	binecektiniz	V;IND;PST;2;PL;INTR;POS	bindiniz mi
+V;IND;PST;PERF;2;SG;NEG;INTR	geciktirmedi miydin	V;NEC;INFR;PST;2;SG;NEG;DECL	geciktirmemeliymişsin
+V;INFR;PRS;HAB;1;PL;INTR;POS	arar mıymışız	V;INFR;PST;PERF;1;PL;POS;DECL	aramıştık
+V;INFR;PRS;PROG;1;PL;NEG;DECL	solmuyormuşuz	V;IMP;2;SG;POS;DECL	sol
+V;INFR;FUT;PERF;3;PL;INTR;POS	paylaşmış olacaklar mı	V;INFR;LGSPEC1;PST;2;SG;INTR;POS	paylaşmış mıymışsın
+V;INFR;PST;PRSP;1;SG;NEG;INTR	öpüşmüş olmayacak mıydım	V;IND;FUT;2;SG;INTR;POS	öpüşecek misin
+V;INFR;PST;3;SG;POS;DECL	emmiş	V;IND;PST;PERF;3;SG;NEG;INTR	emmedi miydi
+V;NEC;PST;2;PL;POS;DECL	tanıtmalıydınız	V;IND;FUT;2;PL;NEG;INTR	tanıtmayacak mısınız
+V;INFR;PST;PERF;1;PL;NEG;DECL	kanamamıştık	V;NEC;PRS;PROG;2;PL;INTR;POS	kanıyor olmalı mısınız
+V;IND;PST;PROG;2;PL;INTR;POS	geciktiriyor muydunuz	V;IND;PST;3;PL;NEG;INTR	geciktirmediler mi
+V;INFR;PST;3;PL;NEG;DECL	işlememişler	V;IND;PST;PRSP;PROG;1;SG;INTR;POS	işliyor olacak mıydım
+V;NEC;PRS;2;PL;NEG;INTR	geciktirmemeli misiniz	V;INFR;LGSPEC1;PST;3;SG;NEG;INTR	geciktirmemiş miymiş
+V;IND;PST;HAB;2;PL;NEG;DECL	iyileşmezdiniz	V;IND;PST;HAB;3;PL;POS;DECL	iyileşirlerdi
+V;INFR;FUT;1;PL;NEG;INTR	canlandırtılmayacak mıymışız	V;NEC;PST;3;PL;NEG;DECL	canlandırtılmamalılardı
+V;IND;PRS;PROG;3;SG;NEG;DECL	rahmetli olmuyor	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	rahmetli oluyor olmalıymışız
+V;NEC;PRS;3;PL;INTR;POS	arameliler mi	V;NEC;PST;1;PL;NEG;DECL	aramamalıydık
+V;IND;PRS;HAB;3;PL;POS;DECL	büyürler	V;IND;PST;PERF;3;SG;POS;DECL	büyüdüydü
+V;INFR;FUT;PROG;3;SG;NEG;DECL	sikişiyor olmayacakmış	V;IND;PST;PERF;2;PL;POS;DECL	sikiştiydiniz
+V;INFR;PST;PRSP;1;PL;NEG;INTR	sikmiş olmayacak mıydık	V;INFR;PST;PRSP;2;SG;INTR;POS	sikmiş olacak mıydın
+V;NEC;PRS;1;SG;NEG;DECL	emmemeliyim	V;INFR;PST;PRSP;2;PL;INTR;POS	emmiş olacak mıydınız
+V;IND;PST;PERF;1;PL;NEG;DECL	ellemediydik	V;NEC;PRS;PROG;2;PL;NEG;INTR	elliyor olmamalı mısınız
+V;IND;PST;PROG;3;SG;INTR;POS	kısıyor muydu	V;INFR;FUT;HAB;3;SG;NEG;DECL	kısar olmayacakmış
+V;NEC;INFR;PST;2;SG;NEG;DECL	paylaşmamalıymışsın	V;IND;PST;PRSP;2;PL;POS;DECL	paylaşacaktınız
+V;NEC;PST;PROG;2;SG;INTR;POS	yıpranıyor olmalı mıydın	V;IND;PST;3;PL;INTR;POS	yıprandılar mı
+V;IND;PRS;HAB;3;PL;NEG;INTR	yaptırtmazlar mı	V;IND;PST;1;PL;NEG;INTR	yaptırtmadık mı
+V;IND;PST;1;SG;POS;DECL	kuruttum	V;INFR;LGSPEC1;PST;1;SG;NEG;DECL	kurutmamışmışım
+V;IND;FUT;PRSP;3;PL;INTR;POS	saydıracak olacaklar mı	V;IND;PST;1;SG;INTR;POS	saydırdım mı
+V;IND;FUT;PRSP;3;SG;NEG;INTR	kısacak olmayacak mı	V;IND;FUT;PRSP;3;SG;NEG;DECL	kısacak olmayacak
+V;IND;PRS;HAB;3;SG;INTR;POS	taklitçi olur mu	V;IND;PST;PERF;1;SG;POS;DECL	taklitçi olduydum
+V;NEC;PST;PROG;2;SG;NEG;DECL	sürtüyor olmamalıydın	V;INFR;FUT;2;PL;NEG;DECL	sürtmeyecekmişsiniz
+V;NEC;PST;2;PL;NEG;INTR	boşalmamalı mıydınız	V;INFR;PST;PRSP;2;PL;NEG;INTR	boşalmış olmayacak mıydınız
+V;INFR;FUT;HAB;2;SG;POS;DECL	şaşırttırır olacakmışsın	V;IND;FUT;PRSP;3;SG;NEG;INTR	şaşırttıracak olmayacak mı
+V;INFR;PRS;HAB;3;SG;POS;DECL	türermiş	V;INFR;PRS;HAB;1;PL;POS;DECL	türermişiz
+V;IND;PST;HAB;PROG;1;PL;NEG;INTR	soyuyor olmaz mıydık	V;IND;PST;PROG;1;PL;NEG;INTR	soymuyor muyduk
+V;INFR;FUT;PERF;1;SG;NEG;INTR	ayırmış olmayacak mıyım	V;IND;PST;PRSP;PROG;1;PL;POS;DECL	ayırıyor olacaktık
+V;INFR;PST;PERF;2;PL;NEG;INTR	ilklendirmemiş miydiniz	V;IMP;2;SG;NEG;DECL	ilklendirme
+V;INFR;FUT;PRSP;2;SG;NEG;INTR	azacak olmayacak mıymışsın	V;IND;PST;1;SG;NEG;INTR	azmadım mı
+V;IND;PST;2;SG;NEG;DECL	kısmadın	V;NEC;PRS;1;PL;NEG;INTR	kısmameli miyiz
+V;IND;PST;PERF;1;SG;INTR;POS	sıyırdı mıydım	V;INFR;PST;PERF;1;PL;NEG;INTR	sıyırmamış mıydık
+V;IND;PST;PERF;1;PL;NEG;DECL	binmediydik	V;NEC;PRS;PROG;3;PL;NEG;DECL	biniyor olmamalılar
+V;INFR;PST;PERF;1;PL;NEG;INTR	yarmamış mıydık	V;INFR;FUT;HAB;2;SG;NEG;DECL	yarar olmayacakmışsın
+V;IND;PST;PERF;3;SG;NEG;INTR	makyaj yapmadı mıydı	V;IND;PST;HAB;PROG;3;SG;NEG;INTR	makyaj yapıyor olmaz mıydı
+V;IND;FUT;PRSP;3;SG;INTR;POS	iyileşecek olacak mı	V;IND;PST;1;SG;POS;DECL	iyileştim
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	sıyırıyor olmalı mıymışsınız	V;IND;PST;PERF;1;PL;INTR;POS	sıyırdı mıydık
+V;NEC;INFR;PST;1;SG;INTR;POS	boşalmalı mıymışım	V;INFR;PST;PRSP;2;SG;POS;DECL	boşalmış olacaktın
+V;INFR;FUT;PROG;3;SG;NEG;DECL	makyaj yapıyor olmayacakmış	V;INFR;PRS;PROG;3;PL;INTR;POS	makyaj yapıyorlar mıymış
+V;NEC;INFR;PRS;PROG;3;PL;NEG;INTR	kurutuyor olmamalılar mıymış	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	kurutuyor olmalıymışız
+V;IND;PST;1;SG;INTR;POS	kaktım mı	V;INFR;PRS;PROG;2;PL;POS;DECL	kakıyormuşsunuz
+V;IND;PST;PERF;1;PL;POS;DECL	büktürtmediydik	V;NEC;PST;PROG;3;PL;POS;DECL	büktürtüyor olmalılardı
+V;IND;FUT;PROG;2;PL;INTR;POS	biniyor olacak mısınız	V;INFR;PRS;PROG;3;PL;NEG;DECL	binmiyorlarmış
+V;INFR;FUT;PROG;1;PL;NEG;INTR	saldırıyor olmayacak mıymışız	V;IND;PST;3;SG;POS;DECL	saldırdı
+V;INFR;FUT;HAB;2;SG;NEG;INTR	saydırır olmayacak mıymışsın	V;IND;FUT;PROG;3;PL;POS;DECL	saydırıyor olacaklar
+V;IND;PST;PRSP;2;SG;POS;DECL	gönderecektin	V;NEC;PRS;PROG;3;PL;NEG;INTR	gönderiyor olmamalılar mı
+V;NEC;PST;1;PL;NEG;DECL	iyileşmemeliydik	V;IND;PST;PRSP;PROG;1;PL;POS;DECL	iyileşiyor olacaktık
+V;IND;PST;PROG;1;PL;INTR;POS	soluyor muyduk	V;NEC;PST;1;PL;INTR;POS	solmalı mıydık
+V;INFR;FUT;HAB;2;SG;INTR;POS	sıyırır olacak mıymışsın	V;IND;PRS;PROG;3;PL;POS;DECL	sıyırıyorlar
+V;IND;PRS;HAB;3;SG;INTR;POS	satın alır mı	V;IND;PST;PERF;1;SG;NEG;DECL	satın almadıydım
+V;NEC;INFR;PRS;PROG;1;SG;INTR;POS	arıyor olmalı mıymışım	V;NEC;PRS;2;SG;NEG;DECL	aramamelisin
+V;NEC;PRS;3;SG;POS;DECL	saydırmeli	V;IND;PST;PRSP;2;SG;INTR;POS	saydıracak mıydın
+V;IND;PST;HAB;1;SG;NEG;INTR	büyümez miydim	V;INFR;FUT;3;PL;POS;DECL	büyüyeceklermiş
+V;IND;PST;2;PL;NEG;INTR	saldırmadınız mı	V;NEC;PST;PROG;1;PL;POS;DECL	saldırıyor olmalıydık
+V;INFR;FUT;1;PL;NEG;DECL	tanıtmayacakmışız	V;IND;PST;HAB;PROG;3;PL;INTR;POS	tanıtıyor olurlar mıydı
+V;IND;PST;HAB;PROG;3;SG;NEG;INTR	bağlıyor olmaz mıydı	V;NEC;INFR;PST;1;PL;NEG;INTR	bağlamamalı mıymışız
+V;IND;PST;PRSP;PROG;1;PL;INTR;POS	canlandırıyor olacak mıydık	V;NEC;PST;1;SG;INTR;POS	canlandırmamalı mıydım
+V;NEC;PST;1;SG;POS;DECL	yıpranmalıydım	V;IND;PST;PRSP;2;SG;NEG;DECL	yıpranmayacaktın
+V;INFR;PST;1;PL;POS;DECL	taklitçi olmuşuz	V;IND;PST;PRSP;PROG;3;PL;INTR;POS	taklitçi oluyor olacaklar mıydı
+V;IND;FUT;1;PL;POS;DECL	bağlayacağız	V;NEC;PRS;2;PL;INTR;POS	bağlameli misiniz
+V;NEC;INFR;PRS;PROG;3;SG;POS;DECL	boğuyor olmalıymış	V;IND;PST;PROG;2;PL;NEG;DECL	boğmuyordunuz
+V;IND;FUT;PROG;2;PL;NEG;INTR	iyileşiyor olmayacak mısınız	V;INFR;FUT;PRSP;2;PL;INTR;POS	iyileşecek olacak mıymışsınız
+V;NEC;PST;PROG;1;PL;INTR;POS	iğreniyor olmalı mıydık	V;INFR;FUT;HAB;2;PL;POS;DECL	iğrenir olacakmışsınız
+V;IND;PRS;PROG;3;SG;NEG;INTR	kısmıyor mu	V;IND;PST;1;SG;POS;DECL	kıstım
+V;IND;PST;PERF;1;PL;NEG;INTR	rahmetli olmadı mıydık	V;IND;FUT;PROG;2;SG;POS;DECL	rahmetli oluyor olacaksın
+V;INFR;FUT;PRSP;2;SG;NEG;INTR	kurutacak olmayacak mıymışsın	V;NEC;PRS;PROG;2;PL;POS;DECL	kurutuyor olmalısınız
+V;IND;PST;2;SG;NEG;DECL	emmedin	V;INFR;FUT;PROG;2;SG;NEG;DECL	emiyor olmayacakmışsın
+V;IND;PST;3;PL;INTR;POS	tanıttılar mı	V;IND;PST;1;SG;POS;DECL	tanıttım
+V;INFR;FUT;PROG;2;SG;POS;DECL	satın alıyor olacakmışsın	V;INFR;PRS;HAB;3;PL;NEG;DECL	satın almazlarmış
+V;IND;PRS;PROG;2;SG;POS;DECL	boğuyorsun	V;INFR;PST;PRSP;3;SG;NEG;INTR	boğmuş olmayacak mıydı
+V;NEC;INFR;PRS;PROG;1;PL;NEG;INTR	sikiyor olmamalı mıymışız	V;IND;PST;1;SG;INTR;POS	siktim mi
+V;NEC;PST;PROG;2;SG;POS;DECL	makyaj yapıyor olmalıydın	V;IND;PST;PROG;3;PL;NEG;DECL	makyaj yapmıyorlardı
+V;NEC;PRS;PROG;2;PL;POS;DECL	okuyor olmalısınız	V;IND;FUT;PRSP;2;SG;NEG;INTR	okuyacak olmayacak mısın
+V;NEC;INFR;PST;2;PL;INTR;POS	boğmalı mıymışsınız	V;INFR;PRS;PROG;3;PL;INTR;POS	boğuyorlar mıymış
+V;INFR;PST;2;SG;NEG;INTR	boşalmamış mısın	V;INFR;PRS;HAB;3;PL;POS;DECL	boşalırlarmış
+V;IND;FUT;PROG;3;PL;NEG;DECL	cartayı çekiyor olmayacaklar	V;INFR;FUT;PRSP;3;SG;NEG;DECL	cartayı çekecek olmayacakmış
+V;IND;PST;HAB;2;SG;INTR;POS	saldırır mıydın	V;INFR;FUT;PROG;1;SG;INTR;POS	saldırıyor olacak mıymışım
+V;IND;PRS;HAB;2;SG;NEG;DECL	erimezsin	V;INFR;PRS;PROG;2;SG;NEG;DECL	erimiyormuşsun
+V;INFR;FUT;PRSP;2;SG;INTR;POS	kısacak olacak mıymışsın	V;NEC;PRS;1;SG;INTR;POS	kısmeli miyim
+V;IND;PST;PRSP;2;SG;NEG;INTR	öpüşmeyecek miydin	V;INFR;FUT;PRSP;3;SG;NEG;DECL	öpüşecek olmayacakmış
+V;INFR;FUT;2;PL;POS;DECL	yaracakmışsınız	V;INFR;PST;PERF;2;SG;NEG;DECL	yarmamıştın
+V;IMP;2;SG;NEG;DECL	öpüşme	V;IND;FUT;PRSP;3;SG;NEG;INTR	öpüşecek olmayacak mı
+V;NEC;PRS;1;SG;INTR;POS	paylaşmeli miyim	V;NEC;INFR;PST;2;SG;NEG;DECL	paylaşmamalıymışsın
+V;NEC;PST;PROG;3;PL;NEG;DECL	işliyor olmamalılardı	V;INFR;FUT;PROG;1;PL;INTR;POS	işliyor olacak mıymışız
+V;IND;PST;HAB;1;PL;POS;DECL	bilirdik	V;IND;PST;HAB;PROG;3;PL;INTR;POS	biliyor olurlar mıydı
+V;IND;PRS;HAB;3;PL;NEG;INTR	canlandırmamazlar mı	V;NEC;PST;PROG;1;SG;INTR;POS	canlandırıyor olmalı mıydım
+V;IND;PST;3;PL;POS;DECL	bildiler	V;IND;PST;1;PL;NEG;DECL	bilmedik
+V;IND;PST;PRSP;PROG;3;PL;INTR;POS	soluyor olacaklar mıydı	V;IND;PRS;HAB;3;SG;INTR;POS	solar mı
+V;NEC;PST;1;PL;INTR;POS	yaptırtmalı mıydık	V;INFR;FUT;PROG;3;PL;INTR;POS	yaptırtıyor olacaklar mıymış
+V;INFR;FUT;PROG;3;PL;INTR;POS	sikiyor olacaklar mıymış	V;INFR;FUT;PRSP;3;SG;INTR;POS	sikecek olacak mıymış
+V;IND;PST;3;PL;INTR;POS	şaşırttırdılar mı	V;NEC;PRS;1;PL;INTR;POS	şaşırttırmeli miyiz
+V;NEC;INFR;PST;2;PL;NEG;DECL	toplamamalıymışsınız	V;NEC;PRS;1;PL;NEG;DECL	toplamameliyiz
+V;NEC;PRS;PROG;1;SG;NEG;INTR	sikişiyor olmamalı mıyım	V;INFR;FUT;PROG;2;PL;INTR;POS	sikişiyor olacak mıymışsınız
+V;INFR;PRS;HAB;3;SG;NEG;DECL	tanıtmazmış	V;INFR;FUT;2;PL;NEG;INTR	tanıtmayacak mıymışsınız
+V;NEC;INFR;PRS;PROG;3;PL;INTR;POS	geciktiriyor olmalılar mıymış	V;INFR;FUT;PRSP;3;PL;INTR;POS	geciktirecek olacaklar mıymış
+V;INFR;PRS;PROG;3;PL;INTR;POS	geçiyorlar mıymış	V;IND;PST;2;SG;POS;DECL	geçtin
+V;IND;PST;HAB;PROG;2;PL;INTR;POS	çarmıha geriyor olur muydunuz	V;INFR;FUT;PRSP;1;SG;NEG;INTR	çarmıha gerecek olmayacak mıymışım
+V;INFR;FUT;PERF;1;PL;NEG;INTR	sürtmüş olmayacak mıyız	V;NEC;PRS;2;SG;INTR;POS	sürtmeli misin
+V;IND;PST;1;PL;NEG;INTR	azmadık mı	V;NEC;INFR;PST;3;PL;NEG;INTR	azmamalılar mıymış
+V;INFR;FUT;PRSP;3;SG;POS;DECL	bağlaacak olacakmış	V;IND;PST;PROG;2;SG;POS;DECL	bağlıyordun
+V;IND;FUT;PROG;2;SG;INTR;POS	büktürtüyor olacak mısın	V;IND;PST;HAB;2;SG;INTR;POS	büktürtür müydün
+V;INFR;FUT;HAB;1;PL;POS;DECL	cartayı çeker olacakmışız	V;IND;PST;PERF;1;PL;NEG;DECL	cartayı çekmediydik
+V;IND;FUT;PROG;3;SG;NEG;DECL	işliyor olmayacak	V;IND;FUT;PRSP;2;SG;INTR;POS	işleyecek olacak mısın
+V;INFR;FUT;PRSP;2;SG;POS;DECL	aldatacak olacakmışsın	V;INFR;FUT;1;PL;INTR;POS	aldatacak mıymışız
+V;INFR;FUT;PRSP;3;SG;INTR;POS	soyacak olacak mıymış	V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	soyuyor olmamalıymışız
+V;INFR;PST;PERF;1;SG;NEG;INTR	cartayı çekmemiş miydim	V;NEC;INFR;PRS;PROG;2;SG;POS;DECL	cartayı çekiyor olmalıymışsın
+V;IND;PST;3;SG;POS;DECL	satın aldı	V;INFR;FUT;PRSP;2;PL;POS;DECL	satın alacak olacakmışsınız
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	şaşırttırıyor olmamalıymışız	V;IND;PST;HAB;PROG;3;PL;INTR;POS	şaşırttırıyor olurlar mıydı
+V;IND;PST;PRSP;PROG;2;PL;INTR;POS	düşünüyor olacak mıydınız	V;INFR;FUT;HAB;1;PL;INTR;POS	düşünür olacak mıymışız
+V;IND;FUT;PRSP;2;PL;NEG;DECL	oynayacak olmayacaksınız	V;INFR;FUT;HAB;3;PL;NEG;DECL	oynar olmayacaklarmış
+V;NEC;INFR;PST;2;PL;NEG;INTR	canlandırtılmamalı mıymışsınız	V;INFR;FUT;HAB;1;SG;NEG;DECL	canlandırtılır olmayacakmışım
+V;IND;PRS;HAB;2;SG;POS;DECL	canlandırtılırsın	V;INFR;PST;PRSP;2;PL;NEG;DECL	canlandırtılmış olmayacaktınız
+V;IND;PRS;HAB;3;PL;NEG;INTR	sikmezler mi	V;IND;PRS;PROG;1;PL;INTR;POS	sikiyor muyuz
+V;IND;PST;1;SG;POS;DECL	yıprandım	V;IND;PST;PERF;3;PL;NEG;INTR	yıpranmadılar mıydı
+V;IND;PST;PRSP;1;PL;NEG;INTR	azmayacak mıydık	V;IND;PST;HAB;PROG;2;PL;NEG;DECL	azıyor olmazdınız
+V;NEC;PST;PROG;3;SG;NEG;INTR	büyüyor olmamalı mıydı	V;NEC;PRS;PROG;1;SG;NEG;INTR	büyüyor olmamalı mıyım
+V;NEC;PST;PROG;2;PL;NEG;INTR	tanıtıyor olmamalı mıydınız	V;INFR;FUT;PROG;2;PL;NEG;DECL	tanıtıyor olmayacakmışsınız
+V;NEC;PRS;2;SG;POS;DECL	satın almelisin	V;INFR;LGSPEC1;PST;3;SG;POS;DECL	satın almışmış
+V;IND;PST;2;PL;POS;DECL	bildiniz	V;IND;PST;PERF;3;PL;NEG;DECL	bilmedilerdi
+V;INFR;PST;PRSP;3;PL;INTR;POS	türemiş olacaklar mıydı	V;IND;PST;2;PL;NEG;INTR	türemediniz mi
+V;IND;PST;3;SG;INTR;POS	şikâyet etti mi	V;NEC;PRS;2;PL;NEG;DECL	şikâyet etmemelisiniz
+V;INFR;FUT;PRSP;3;SG;POS;DECL	boşalacak olacakmış	V;INFR;PST;PRSP;3;SG;NEG;INTR	boşalmış olmayacak mıydı
+V;NEC;INFR;PST;3;PL;INTR;POS	makyaj yapmalılar mıymış	V;INFR;PRS;PROG;1;SG;INTR;POS	makyaj yapıyor muymuşum
+V;INFR;PRS;PROG;3;SG;INTR;POS	soyuyor muymuş	V;INFR;FUT;PERF;2;PL;POS;DECL	soymuş olacaksınız
+V;IND;PST;2;PL;INTR;POS	doğurdunuz mu	V;IMP;2;PL;NEG;DECL	doğurmayın
+V;NEC;PST;PROG;2;SG;NEG;INTR	taklitçi oluyor olmamalı mıydın	V;IND;PST;HAB;2;PL;NEG;DECL	taklitçi olmazdınız
+V;IND;PST;HAB;1;SG;NEG;DECL	şikâyet etmezdim	V;IND;PST;PRSP;3;PL;NEG;INTR	şikâyet etmeyecekler miydi
+V;INFR;FUT;2;SG;POS;DECL	paylaşacakmışsın	V;NEC;PRS;1;PL;INTR;POS	paylaşmeli miyiz
+V;INFR;FUT;PROG;1;SG;INTR;POS	çarmıha geriyor olacak mıymışım	V;INFR;PST;PRSP;3;SG;NEG;INTR	çarmıha germiş olmayacak mıydı
+V;IND;PST;3;PL;NEG;DECL	solmadılar	V;INFR;FUT;1;SG;POS;DECL	solacakmışım
+V;IND;PST;PRSP;2;PL;POS;DECL	şikâyet edecektiniz	V;NEC;PST;PROG;3;PL;INTR;POS	şikâyet ediyor olmalılar mıydı
+V;INFR;FUT;HAB;1;SG;INTR;POS	iyileşir olacak mıymışım	V;IND;PRS;PROG;1;SG;NEG;DECL	iyileşmiyorum
+V;IND;PST;PRSP;PROG;1;PL;NEG;INTR	türüyor olmayacak mıydık	V;IND;PST;PERF;2;SG;POS;DECL	türediydin
+V;NEC;INFR;PST;3;PL;POS;DECL	saydırmalılarmış	V;NEC;PST;PROG;2;SG;NEG;DECL	saydırıyor olmamalıydın
+V;IND;PRS;PROG;1;SG;INTR;POS	saldırıyor muyum	V;IND;PST;HAB;PROG;3;SG;INTR;POS	saldırıyor olur muydu
+V;IND;PST;PERF;2;PL;NEG;INTR	azmadı mıydınız	V;INFR;PST;2;PL;INTR;POS	azmış mısınız
+V;IND;PST;1;SG;NEG;DECL	canlandırmamadım	V;IND;PST;HAB;3;PL;NEG;INTR	canlandırmamazlar mıydı
+V;IND;FUT;3;SG;INTR;POS	kakacak mı	V;IND;FUT;PROG;2;SG;INTR;POS	kakıyor olacak mısın
+V;NEC;PST;PROG;3;SG;NEG;DECL	aldatıyor olmamalıydı	V;INFR;PRS;HAB;1;SG;NEG;INTR	aldatmaz mıymışım
+V;IND;PST;3;SG;NEG;INTR	boşalmadı mı	V;IND;PST;PRSP;PROG;2;PL;INTR;POS	boşalıyor olacak mıydınız
+V;IND;PST;PERF;2;PL;POS;DECL	ayırdıydınız	V;IND;FUT;PROG;1;PL;INTR;POS	ayırıyor olacak mıyız
+V;IND;PRS;PROG;1;SG;NEG;DECL	kısmıyorum	V;IND;PST;HAB;1;SG;INTR;POS	kısar mıydım
+V;IND;PRS;PROG;1;PL;NEG;DECL	satın almıyoruz	V;NEC;PST;PROG;2;PL;NEG;DECL	satın alıyor olmamalıydınız
+V;INFR;PRS;PROG;2;SG;POS;DECL	doğuruyormuşsun	V;IND;PST;HAB;PROG;2;PL;POS;DECL	doğuruyor olurdunuz
+V;INFR;PST;3;PL;NEG;INTR	saldırmamışlar mı	V;INFR;FUT;PROG;3;SG;NEG;INTR	saldırıyor olmayacak mıymış
+V;IND;PST;HAB;PROG;2;SG;NEG;DECL	oynuyor olmazdın	V;INFR;PST;1;SG;POS;DECL	oynamışım
+V;INFR;FUT;PRSP;3;SG;NEG;INTR	kurutacak olmayacak mıymış	V;INFR;PRS;PROG;3;SG;NEG;INTR	kurutmuyor muymuş
+V;INFR;FUT;PRSP;2;PL;POS;DECL	okuacak olacakmışsınız	V;INFR;PST;3;PL;NEG;INTR	okumamışlar mı
+V;NEC;PST;2;SG;POS;DECL	yıpranmalıydın	V;NEC;PST;3;SG;NEG;DECL	yıpranmamalıydı
+V;NEC;INFR;PST;3;PL;NEG;INTR	iyileşmemeliler miymiş	V;NEC;INFR;PRS;PROG;3;SG;POS;DECL	iyileşiyor olmalıymış
+V;IND;PST;HAB;PROG;3;PL;INTR;POS	elliyor olurlar mıydı	V;NEC;PRS;2;PL;NEG;INTR	ellememeli misiniz
+V;IND;FUT;2;PL;POS;DECL	kakacaksınız	V;IND;FUT;3;SG;NEG;DECL	kakmayacak
+V;NEC;INFR;PST;2;SG;INTR;POS	geciktirmeli miymişsin	V;IND;PRS;HAB;1;SG;INTR;POS	geciktirir miyim
+V;INFR;FUT;3;SG;NEG;INTR	eskimeyecek miymiş	V;IND;PST;PROG;1;SG;INTR;POS	eskiyor muydum
+V;IND;PRS;PROG;1;PL;NEG;DECL	paylaşmıyoruz	V;INFR;PST;PRSP;3;SG;NEG;INTR	paylaşmış olmayacak mıydı
+V;INFR;FUT;PERF;1;SG;NEG;INTR	geçmiş olmayacak mıyım	V;IND;PRS;PROG;3;SG;NEG;INTR	geçmiyor mu
+V;INFR;FUT;1;SG;POS;DECL	doğuracakmışım	V;NEC;PRS;2;PL;POS;DECL	doğurmelisiniz
+V;INFR;FUT;PRSP;3;SG;POS;DECL	kanaacak olacakmış	V;INFR;PRS;HAB;1;PL;NEG;INTR	kanamaz mıymışız
+V;INFR;FUT;HAB;1;SG;NEG;INTR	taklitçi olur olmayacak mıymışım	V;IND;PST;HAB;PROG;2;SG;NEG;DECL	taklitçi oluyor olmazdın
+V;IND;PST;HAB;1;SG;NEG;DECL	sıyırmazdım	V;INFR;FUT;PERF;2;PL;NEG;DECL	sıyırmış olmayacaksınız
+V;IND;PRS;HAB;1;PL;POS;DECL	geciktiririz	V;INFR;FUT;PROG;3;PL;NEG;INTR	geciktiriyor olmayacaklar mıymış
+V;NEC;PRS;PROG;1;PL;NEG;DECL	öpüşüyor olmamalıyız	V;IND;PRS;HAB;3;PL;NEG;DECL	öpüşmezler
+V;NEC;PRS;PROG;1;SG;NEG;DECL	büyüyor olmamalıyım	V;IND;PST;PROG;1;PL;NEG;INTR	büyümüyor muyduk
+V;IND;PST;PRSP;PROG;2;PL;NEG;INTR	gönderiyor olmayacak mıydınız	V;IND;PRS;HAB;3;PL;NEG;INTR	göndermezler mi
+V;NEC;PRS;PROG;1;PL;INTR;POS	taklitçi oluyor olmalı mıyız	V;IND;PST;PRSP;2;SG;NEG;INTR	taklitçi olmayacak mıydın
+V;NEC;INFR;PRS;PROG;2;PL;NEG;INTR	eriyor olmamalı mıymışsınız	V;INFR;FUT;2;SG;POS;DECL	eriyecekmişsin
+V;INFR;PST;PERF;1;PL;POS;DECL	doğurmuştuk	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	doğuruyor olmalıymışız
+V;IND;FUT;PROG;1;SG;INTR;POS	türüyor olacak mıyım	V;INFR;PST;PERF;1;PL;POS;DECL	türemiştik
+V;INFR;FUT;1;PL;NEG;DECL	rahmetli olmayacakmışız	V;INFR;PRS;PROG;3;SG;NEG;INTR	rahmetli olmuyor muymuş
+V;IND;FUT;PRSP;2;SG;NEG;INTR	iyileşecek olmayacak mısın	V;IND;PRS;PROG;2;SG;NEG;INTR	iyileşmiyor musun
+V;IND;PST;PROG;1;PL;INTR;POS	çarmıha geriyor muyduk	V;INFR;PST;PRSP;2;PL;NEG;INTR	çarmıha germiş olmayacak mıydınız
+V;INFR;PST;PERF;3;SG;NEG;INTR	kanamamış mıydı	V;INFR;PRS;HAB;3;PL;POS;DECL	kanarlarmış
+V;INFR;PRS;HAB;2;PL;POS;DECL	eskirmişsiniz	V;INFR;FUT;PROG;3;PL;INTR;POS	eskiyor olacaklar mıymış
+V;IND;PST;PROG;1;SG;INTR;POS	iğreniyor muydum	V;IND;PST;PRSP;3;SG;NEG;INTR	iğrenmeyecek miydi
+V;NEC;PST;PROG;2;PL;NEG;DECL	doğuruyor olmamalıydınız	V;INFR;PST;PRSP;2;SG;INTR;POS	doğurmuş olacak mıydın
+V;NEC;PRS;3;SG;INTR;POS	okumeli mi	V;INFR;PST;PERF;3;SG;INTR;POS	okumuş muydu
+V;INFR;FUT;PERF;1;PL;NEG;INTR	büktürtmemiş olmayacak mıyız	V;INFR;PST;1;SG;INTR;POS	büktürtmemiş miyim
+V;IND;FUT;PRSP;3;PL;NEG;INTR	ayıracak olmayacaklar mı	V;NEC;INFR;PST;2;SG;NEG;DECL	ayırmamalıymışsın
+V;INFR;FUT;PERF;3;SG;POS;DECL	büyümüş olacak	V;INFR;LGSPEC1;PST;1;SG;INTR;POS	büyümüş müymüşüm
+V;IND;PRS;PROG;3;PL;NEG;DECL	kurutmuyorlar	V;NEC;PRS;2;PL;INTR;POS	kurutmeli misiniz
+V;NEC;INFR;PRS;PROG;2;SG;NEG;DECL	öpüşüyor olmamalıymışsın	V;INFR;FUT;3;PL;NEG;INTR	öpüşmeyecekler miymiş
+V;NEC;PST;PROG;2;PL;NEG;INTR	canlandırıyor olmamalı mıydınız	V;INFR;PST;PRSP;3;SG;POS;DECL	canlandırmamış olacaktı
+V;NEC;INFR;PST;2;PL;INTR;POS	saydırmalı mıymışsınız	V;INFR;LGSPEC1;PST;1;SG;NEG;DECL	saydırmamışmışım
+V;INFR;FUT;HAB;2;PL;NEG;DECL	doğurur olmayacakmışsınız	V;INFR;FUT;PROG;3;SG;NEG;INTR	doğuruyor olmayacak mıymış
+V;INFR;PST;PRSP;1;SG;POS;DECL	solmuş olacaktım	V;IND;PST;PRSP;PROG;3;SG;INTR;POS	soluyor olacak mıydı
+V;IND;PST;HAB;1;PL;INTR;POS	toplar mıydık	V;NEC;PST;1;PL;INTR;POS	toplamalı mıydık
+V;INFR;FUT;3;SG;INTR;POS	çarmıha gerecek miymiş	V;IND;FUT;1;SG;POS;DECL	çarmıha gereceğim
+V;IND;PST;PRSP;1;SG;NEG;INTR	canlandırmamayacak mıydım	V;IND;PST;PRSP;PROG;2;PL;INTR;POS	canlandırıyor olacak mıydınız
+V;INFR;PRS;HAB;2;PL;NEG;DECL	gücenmezmişsiniz	V;INFR;LGSPEC1;PST;2;SG;NEG;DECL	gücenmemişmişsin
+V;INFR;PRS;HAB;1;PL;NEG;INTR	kurutmaz mıymışız	V;INFR;LGSPEC1;PST;3;SG;NEG;INTR	kurutmamış mıymış
+V;INFR;PRS;HAB;1;PL;NEG;DECL	sürtmezmişiz	V;INFR;PST;PRSP;3;PL;NEG;DECL	sürtmüş olmayacaklardı
+V;IND;PRS;PROG;3;PL;POS;DECL	emiyorlar	V;INFR;PRS;PROG;3;PL;NEG;INTR	emmiyorlar mıymış
+V;IND;PST;1;SG;NEG;DECL	paylaşmadım	V;INFR;FUT;PRSP;2;SG;NEG;INTR	paylaşacak olmayacak mıymışsın
+V;INFR;PST;PERF;3;SG;NEG;INTR	cartayı çekmemiş miydi	V;INFR;FUT;1;PL;NEG;DECL	cartayı çekmeyecekmişiz
+V;INFR;FUT;HAB;1;SG;NEG;DECL	kakar olmayacakmışım	V;IND;PST;HAB;2;SG;NEG;INTR	kakmaz mıydın
+V;INFR;FUT;HAB;1;PL;POS;DECL	erir olacakmışız	V;INFR;PST;PRSP;2;SG;INTR;POS	erimiş olacak mıydın
+V;INFR;LGSPEC1;PST;3;SG;POS;DECL	boşalmışmış	V;IND;PST;PRSP;PROG;3;PL;NEG;DECL	boşalıyor olmayacaklardı
+V;IND;PST;HAB;3;PL;NEG;INTR	bağlamazlar mıydı	V;INFR;PRS;HAB;3;SG;NEG;INTR	bağlamaz mıymış
+V;IND;PST;1;PL;NEG;DECL	rahmetli olmadık	V;NEC;PST;PROG;1;SG;POS;DECL	rahmetli oluyor olmalıydım
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	güceniyor olmalı mıymışsınız	V;IND;PST;PROG;3;PL;NEG;DECL	gücenmiyorlardı
+V;IND;PST;3;PL;POS;DECL	doğurdular	V;INFR;PST;1;SG;INTR;POS	doğurmuş muyum
+V;INFR;FUT;PERF;2;SG;INTR;POS	büktürtmemiş olacak mısın	V;NEC;PRS;1;PL;INTR;POS	büktürtmemeli miyiz
+V;IND;PST;PERF;1;SG;NEG;DECL	ellemediydim	V;NEC;PST;1;PL;INTR;POS	ellemeli miydik
+V;IND;PST;PRSP;3;SG;NEG;INTR	ayırmayacak mıydı	V;IND;PST;PROG;3;PL;POS;DECL	ayırıyorlardı
+V;IND;PST;HAB;PROG;2;PL;INTR;POS	yaptırtıyor olur muydunuz	V;IND;PST;3;SG;POS;DECL	yaptırttı
+V;IND;PST;PRSP;1;SG;INTR;POS	satın alacak mıydım	V;NEC;PRS;PROG;1;SG;NEG;DECL	satın alıyor olmamalıyım
+V;INFR;FUT;PRSP;1;PL;NEG;INTR	türeecek olmayacak mıymışız	V;IND;PRS;HAB;2;PL;POS;DECL	türersiniz
+V;IND;PST;PROG;3;SG;POS;DECL	gönderiyordu	V;IND;PST;2;PL;NEG;INTR	göndermediniz mi
+V;NEC;INFR;PRS;PROG;1;SG;POS;DECL	programlattırıyor olmalıymışım	V;INFR;FUT;PROG;2;PL;NEG;DECL	programlattırıyor olmayacakmışsınız
+V;INFR;LGSPEC1;PST;2;PL;INTR;POS	programlattırmış mıymışsınız	V;IND;FUT;PROG;3;PL;NEG;DECL	programlattırıyor olmayacaklar
+V;IND;FUT;PROG;3;SG;NEG;INTR	oynuyor olmayacak mı	V;NEC;INFR;PST;3;PL;NEG;INTR	oynamamalılar mıymış
+V;NEC;PRS;2;SG;NEG;DECL	bağlamamelisin	V;INFR;FUT;HAB;3;PL;NEG;DECL	bağlar olmayacaklarmış
+V;IND;PST;PROG;1;PL;NEG;INTR	cartayı çekmiyor muyduk	V;INFR;PST;1;PL;INTR;POS	cartayı çekmiş miyiz
+V;IND;PST;HAB;1;SG;NEG;DECL	cartayı çekmezdim	V;INFR;PRS;HAB;1;SG;NEG;INTR	cartayı çekmez miymişim
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	boğuyor olmamalıymışız	V;IND;PST;PERF;1;SG;POS;DECL	boğduydum
+V;IND;FUT;PROG;3;PL;NEG;DECL	canlandırtılıyor olmayacaklar	V;IND;FUT;1;SG;NEG;DECL	canlandırtılmayacağım
+V;INFR;FUT;HAB;2;PL;NEG;INTR	boşalır olmayacak mıymışsınız	V;IND;PST;PRSP;1;PL;INTR;POS	boşalacak mıydık
+V;IND;PST;PERF;3;PL;NEG;INTR	sıyırmadılar mıydı	V;IND;PRS;PROG;1;SG;INTR;POS	sıyırıyor muyum
+V;NEC;PRS;PROG;1;SG;NEG;INTR	kısıyor olmamalı mıyım	V;IND;FUT;PRSP;3;SG;NEG;INTR	kısacak olmayacak mı
+V;IND;PRS;HAB;2;SG;INTR;POS	soyar mısın	V;IND;PST;PROG;2;PL;NEG;DECL	soymuyordunuz
+V;IND;PST;PROG;3;SG;INTR;POS	topluyor muydu	V;IND;FUT;1;SG;INTR;POS	toplayacak mıyım
+V;IND;PST;PRSP;2;PL;INTR;POS	emecek miydiniz	V;INFR;PRS;PROG;2;PL;NEG;DECL	emmiyormuşsunuz
+V;IND;PST;HAB;PROG;1;SG;INTR;POS	programlattırıyor olur muydum	V;IND;PRS;PROG;3;PL;NEG;DECL	programlattırmıyorlar
+V;IND;PRS;PROG;1;PL;POS;DECL	tanıtıyoruz	V;IND;PST;2;PL;POS;DECL	tanıttınız
+V;NEC;PST;1;SG;NEG;DECL	öpüşmemeliydim	V;NEC;PST;PROG;2;PL;POS;DECL	öpüşüyor olmalıydınız
+V;NEC;PST;2;PL;INTR;POS	sikmeli miydiniz	V;NEC;PRS;PROG;1;PL;NEG;DECL	sikiyor olmamalıyız
+V;NEC;INFR;PRS;PROG;2;SG;NEG;DECL	doğuruyor olmamalıymışsın	V;IND;PST;PRSP;PROG;2;SG;NEG;DECL	doğuruyor olmayacaktın
+V;IND;PST;PROG;3;PL;NEG;DECL	paylaşmıyorlardı	V;IND;PST;PERF;3;SG;POS;DECL	paylaştıydı
+V;IND;PRS;PROG;1;SG;INTR;POS	sıyırıyor muyum	V;IND;FUT;PRSP;3;PL;NEG;INTR	sıyıracak olmayacaklar mı
+V;NEC;INFR;PST;3;SG;NEG;DECL	sikişmemeliymiş	V;INFR;PRS;HAB;2;SG;NEG;DECL	sikişmezmişsin
+V;IND;FUT;1;PL;INTR;POS	kakacak mıyız	V;IND;FUT;PROG;3;SG;NEG;DECL	kakıyor olmayacak
+V;IND;PRS;PROG;2;PL;NEG;INTR	bağlamıyor musunuz	V;IND;FUT;PROG;2;SG;INTR;POS	bağlıyor olacak mısın
+V;IND;PST;PROG;1;SG;NEG;DECL	türemiyordum	V;NEC;PRS;PROG;2;SG;NEG;INTR	türüyor olmamalı mısın
+V;IND;FUT;1;PL;POS;DECL	oynayacağız	V;INFR;FUT;PROG;2;PL;INTR;POS	oynuyor olacak mıymışsınız
+V;INFR;FUT;PERF;3;SG;NEG;INTR	ayırmış olmayacak mı	V;INFR;PRS;PROG;3;SG;POS;DECL	ayırıyormuş
+V;IND;PST;PROG;3;PL;INTR;POS	tanıtıyorlar mıydı	V;INFR;PST;2;SG;NEG;INTR	tanıtmamış mısın
+V;IND;PST;PRSP;PROG;1;SG;NEG;INTR	süpürüyor olmayacak mıydım	V;IND;PST;PERF;1;SG;NEG;DECL	süpürmediydim
+V;INFR;PST;PRSP;2;PL;NEG;INTR	toplamış olmayacak mıydınız	V;IND;PRS;PROG;2;PL;NEG;DECL	toplamıyorsunuz
+V;IND;FUT;PRSP;3;SG;NEG;INTR	saydıracak olmayacak mı	V;NFIN	saydırmak
+V;IND;PST;PRSP;1;SG;NEG;INTR	aldatmayacak mıydım	V;IND;PST;PRSP;2;PL;NEG;INTR	aldatmayacak mıydınız
+V;NEC;PRS;PROG;1;SG;INTR;POS	işliyor olmalı mıyım	V;INFR;PRS;HAB;2;SG;POS;DECL	işlermişsin
+V;IND;PST;PRSP;2;PL;NEG;DECL	geçmeyecektiniz	V;NEC;PST;PROG;3;PL;NEG;INTR	geçiyor olmamalılar mıydı
+V;NEC;INFR;PST;2;SG;NEG;INTR	bağlamamalı mıymışsın	V;NEC;PRS;PROG;1;SG;NEG;DECL	bağlıyor olmamalıyım
+V;NEC;PRS;3;PL;POS;DECL	iğrenmeliler	V;INFR;FUT;PROG;1;PL;NEG;DECL	iğreniyor olmayacakmışız
+V;NFIN	okumak	V;INFR;FUT;PRSP;2;PL;NEG;DECL	okuacak olmayacakmışsınız
+V;IND;FUT;3;SG;NEG;INTR	ellemeyecek mi	V;NEC;INFR;PRS;PROG;3;SG;POS;DECL	elliyor olmalıymış
+V;INFR;PRS;HAB;2;PL;INTR;POS	oynar mıymışsınız	V;IND;PRS;HAB;2;PL;NEG;DECL	oynamazsınız
+V;IND;PST;HAB;PROG;2;SG;INTR;POS	makyaj yapıyor olur muydun	V;IND;PST;PRSP;2;SG;POS;DECL	makyaj yapacaktın
+V;IND;PST;PRSP;PROG;3;PL;NEG;INTR	işliyor olmayacaklar mıydı	V;INFR;PST;PRSP;1;PL;INTR;POS	işlemiş olacak mıydık
+V;NEC;PRS;3;PL;POS;DECL	iğrenmeliler	V;INFR;PRS;PROG;1;SG;NEG;INTR	iğrenmiyor muymuşum
+V;INFR;FUT;PERF;1;SG;NEG;INTR	iyileşmiş olmayacak mıyım	V;IND;PST;PROG;2;SG;NEG;INTR	iyileşmiyor muydun
+V;NEC;PRS;PROG;2;SG;NEG;DECL	geciktiriyor olmamalısın	V;IND;PST;3;SG;NEG;DECL	geciktirmedi
+V;NEC;INFR;PST;2;SG;NEG;INTR	iyileşmemeli miymişsin	V;NEC;PRS;PROG;2;SG;NEG;DECL	iyileşiyor olmamalısın
+V;IND;PRS;HAB;3;SG;INTR;POS	düşünür mü	V;IND;PST;PROG;2;SG;NEG;INTR	düşünmüyor muydun
+V;INFR;FUT;PERF;1;PL;NEG;INTR	yaptırtmış olmayacak mıyız	V;IND;PST;PRSP;1;PL;INTR;POS	yaptırtacak mıydık
+V;NEC;PRS;3;SG;POS;DECL	gücenmeli	V;IND;FUT;PRSP;1;SG;POS;DECL	gücenecek olacağım
+V;NEC;PRS;PROG;2;SG;NEG;INTR	canlandırtılıyor olmamalı mısın	V;IND;FUT;PRSP;1;SG;NEG;INTR	canlandırtılacak olmayacak mıyım
+V;IND;PRS;HAB;3;SG;NEG;INTR	sikişmez mi	V;IND;FUT;PRSP;2;SG;NEG;INTR	sikişecek olmayacak mısın
+V;IND;PST;HAB;PROG;3;PL;NEG;DECL	rahmetli oluyor olmazlardı	V;IND;FUT;PRSP;1;SG;NEG;DECL	rahmetli olacak olmayacağım
+V;INFR;PRS;HAB;1;PL;POS;DECL	saydırırmışız	V;IND;PST;PRSP;PROG;1;PL;INTR;POS	saydırıyor olacak mıydık
+V;IND;PST;PRSP;PROG;1;SG;NEG;INTR	saldırıyor olmayacak mıydım	V;IND;FUT;PRSP;3;SG;NEG;INTR	saldıracak olmayacak mı
+V;IND;FUT;3;PL;NEG;DECL	geciktirmeyecekler	V;INFR;FUT;PRSP;3;PL;NEG;DECL	geciktirecek olmayacaklarmış
+V;INFR;FUT;HAB;2;SG;POS;DECL	oynar olacakmışsın	V;INFR;FUT;PRSP;3;SG;NEG;INTR	oynaacak olmayacak mıymış
+V;INFR;PRS;PROG;1;PL;INTR;POS	tanıtıyor muymuşuz	V;IND;PST;PRSP;3;PL;NEG;INTR	tanıtmayacaklar mıydı
+V;INFR;FUT;PROG;2;PL;NEG;DECL	işliyor olmayacakmışsınız	V;IND;PRS;PROG;2;SG;POS;DECL	işliyorsun
+V;IND;PST;PRSP;1;PL;NEG;DECL	sikmeyecektik	V;IND;FUT;PRSP;1;SG;NEG;INTR	sikecek olmayacak mıyım
+V;IMP;2;PL;NEG;DECL	canlandırmamayın	V;INFR;PRS;PROG;1;PL;INTR;POS	canlandırıyor muymuşuz
+V;NEC;PST;2;PL;NEG;DECL	sürtmemeliydiniz	V;IND;FUT;2;PL;INTR;POS	sürtecek misiniz
+V;INFR;PST;PRSP;3;PL;NEG;DECL	canlandırmamış olmayacaklardı	V;NEC;PST;PROG;3;SG;NEG;DECL	canlandırıyor olmamalıydı
+V;INFR;FUT;PERF;3;SG;NEG;INTR	yıpranmış olmayacak mı	V;INFR;LGSPEC1;PST;3;SG;NEG;DECL	yıpranmamışmış
+V;IND;PRS;HAB;2;SG;POS;DECL	düşünürsün	V;IND;PST;PRSP;PROG;3;PL;NEG;INTR	düşünüyor olmayacaklar mıydı
+V;IND;PST;HAB;2;PL;POS;DECL	büktürtürdünüz	V;INFR;FUT;PRSP;2;SG;NEG;DECL	büktürtüecek olmayacakmışsın
+V;INFR;FUT;HAB;3;PL;NEG;DECL	şaşırttırır olmayacaklarmış	V;IND;PST;PROG;2;SG;POS;DECL	şaşırttırıyordun
+V;IND;PST;PRSP;PROG;2;SG;NEG;DECL	gönderiyor olmayacaktın	V;IND;PST;PERF;2;SG;NEG;INTR	göndermedi miydin
+V;INFR;FUT;3;SG;NEG;INTR	iyileşmeyecek miymiş	V;NEC;INFR;PST;2;SG;NEG;INTR	iyileşmemeli miymişsin
+V;IND;PRS;PROG;2;SG;NEG;INTR	yaptırtmıyor musun	V;INFR;PRS;PROG;1;SG;POS;DECL	yaptırtıyormuşum
+V;IND;PST;PRSP;PROG;3;PL;NEG;INTR	türüyor olmayacaklar mıydı	V;IND;PST;2;PL;POS;DECL	türediniz
+V;INFR;PRS;PROG;1;PL;POS;DECL	saydırıyormuşuz	V;INFR;PST;PERF;1;SG;NEG;INTR	saydırmamış mıydım
+V;INFR;PST;2;SG;POS;DECL	boşalmışsın	V;INFR;PRS;HAB;3;SG;NEG;INTR	boşalmaz mıymış
+V;IND;PST;PROG;2;PL;NEG;INTR	binmiyor muydunuz	V;INFR;PST;PERF;3;SG;POS;DECL	binmişti
+V;INFR;PST;PRSP;2;PL;NEG;DECL	sikişmiş olmayacaktınız	V;INFR;PRS;HAB;3;SG;POS;DECL	sikişirmiş
+V;IND;FUT;PROG;3;SG;INTR;POS	öpüşüyor olacak mı	V;INFR;PRS;PROG;1;PL;INTR;POS	öpüşüyor muymuşuz
+V;IND;PST;2;SG;INTR;POS	yıprandın mı	V;NEC;INFR;PST;3;PL;NEG;INTR	yıpranmamalılar mıymış
+V;NEC;INFR;PRS;PROG;3;SG;NEG;INTR	büktürtüyor olmamalı mıymış	V;NEC;PRS;PROG;2;SG;INTR;POS	büktürtüyor olmalı mısın
+V;INFR;FUT;PROG;3;PL;INTR;POS	iğreniyor olacaklar mıymış	V;NEC;PST;PROG;3;SG;INTR;POS	iğreniyor olmalı mıydı
+V;NEC;PRS;2;PL;NEG;DECL	ayırmamelisiniz	V;IND;FUT;1;SG;INTR;POS	ayıracak mıyım
+V;INFR;FUT;3;PL;NEG;INTR	ayırmayacaklar mıymış	V;IND;FUT;PROG;2;SG;NEG;INTR	ayırıyor olmayacak mısın
+V;IND;PRS;HAB;2;SG;POS;DECL	oynarsın	V;IND;FUT;PRSP;3;SG;POS;DECL	oynayacak olacak
+V;NEC;PRS;3;SG;POS;DECL	cartayı çekmeli	V;INFR;PST;PRSP;1;PL;INTR;POS	cartayı çekmiş olacak mıydık
+V;IND;FUT;2;PL;INTR;POS	kurutacak mısınız	V;INFR;LGSPEC1;PST;3;SG;NEG;DECL	kurutmamışmış
+V;IND;PST;PROG;1;PL;NEG;INTR	programlattırmıyor muyduk	V;IND;PST;PERF;3;SG;INTR;POS	programlattırdı mıydı
+V;INFR;PRS;PROG;3;PL;NEG;INTR	doğurmuyorlar mıymış	V;IND;PST;HAB;PROG;2;PL;INTR;POS	doğuruyor olur muydunuz
+V;IND;FUT;PROG;2;SG;INTR;POS	türüyor olacak mısın	V;IND;PST;PROG;1;SG;POS;DECL	türüyordum
+V;INFR;FUT;PERF;3;PL;NEG;DECL	süpürmüş olmayacaklar	V;IND;FUT;PRSP;3;SG;INTR;POS	süpürecek olacak mı
+V;IND;FUT;PRSP;3;SG;POS;DECL	yaracak olacak	V;NEC;PRS;PROG;2;PL;POS;DECL	yarıyor olmalısınız
+V;NEC;PST;2;SG;NEG;INTR	çarmıha germemeli miydin	V;IND;FUT;PRSP;1;PL;NEG;INTR	çarmıha gerecek olmayacak mıyız
+V;IND;PST;PRSP;2;SG;INTR;POS	okuyacak mıydın	V;NEC;PST;PROG;3;PL;NEG;DECL	okuyor olmamalılardı
+V;INFR;FUT;PERF;3;SG;NEG;DECL	bağlamış olmayacak	V;INFR;PST;PRSP;3;SG;NEG;INTR	bağlamış olmayacak mıydı
+V;NEC;INFR;PRS;PROG;1;SG;NEG;DECL	süpürüyor olmamalıymışım	V;NEC;PRS;2;PL;INTR;POS	süpürmeli misiniz
+V;INFR;FUT;PROG;2;SG;POS;DECL	boşalıyor olacakmışsın	V;IND;FUT;1;SG;NEG;DECL	boşalmayacağım
+V;NEC;PRS;PROG;1;SG;NEG;DECL	elliyor olmamalıyım	V;IND;PST;PRSP;PROG;3;SG;INTR;POS	elliyor olacak mıydı
+V;IND;PST;1;SG;INTR;POS	sürttüm mü	V;NEC;PST;1;SG;NEG;INTR	sürtmemeli miydim
+V;INFR;FUT;3;SG;INTR;POS	soyacak mıymış	V;NEC;PRS;PROG;3;PL;POS;DECL	soyuyor olmalılar
+V;IND;PST;HAB;1;PL;POS;DECL	gücenirdik	V;NEC;PST;PROG;2;PL;NEG;INTR	güceniyor olmamalı mıydınız
+V;NEC;PST;2;SG;NEG;INTR	geçmemeli miydin	V;INFR;PST;3;SG;INTR;POS	geçmiş mi
+V;IND;PST;1;PL;INTR;POS	azdık mı	V;INFR;PST;2;SG;NEG;INTR	azmamış mısın
+V;IND;PRS;PROG;2;SG;POS;DECL	canlandırıyorsun	V;IND;PST;1;PL;NEG;DECL	canlandırmamadık
+V;NEC;PST;PROG;1;SG;NEG;DECL	geçiyor olmamalıydım	V;IND;PST;PERF;2;SG;POS;DECL	geçtiydin
+V;IND;PST;HAB;PROG;1;SG;POS;DECL	öpüşüyor olurdum	V;IND;PST;PRSP;PROG;1;PL;NEG;INTR	öpüşüyor olmayacak mıydık
+V;NEC;INFR;PST;2;SG;NEG;INTR	canlandırmamamalı mıymışsın	V;INFR;PRS;HAB;3;SG;INTR;POS	canlandırır mıymış
+V;INFR;FUT;HAB;3;SG;NEG;INTR	boşalır olmayacak mıymış	V;IND;PST;PRSP;PROG;1;SG;INTR;POS	boşalıyor olacak mıydım
+V;IND;FUT;PROG;3;PL;INTR;POS	okuyor olacaklar mı	V;INFR;FUT;HAB;1;PL;NEG;INTR	okur olmayacak mıymışız
+V;INFR;FUT;PRSP;2;SG;INTR;POS	makyaj yapacak olacak mıymışsın	V;NEC;INFR;PRS;PROG;1;PL;INTR;POS	makyaj yapıyor olmalı mıymışız
+V;INFR;PST;PRSP;1;SG;INTR;POS	sürtmüş olacak mıydım	V;INFR;FUT;PRSP;1;SG;INTR;POS	sürtecek olacak mıymışım
+V;NEC;PST;3;PL;INTR;POS	taklitçi olmalılar mıydı	V;INFR;LGSPEC1;PST;2;PL;NEG;INTR	taklitçi olmamış mıymışsınız
+V;NEC;INFR;PRS;PROG;2;PL;POS;DECL	cartayı çekiyor olmalıymışsınız	V;INFR;FUT;1;PL;POS;DECL	cartayı çekecekmişiz
+V;INFR;FUT;PERF;3;PL;NEG;DECL	saydırmış olmayacaklar	V;IND;PST;PERF;3;PL;NEG;INTR	saydırmadılar mıydı
+V;IND;PST;HAB;PROG;3;PL;INTR;POS	iğreniyor olurlar mıydı	V;INFR;PRS;PROG;1;SG;NEG;DECL	iğrenmiyormuşum
+V;INFR;PRS;HAB;2;PL;INTR;POS	kısar mıymışsınız	V;INFR;PRS;HAB;2;SG;INTR;POS	kısar mıymışsın
+V;NEC;INFR;PST;3;SG;NEG;DECL	saydırmamalıymış	V;IND;PST;PRSP;1;SG;NEG;INTR	saydırmayacak mıydım
+V;IND;PST;HAB;2;SG;NEG;INTR	sürtmez miydin	V;INFR;FUT;HAB;1;SG;INTR;POS	sürter olacak mıymışım
+V;NEC;PRS;PROG;2;SG;INTR;POS	rahmetli oluyor olmalı mısın	V;IND;PRS;HAB;3;SG;POS;DECL	rahmetli olur
+V;INFR;FUT;HAB;3;SG;NEG;DECL	doğurur olmayacakmış	V;INFR;LGSPEC1;PST;2;PL;NEG;DECL	doğurmamışmışsınız
+V;IND;FUT;PROG;2;SG;POS;DECL	boşalıyor olacaksın	V;IND;PST;PROG;2;PL;POS;DECL	boşalıyordunuz
+V;NEC;PST;3;SG;INTR;POS	öpüşmeli miydi	V;IND;FUT;PRSP;1;SG;INTR;POS	öpüşecek olacak mıyım
+V;IND;FUT;1;SG;NEG;INTR	emmeyecek miyim	V;INFR;PST;2;SG;INTR;POS	emmiş misin
+V;INFR;FUT;PERF;2;SG;INTR;POS	ayırmış olacak mısın	V;IND;PST;HAB;PROG;1;PL;NEG;INTR	ayırıyor olmaz mıydık
+V;INFR;FUT;PERF;2;PL;INTR;POS	boşalmış olacak mısınız	V;INFR;PST;PERF;2;SG;POS;DECL	boşalmıştın
+V;IND;PST;2;SG;INTR;POS	geciktirdin mi	V;IND;PRS;PROG;1;SG;NEG;INTR	geciktirmiyor muyum
+V;IND;PST;HAB;PROG;1;PL;INTR;POS	düşünüyor olur muyduk	V;IND;PST;PRSP;PROG;2;PL;POS;DECL	düşünüyor olacaktınız
+V;IND;FUT;PROG;3;SG;POS;DECL	makyaj yapıyor olacak	V;INFR;FUT;PRSP;2;PL;NEG;INTR	makyaj yapacak olmayacak mıymışsınız
+V;INFR;FUT;1;SG;NEG;DECL	sürtmeyecekmişim	V;IND;FUT;3;SG;NEG;DECL	sürtmeyecek
+V;INFR;FUT;2;PL;INTR;POS	düşünecek miymişsiniz	V;IND;PST;PROG;1;SG;INTR;POS	düşünüyor muydum
+V;INFR;FUT;2;PL;NEG;INTR	eskimeyecek miymişsiniz	V;INFR;PRS;HAB;3;PL;NEG;DECL	eskimezlermiş
+V;NEC;PST;PROG;3;SG;NEG;DECL	boğuyor olmamalıydı	V;IND;PST;HAB;1;PL;NEG;DECL	boğmazdık
+V;NEC;PRS;3;SG;POS;DECL	sikişmeli	V;INFR;FUT;PRSP;2;PL;NEG;DECL	sikişecek olmayacakmışsınız
+V;INFR;PST;3;PL;NEG;DECL	canlandırmamamışlar	V;INFR;PST;PERF;1;PL;NEG;DECL	canlandırmamamıştık
+V;IND;PST;PRSP;1;SG;POS;DECL	programlattıracaktım	V;INFR;FUT;HAB;3;SG;NEG;DECL	programlattırır olmayacakmış
+V;IND;PST;HAB;2;PL;NEG;INTR	kısmaz mıydınız	V;IND;PST;PRSP;PROG;3;SG;NEG;INTR	kısıyor olmayacak mıydı
+V;INFR;LGSPEC1;PST;3;PL;INTR;POS	yaptırtmışlar mıymış	V;IND;PRS;PROG;2;PL;NEG;INTR	yaptırtmıyor musunuz
+V;INFR;FUT;PERF;1;PL;POS;DECL	bağlamış olacağız	V;INFR;FUT;PRSP;3;PL;INTR;POS	bağlaacak olacaklar mıymış
+V;INFR;PST;PRSP;2;SG;POS;DECL	aramış olacaktın	V;NEC;PST;2;SG;POS;DECL	aramalıydın
+V;IND;PST;1;SG;INTR;POS	rahmetli oldum mu	V;INFR;FUT;3;PL;NEG;INTR	rahmetli olmayacaklar mıymış
+V;NEC;PRS;1;SG;NEG;DECL	saydırmameliyim	V;IND;PRS;PROG;1;PL;POS;DECL	saydırıyoruz
+V;INFR;PST;1;PL;NEG;DECL	taklitçi olmamışız	V;IND;FUT;PROG;2;SG;NEG;INTR	taklitçi oluyor olmayacak mısın
+V;NEC;INFR;PRS;PROG;3;SG;NEG;INTR	biliyor olmamalı mıymış	V;INFR;FUT;2;PL;POS;DECL	bilecekmişsiniz
+V;INFR;FUT;HAB;1;PL;NEG;DECL	büktürtür olmayacakmışız	V;IND;PRS;HAB;2;SG;NEG;DECL	büktürtmemezsin
+V;IND;PST;2;SG;INTR;POS	cartayı çektin mi	V;NEC;INFR;PST;1;SG;NEG;DECL	cartayı çekmemeliymişim
+V;IND;PRS;PROG;1;SG;POS;DECL	yaptırtıyorum	V;IND;PST;HAB;PROG;3;PL;POS;DECL	yaptırtıyor olurlardı
+V;NEC;PRS;3;SG;INTR;POS	programlattırmeli mi	V;IND;PRS;HAB;1;SG;NEG;INTR	programlattırmaz mıyım
+V;INFR;PST;PRSP;3;SG;INTR;POS	emmiş olacak mıydı	V;NEC;PST;2;PL;NEG;DECL	emmemeliydiniz
+V;INFR;PST;2;SG;NEG;DECL	ayırmamışsın	V;IND;PST;HAB;PROG;1;PL;INTR;POS	ayırıyor olur muyduk
+V;IND;FUT;PROG;1;PL;POS;DECL	geciktiriyor olacağız	V;INFR;PST;3;PL;POS;DECL	geciktirmişler
+V;IND;PRS;PROG;3;SG;NEG;INTR	doğurmuyor mu	V;INFR;LGSPEC1;PST;1;SG;NEG;INTR	doğurmamış mıymışım
+V;INFR;PRS;PROG;2;PL;POS;DECL	sikişiyormuşsunuz	V;NEC;INFR;PST;1;PL;INTR;POS	sikişmeli miymişiz
+V;INFR;LGSPEC1;PST;3;PL;INTR;POS	sıyırmışlar mıymış	V;INFR;PST;2;PL;POS;DECL	sıyırmışsınız
+V;NEC;PST;1;PL;INTR;POS	saydırmalı mıydık	V;NEC;INFR;PST;2;SG;NEG;DECL	saydırmamalıymışsın
+V;NEC;PST;3;SG;NEG;INTR	aldatmamalı mıydı	V;IND;PST;PRSP;PROG;1;PL;POS;DECL	aldatıyor olacaktık
+V;NEC;PST;PROG;1;PL;INTR;POS	soyuyor olmalı mıydık	V;IND;PRS;PROG;1;SG;NEG;DECL	soymuyorum
+V;INFR;PST;PRSP;2;PL;NEG;INTR	tanıtmış olmayacak mıydınız	V;NEC;PRS;2;SG;POS;DECL	tanıtmelisin
+V;IND;PST;HAB;PROG;3;PL;POS;DECL	topluyor olurlardı	V;IND;PRS;PROG;1;SG;INTR;POS	topluyor muyum
+V;INFR;PST;2;SG;NEG;DECL	emmemişsin	V;IND;PST;HAB;3;SG;POS;DECL	emerdi
+V;IND;PST;HAB;PROG;1;PL;NEG;INTR	sikişiyor olmaz mıydık	V;INFR;PRS;HAB;2;SG;NEG;DECL	sikişmezmişsin
+V;IND;PST;PRSP;1;SG;NEG;INTR	büyümeyecek miydim	V;IND;PST;HAB;PROG;2;PL;INTR;POS	büyüyor olur muydunuz
+V;NEC;INFR;PST;1;SG;NEG;INTR	makyaj yapmamalı mıymışım	V;IND;PST;HAB;PROG;2;PL;POS;DECL	makyaj yapıyor olurdunuz
+V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	yıpranıyor olmalı mıymışsınız	V;IND;PST;PROG;1;PL;NEG;INTR	yıpranmıyor muyduk
+V;INFR;PRS;HAB;1;PL;NEG;INTR	düşünmez miymişiz	V;IND;FUT;PRSP;3;PL;INTR;POS	düşünecek olacaklar mı
+V;NEC;INFR;PRS;PROG;3;PL;INTR;POS	boşalıyor olmalılar mıymış	V;IND;PST;HAB;PROG;1;PL;NEG;DECL	boşalıyor olmazdık
+V;INFR;PST;PERF;3;PL;POS;DECL	türemişlerdi	V;INFR;PRS;PROG;1;PL;POS;DECL	türüyormuşuz
+V;INFR;FUT;1;PL;NEG;DECL	sıyırmayacakmışız	V;INFR;FUT;PERF;3;PL;POS;DECL	sıyırmış olacaklar
+V;IND;PST;PRSP;1;SG;POS;DECL	çarmıha gerecektim	V;IND;FUT;PRSP;1;SG;NEG;INTR	çarmıha gerecek olmayacak mıyım
+V;IND;PRS;PROG;2;PL;NEG;INTR	göndermiyor musunuz	V;INFR;FUT;PRSP;1;SG;NEG;INTR	gönderecek olmayacak mıymışım
+V;INFR;LGSPEC1;PST;2;SG;POS;DECL	iyileşmişmişsin	V;NEC;PRS;PROG;1;PL;INTR;POS	iyileşiyor olmalı mıyız
+V;IND;PST;PRSP;3;SG;POS;DECL	saldıracaktı	V;NEC;PST;3;PL;NEG;INTR	saldırmamalılar mıydı
+V;INFR;PRS;PROG;1;SG;POS;DECL	azıyormuşum	V;INFR;PST;PRSP;1;SG;NEG;INTR	azmış olmayacak mıydım
+V;IND;PRS;PROG;2;SG;NEG;INTR	programlattırmıyor musun	V;INFR;FUT;HAB;3;PL;NEG;INTR	programlattırır olmayacaklar mıymış
+V;NEC;PST;2;SG;NEG;INTR	eskimemeli miydin	V;IND;PST;HAB;PROG;3;PL;POS;DECL	eskiyor olurlardı
+V;IND;PST;PROG;1;SG;INTR;POS	taklitçi oluyor muydum	V;NEC;PST;1;SG;INTR;POS	taklitçi olmalı mıydım
+V;IND;PST;PRSP;1;PL;NEG;INTR	tanıtmayacak mıydık	V;INFR;PRS;PROG;2;SG;POS;DECL	tanıtıyormuşsun
+V;INFR;FUT;PERF;1;PL;INTR;POS	cartayı çekmiş olacak mıyız	V;NEC;INFR;PRS;PROG;3;SG;INTR;POS	cartayı çekiyor olmalı mıymış
+V;INFR;PRS;PROG;3;PL;NEG;INTR	sikişmiyorlar mıymış	V;INFR;PRS;HAB;2;PL;NEG;INTR	sikişmez miymişsiniz
+V;INFR;PST;1;PL;NEG;DECL	kurutmamışız	V;IND;PST;PRSP;PROG;3;PL;INTR;POS	kurutuyor olacaklar mıydı
+V;INFR;PST;PERF;1;SG;NEG;INTR	büktürtmememiş miydim	V;INFR;LGSPEC1;PST;1;SG;POS;DECL	büktürtmemişmişim
+V;NEC;PST;1;PL;NEG;DECL	büktürtmememeliydik	V;IND;FUT;PRSP;3;SG;INTR;POS	büktürtüyecek olacak mı
+V;NEC;PST;PROG;3;PL;NEG;INTR	eskiyor olmamalılar mıydı	V;INFR;FUT;HAB;3;PL;NEG;DECL	eskir olmayacaklarmış
+V;INFR;FUT;2;SG;POS;DECL	öpüşecekmişsin	V;IND;PST;HAB;3;SG;NEG;INTR	öpüşmez miydi
+V;INFR;PST;PRSP;3;SG;POS;DECL	boğmuş olacaktı	V;INFR;FUT;3;PL;NEG;DECL	boğmayacaklarmış
+V;NEC;PRS;2;PL;POS;DECL	satın almelisiniz	V;INFR;FUT;PROG;1;PL;POS;DECL	satın alıyor olacakmışız
+V;IND;PST;1;SG;NEG;DECL	boğmadım	V;IND;FUT;3;SG;INTR;POS	boğacak mı
+V;INFR;PST;PRSP;3;PL;INTR;POS	tanıtmış olacaklar mıydı	V;NEC;PRS;PROG;3;PL;NEG;INTR	tanıtıyor olmamalılar mı
+V;NEC;INFR;PST;1;PL;INTR;POS	okumalı mıymışız	V;IND;FUT;3;SG;NEG;DECL	okumayacak
+V;INFR;FUT;HAB;1;PL;INTR;POS	geciktirir olacak mıymışız	V;IND;FUT;1;SG;NEG;INTR	geciktirmeyecek miyim
+V;INFR;PST;PERF;3;PL;POS;DECL	öpüşmüşlerdi	V;INFR;PRS;PROG;1;SG;NEG;INTR	öpüşmüyor muymuşum
+V;INFR;FUT;HAB;2;PL;POS;DECL	canlandırır olacakmışsınız	V;INFR;FUT;HAB;2;SG;NEG;DECL	canlandırır olmayacakmışsın
+V;IND;PST;PROG;1;SG;INTR;POS	süpürüyor muydum	V;INFR;PST;PRSP;3;SG;NEG;INTR	süpürmüş olmayacak mıydı
+V;INFR;PRS;HAB;3;PL;NEG;DECL	ayırmazlarmış	V;INFR;FUT;PROG;3;PL;NEG;DECL	ayırıyor olmayacaklarmış
+V;INFR;FUT;HAB;2;PL;INTR;POS	satın alır olacak mıymışsınız	V;NEC;PST;PROG;2;PL;NEG;INTR	satın alıyor olmamalı mıydınız
+V;NEC;PST;PROG;1;PL;POS;DECL	geciktiriyor olmalıydık	V;IND;PST;PERF;3;PL;NEG;DECL	geciktirmedilerdi
+V;INFR;LGSPEC1;PST;3;SG;NEG;DECL	ellememişmiş	V;INFR;PRS;PROG;3;PL;NEG;DECL	ellemiyorlarmış
+V;IND;PRS;PROG;2;PL;NEG;DECL	geciktirmiyorsunuz	V;NEC;PRS;1;PL;NEG;INTR	geciktirmemeli miyiz
+V;IND;FUT;PROG;3;PL;POS;DECL	boğuyor olacaklar	V;INFR;FUT;2;SG;INTR;POS	boğacak mıymışsın
+V;INFR;FUT;PERF;2;SG;NEG;INTR	boşalmış olmayacak mısın	V;IND;FUT;3;PL;NEG;INTR	boşalmayacaklar mı
+V;INFR;FUT;PRSP;3;SG;POS;DECL	sikişecek olacakmış	V;IND;PST;2;SG;NEG;DECL	sikişmedin
+V;IND;PRS;PROG;3;PL;NEG;DECL	azmıyorlar	V;INFR;LGSPEC1;PST;2;PL;POS;DECL	azmışmışsınız
+V;IND;FUT;PRSP;2;PL;NEG;DECL	kanayacak olmayacaksınız	V;NEC;INFR;PRS;PROG;2;PL;NEG;DECL	kanıyor olmamalıymışsınız
+V;IND;PRS;PROG;3;SG;NEG;DECL	şaşırttırmıyor	V;NEC;PST;3;SG;NEG;INTR	şaşırttırmamalı mıydı
+V;IND;PRS;PROG;2;SG;POS;DECL	sikiyorsun	V;IND;PST;HAB;2;PL;NEG;INTR	sikmez miydiniz
+V;IND;PST;HAB;1;PL;NEG;DECL	süpürmezdik	V;INFR;PRS;PROG;2;SG;POS;DECL	süpürüyormuşsun
+V;IND;PST;PRSP;PROG;2;SG;NEG;DECL	rahmetli oluyor olmayacaktın	V;NEC;INFR;PST;2;SG;NEG;INTR	rahmetli olmamalı mıymışsın
+V;NEC;PST;2;PL;NEG;INTR	yaptırtmamalı mıydınız	V;IND;PST;HAB;2;PL;POS;DECL	yaptırtırdınız
+V;IND;PST;PROG;2;SG;NEG;INTR	makyaj yapmıyor muydun	V;NEC;PST;2;PL;NEG;INTR	makyaj yapmamalı mıydınız
+V;IND;PST;PRSP;PROG;2;PL;NEG;INTR	sikiyor olmayacak mıydınız	V;INFR;PST;PRSP;3;PL;POS;DECL	sikmiş olacaklardı
+V;NEC;PRS;PROG;1;SG;NEG;INTR	geciktiriyor olmamalı mıyım	V;INFR;FUT;PRSP;2;PL;NEG;DECL	geciktirecek olmayacakmışsınız
+V;INFR;PRS;PROG;1;SG;INTR;POS	ayırıyor muymuşum	V;IMP;2;SG;POS;DECL	ayır
+V;INFR;PRS;PROG;2;SG;NEG;INTR	aramıyor muymuşsun	V;INFR;PST;PRSP;1;PL;NEG;INTR	aramış olmayacak mıydık
+V;IND;PST;PROG;3;PL;INTR;POS	ayırıyorlar mıydı	V;IND;PST;2;PL;NEG;DECL	ayırmadınız
+V;IND;PRS;PROG;2;PL;NEG;INTR	iğrenmiyor musunuz	V;IND;PST;1;SG;POS;DECL	iğrendim
+V;IMP;2;PL;LGSPEC2;POS;DECL	güceniniz	V;INFR;PST;PRSP;2;PL;INTR;POS	gücenmiş olacak mıydınız
+V;INFR;PST;PERF;3;SG;NEG;INTR	oynamamış mıydı	V;INFR;PRS;PROG;1;PL;POS;DECL	oynuyormuşuz
+V;INFR;FUT;3;PL;NEG;DECL	programlattırmayacaklarmış	V;IND;FUT;PRSP;3;SG;POS;DECL	programlattıracak olacak
+V;IND;PST;PROG;1;SG;POS;DECL	okuyordum	V;IND;FUT;1;SG;INTR;POS	okuyacak mıyım
+V;IND;PST;PRSP;2;PL;POS;DECL	toplayacaktınız	V;INFR;PST;PRSP;2;PL;POS;DECL	toplamış olacaktınız
+V;INFR;PST;2;PL;INTR;POS	canlandırtılmış mısınız	V;IND;PST;1;SG;INTR;POS	canlandırtıldım mı
+V;NEC;PRS;PROG;2;PL;INTR;POS	kanıyor olmalı mısınız	V;IND;FUT;PRSP;3;SG;INTR;POS	kanayacak olacak mı
+V;INFR;PRS;HAB;2;PL;NEG;DECL	eskimezmişsiniz	V;IND;FUT;PROG;1;PL;NEG;INTR	eskiyor olmayacak mıyız
+V;INFR;PST;PERF;2;SG;NEG;DECL	kurutmamıştın	V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	kurutuyor olmalı mıymışsınız
+V;NEC;INFR;PRS;PROG;3;SG;INTR;POS	saydırıyor olmalı mıymış	V;IND;PST;HAB;2;SG;POS;DECL	saydırırdın
+V;IND;PST;HAB;2;SG;POS;DECL	oynardın	V;NEC;PST;2;PL;POS;DECL	oynamalıydınız
+V;INFR;FUT;PRSP;1;SG;NEG;INTR	bağlaacak olmayacak mıymışım	V;IND;PST;PRSP;1;PL;INTR;POS	bağlayacak mıydık
+V;INFR;PRS;HAB;3;SG;NEG;DECL	cartayı çekmezmiş	V;IND;PST;PERF;2;SG;POS;DECL	cartayı çektiydin
+V;NEC;PRS;PROG;2;PL;INTR;POS	biliyor olmalı mısınız	V;INFR;PST;2;SG;NEG;DECL	bilmemişsin
+V;IND;PST;PERF;2;PL;POS;DECL	saydırdıydınız	V;IND;PST;PRSP;1;SG;NEG;DECL	saydırmayacaktım
+V;NEC;PST;1;PL;POS;DECL	yıpranmalıydık	V;IND;PST;HAB;3;PL;NEG;DECL	yıpranmazlardı
+V;IND;FUT;PROG;2;PL;NEG;INTR	doğuruyor olmayacak mısınız	V;NEC;PRS;PROG;1;SG;NEG;INTR	doğuruyor olmamalı mıyım
+V;IND;FUT;PROG;3;SG;NEG;INTR	geciktiriyor olmayacak mı	V;NEC;INFR;PST;2;PL;NEG;INTR	geciktirmemeli miymişsiniz
+V;IND;PRS;PROG;1;SG;NEG;INTR	boğmuyor muyum	V;INFR;PRS;PROG;3;SG;NEG;INTR	boğmuyor muymuş
+V;NEC;INFR;PST;2;PL;POS;DECL	aldatmalıymışsınız	V;IND;FUT;PRSP;3;SG;INTR;POS	aldatacak olacak mı
+V;IND;PST;2;SG;POS;DECL	boğdun	V;IND;FUT;PRSP;1;SG;POS;DECL	boğacak olacağım
+V;INFR;PST;PRSP;3;SG;INTR;POS	iyileşmiş olacak mıydı	V;IND;PRS;HAB;2;PL;NEG;DECL	iyileşmezsiniz
+V;IND;PST;PERF;1;PL;POS;DECL	geçtiydik	V;INFR;FUT;PRSP;3;PL;INTR;POS	geçecek olacaklar mıymış
+V;INFR;FUT;HAB;2;SG;NEG;INTR	azır olmayacak mıymışsın	V;NEC;PRS;PROG;1;SG;POS;DECL	azıyor olmalıyım
+V;NEC;INFR;PRS;PROG;1;SG;NEG;DECL	tanıtıyor olmamalıymışım	V;INFR;PRS;HAB;1;SG;POS;DECL	tanıtırmışım
+V;IND;FUT;PROG;2;SG;POS;DECL	süpürüyor olacaksın	V;INFR;PRS;HAB;2;SG;NEG;INTR	süpürmez miymişsin
+V;INFR;FUT;HAB;3;PL;NEG;INTR	geçer olmayacaklar mıymış	V;INFR;PRS;HAB;2;PL;NEG;INTR	geçmez miymişsiniz
+V;IND;FUT;PRSP;3;PL;NEG;DECL	şikâyet edecek olmayacaklar	V;IND;FUT;PRSP;2;SG;NEG;DECL	şikâyet edecek olmayacaksın
+V;IND;PST;HAB;2;PL;INTR;POS	canlandırtılır mıydınız	V;INFR;FUT;PROG;2;SG;POS;DECL	canlandırtılıyor olacakmışsın
+V;NEC;INFR;PST;1;SG;INTR;POS	sikmeli miymişim	V;INFR;PST;PRSP;3;PL;POS;DECL	sikmiş olacaklardı
+V;IND;PRS;HAB;3;PL;NEG;INTR	işlemezler mi	V;INFR;PST;PERF;1;SG;INTR;POS	işlemiş miydim
+V;IND;PST;PRSP;PROG;1;PL;NEG;DECL	taklitçi oluyor olmayacaktık	V;NEC;INFR;PST;3;SG;POS;DECL	taklitçi olmalıymış
+V;INFR;PST;PERF;2;SG;NEG;INTR	rahmetli olmamış mıydın	V;IND;PST;HAB;PROG;3;PL;NEG;DECL	rahmetli oluyor olmazlardı
+V;NEC;PRS;PROG;3;PL;POS;DECL	makyaj yapıyor olmalılar	V;IND;PST;PROG;3;SG;INTR;POS	makyaj yapıyor muydu
+V;IND;PST;PRSP;3;PL;NEG;DECL	büktürtmemeyeceklerdi	V;INFR;PST;PERF;1;SG;INTR;POS	büktürtmemiş miydim
+V;NEC;PRS;3;PL;NEG;DECL	doğurmameliler	V;IND;PRS;HAB;3;PL;POS;DECL	doğururlar
+V;NEC;PST;3;PL;POS;DECL	kısmalılardı	V;INFR;FUT;HAB;3;SG;NEG;INTR	kısar olmayacak mıymış
+V;NEC;PST;PROG;2;SG;POS;DECL	çarmıha geriyor olmalıydın	V;INFR;FUT;PRSP;2;SG;NEG;INTR	çarmıha gerecek olmayacak mıymışsın
+V;IND;FUT;PRSP;2;SG;INTR;POS	emecek olacak mısın	V;NEC;PRS;PROG;2;PL;NEG;INTR	emiyor olmamalı mısınız
+V;IND;FUT;PROG;2;SG;POS;DECL	doğuruyor olacaksın	V;IND;FUT;2;PL;NEG;INTR	doğurmayacak mısınız
+V;NEC;PST;PROG;3;SG;POS;DECL	doğuruyor olmalıydı	V;IND;PST;HAB;2;SG;NEG;INTR	doğurmaz mıydın
+V;IND;FUT;2;PL;POS;DECL	rahmetli olacaksınız	V;IND;PST;PERF;1;SG;NEG;INTR	rahmetli olmadı mıydım
+V;NEC;PST;PROG;3;SG;NEG;INTR	kakıyor olmamalı mıydı	V;NEC;PRS;PROG;1;PL;POS;DECL	kakıyor olmalıyız
+V;IND;FUT;2;SG;NEG;DECL	kurutmayacaksın	V;NEC;PRS;2;PL;INTR;POS	kurutmeli misiniz
+V;NEC;PRS;2;PL;POS;DECL	bilmelisiniz	V;NEC;INFR;PST;3;PL;POS;DECL	bilmelilermiş
+V;INFR;FUT;HAB;1;SG;POS;DECL	canlandırır olacakmışım	V;INFR;PST;PRSP;2;SG;NEG;DECL	canlandırmamış olmayacaktın
+V;NEC;INFR;PST;3;PL;NEG;INTR	kurutmamalılar mıymış	V;IND;FUT;PROG;3;SG;NEG;DECL	kurutuyor olmayacak
+V;INFR;FUT;PROG;1;PL;NEG;INTR	saldırıyor olmayacak mıymışız	V;NEC;INFR;PRS;PROG;2;SG;NEG;DECL	saldırıyor olmamalıymışsın
+V;IND;FUT;PRSP;2;SG;NEG;DECL	binecek olmayacaksın	V;IND;PST;PERF;1;SG;INTR;POS	bindi miydim
+V;INFR;FUT;PRSP;2;SG;NEG;DECL	sikecek olmayacakmışsın	V;NEC;INFR;PST;2;SG;NEG;DECL	sikmemeliymişsin
+V;INFR;FUT;PROG;1;PL;NEG;DECL	sıyırıyor olmayacakmışız	V;INFR;PST;PERF;2;PL;POS;DECL	sıyırmıştınız
+V;INFR;LGSPEC1;PST;2;PL;NEG;DECL	doğurmamışmışsınız	V;IND;FUT;PRSP;1;PL;INTR;POS	doğuracak olacak mıyız
+V;NEC;INFR;PRS;PROG;2;PL;NEG;DECL	büyüyor olmamalıymışsınız	V;IND;PST;PRSP;2;PL;INTR;POS	büyüyecek miydiniz
+V;INFR;PST;PERF;1;SG;NEG;DECL	paylaşmamıştım	V;INFR;PST;PERF;3;SG;NEG;DECL	paylaşmamıştı
+V;IND;FUT;PRSP;3;PL;NEG;DECL	arayacak olmayacaklar	V;INFR;LGSPEC1;PST;1;PL;NEG;INTR	aramamış mıymışız
+V;INFR;LGSPEC1;PST;2;SG;POS;DECL	geçmişmişsin	V;INFR;FUT;PERF;2;SG;POS;DECL	geçmiş olacaksın
+V;INFR;PRS;PROG;3;SG;NEG;DECL	taklitçi olmuyormuş	V;INFR;PRS;PROG;1;PL;INTR;POS	taklitçi oluyor muymuşuz
+V;IND;PST;PRSP;PROG;1;PL;NEG;DECL	boğuyor olmayacaktık	V;IND;PST;PRSP;PROG;1;SG;NEG;DECL	boğuyor olmayacaktım
+V;INFR;FUT;PRSP;1;PL;NEG;INTR	kakacak olmayacak mıymışız	V;NEC;INFR;PST;3;PL;INTR;POS	kakmalılar mıymış
+V;INFR;LGSPEC1;PST;2;PL;NEG;DECL	işlememişmişsiniz	V;IND;FUT;PROG;1;PL;NEG;DECL	işliyor olmayacağız
+V;IND;PST;1;PL;POS;DECL	tanıttık	V;IND;PST;PROG;1;SG;INTR;POS	tanıtıyor muydum
+V;IND;PST;HAB;PROG;2;PL;NEG;DECL	saydırıyor olmazdınız	V;IND;PST;PRSP;PROG;2;PL;POS;DECL	saydırıyor olacaktınız
+V;INFR;FUT;PERF;2;SG;NEG;INTR	binmiş olmayacak mısın	V;INFR;PRS;HAB;2;PL;NEG;INTR	binmez miymişsiniz
+V;IND;PST;PRSP;PROG;3;SG;NEG;INTR	eriyor olmayacak mıydı	V;IND;PRS;HAB;3;PL;POS;DECL	erirler
+V;IND;FUT;PRSP;3;PL;NEG;DECL	gücenecek olmayacaklar	V;INFR;PST;PERF;3;SG;INTR;POS	gücenmiş miydi
+V;INFR;PST;PERF;3;PL;NEG;DECL	iğrenmemişlerdi	V;IND;FUT;2;SG;NEG;DECL	iğrenmeyeceksin
+V;INFR;PST;PERF;3;PL;NEG;INTR	boşalmamışlar mıydı	V;INFR;FUT;PROG;1;PL;INTR;POS	boşalıyor olacak mıymışız
+V;INFR;PST;PRSP;1;PL;NEG;DECL	eskimiş olmayacaktık	V;INFR;FUT;PROG;1;SG;INTR;POS	eskiyor olacak mıymışım
+V;NEC;PRS;PROG;2;SG;NEG;DECL	kakıyor olmamalısın	V;IND;PST;HAB;2;SG;NEG;DECL	kakmazdın
+V;IND;PRS;PROG;3;PL;INTR;POS	elliyorlar mı	V;INFR;FUT;1;PL;NEG;DECL	ellemeyecekmişiz
+V;IND;FUT;PRSP;1;SG;NEG;INTR	süpürecek olmayacak mıyım	V;INFR;FUT;PERF;2;PL;NEG;DECL	süpürmüş olmayacaksınız
+V;INFR;PST;3;PL;NEG;INTR	iğrenmemişler mi	V;IND;PST;PRSP;3;SG;NEG;INTR	iğrenmeyecek miydi
+V;NEC;INFR;PRS;PROG;2;SG;NEG;INTR	paylaşıyor olmamalı mıymışsın	V;INFR;FUT;PERF;3;PL;INTR;POS	paylaşmış olacaklar mı
+V;INFR;PST;PRSP;2;SG;INTR;POS	ilklendirmiş olacak mıydın	V;INFR;PST;PRSP;1;PL;POS;DECL	ilklendirmiş olacaktık
+V;INFR;FUT;PERF;2;PL;INTR;POS	öpüşmüş olacak mısınız	V;INFR;FUT;PRSP;2;PL;NEG;INTR	öpüşecek olmayacak mıymışsınız
+V;NEC;PRS;1;SG;INTR;POS	toplameli miyim	V;IMP;2;PL;POS;DECL	toplayın
+V;INFR;FUT;2;PL;POS;DECL	bağlayacakmışsınız	V;INFR;PST;3;PL;NEG;INTR	bağlamamışlar mı
+V;NEC;PST;2;PL;INTR;POS	aldatmalı mıydınız	V;INFR;PRS;PROG;1;PL;POS;DECL	aldatıyormuşuz
+V;INFR;PST;PERF;2;PL;NEG;DECL	ellememiştiniz	V;IND;PRS;HAB;3;PL;POS;DECL	ellerler
+V;INFR;LGSPEC1;PST;2;SG;INTR;POS	satın almış mıymışsın	V;IND;PST;PROG;1;PL;NEG;DECL	satın almıyorduk
+V;INFR;PST;PRSP;2;SG;INTR;POS	oynamış olacak mıydın	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	oynuyor olmalıymışız
+V;IND;PRS;PROG;1;PL;INTR;POS	öpüşüyor muyuz	V;IND;FUT;PROG;1;PL;NEG;DECL	öpüşüyor olmayacağız
+V;IND;PST;HAB;3;SG;NEG;DECL	binmezdi	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	biniyor olmalıymışız
+V;INFR;FUT;PERF;1;PL;NEG;INTR	bilmiş olmayacak mıyız	V;INFR;FUT;PROG;3;PL;POS;DECL	biliyor olacaklarmış
+V;IND;PST;PRSP;PROG;3;PL;NEG;INTR	türüyor olmayacaklar mıydı	V;IND;PRS;PROG;1;SG;NEG;DECL	türemiyorum
+V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	satın alıyor olmalıymışız	V;INFR;PST;PRSP;2;PL;POS;DECL	satın almış olacaktınız
+V;INFR;FUT;PROG;3;SG;INTR;POS	türüyor olacak mıymış	V;INFR;PST;PRSP;3;PL;POS;DECL	türemiş olacaklardı
+V;IND;PST;PRSP;2;PL;NEG;DECL	paylaşmayacaktınız	V;INFR;FUT;PROG;1;PL;POS;DECL	paylaşıyor olacakmışız
+V;IND;FUT;3;PL;INTR;POS	kakacaklar mı	V;INFR;FUT;PROG;3;SG;NEG;DECL	kakıyor olmayacakmış
+V;INFR;LGSPEC1;PST;1;PL;NEG;DECL	oynamamışmışız	V;IMP;2;PL;POS;DECL	oynayın
+V;INFR;PST;3;SG;INTR;POS	binmiş mi	V;INFR;PST;PRSP;3;SG;NEG;INTR	binmiş olmayacak mıydı
+V;INFR;LGSPEC1;PST;2;PL;POS;DECL	aldatmışmışsınız	V;INFR;LGSPEC1;PST;1;PL;NEG;DECL	aldatmamışmışız
+V;INFR;PST;PERF;2;PL;POS;DECL	gücenmiştiniz	V;INFR;FUT;PROG;3;PL;INTR;POS	güceniyor olacaklar mıymış
+V;IND;FUT;PRSP;2;PL;NEG;DECL	makyaj yapacak olmayacaksınız	V;IND;PST;3;SG;POS;DECL	makyaj yaptı
+V;NEC;PRS;3;SG;NEG;DECL	boğmameli	V;INFR;PST;PERF;2;PL;INTR;POS	boğmuş muydunuz
+V;INFR;PRS;PROG;3;PL;INTR;POS	eriyorlar mıymış	V;INFR;PST;PERF;3;SG;NEG;DECL	erimemişti
+V;INFR;FUT;PROG;3;PL;NEG;INTR	şaşırttırıyor olmayacaklar mıymış	V;INFR;PST;2;SG;NEG;INTR	şaşırttırmamış mısın
+V;IND;PST;PRSP;1;SG;INTR;POS	geciktirecek miydim	V;NEC;PRS;2;SG;POS;DECL	geciktirmelisin
+V;IND;PRS;PROG;2;SG;POS;DECL	canlandırıyorsun	V;IND;FUT;3;SG;NEG;INTR	canlandırmamayacak mı
+V;IND;PST;HAB;1;PL;NEG;DECL	bilmezdik	V;INFR;FUT;3;PL;NEG;DECL	bilmeyeceklermiş
+V;NEC;INFR;PRS;PROG;3;PL;INTR;POS	kurutuyor olmalılar mıymış	V;IND;PST;HAB;PROG;3;SG;INTR;POS	kurutuyor olur muydu
+V;INFR;PRS;PROG;3;PL;POS;DECL	okuyorlarmış	V;INFR;LGSPEC1;PST;3;SG;INTR;POS	okumuş muymuş
+V;NEC;PST;2;SG;NEG;INTR	paylaşmamalı mıydın	V;IND;PRS;HAB;2;PL;POS;DECL	paylaşırsınız
+V;IND;PST;HAB;PROG;2;PL;NEG;INTR	satın alıyor olmaz mıydınız	V;IND;PST;1;SG;POS;DECL	satın aldım
+V;NEC;PRS;1;SG;POS;DECL	kurutmeliyim	V;IND;FUT;3;SG;NEG;DECL	kurutmayacak
+V;INFR;FUT;HAB;3;PL;NEG;DECL	doğurur olmayacaklarmış	V;IND;PST;PROG;2;PL;POS;DECL	doğuruyordunuz
+V;IND;PST;HAB;PROG;3;PL;NEG;INTR	sıyırıyor olmazlar mıydı	V;IND;PST;HAB;2;PL;NEG;DECL	sıyırmazdınız
+V;IND;PST;PERF;3;SG;NEG;INTR	okumadı mıydı	V;INFR;FUT;PRSP;1;SG;NEG;INTR	okuacak olmayacak mıymışım
+V;IND;PRS;PROG;2;SG;NEG;DECL	süpürmüyorsun	V;IND;PST;PROG;2;PL;POS;DECL	süpürüyordunuz
+V;IND;PST;HAB;PROG;3;SG;POS;DECL	tanıtıyor olurdu	V;IND;FUT;PRSP;2;PL;NEG;INTR	tanıtacak olmayacak mısınız
+V;IMP;2;PL;LGSPEC2;NEG;DECL	makyaj yapmayınız	V;INFR;FUT;3;SG;NEG;INTR	makyaj yapmayacak mıymış
+V;IND;FUT;3;PL;NEG;DECL	bilmeyecekler	V;NEC;INFR;PRS;PROG;3;PL;NEG;INTR	biliyor olmamalılar mıymış
+V;INFR;PST;2;SG;NEG;DECL	bağlamamışsın	V;IND;FUT;PRSP;3;SG;INTR;POS	bağlayacak olacak mı
+V;INFR;FUT;PERF;2;SG;NEG;INTR	türemiş olmayacak mısın	V;IND;FUT;3;SG;NEG;INTR	türemeyecek mi
+V;IND;PST;PRSP;1;SG;NEG;DECL	türemeyecektim	V;INFR;FUT;PROG;2;SG;NEG;DECL	türüyor olmayacakmışsın
+V;IND;PST;PROG;2;PL;NEG;DECL	paylaşmıyordunuz	V;NEC;PST;3;SG;POS;DECL	paylaşmalıydı
+V;NEC;PST;1;SG;INTR;POS	işlemeli miydim	V;INFR;FUT;HAB;2;PL;INTR;POS	işler olacak mıymışsınız
+V;NEC;PRS;3;PL;POS;DECL	gücenmeliler	V;IND;FUT;PROG;3;SG;NEG;INTR	güceniyor olmayacak mı
+V;IND;FUT;3;SG;NEG;INTR	türemeyecek mi	V;INFR;FUT;PRSP;1;SG;NEG;INTR	türeecek olmayacak mıymışım
+V;IND;PST;HAB;PROG;2;SG;NEG;DECL	taklitçi oluyor olmazdın	V;NEC;PRS;PROG;1;SG;NEG;DECL	taklitçi oluyor olmamalıyım
+V;IND;PST;PRSP;PROG;2;SG;NEG;DECL	taklitçi oluyor olmayacaktın	V;IND;PST;HAB;PROG;2;SG;POS;DECL	taklitçi oluyor olurdun
+V;INFR;LGSPEC1;PST;3;SG;POS;DECL	yarmışmış	V;IND;FUT;PRSP;3;PL;NEG;DECL	yaracak olmayacaklar
+V;IND;PRS;HAB;3;PL;NEG;INTR	şikâyet etmezler mi	V;NEC;PRS;PROG;3;SG;INTR;POS	şikâyet ediyor olmalı mı
+V;INFR;PST;PERF;2;PL;NEG;DECL	ayırmamıştınız	V;INFR;PST;2;SG;POS;DECL	ayırmışsın
+V;IND;PST;PRSP;PROG;1;SG;NEG;INTR	ilklendiriyor olmayacak mıydım	V;IND;PST;3;SG;POS;DECL	ilklendirdi
+V;IND;PRS;HAB;1;PL;POS;DECL	bineriz	V;IND;FUT;PRSP;3;SG;INTR;POS	binecek olacak mı
+V;IND;PST;2;PL;NEG;INTR	canlandırtılmadınız mı	V;IND;PST;3;PL;NEG;DECL	canlandırtılmadılar
+V;IND;FUT;PRSP;2;PL;NEG;DECL	geçecek olmayacaksınız	V;IND;PST;PERF;1;PL;POS;DECL	geçtiydik
+V;NEC;PST;PROG;2;SG;NEG;INTR	bağlıyor olmamalı mıydın	V;NEC;PST;3;PL;NEG;DECL	bağlamamalılardı
+V;INFR;PST;PERF;1;SG;NEG;INTR	soymamış mıydım	V;INFR;PST;PERF;1;PL;POS;DECL	soymuştuk
+V;NEC;PRS;2;SG;NEG;INTR	işlememeli misin	V;IND;PRS;PROG;3;SG;NEG;DECL	işlemiyor
+V;INFR;PRS;HAB;1;PL;NEG;INTR	cartayı çekmez miymişiz	V;IND;PST;HAB;2;PL;POS;DECL	cartayı çekerdiniz
+V;IND;PST;PROG;1;SG;INTR;POS	canlandırtılıyor muydum	V;IND;PRS;PROG;3;SG;NEG;INTR	canlandırtılmıyor mu
+V;INFR;PST;PERF;2;PL;NEG;INTR	boğmamış mıydınız	V;IND;PST;PRSP;PROG;1;PL;INTR;POS	boğuyor olacak mıydık
+V;IND;FUT;PRSP;2;SG;NEG;DECL	büyüyecek olmayacaksın	V;IND;PST;PRSP;1;PL;NEG;INTR	büyümeyecek miydik
+V;INFR;FUT;1;SG;NEG;DECL	doğurmayacakmışım	V;INFR;FUT;PRSP;3;SG;INTR;POS	doğuracak olacak mıymış
+V;NEC;PRS;PROG;1;PL;NEG;DECL	eriyor olmamalıyız	V;NEC;PST;PROG;3;SG;INTR;POS	eriyor olmalı mıydı
+V;IND;PST;HAB;3;SG;NEG;INTR	saldırmaz mıydı	V;IMP;2;PL;LGSPEC2;POS;DECL	saldırınız
+V;INFR;FUT;2;PL;INTR;POS	geçecek miymişsiniz	V;IND;PST;PERF;1;SG;NEG;DECL	geçmediydim
+V;IND;FUT;1;SG;INTR;POS	saydıracak mıyım	V;INFR;FUT;HAB;2;SG;INTR;POS	saydırır olacak mıymışsın
+V;IND;PST;PERF;1;SG;INTR;POS	oynadı mıydım	V;IND;FUT;PROG;1;SG;NEG;DECL	oynuyor olmayacağım
+V;IMP;2;PL;POS;DECL	canlandırıyın	V;NEC;PRS;2;SG;POS;DECL	canlandırmamelisin
+V;IND;FUT;3;SG;NEG;INTR	göndermeyecek mi	V;IND;FUT;PROG;1;SG;NEG;INTR	gönderiyor olmayacak mıyım
+V;NEC;PRS;1;PL;NEG;INTR	göndermemeli miyiz	V;NEC;INFR;PST;2;SG;NEG;INTR	göndermemeli miymişsin
+V;IND;FUT;PROG;3;PL;NEG;DECL	sikişiyor olmayacaklar	V;IND;FUT;PRSP;2;PL;INTR;POS	sikişecek olacak mısınız
+V;INFR;PST;1;SG;INTR;POS	okumuş muyum	V;INFR;LGSPEC1;PST;2;PL;POS;DECL	okumuşmuşsunuz
+V;IND;FUT;PROG;1;PL;NEG;DECL	ilklendiriyor olmayacağız	V;NEC;PST;PROG;1;SG;NEG;DECL	ilklendiriyor olmamalıydım
+V;IMP;2;PL;NEG;DECL	okumayın	V;INFR;PST;PRSP;2;SG;POS;DECL	okumuş olacaktın
+V;NEC;PRS;PROG;3;PL;NEG;DECL	gönderiyor olmamalılar	V;INFR;PST;3;PL;POS;DECL	göndermişler
+V;INFR;LGSPEC1;PST;2;PL;INTR;POS	yıpranmış mıymışsınız	V;INFR;PST;2;SG;INTR;POS	yıpranmış mısın
+V;NEC;PRS;PROG;2;SG;INTR;POS	sikiyor olmalı mısın	V;INFR;FUT;HAB;3;PL;NEG;INTR	siker olmayacaklar mıymış
+V;INFR;LGSPEC1;PST;3;PL;NEG;DECL	geçmemişlermiş	V;IND;FUT;PRSP;3;PL;NEG;DECL	geçecek olmayacaklar
+V;INFR;PRS;HAB;2;SG;NEG;INTR	sürtmez miymişsin	V;IND;PST;HAB;PROG;3;PL;POS;DECL	sürtüyor olurlardı
+V;INFR;PST;1;SG;POS;DECL	canlandırtılmışım	V;NEC;PST;3;PL;NEG;DECL	canlandırtılmamalılardı
+V;IND;FUT;PROG;1;PL;POS;DECL	arıyor olacağız	V;IND;PRS;HAB;1;PL;INTR;POS	arar mıyız
+V;IND;PST;PROG;3;SG;INTR;POS	ilklendiriyor muydu	V;IND;PST;1;PL;NEG;DECL	ilklendirmedik
+V;IND;PST;PRSP;1;SG;INTR;POS	geciktirecek miydim	V;INFR;PRS;HAB;1;SG;POS;DECL	geciktirirmişim
+V;INFR;PRS;HAB;1;PL;POS;DECL	sürtermişiz	V;IND;PST;1;PL;NEG;DECL	sürtmedik
+V;NEC;PST;3;SG;INTR;POS	canlandırtılmalı mıydı	V;IND;PST;PROG;3;PL;NEG;DECL	canlandırtılmıyorlardı
+V;INFR;FUT;PRSP;2;PL;POS;DECL	saydıracak olacakmışsınız	V;IND;PST;HAB;PROG;3;PL;POS;DECL	saydırıyor olurlardı
+V;INFR;PRS;HAB;3;SG;NEG;DECL	geciktirmezmiş	V;INFR;PRS;PROG;2;PL;POS;DECL	geciktiriyormuşsunuz
+V;IND;PRS;HAB;1;PL;NEG;INTR	büyümez miyiz	V;INFR;FUT;PROG;1;PL;INTR;POS	büyüyor olacak mıymışız
+V;INFR;PRS;HAB;3;SG;POS;DECL	yıpranırmış	V;NEC;PRS;PROG;2;SG;POS;DECL	yıpranıyor olmalısın
+V;IND;PST;PROG;2;PL;INTR;POS	satın alıyor muydunuz	V;IND;FUT;2;PL;POS;DECL	satın alacaksınız
+V;INFR;PST;PRSP;1;SG;NEG;INTR	büyümüş olmayacak mıydım	V;INFR;PST;3;PL;NEG;INTR	büyümemişler mi
+V;IND;FUT;PROG;2;PL;POS;DECL	canlandırtılıyor olacaksınız	V;NEC;PRS;PROG;3;PL;NEG;INTR	canlandırtılıyor olmamalılar mı
+V;NEC;PST;2;PL;NEG;DECL	programlattırmamalıydınız	V;IND;PRS;PROG;3;SG;INTR;POS	programlattırıyor mu
+V;NEC;PRS;PROG;1;PL;INTR;POS	doğuruyor olmalı mıyız	V;IND;PRS;PROG;2;PL;NEG;DECL	doğurmuyorsunuz
+V;NEC;INFR;PST;3;PL;POS;DECL	yaptırtmalılarmış	V;INFR;FUT;PRSP;2;SG;NEG;DECL	yaptırtacak olmayacakmışsın
+V;IND;FUT;PROG;2;SG;INTR;POS	güceniyor olacak mısın	V;IND;PST;PROG;2;PL;NEG;INTR	gücenmiyor muydunuz
+V;IND;PRS;HAB;2;SG;INTR;POS	büktürtür müsün	V;INFR;FUT;PRSP;1;PL;NEG;INTR	büktürtüecek olmayacak mıymışız
+V;INFR;FUT;PERF;3;SG;NEG;DECL	süpürmüş olmayacak	V;INFR;PRS;PROG;2;PL;NEG;INTR	süpürmüyor muymuşsunuz
+V;INFR;PRS;PROG;1;PL;NEG;INTR	kurutmuyor muymuşuz	V;IND;PST;PRSP;2;PL;NEG;DECL	kurutmayacaktınız
+V;INFR;PST;PRSP;3;SG;POS;DECL	eskimiş olacaktı	V;IND;PRS;PROG;2;SG;NEG;INTR	eskimiyor musun
+V;IND;PST;PRSP;PROG;3;PL;POS;DECL	işliyor olacaklardı	V;INFR;PRS;PROG;3;PL;NEG;INTR	işlemiyorlar mıymış
+V;INFR;PST;PERF;1;SG;POS;DECL	solmuştum	V;IND;PST;PERF;2;PL;NEG;INTR	solmadı mıydınız
+V;IND;PST;PROG;1;SG;NEG;DECL	oynamıyordum	V;INFR;PRS;HAB;1;PL;NEG;DECL	oynamazmışız
+V;IND;PST;3;PL;INTR;POS	taklitçi oldular mı	V;IND;PST;PERF;3;PL;NEG;DECL	taklitçi olmadılardı
+V;INFR;FUT;PRSP;3;PL;POS;DECL	soyacak olacaklarmış	V;IND;FUT;PROG;2;SG;INTR;POS	soyuyor olacak mısın
+V;IND;PST;PROG;2;SG;NEG;DECL	saydırmıyordun	V;IND;FUT;PRSP;3;SG;NEG;INTR	saydıracak olmayacak mı
+V;INFR;LGSPEC1;PST;2;SG;INTR;POS	azmış mıymışsın	V;NEC;INFR;PRS;PROG;1;PL;POS;DECL	azıyor olmalıymışız
+V;INFR;FUT;PRSP;1;PL;NEG;DECL	kısacak olmayacakmışız	V;INFR;FUT;HAB;2;SG;INTR;POS	kısar olacak mıymışsın
+V;IND;FUT;3;PL;POS;DECL	süpürecekler	V;INFR;PRS;PROG;3;PL;NEG;DECL	süpürmüyorlarmış
+V;INFR;PRS;HAB;2;SG;POS;DECL	toplarmışsın	V;INFR;FUT;PRSP;2;PL;NEG;INTR	toplaacak olmayacak mıymışsınız
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	cartayı çekiyor olmamalıymışız	V;IND;FUT;PROG;3;PL;INTR;POS	cartayı çekiyor olacaklar mı
+V;INFR;FUT;PROG;2;PL;INTR;POS	kısıyor olacak mıymışsınız	V;INFR;FUT;PROG;1;PL;POS;DECL	kısıyor olacakmışız
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	süpürüyor olmamalıymışız	V;INFR;PST;PRSP;1;SG;NEG;INTR	süpürmüş olmayacak mıydım
+V;NEC;INFR;PRS;PROG;2;SG;NEG;INTR	programlattırıyor olmamalı mıymışsın	V;NEC;PST;PROG;2;PL;INTR;POS	programlattırıyor olmalı mıydınız
+V;IND;PST;HAB;3;PL;NEG;INTR	eskimezler miydi	V;INFR;FUT;2;SG;POS;DECL	eskiyecekmişsin
+V;IND;PST;PRSP;2;SG;INTR;POS	okuyacak mıydın	V;IND;PST;HAB;3;PL;NEG;DECL	okumazlardı
+V;IND;PST;PROG;2;SG;POS;DECL	taklitçi oluyordun	V;IND;PST;PROG;2;PL;NEG;INTR	taklitçi olmuyor muydunuz
+V;IND;FUT;PROG;2;PL;INTR;POS	iyileşiyor olacak mısınız	V;IND;FUT;PROG;2;PL;NEG;INTR	iyileşiyor olmayacak mısınız
+V;NEC;PST;PROG;3;PL;NEG;DECL	canlandırtılıyor olmamalılardı	V;NEC;PST;PROG;1;PL;NEG;DECL	canlandırtılıyor olmamalıydık
+V;IND;PST;PROG;1;SG;POS;DECL	aldatıyordum	V;INFR;PST;PERF;2;PL;INTR;POS	aldatmış mıydınız
+V;INFR;FUT;PERF;3;PL;POS;DECL	satın almış olacaklar	V;NEC;INFR;PRS;PROG;2;SG;NEG;INTR	satın alıyor olmamalı mıymışsın
+V;INFR;FUT;1;SG;NEG;DECL	büyümeyecekmişim	V;IND;FUT;PRSP;3;SG;NEG;INTR	büyüyecek olmayacak mı
+V;INFR;PRS;PROG;1;PL;POS;DECL	elliyormuşuz	V;INFR;FUT;PERF;2;PL;POS;DECL	ellemiş olacaksınız
+V;NEC;PRS;2;PL;POS;DECL	iyileşmelisiniz	V;IND;PST;PERF;3;SG;POS;DECL	iyileştiydi
+V;IND;FUT;2;PL;INTR;POS	soyacak mısınız	V;NEC;PST;PROG;3;PL;INTR;POS	soyuyor olmalılar mıydı
+V;IND;FUT;1;PL;POS;DECL	çarmıha gereceğiz	V;IND;PST;PROG;2;SG;NEG;DECL	çarmıha germiyordun
+V;IND;PST;3;PL;NEG;INTR	solmadılar mı	V;IND;FUT;1;SG;INTR;POS	solacak mıyım
+V;INFR;PST;PRSP;3;SG;NEG;INTR	soymuş olmayacak mıydı	V;IND;PST;PERF;2;PL;POS;DECL	soyduydunuz
+V;INFR;FUT;3;SG;NEG;INTR	türemeyecek miymiş	V;IND;PST;PRSP;2;SG;INTR;POS	türeyecek miydin
+V;NEC;PRS;1;SG;NEG;INTR	rahmetli olmameli miyim	V;NEC;PRS;1;PL;POS;DECL	rahmetli olmeliyiz
+V;IND;PRS;PROG;2;PL;NEG;DECL	türemiyorsunuz	V;IND;FUT;2;SG;NEG;INTR	türemeyecek misin
+V;IND;PST;PROG;2;SG;NEG;INTR	solmuyor muydun	V;IND;PST;PERF;1;SG;NEG;INTR	solmadı mıydım
+V;INFR;FUT;PERF;2;SG;POS;DECL	sikişmiş olacaksın	V;INFR;LGSPEC1;PST;1;SG;NEG;INTR	sikişmemiş miymişim
+V;NEC;PST;1;PL;INTR;POS	aramalı mıydık	V;INFR;FUT;HAB;2;SG;NEG;DECL	arar olmayacakmışsın
+V;NEC;PRS;PROG;3;PL;POS;DECL	boşalıyor olmalılar	V;IND;FUT;PROG;3;SG;POS;DECL	boşalıyor olacak
+V;INFR;FUT;HAB;2;PL;INTR;POS	eller olacak mıymışsınız	V;IND;FUT;PRSP;3;PL;INTR;POS	elleyecek olacaklar mı
+V;NEC;PRS;PROG;3;SG;INTR;POS	geçiyor olmalı mı	V;INFR;PRS;PROG;1;PL;INTR;POS	geçiyor muymuşuz
+V;NFIN	süpürmek	V;IND;PST;PRSP;PROG;3;SG;NEG;DECL	süpürüyor olmayacaktı
+V;IND;PST;2;PL;POS;DECL	ellediniz	V;INFR;FUT;PROG;2;SG;NEG;DECL	elliyor olmayacakmışsın
+V;INFR;PST;PRSP;1;SG;NEG;INTR	toplamış olmayacak mıydım	V;IND;PST;PROG;1;SG;POS;DECL	topluyordum
+V;IND;FUT;3;SG;POS;DECL	yıpranacak	V;NEC;PRS;3;PL;NEG;DECL	yıpranmameliler
+V;IND;FUT;1;PL;NEG;INTR	cartayı çekmeyecek miyiz	V;IND;PRS;HAB;1;PL;NEG;DECL	cartayı çekmeyiz
+V;INFR;PST;PERF;2;SG;NEG;DECL	kurutmamıştın	V;IND;FUT;2;PL;NEG;DECL	kurutmayacaksınız
+V;IND;PST;PRSP;3;PL;POS;DECL	emeceklerdi	V;INFR;FUT;PRSP;2;SG;INTR;POS	emecek olacak mıymışsın
+V;NEC;INFR;PST;3;PL;NEG;INTR	paylaşmamalılar mıymış	V;INFR;FUT;3;SG;NEG;INTR	paylaşmayacak mıymış
+V;INFR;LGSPEC1;PST;2;PL;NEG;DECL	bilmemişmişsiniz	V;IND;PST;PROG;2;SG;POS;DECL	biliyordun
+V;INFR;FUT;PERF;1;PL;POS;DECL	kurutmuş olacağız	V;INFR;FUT;2;PL;INTR;POS	kurutacak mıymışsınız
+V;IND;PRS;HAB;2;SG;NEG;DECL	erimezsin	V;INFR;LGSPEC1;PST;3;SG;NEG;DECL	erimemişmiş
+V;INFR;PRS;HAB;3;PL;INTR;POS	sürterler miymiş	V;IND;PST;2;SG;POS;DECL	sürttün
+V;IND;PST;PERF;3;SG;NEG;INTR	bilmedi miydi	V;INFR;FUT;2;PL;POS;DECL	bilecekmişsiniz
+V;INFR;FUT;3;PL;POS;DECL	eriyeceklermiş	V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	eriyor olmamalıymışız
+V;INFR;PST;2;SG;INTR;POS	toplamış mısın	V;IND;FUT;2;PL;POS;DECL	toplayacaksınız
+V;INFR;PRS;HAB;1;PL;POS;DECL	oynarmışız	V;IND;PST;PROG;3;SG;NEG;DECL	oynamıyordu
+V;NEC;PST;PROG;2;PL;NEG;INTR	eriyor olmamalı mıydınız	V;INFR;PRS;HAB;3;PL;POS;DECL	erirlermiş
+V;NEC;INFR;PRS;PROG;2;PL;NEG;DECL	soluyor olmamalıymışsınız	V;INFR;LGSPEC1;PST;3;SG;NEG;INTR	solmamış mıymış
+V;NEC;PST;2;PL;NEG;DECL	doğurmamalıydınız	V;INFR;FUT;HAB;3;PL;NEG;DECL	doğurur olmayacaklarmış
+V;IND;PRS;HAB;2;SG;INTR;POS	doğurur musun	V;IND;PST;PERF;2;PL;NEG;DECL	doğurmadıydınız
+V;IND;PST;HAB;PROG;2;PL;POS;DECL	sıyırıyor olurdunuz	V;IND;PST;PRSP;2;SG;NEG;INTR	sıyırmayacak mıydın
+V;NEC;INFR;PST;1;SG;POS;DECL	taklitçi olmalıymışım	V;IND;FUT;PROG;1;PL;NEG;DECL	taklitçi oluyor olmayacağız
+V;IND;FUT;PRSP;2;SG;INTR;POS	gücenecek olacak mısın	V;INFR;PST;2;PL;NEG;INTR	gücenmemiş misiniz
+V;INFR;PST;3;SG;NEG;INTR	makyaj yapmamış mı	V;IND;PRS;HAB;1;SG;NEG;DECL	makyaj yapmam
+V;IND;PRS;PROG;1;SG;NEG;INTR	işlemiyor muyum	V;INFR;PST;PRSP;1;PL;POS;DECL	işlemiş olacaktık
+V;INFR;PRS;PROG;2;SG;NEG;DECL	solmuyormuşsun	V;IND;PST;PRSP;PROG;3;SG;NEG;INTR	soluyor olmayacak mıydı
+V;NEC;PRS;2;SG;NEG;INTR	türememeli misin	V;IND;FUT;PRSP;3;PL;INTR;POS	türeyecek olacaklar mı
+V;INFR;FUT;PRSP;2;SG;POS;DECL	sikecek olacakmışsın	V;IND;FUT;3;PL;NEG;DECL	sikmeyecekler
+V;IND;PST;PERF;2;SG;POS;DECL	ellediydin	V;INFR;LGSPEC1;PST;1;SG;NEG;INTR	ellememiş miymişim
+V;IND;PRS;PROG;2;SG;INTR;POS	ilklendiriyor musun	V;NEC;PST;PROG;2;PL;POS;DECL	ilklendiriyor olmalıydınız
+V;INFR;PST;PERF;1;SG;INTR;POS	şaşırttırmış mıydım	V;IND;PST;PERF;2;PL;NEG;INTR	şaşırttırmadı mıydınız
+V;NEC;PRS;PROG;3;PL;NEG;DECL	yıpranıyor olmamalılar	V;NEC;PRS;1;PL;NEG;INTR	yıpranmameli miyiz
+V;IND;FUT;PROG;1;PL;INTR;POS	öpüşüyor olacak mıyız	V;IND;FUT;PRSP;1;PL;NEG;DECL	öpüşecek olmayacağız
+V;IND;PST;PRSP;2;PL;POS;DECL	solacaktınız	V;IND;FUT;2;PL;NEG;INTR	solmayacak mısınız
+V;INFR;FUT;PROG;2;SG;NEG;INTR	biniyor olmayacak mıymışsın	V;INFR;PST;PERF;3;SG;POS;DECL	binmişti
+V;INFR;PRS;PROG;2;SG;INTR;POS	ilklendiriyor muymuşsun	V;IND;PST;HAB;2;SG;NEG;INTR	ilklendirmez miydin
+V;IND;PST;HAB;2;PL;NEG;DECL	okumazdınız	V;INFR;PST;2;SG;POS;DECL	okumuşsun
+V;INFR;FUT;1;PL;NEG;DECL	düşünmeyecekmişiz	V;IND;PRS;PROG;3;PL;INTR;POS	düşünüyorlar mı
+V;IND;PST;PRSP;PROG;1;PL;INTR;POS	rahmetli oluyor olacak mıydık	V;IND;PST;PROG;1;PL;NEG;DECL	rahmetli olmuyorduk
+V;IND;FUT;1;SG;NEG;INTR	ayırmayacak mıyım	V;NEC;PRS;1;SG;NEG;INTR	ayırmameli miyim
+V;INFR;PRS;PROG;2;SG;INTR;POS	oynuyor muymuşsun	V;INFR;FUT;PERF;2;SG;POS;DECL	oynamış olacaksın
+V;INFR;FUT;PERF;1;PL;NEG;DECL	okumuş olmayacağız	V;NEC;PST;1;PL;INTR;POS	okumalı mıydık
+V;IND;PST;1;PL;INTR;POS	iyileştik mi	V;IND;PST;PRSP;PROG;3;PL;NEG;INTR	iyileşiyor olmayacaklar mıydı
+V;IND;PST;PRSP;PROG;1;SG;POS;DECL	yıpranıyor olacaktım	V;IND;PRS;PROG;2;PL;NEG;DECL	yıpranmıyorsunuz
+V;INFR;FUT;3;PL;INTR;POS	öpüşecekler miymiş	V;IND;PRS;PROG;2;SG;INTR;POS	öpüşüyor musun
+V;IND;FUT;PROG;2;PL;NEG;DECL	iyileşiyor olmayacaksınız	V;IND;PST;PERF;2;PL;NEG;DECL	iyileşmediydiniz
+V;IND;PST;HAB;PROG;2;PL;INTR;POS	doğuruyor olur muydunuz	V;IND;FUT;PROG;3;PL;POS;DECL	doğuruyor olacaklar
+V;INFR;FUT;PRSP;1;PL;NEG;INTR	eriecek olmayacak mıymışız	V;INFR;FUT;PERF;1;PL;INTR;POS	erimiş olacak mıyız
+V;INFR;FUT;2;PL;NEG;DECL	taklitçi olmayacakmışsınız	V;INFR;PRS;HAB;1;SG;INTR;POS	taklitçi olur muymuşum
+V;IND;PRS;PROG;3;SG;POS;DECL	oynuyor	V;IND;PRS;PROG;3;PL;POS;DECL	oynuyorlar
+V;NEC;PST;1;SG;INTR;POS	yaptırtmalı mıydım	V;NEC;PST;PROG;3;PL;POS;DECL	yaptırtıyor olmalılardı
+V;IND;PST;HAB;1;PL;NEG;DECL	emmezdik	V;IND;PST;PROG;3;SG;NEG;DECL	emmiyordu
+V;INFR;PST;PERF;1;PL;NEG;DECL	canlandırmamamıştık	V;IND;FUT;1;PL;POS;DECL	canlandırıyacağız
+V;IND;FUT;PRSP;2;PL;POS;DECL	okuyacak olacaksınız	V;INFR;PST;1;PL;POS;DECL	okumuşuz
+V;IND;PST;PRSP;PROG;3;SG;NEG;DECL	geciktiriyor olmayacaktı	V;INFR;FUT;PRSP;2;SG;NEG;DECL	geciktirecek olmayacakmışsın
+V;INFR;PRS;PROG;1;SG;INTR;POS	büyüyor muymuşum	V;IND;PST;HAB;1;SG;NEG;INTR	büyümez miydim
+V;IND;FUT;PROG;1;SG;NEG;DECL	canlandırtılıyor olmayacağım	V;NEC;INFR;PRS;PROG;1;PL;NEG;INTR	canlandırtılıyor olmamalı mıymışız
+V;NEC;PRS;PROG;1;SG;NEG;DECL	kurutuyor olmamalıyım	V;IND;PRS;HAB;1;SG;NEG;INTR	kurutmaz mıyım
+V;INFR;FUT;PRSP;2;SG;POS;DECL	yaracak olacakmışsın	V;IND;PST;PROG;1;PL;INTR;POS	yarıyor muyduk
+V;INFR;FUT;PROG;2;SG;NEG;DECL	boşalıyor olmayacakmışsın	V;INFR;PRS;HAB;1;SG;POS;DECL	boşalırmışım
+V;INFR;FUT;PRSP;3;PL;INTR;POS	elleecek olacaklar mıymış	V;IND;PRS;PROG;1;PL;INTR;POS	elliyor muyuz
+V;IND;PST;HAB;PROG;2;PL;NEG;DECL	kurutuyor olmazdınız	V;NEC;PRS;3;SG;NEG;INTR	kurutmameli mi
+V;IND;PRS;PROG;1;PL;NEG;INTR	sıyırmıyor muyuz	V;IND;FUT;PRSP;2;SG;NEG;DECL	sıyıracak olmayacaksın
+V;IND;PST;3;SG;NEG;DECL	binmedi	V;NEC;INFR;PRS;PROG;2;PL;INTR;POS	biniyor olmalı mıymışsınız
+V;INFR;FUT;1;PL;NEG;DECL	eskimeyecekmişiz	V;NEC;INFR;PST;2;SG;NEG;INTR	eskimemeli miymişsin
+V;IND;PST;HAB;3;PL;INTR;POS	satın alırlar mıydı	V;IND;PST;PROG;3;PL;INTR;POS	satın alıyorlar mıydı
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	topluyor olmamalıymışız	V;IND;FUT;PROG;1;PL;INTR;POS	topluyor olacak mıyız
+V;NEC;INFR;PRS;PROG;1;PL;NEG;DECL	ilklendiriyor olmamalıymışız	V;IND;PST;2;SG;NEG;DECL	ilklendirmedin
+V;NEC;INFR;PST;2;SG;POS;DECL	azmalıymışsın	V;INFR;PST;PRSP;3;PL;NEG;INTR	azmış olmayacaklar mıydı
+V;IND;PST;HAB;PROG;2;SG;POS;DECL	aldatıyor olurdun	V;INFR;PRS;HAB;2;PL;POS;DECL	aldatırmışsınız
+V;NEC;INFR;PST;3;PL;NEG;DECL	iyileşmemelilermiş	V;INFR;PST;PRSP;2;SG;NEG;INTR	iyileşmiş olmayacak mıydın
+V;INFR;FUT;1;PL;NEG;DECL	taklitçi olmayacakmışız	V;INFR;FUT;PERF;3;PL;NEG;DECL	taklitçi olmuş olmayacaklar
+V;INFR;LGSPEC1;PST;2;PL;NEG;INTR	oynamamış mıymışsınız	V;IND;FUT;PROG;3;PL;INTR;POS	oynuyor olacaklar mı
+V;INFR;PRS;PROG;2;SG;NEG;DECL	cartayı çekmiyormuşsun	V;INFR;PRS;HAB;3;SG;INTR;POS	cartayı çeker miymiş
+V;IND;FUT;PRSP;1;SG;NEG;DECL	arayacak olmayacağım	V;INFR;PST;PRSP;2;SG;NEG;DECL	aramış olmayacaktın
+V;IND;PST;PRSP;2;PL;NEG;INTR	iyileşmeyecek miydiniz	V;INFR;PRS;PROG;1;SG;INTR;POS	iyileşiyor muymuşum
+V;INFR;LGSPEC1;PST;1;PL;NEG;INTR	azmamış mıymışız	V;INFR;PRS;HAB;2;SG;NEG;DECL	azmazmışsın

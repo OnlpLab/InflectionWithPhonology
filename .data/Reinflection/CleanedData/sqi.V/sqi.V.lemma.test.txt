@@ -1,0 +1,1000 @@
+V;1;SG;ADM;PRS	copëtuakam	V;2;PL;SBJV;PRF;PRF	të kishit copëtuar
+V;1;SG;IND;PRF;PST	pata bërë	V;2;SG;SBJV;PRF;PST	të kishe bërë
+V;V.PTCP	armatosur	V;3;PL;IND;FUT	do të armatosin
+V;3;PL;IND;IPFV	propozonin	V;3;PL;OPT;PRS	propozofshin
+V;1;PL;IND;PRF	kemi pshurrur	V;1;SG;COND;PRF	do të kisha pshurrur
+V;3;SG;ADM;PRF	paska lidhur	V;2;SG;IMP	lidh
+V;1;PL;OPT;PRF	paçim pshurrur	V;1;SG;SBJV;PRS	të pshurr
+V;3;PL;ADM;PRF	paskan gënjyer	V;3;SG;SBJV;PRF	të ketë gënjyer
+V;V.PTCP;PST	duke pasë shikuar	V;2;SG;OPT;PRF	paç shikuar
+V;NFIN	për të lidhur	V;2;PL;ADM;PRS	lidhkeni
+V;2;SG;OPT;PRS	propozofsh	V;3;PL;IND;PRF;PST	patën propozuar
+V;2;SG;ADM;IPFV	degjuakëshe	V;3;SG;SBJV;PRF	të ketë degjuar
+V;2;PL;IND;PRF;PRF	patët asnjanësuar	V;1;PL;IND;IPFV	asnjanësonim
+V;1;PL;ADM;PRF	paskemi krahasuar	V;1;PL;SBJV;PRF	të kemi krahasuar
+V;3;PL;ADM;PRS	gënjyekan	V;1;SG;SBJV;PRF;PST	të kisha gënjyer
+V;3;PL;IND;PRF	kanë lëshuar	V;3;SG;SBJV;PST	të lëshonte
+V;2;SG;ADM;IPFV	dërguakëshe	V;3;PL;SBJV;PST	të dërgonin
+V;1;SG;ADM;PRF	paskam ndërlikuar	V;2;SG;IMP	ndërliko
+V;2;SG;SBJV;PRF	të kesh grumbulluar	V;2;SG;IND;PRF;PST	pate grumbulluar
+V;3;SG;OPT;PRS	asnjanësoftë	V;2;PL;IND;PRF;FUT	do të keni asnjanësuar
+V;2;SG;SBJV;PRS	të shikosh	V;3;PL;IND;FUT	do të shikojnë
+V;1;SG;COND;PRS	do të pshurrja	V;2;PL;COND;PRF	do të kishit pshurrur
+V;2;SG;ADM;IPFV	sqaruakëshe	V;2;PL;OPT;PRS	sqarofshit
+V;2;PL;IND;IPFV	ngrinit	V;1;SG;OPT;PRF	paça ngritur
+V;1;SG;COND;PRS	do të dërgoja	V;1;PL;ADM;PRS	dërguakemi
+V;3;SG;COND;PRF	do të kishte ngritur	V;1;PL;IND;PST	ngritëm
+V;3;PL;IND;PST	gënjyen	V;3;SG;IND;PST	gënjeu
+V;3;PL;IND;PRF	kanë dërguar	V;2;SG;IND;PRS	dërgon
+V;1;SG;OPT;PRS	sqarofsha	V;2;PL;SBJV;PST	të sqaronit
+V;2;PL;IND;IPFV	bënit	V;2;SG;IMP	bëj
+V;1;SG;IND;PRS	shikoj	V;3;SG;OPT;PRF	pastë shikuar
+V;1;SG;IND;PST	u zgjova	V;1;SG;IND;FUT	do të zgjohem
+V;1;SG;SBJV;PRF;PST	të kisha krahasuar	V;3;SG;IND;PST	krahasoi
+V;2;SG;OPT;PRS	degjofsh	V;1;PL;SBJV;PRF;PST	të kishim degjuar
+V;3;SG;ADM;PRS	propozuaka	V;1;PL;SBJV;PST	të propozonim
+V;2;PL;COND;PRS	do të dërgonit	V;2;PL;SBJV;PRF	të keni dërguar
+V;2;SG;ADM;PRF	paske bërë	V;2;SG;COND;PRF	do të kishe bërë
+V;1;SG;COND;PRS	do të dërgoja	V;1;PL;SBJV;PRS	të dërgojmë
+V;2;SG;OPT;PRS	shikofsh	V;V.PTCP;PRS	duke shikuar
+V;3;SG;SBJV;PRF	të ketë lidhur	V;2;SG;OPT;PRS	lidhsh
+V;1;PL;COND;PRF	do të kishim lëshuar	V;1;PL;SBJV;PRF;PST	të kishim lëshuar
+V;2;PL;IND;PRF;FUT	do të keni ndërlikuar	V;3;PL;SBJV;PRF;PST	të kishin ndërlikuar
+V;3;SG;IND;IPFV	bashkëpunonte	V;3;SG;ADM;PRF	paska bashkëpunuar
+V;1;SG;IND;PRS	lidh	V;1;PL;IND;FUT	do të lidhim
+V;2;PL;OPT;PRF	paçit shtypur	V;2;PL;IND;PRF	keni shtypur
+V;2;PL;IND;IPFV	plagonit	V;3;SG;SBJV;PST	të plagonte
+V;1;SG;ADM;PRF	paskam plaguar	V;1;SG;COND;PRF	do të kisha plaguar
+V;3;PL;ADM;PRS	ndërlikuakan	V;1;SG;IND;FUT	do të ndërlikoj
+V;1;PL;COND;PRS	do të ngrinim	V;3;SG;SBJV;PRF;PST	të kishte ngritur
+V;2;PL;IND;IPFV	abuzonit	V;2;PL;IMP	abuzoni
+V;1;SG;ADM;PRS	sqaruakam	V;1;SG;OPT;PRS	sqarofsha
+V;2;PL;IND;IPFV	zgjoheshit	V;3;SG;SBJV;PRF	të jetë zgjuar
+V;2;PL;IND;PRF;FUT	do të keni propozuar	V;3;PL;SBJV;PST	të propozonin
+V;2;PL;COND;PRF	do të kishit propozuar	V;2;SG;SBJV;PRF;PST	të kishe propozuar
+V;2;SG;IND;IPFV	shtypje	V;1;SG;IND;PRF;PST	pata shtypur
+V;2;SG;ADM;IPFV	sqaruakëshe	V;3;PL;SBJV;PRF	të kenë sqaruar
+V;1;PL;ADM;PRF;PST	paskëshim plaguar	V;1;PL;OPT;PRF	paçim plaguar
+V;3;SG;SBJV;PRF;PST	të kishte sqaruar	V;1;PL;ADM;PRF	paskemi sqaruar
+V;3;PL;IND;PST	besuan	V;2;PL;IND;PST	besuat
+V;3;SG;SBJV;PRS	të sqarojë	V;2;SG;IND;FUT	do të sqarosh
+V;2;SG;OPT;PRS	grumbullofsh	V;3;SG;SBJV;PRF	të ketë grumbulluar
+V;2;SG;IND;IPFV	shtypje	V;1;SG;IND;PST	shtypa
+V;3;SG;SBJV;PRS	të armatosë	V;1;PL;IND;FUT	do të armatosim
+V;2;SG;SBJV;PRF	të kesh besuar	V;2;SG;SBJV;PST	të besoje
+V;V.PTCP;PRS	duke propozuar	V;2;SG;IND;PRF;PST	pate propozuar
+V;2;PL;ADM;PRF	paskeni grumbulluar	V;2;PL;SBJV;PRS	të grumbulloni
+V;2;SG;SBJV;PRF;PST	të kishe degjuar	V;2;PL;IND;PRF;PRF	patët degjuar
+V;3;PL;IND;PRF	janë zgjuar	V;2;SG;IND;FUT	do të zgjohesh
+V;V.PTCP;PRS	duke bërë	V;2;SG;SBJV;PRF	të kesh bërë
+V;3;SG;IND;PRF;FUT	do të ketë lidhur	V;2;SG;IND;IPFV	lidhje
+V;V.PTCP;PRS	duke propozuar	V;3;SG;SBJV;PRF;PST	të kishte propozuar
+V;2;SG;IND;FUT	do të pshurrësh	V;V.PTCP;PST	duke pasë pshurrur
+V;3;PL;SBJV;PRF;PST	të kishin gënjyer	V;3;SG;SBJV;PRS	të gënjejë
+V;1;PL;IND;PRF;PST	patëm besuar	V;2;SG;IND;IPFV	besoje
+V;2;SG;COND;PRF	do të kishe ndërlikuar	V;2;SG;IND;PRS	ndërlikon
+V;1;SG;SBJV;PRS	të degjoj	V;3;SG;SBJV;PRS	të degjojë
+V;2;PL;ADM;PRF	paskeni gënjyer	V;3;SG;SBJV;PST	të gënjente
+V;3;SG;SBJV;PRF;PST	të kishte lidhur	V;2;PL;IND;PRF;FUT	do të keni lidhur
+V;1;PL;SBJV;PRF;PST	të kishim dërguar	V;2;SG;SBJV;PRF	të kesh dërguar
+V;1;PL;IND;FUT	do të dërgojmë	V;3;SG;IND;PST	dërgoi
+V;3;PL;COND;PRS	do të lidhnin	V;1;PL;SBJV;PST	të lidhnim
+V;3;PL;ADM;IPFV	asnjanësuakëshin	V;3;PL;OPT;PRS	asnjanësofshin
+V;1;SG;COND;PRS	do të abuzoja	V;1;PL;IND;IPFV	abuzonim
+V;2;PL;ADM;PRF;PRF	paskëshit krahasuar	V;1;PL;SBJV;PRF;PST	të kishim krahasuar
+V;2;SG;IND;PRS	grumbullon	V;3;PL;IND;PST	grumbulluan
+V;3;PL;ADM;IPFV	abuzuakëshin	V;2;PL;SBJV;PST	të abuzonit
+V;2;SG;IND;PST	u zgjove	V;1;PL;SBJV;PRS	të zgjohemi
+V;3;SG;IND;FUT	do të grumbullojë	V;2;SG;IND;PRF;PST	pate grumbulluar
+V;2;PL;IND;FUT	do të bashkëpunoni	V;2;PL;IND;PRS	bashkëpunoni
+V;2;PL;SBJV;PRF;PRF	të kishit pshurrur	V;1;PL;SBJV;PRF;PST	të kishim pshurrur
+V;3;PL;ADM;PRS	lidhkan	V;2;SG;ADM;PRF	paske lidhur
+V;3;PL;SBJV;PRS	të armatosin	V;3;SG;SBJV;PST	të armatoste
+V;3;SG;OPT;PRS	gënjeftë	V;1;PL;ADM;PRS	gënjyekemi
+V;2;SG;SBJV;PST	të armatosje	V;2;SG;IND;PST	armatose
+V;1;PL;OPT;PRF	paçim krahasuar	V;1;SG;ADM;IPFV	krahasuakësha
+V;1;PL;ADM;PRF;PST	paskëshim krahasuar	V;3;PL;OPT;PRF	paçin krahasuar
+V;1;SG;OPT;PRF	paça armatosur	V;2;SG;OPT;PRF	paç armatosur
+V;2;SG;ADM;IPFV	abuzuakëshe	V;1;SG;IND;IPFV	abuzoja
+V;2;PL;IND;PRF;FUT	do të keni ngritur	V;2;SG;OPT;PRF	paç ngritur
+V;2;SG;OPT;PRS	lëshofsh	V;1;PL;IND;PRF;PST	patëm lëshuar
+V;2;PL;IND;PRS	besoni	V;3;SG;ADM;PRS	besuaka
+V;3;SG;IND;PST	bëri	V;2;PL;SBJV;PST	të bënit
+V;2;SG;COND;PRS	do të besoje	V;3;PL;ADM;IPFV	besuakëshin
+V;2;PL;IND;PRF;PRF	patët bashkëpunuar	V;3;PL;ADM;PRF;PST	paskëshin bashkëpunuar
+V;2;PL;SBJV;PRF	të keni abuzuar	V;2;SG;OPT;PRS	abuzofsh
+V;3;SG;OPT;PRF	pastë bashkëpunuar	V;3;PL;COND;PRF	do të kishin bashkëpunuar
+V;3;PL;ADM;IPFV	abuzuakëshin	V;2;PL;ADM;PRF;PRF	paskëshit abuzuar
+V;2;PL;SBJV;PST	të sqaronit	V;1;SG;IND;FUT	do të sqaroj
+V;3;PL;COND;PRF	do të kishin shtypur	V;2;SG;SBJV;PST	të shtypje
+V;2;PL;IND;PRF;PRF	patët grumbulluar	V;3;PL;IND;PRS	grumbullojnë
+V;1;PL;IND;PRF;PST	patëm copëtuar	V;1;PL;IND;FUT	do të copëtojmë
+V;1;SG;IND;FUT	do të lëshoj	V;2;PL;IND;PRS	lëshoni
+V;1;PL;ADM;PRF;PST	paskëshim shtypur	V;1;PL;SBJV;PRF	të kemi shtypur
+V;2;SG;IMP	asnjanëso	V;3;PL;IND;PRF	kanë asnjanësuar
+V;3;PL;ADM;PRF;PST	paskëshin pshurrur	V;2;SG;COND;PRS	do të pshurrje
+V;2;SG;IND;PRF;FUT	do të kesh lidhur	V;3;SG;SBJV;PST	të lidhte
+V;1;SG;SBJV;PRF	të kem armatosur	V;2;SG;IND;PRF;FUT	do të kesh armatosur
+V;3;PL;SBJV;PST	të ngrinin	V;V.PTCP;PRS	duke ngritur
+V;3;SG;OPT;PRF	pastë sqaruar	V;3;PL;ADM;IPFV	sqaruakëshin
+V;2;PL;ADM;PRS	besuakeni	V;3;SG;SBJV;PRS	të besojë
+V;1;SG;ADM;IPFV	shtypkësha	V;3;PL;SBJV;PRS	të shtypin
+V;1;PL;ADM;PRF	paskemi bërë	V;2;SG;COND;PRS	do të bëje
+V;1;PL;SBJV;PRS	të besojmë	V;2;SG;COND;PRF	do të kishe besuar
+V;2;PL;ADM;PRF	paskeni lidhur	V;1;SG;IND;PRF;PST	pata lidhur
+V;1;PL;ADM;PRS	bashkëpunuakemi	V;2;PL;IND;PRF	keni bashkëpunuar
+V;V.PTCP;PRS	duke besuar	V;3;PL;IND;PRF;FUT	do të kenë besuar
+V;1;PL;IND;PRF;PST	ishim zgjuar	V;3;SG;IND;PRS	zgjohet
+V;1;PL;SBJV;PRF;PST	të kishim shtypur	V;3;SG;SBJV;PST	të shtypte
+V;1;SG;OPT;PRS	propozofsha	V;1;PL;IND;FUT	do të propozojmë
+V;V.PTCP	pshurrur	V;3;PL;OPT;PRS	pshurrshin
+V;1;PL;COND;PRS	do të dërgonim	V;3;PL;SBJV;PST	të dërgonin
+V;3;SG;IND;FUT	do të gënjejë	V;3;PL;IND;PRS	gënjejnë
+V;2;SG;ADM;IPFV	lëshuakëshe	V;3;PL;IND;FUT	do të lëshojnë
+V;2;PL;SBJV;PST	të besonit	V;3;SG;IND;PST	besoi
+V;3;PL;IND;PRF	kanë bërë	V;1;PL;ADM;PRF;PST	paskëshim bërë
+V;3;PL;ADM;PRS	plaguakan	V;1;SG;IND;PRF	kam plaguar
+V;1;PL;ADM;IPFV	grumbulluakëshim	V;3;PL;COND;PRF	do të kishin grumbulluar
+V;3;SG;IND;PRF;PST	pati copëtuar	V;2;PL;IND;IPFV	copëtonit
+V;2;PL;ADM;PRS	besuakeni	V;3;SG;SBJV;PRF	të ketë besuar
+V;1;SG;COND;PRF	do të isha zgjuar	V;2;SG;COND;PRF	do të ishe zgjuar
+V;1;SG;SBJV;PST	të degjoja	V;2;PL;IND;FUT	do të degjoni
+V;2;PL;IND;PRF	keni propozuar	V;1;SG;IND;IPFV	propozoja
+V;2;PL;ADM;PRF	paskeni propozuar	V;1;SG;IND;PRF;FUT	do të kem propozuar
+V;3;PL;ADM;IPFV	sqaruakëshin	V;2;PL;IND;PST	sqaruat
+V;1;PL;IND;PRF;FUT	do të kemi pshurrur	V;2;SG;SBJV;PRF	të kesh pshurrur
+V;3;PL;COND;PRF	do të kishin shtypur	V;2;SG;SBJV;PRS	të shtypësh
+V;V.PTCP	copëtuar	V;2;SG;IND;PRF;FUT	do të kesh copëtuar
+V;3;PL;SBJV;PST	të abuzonin	V;3;SG;COND;PRF	do të kishte abuzuar
+V;1;PL;COND;PRS	do të lidhnim	V;2;SG;OPT;PRS	lidhsh
+V;1;SG;OPT;PRS	u zgjofsha	V;2;SG;OPT;PRF	qofsh zgjuar
+V;3;SG;IND;FUT	do të gënjejë	V;1;PL;IND;IPFV	gënjenim
+V;3;PL;SBJV;PRF;PST	të kishin armatosur	V;1;PL;IND;PST	armatosëm
+V;1;SG;SBJV;PRS	të gënjej	V;3;SG;SBJV;PRS	të gënjejë
+V;1;SG;OPT;PRS	shikofsha	V;3;PL;IND;PRF;PST	patën shikuar
+V;3;PL;SBJV;PST	të armatosnin	V;2;PL;SBJV;PRF;PRF	të kishit armatosur
+V;2;PL;ADM;PRS	ngritkeni	V;3;SG;OPT;PRF	pastë ngritur
+V;2;SG;IMP	zgjohu	V;1;SG;ADM;IPFV	u zgjuakësha
+V;1;PL;SBJV;PST	të degjonim	V;1;SG;ADM;PRS	degjuakam
+V;3;PL;IND;FUT	do të plagojnë	V;1;SG;ADM;IPFV	plaguakësha
+V;2;SG;IND;PST	shikove	V;2;SG;SBJV;PRS	të shikosh
+V;3;PL;ADM;PRF;PST	paskëshin grumbulluar	V;1;SG;IND;PRS	grumbulloj
+V;1;PL;SBJV;PRF;PST	të kishim dërguar	V;2;SG;ADM;IPFV	dërguakëshe
+V;3;PL;SBJV;PST	të armatosnin	V;1;PL;IND;PRF;FUT	do të kemi armatosur
+V;2;PL;ADM;IPFV	abuzuakëshit	V;2;SG;OPT;PRF	paç abuzuar
+V;3;PL;SBJV;PRF;PST	të kishin propozuar	V;2;PL;SBJV;PRF;PRF	të kishit propozuar
+V;1;SG;SBJV;PRF	të kem shikuar	V;1;SG;COND;PRS	do të shikoja
+V;3;PL;IND;PRF;FUT	do të kenë bashkëpunuar	V;1;SG;SBJV;PRS	të bashkëpunoj
+V;1;PL;COND;PRS	do të dërgonim	V;2;PL;COND;PRF	do të kishit dërguar
+V;2;SG;COND;PRF	do të kishe bërë	V;1;SG;IND;PRF	kam bërë
+V;1;SG;ADM;PRF;PST	paskësha grumbulluar	V;2;SG;OPT;PRF	paç grumbulluar
+V;3;SG;IND;FUT	do të zgjohet	V;3;PL;IND;PRF	janë zgjuar
+V;2;SG;SBJV;PRF;PST	të kishe dërguar	V;3;PL;ADM;PRS	dërguakan
+V;3;PL;ADM;PRF;PST	paskëshin shtypur	V;3;PL;ADM;PRF	paskan shtypur
+V;1;SG;SBJV;PST	të krahasoja	V;2;SG;ADM;IPFV	krahasuakëshe
+V;2;SG;ADM;PRF;PST	paskëshe pshurrur	V;1;PL;ADM;PRF	paskemi pshurrur
+V;2;SG;COND;PRS	do të abuzoje	V;3;SG;OPT;PRS	abuzoftë
+V;3;SG;ADM;IPFV	propozuakësh	V;1;PL;OPT;PRF	paçim propozuar
+V;2;PL;COND;PRF	do të kishit krahasuar	V;2;PL;ADM;PRF;PRF	paskëshit krahasuar
+V;3;SG;COND;PRS	do të shikonte	V;3;SG;SBJV;PRF;PST	të kishte shikuar
+V;2;PL;OPT;PRS	u zgjofshit	V;1;PL;COND;PRS	do të zgjoheshim
+V;2;PL;COND;PRF	do të kishit abuzuar	V;1;SG;IND;IPFV	abuzoja
+V;1;SG;IND;PRS	dërgoj	V;1;SG;IND;PST	dërgova
+V;1;SG;IND;PST	ngrita	V;2;SG;SBJV;PRS	të ngresh
+V;2;PL;SBJV;PST	të shtypnit	V;3;SG;IND;PRF	ka shtypur
+V;2;PL;SBJV;PRF	të keni asnjanësuar	V;2;PL;SBJV;PRF;PRF	të kishit asnjanësuar
+V;3;PL;IND;PST	propozuan	V;2;PL;ADM;PRF	paskeni propozuar
+V;3;SG;OPT;PRS	copëtoftë	V;1;SG;IND;FUT	do të copëtoj
+V;1;SG;SBJV;PRF;PST	të kisha shikuar	V;V.PTCP;PST	duke pasë shikuar
+V;2;PL;SBJV;PRF	të keni abuzuar	V;2;SG;OPT;PRF	paç abuzuar
+V;1;PL;COND;PRF	do të kishim plaguar	V;2;PL;SBJV;PRS	të plagoni
+V;2;PL;IMP	degjoni	V;2;PL;SBJV;PRF	të keni degjuar
+V;V.PTCP	gënjyer	V;3;PL;COND;PRF	do të kishin gënjyer
+V;1;PL;SBJV;PST	të abuzonim	V;1;SG;IND;PRF	kam abuzuar
+V;2;PL;IND;PRF;FUT	do të keni sqaruar	V;3;PL;SBJV;PRS	të sqarojnë
+V;1;PL;IND;IPFV	bashkëpunonim	V;3;SG;ADM;PRF;PST	paskësh bashkëpunuar
+V;1;SG;IND;PRS	armatos	V;2;PL;IND;PRF	keni armatosur
+V;1;SG;SBJV;PST	të besoja	V;2;SG;IMP	beso
+V;1;SG;COND;PRS	do të krahasoja	V;2;SG;IND;PRS	krahason
+V;V.PTCP;PRS	duke asnjanësuar	V;1;SG;SBJV;PRS	të asnjanësoj
+V;2;SG;IMP	zgjohu	V;2;PL;IND;PRF;FUT	do të jeni zgjuar
+V;3;SG;IND;PST	grumbulloi	V;3;PL;SBJV;PRF;PST	të kishin grumbulluar
+V;2;PL;COND;PRS	do të dërgonit	V;3;PL;IND;PRS	dërgojnë
+V;1;PL;COND;PRF	do të kishim sqaruar	V;3;SG;SBJV;PRF	të ketë sqaruar
+V;2;PL;ADM;PRS	sqaruakeni	V;V.PTCP	sqaruar
+V;1;SG;SBJV;PST	të ndërlikoja	V;1;PL;COND;PRF	do të kishim ndërlikuar
+V;1;SG;SBJV;PRF;PST	të kisha abuzuar	V;2;PL;COND;PRF	do të kishit abuzuar
+V;3;SG;IND;PRF;PST	pati bashkëpunuar	V;3;SG;IND;PRF;FUT	do të ketë bashkëpunuar
+V;1;SG;IND;PRF;FUT	do të kem besuar	V;2;PL;IND;FUT	do të besoni
+V;3;PL;COND;PRF	do të kishin copëtuar	V;2;SG;ADM;IPFV	copëtuakëshe
+V;3;PL;ADM;IPFV	bëkëshin	V;2;SG;IND;PST	bëre
+V;2;PL;IND;PRF	keni pshurrur	V;1;PL;IND;PRF;FUT	do të kemi pshurrur
+V;1;SG;IND;PRF	kam shikuar	V;2;SG;IND;PRF	ke shikuar
+V;3;PL;IND;PRF	kanë plaguar	V;V.PTCP	plaguar
+V;1;SG;IND;FUT	do të dërgoj	V;NFIN	për të dërguar
+V;2;PL;SBJV;PRF	të keni grumbulluar	V;V.PTCP;PST	duke pasë grumbulluar
+V;1;SG;OPT;PRF	paça propozuar	V;1;PL;IND;PRF	kemi propozuar
+V;3;PL;IND;PRS	ngrenë	V;1;SG;IND;FUT	do të ngre
+V;1;SG;ADM;IPFV	sqaruakësha	V;1;PL;ADM;IPFV	sqaruakëshim
+V;3;PL;IND;FUT	do të shtypin	V;1;PL;OPT;PRS	shtypshim
+V;2;SG;OPT;PRF	paç bërë	V;1;PL;IND;IPFV	bënim
+V;2;PL;IND;PRS	bëni	V;1;PL;IND;PRF	kemi bërë
+V;1;PL;ADM;PRF	paskemi copëtuar	V;3;PL;SBJV;PST	të copëtonin
+V;3;SG;SBJV;PRS	të asnjanësojë	V;1;SG;IND;PST	asnjanësova
+V;2;PL;ADM;PRF	paskeni propozuar	V;2;SG;IND;PRF	ke propozuar
+V;2;PL;IND;FUT	do të propozoni	V;3;SG;IND;IPFV	propozonte
+V;3;SG;COND;PRF	do të kishte asnjanësuar	V;3;PL;ADM;PRF	paskan asnjanësuar
+V;1;PL;ADM;IPFV	abuzuakëshim	V;3;SG;OPT;PRS	abuzoftë
+V;1;PL;ADM;IPFV	lidhkëshim	V;1;SG;IND;PRF;PST	pata lidhur
+V;1;PL;ADM;PRF;PST	paskëshim lidhur	V;2;SG;ADM;PRS	lidhke
+V;1;PL;IND;PRF;PST	patëm shtypur	V;3;PL;SBJV;PST	të shtypnin
+V;2;PL;SBJV;PRF;PRF	të kishit propozuar	V;3;SG;ADM;PRF	paska propozuar
+V;2;SG;IND;FUT	do të propozosh	V;3;PL;OPT;PRS	propozofshin
+V;3;PL;OPT;PRF	paçin sqaruar	V;2;SG;ADM;PRF;PST	paskëshe sqaruar
+V;3;SG;SBJV;PRS	të bashkëpunojë	V;2;PL;IND;FUT	do të bashkëpunoni
+V;2;PL;OPT;PRS	bashkëpunofshit	V;1;PL;OPT;PRS	bashkëpunofshim
+V;3;SG;SBJV;PRF	të ketë ndërlikuar	V;2;PL;SBJV;PRF;PRF	të kishit ndërlikuar
+V;1;SG;SBJV;PST	të gënjeja	V;1;PL;OPT;PRF	paçim gënjyer
+V;2;SG;OPT;PRS	armatossh	V;3;PL;SBJV;PST	të armatosnin
+V;3;SG;ADM;PRS	shtypka	V;3;PL;IND;IPFV	shtypnin
+V;1;SG;SBJV;PRF	të kem bashkëpunuar	V;1;PL;ADM;PRF	paskemi bashkëpunuar
+V;1;PL;OPT;PRS	sqarofshim	V;3;PL;IND;PRF;FUT	do të kenë sqaruar
+V;2;SG;IND;PST	gënjeve	V;3;PL;ADM;IPFV	gënjyekëshin
+V;2;PL;OPT;PRF	paçit lidhur	V;3;SG;IND;PRF	ka lidhur
+V;3;SG;IND;FUT	do të dërgojë	V;2;PL;IND;PRF;FUT	do të keni dërguar
+V;2;PL;IND;PRF;FUT	do të keni dërguar	V;3;SG;ADM;IPFV	dërguakësh
+V;3;SG;IND;IPFV	dërgonte	V;1;PL;SBJV;PRS	të dërgojmë
+V;2;SG;OPT;PRF	paç shikuar	V;3;SG;COND;PRF	do të kishte shikuar
+V;3;SG;SBJV;PRF;PST	të kishte krahasuar	V;2;SG;IND;FUT	do të krahasosh
+V;3;SG;SBJV;PST	të ngrinte	V;3;PL;SBJV;PRS	të ngrenë
+V;2;PL;IND;FUT	do të ndërlikoni	V;1;PL;SBJV;PRF;PST	të kishim ndërlikuar
+V;2;PL;IMP	krahasoni	V;3;SG;IND;PRF	ka krahasuar
+V;1;SG;SBJV;PRF;PST	të kisha pshurrur	V;2;SG;ADM;PRS	pshurrke
+V;1;SG;IND;PRF;PST	pata armatosur	V;2;SG;SBJV;PRF;PST	të kishe armatosur
+V;1;PL;IND;PRF	kemi shtypur	V;2;SG;ADM;PRF;PST	paskëshe shtypur
+V;2;SG;IMP	ngri	V;1;PL;IND;FUT	do të ngremë
+V;1;SG;IND;PRS	degjoj	V;3;PL;ADM;PRF;PST	paskëshin degjuar
+V;1;SG;SBJV;PRS	të ndërlikoj	V;3;PL;COND;PRF	do të kishin ndërlikuar
+V;3;PL;IND;PRF	kanë sqaruar	V;2;SG;ADM;PRF;PST	paskëshe sqaruar
+V;2;PL;IND;FUT	do të shikoni	V;3;SG;OPT;PRF	pastë shikuar
+V;3;PL;SBJV;PST	të gënjenin	V;2;PL;IND;IPFV	gënjenit
+V;2;SG;ADM;PRF	paske shtypur	V;2;SG;SBJV;PRS	të shtypësh
+V;V.PTCP;PRS	duke ndërlikuar	V;3;SG;ADM;IPFV	ndërlikuakësh
+V;3;PL;COND;PRS	do të krahasonin	V;2;PL;IND;PRF;FUT	do të keni krahasuar
+V;3;SG;ADM;PRF;PST	paskësh gënjyer	V;1;SG;IND;PRF	kam gënjyer
+V;3;PL;OPT;PRS	bashkëpunofshin	V;3;PL;IND;PRF;PST	patën bashkëpunuar
+V;1;PL;COND;PRF	do të kishim degjuar	V;2;PL;IND;PST	degjuat
+V;1;SG;ADM;PRS	shtypkam	V;1;SG;SBJV;PRS	të shtyp
+V;1;PL;COND;PRS	do të abuzonim	V;1;SG;ADM;PRF	paskam abuzuar
+V;3;SG;IND;PRF;FUT	do të ketë copëtuar	V;1;SG;COND;PRF	do të kisha copëtuar
+V;V.PTCP	lëshuar	V;1;SG;IND;PRF;PST	pata lëshuar
+V;3;SG;COND;PRS	do të bënte	V;2;SG;COND;PRS	do të bëje
+V;2;PL;IND;PST	sqaruat	V;1;SG;ADM;PRS	sqaruakam
+V;1;PL;IND;FUT	do të abuzojmë	V;3;SG;SBJV;PRS	të abuzojë
+V;2;SG;OPT;PRF	paç shtypur	V;3;SG;IND;FUT	do të shtypë
+V;2;PL;ADM;PRF;PRF	qenkëshit zgjuar	V;2;PL;IND;PRF;FUT	do të jeni zgjuar
+V;3;SG;COND;PRF	do të kishte gënjyer	V;3;SG;IND;PRF;PST	pati gënjyer
+V;1;SG;ADM;PRF;PST	paskësha lëshuar	V;3;SG;IND;PRF;PST	pati lëshuar
+V;2;PL;IND;PST	propozuat	V;1;PL;IND;PRF	kemi propozuar
+V;1;SG;SBJV;PRS	të dërgoj	V;3;PL;COND;PRF	do të kishin dërguar
+V;2;PL;SBJV;PRF	të keni dërguar	V;1;PL;COND;PRF	do të kishim dërguar
+V;1;PL;ADM;IPFV	propozuakëshim	V;2;SG;IND;IPFV	propozoje
+V;2;PL;COND;PRS	do të krahasonit	V;1;SG;IND;FUT	do të krahasoj
+V;1;SG;COND;PRS	do të shtypja	V;2;PL;SBJV;PRF;PRF	të kishit shtypur
+V;1;SG;SBJV;PRF;PST	të kisha ngritur	V;3;SG;ADM;PRF	paska ngritur
+V;V.PTCP;PST	duke pasë degjuar	V;3;PL;OPT;PRF	paçin degjuar
+V;3;SG;IND;PRF;FUT	do të ketë ngritur	V;2;PL;COND;PRS	do të ngrinit
+V;1;PL;COND;PRS	do të gënjenim	V;2;SG;SBJV;PST	të gënjeje
+V;3;PL;ADM;PRF	paskan ngritur	V;2;PL;SBJV;PST	të ngrinit
+V;1;SG;IND;PST	propozova	V;3;SG;IND;PRF;FUT	do të ketë propozuar
+V;3;PL;IND;IPFV	asnjanësonin	V;3;PL;COND;PRF	do të kishin asnjanësuar
+V;1;PL;IND;FUT	do të propozojmë	V;1;PL;SBJV;PRF;PST	të kishim propozuar
+V;2;SG;IND;IPFV	bëje	V;1;SG;OPT;PRF	paça bërë
+V;3;SG;IND;PST	lëshoi	V;1;PL;OPT;PRS	lëshofshim
+V;3;SG;COND;PRS	do të bashkëpunonte	V;1;PL;IND;PRF;FUT	do të kemi bashkëpunuar
+V;2;SG;IND;IPFV	krahasoje	V;3;SG;OPT;PRF	pastë krahasuar
+V;2;PL;IND;PRF;PRF	patët shtypur	V;2;SG;COND;PRF	do të kishe shtypur
+V;3;PL;SBJV;PRF;PST	të kishin propozuar	V;3;PL;IND;FUT	do të propozojnë
+V;1;SG;IND;PRF;FUT	do të kem degjuar	V;3;SG;IND;PRS	degjon
+V;2;SG;SBJV;PRF;PST	të kishe propozuar	V;3;SG;OPT;PRS	propozoftë
+V;3;PL;SBJV;PST	të dërgonin	V;2;PL;OPT;PRS	dërgofshit
+V;2;PL;IND;IPFV	abuzonit	V;2;SG;IND;FUT	do të abuzosh
+V;3;PL;ADM;PRF;PST	qenkëshin zgjuar	V;1;SG;IND;PRF;PST	isha zgjuar
+V;1;SG;IND;PRF	kam krahasuar	V;2;PL;OPT;PRF	paçit krahasuar
+V;1;SG;COND;PRF	do të kisha pshurrur	V;3;SG;OPT;PRS	pshurrtë
+V;1;SG;IND;PRF;FUT	do të kem copëtuar	V;3;SG;IND;PRF	ka copëtuar
+V;3;PL;SBJV;PRF	të kenë dërguar	V;2;PL;COND;PRS	do të dërgonit
+V;1;SG;IND;PST	propozova	V;2;SG;ADM;IPFV	propozuakëshe
+V;2;SG;IND;PRF	ke degjuar	V;1;SG;SBJV;PRF;PST	të kisha degjuar
+V;1;PL;SBJV;PST	të grumbullonim	V;1;PL;COND;PRS	do të grumbullonim
+V;1;SG;SBJV;PRS	të dërgoj	V;2;SG;IND;PRS	dërgon
+V;2;PL;ADM;PRF;PRF	paskëshit sqaruar	V;1;SG;COND;PRS	do të sqaroja
+V;2;SG;IND;PRF	ke ngritur	V;2;SG;IND;PST	ngrite
+V;1;SG;IND;PRF;FUT	do të kem dërguar	V;2;PL;SBJV;PRF;PRF	të kishit dërguar
+V;2;SG;IND;PRF;FUT	do të kesh plaguar	V;2;PL;IND;PST	plaguat
+V;3;PL;IND;PST	armatosën	V;2;PL;IND;IPFV	armatosnit
+V;2;SG;IMP	dërgo	V;2;SG;IND;PRS	dërgon
+V;2;SG;ADM;IPFV	u zgjuakëshe	V;3;PL;SBJV;PRF	të jenë zgjuar
+V;2;PL;IND;PRF;FUT	do të keni degjuar	V;2;PL;ADM;IPFV	degjuakëshit
+V;1;SG;IND;PRS	shtyp	V;2;SG;IMP	shtyp
+V;2;SG;ADM;PRS	bashkëpunuake	V;3;SG;ADM;PRF;PST	paskësh bashkëpunuar
+V;3;PL;IND;PRF	kanë degjuar	V;2;SG;COND;PRS	do të degjoje
+V;2;SG;IND;PST	shtype	V;3;SG;COND;PRS	do të shtypte
+V;2;SG;ADM;PRF	paske krahasuar	V;2;SG;IND;PRS	krahason
+V;1;SG;OPT;PRF	paça asnjanësuar	V;2;PL;ADM;IPFV	asnjanësuakëshit
+V;3;PL;IND;PST	abuzuan	V;1;SG;IND;PRF;FUT	do të kem abuzuar
+V;1;SG;ADM;PRF	paskam grumbulluar	V;2;SG;IND;PRF;FUT	do të kesh grumbulluar
+V;2;PL;SBJV;PRF	të keni abuzuar	V;2;PL;ADM;PRF;PRF	paskëshit abuzuar
+V;3;SG;IND;PRS	abuzon	V;2;PL;ADM;PRS	abuzuakeni
+V;1;SG;OPT;PRF	paça ngritur	V;1;PL;IND;PRF	kemi ngritur
+V;1;SG;IND;PRS	pshurr	V;2;SG;IND;PRF;FUT	do të kesh pshurrur
+V;3;PL;IND;PRF;PST	patën degjuar	V;1;PL;IND;PRS	degjojmë
+V;2;PL;ADM;IPFV	bashkëpunuakëshit	V;1;SG;COND;PRS	do të bashkëpunoja
+V;1;PL;ADM;PRS	sqaruakemi	V;2;PL;IND;FUT	do të sqaroni
+V;3;PL;COND;PRF	do të kishin krahasuar	V;3;PL;IND;PST	krahasuan
+V;2;PL;SBJV;PRF;PRF	të kishit krahasuar	V;2;SG;IND;PRF;FUT	do të kesh krahasuar
+V;3;PL;IND;PRS	ngrenë	V;2;PL;IND;FUT	do të ngrini
+V;V.PTCP;PST	duke pasë copëtuar	V;1;PL;IND;PRF;PST	patëm copëtuar
+V;2;PL;ADM;PRF;PRF	paskëshit lëshuar	V;1;SG;IND;PST	lëshova
+V;2;PL;IND;PST	abuzuat	V;3;SG;IND;FUT	do të abuzojë
+V;3;SG;OPT;PRF	pastë bërë	V;2;PL;COND;PRS	do të bënit
+V;3;SG;ADM;PRS	shtypka	V;3;SG;ADM;IPFV	shtypkësh
+V;1;SG;IND;PRF;FUT	do të kem lëshuar	V;3;SG;ADM;IPFV	lëshuakësh
+V;1;PL;IND;PRF;FUT	do të kemi ndërlikuar	V;3;PL;ADM;IPFV	ndërlikuakëshin
+V;1;PL;IND;PRF;FUT	do të kemi grumbulluar	V;3;PL;OPT;PRS	grumbullofshin
+V;1;SG;OPT;PRS	pshurrsha	V;3;PL;IND;PRF	kanë pshurrur
+V;2;SG;IND;PRF	ke ndërlikuar	V;1;SG;IND;PRF;FUT	do të kem ndërlikuar
+V;3;SG;ADM;PRS	copëtuaka	V;2;SG;SBJV;PST	të copëtoje
+V;3;SG;SBJV;PST	të shtypte	V;2;PL;SBJV;PRF;PRF	të kishit shtypur
+V;1;SG;IND;PRS	bëj	V;1;SG;COND;PRS	do të bëja
+V;1;PL;OPT;PRS	u zgjofshim	V;2;SG;IND;FUT	do të zgjohesh
+V;1;SG;SBJV;PRF;PST	të kisha lëshuar	V;V.PTCP	lëshuar
+V;2;PL;ADM;IPFV	pshurrkëshit	V;3;PL;SBJV;PRS	të pshurrin
+V;3;PL;ADM;IPFV	shtypkëshin	V;2;PL;IND;PRF	keni shtypur
+V;3;PL;ADM;PRF	paskan dërguar	V;3;SG;IND;PRF;FUT	do të ketë dërguar
+V;1;PL;IND;IPFV	besonim	V;3;PL;ADM;PRF;PST	paskëshin besuar
+V;1;SG;IND;PRF;PST	pata lidhur	V;2;SG;IND;PRS	lidh
+V;2;PL;COND;PRS	do të bashkëpunonit	V;3;PL;COND;PRF	do të kishin bashkëpunuar
+V;1;SG;ADM;PRF	paskam pshurrur	V;V.PTCP;PRS	duke pshurrur
+V;1;PL;COND;PRF	do të kishim ngritur	V;1;SG;IND;PRF	kam ngritur
+V;3;PL;OPT;PRF	paçin lëshuar	V;2;SG;OPT;PRF	paç lëshuar
+V;2;PL;IND;PST	grumbulluat	V;1;PL;ADM;PRS	grumbulluakemi
+V;1;SG;IND;PRF;FUT	do të kem ndërlikuar	V;1;PL;IND;PRS	ndërlikojmë
+V;1;SG;SBJV;PRF;PST	të kisha ndërlikuar	V;3;PL;ADM;PRF;PST	paskëshin ndërlikuar
+V;3;SG;IND;PRF;PST	pati shtypur	V;2;PL;SBJV;PST	të shtypnit
+V;3;SG;ADM;PRF	paska abuzuar	V;2;PL;IMP	abuzoni
+V;2;SG;SBJV;PST	të degjoje	V;1;PL;IND;FUT	do të degjojmë
+V;3;PL;ADM;PRS	shtypkan	V;1;SG;IND;PRF	kam shtypur
+V;2;SG;IND;IPFV	ndërlikoje	V;1;PL;IND;PST	ndërlikuam
+V;3;PL;SBJV;PRS	të shtypin	V;1;SG;COND;PRS	do të shtypja
+V;2;PL;IMP	grumbulloni	V;2;SG;ADM;PRS	grumbulluake
+V;1;PL;ADM;PRF;PST	paskëshim degjuar	V;2;SG;OPT;PRS	degjofsh
+V;1;SG;SBJV;PRF;PST	të kisha bashkëpunuar	V;3;SG;ADM;PRF;PST	paskësh bashkëpunuar
+V;2;SG;SBJV;PRF;PST	të kishe ngritur	V;1;PL;SBJV;PST	të ngrinim
+V;2;PL;OPT;PRS	pshurrshit	V;2;PL;IMP	pshurrni
+V;2;SG;IND;PST	pshurre	V;2;SG;IND;FUT	do të pshurrësh
+V;3;SG;COND;PRF	do të kishte plaguar	V;3;PL;IND;PRF	kanë plaguar
+V;3;PL;ADM;PRF;PST	qenkëshin zgjuar	V;2;PL;ADM;PRF;PRF	qenkëshit zgjuar
+V;3;SG;SBJV;PST	të bashkëpunonte	V;1;PL;IND;PRF	kemi bashkëpunuar
+V;2;SG;IND;PRS	krahason	V;1;PL;SBJV;PRF;PST	të kishim krahasuar
+V;2;SG;ADM;PRF	paske degjuar	V;1;SG;COND;PRS	do të degjoja
+V;2;SG;SBJV;PST	të degjoje	V;3;SG;IND;PRF;FUT	do të ketë degjuar
+V;2;PL;SBJV;PRF;PRF	të kishit grumbulluar	V;2;SG;ADM;IPFV	grumbulluakëshe
+V;3;SG;SBJV;PST	të asnjanësonte	V;1;PL;SBJV;PRF	të kemi asnjanësuar
+V;1;SG;ADM;PRS	asnjanësuakam	V;3;SG;ADM;IPFV	asnjanësuakësh
+V;2;PL;IND;PST	lëshuat	V;1;SG;COND;PRF	do të kisha lëshuar
+V;3;SG;SBJV;PRF	të ketë dërguar	V;3;SG;SBJV;PRS	të dërgojë
+V;2;SG;IND;PRF;FUT	do të kesh degjuar	V;V.PTCP;PST	duke pasë degjuar
+V;1;SG;ADM;IPFV	armatoskësha	V;3;SG;OPT;PRS	armatostë
+V;NFIN	për të dërguar	V;V.PTCP;PST	duke pasë dërguar
+V;V.PTCP;PST	duke pasë krahasuar	V;2;SG;ADM;PRF	paske krahasuar
+V;2;PL;IND;PRS	propozoni	V;3;PL;COND;PRS	do të propozonin
+V;3;PL;IND;PRF	kanë lëshuar	V;3;SG;ADM;PRS	lëshuaka
+V;2;SG;IND;PRF;FUT	do të kesh shtypur	V;V.PTCP;PRS	duke shtypur
+V;1;SG;ADM;PRS	copëtuakam	V;2;SG;IND;PRF;FUT	do të kesh copëtuar
+V;2;SG;IND;PRF;FUT	do të kesh pshurrur	V;2;PL;COND;PRF	do të kishit pshurrur
+V;3;PL;IND;PRF;FUT	do të kenë propozuar	V;3;PL;IND;PRS	propozojnë
+V;1;PL;COND;PRS	do të copëtonim	V;2;SG;IND;PRF;PST	pate copëtuar
+V;3;SG;ADM;PRF	paska dërguar	V;1;SG;IND;PRF;FUT	do të kem dërguar
+V;2;SG;IND;PRS	asnjanëson	V;2;SG;ADM;PRS	asnjanësuake
+V;1;SG;OPT;PRF	paça armatosur	V;3;PL;IND;IPFV	armatosnin
+V;3;PL;IND;FUT	do të lëshojnë	V;2;SG;IND;PRS	lëshon
+V;3;SG;OPT;PRF	pastë asnjanësuar	V;1;PL;COND;PRS	do të asnjanësonim
+V;1;PL;ADM;PRF	paskemi dërguar	V;1;PL;IND;FUT	do të dërgojmë
+V;3;PL;IND;PRF;PST	patën gënjyer	V;1;PL;ADM;PRF	paskemi gënjyer
+V;2;PL;ADM;IPFV	ngritkëshit	V;1;SG;COND;PRF	do të kisha ngritur
+V;2;PL;IMP	bashkëpunoni	V;3;PL;ADM;IPFV	bashkëpunuakëshin
+V;2;PL;IND;PST	propozuat	V;1;PL;IND;PRF	kemi propozuar
+V;3;SG;SBJV;PRF;PST	të kishte lëshuar	V;3;SG;OPT;PRF	pastë lëshuar
+V;2;PL;SBJV;PRS	të asnjanësoni	V;1;SG;IND;PRF;PST	pata asnjanësuar
+V;3;PL;ADM;IPFV	grumbulluakëshin	V;2;PL;IND;PRF	keni grumbulluar
+V;1;PL;OPT;PRS	shikofshim	V;3;SG;ADM;PRS	shikuaka
+V;1;SG;SBJV;PRF	të kem bërë	V;3;SG;SBJV;PRF	të ketë bërë
+V;3;PL;IND;PRF;PST	patën ndërlikuar	V;3;PL;IND;PRF	kanë ndërlikuar
+V;3;PL;COND;PRS	do të shtypnin	V;3;SG;IND;FUT	do të shtypë
+V;3;PL;IND;PRS	sqarojnë	V;1;SG;SBJV;PRF;PST	të kisha sqaruar
+V;2;SG;COND;PRS	do të lidhje	V;2;SG;ADM;PRF	paske lidhur
+V;2;SG;OPT;PRS	armatossh	V;1;PL;COND;PRF	do të kishim armatosur
+V;3;SG;ADM;IPFV	krahasuakësh	V;2;PL;IND;FUT	do të krahasoni
+V;2;SG;ADM;PRS	copëtuake	V;2;PL;SBJV;PRF	të keni copëtuar
+V;2;PL;IND;PRF;PRF	patët lidhur	V;1;SG;ADM;PRF	paskam lidhur
+V;2;SG;COND;PRS	do të dërgoje	V;1;SG;IND;PRS	dërgoj
+V;1;PL;ADM;IPFV	degjuakëshim	V;NFIN	për të degjuar
+V;3;PL;ADM;PRS	plaguakan	V;1;PL;SBJV;PRF;PST	të kishim plaguar
+V;1;SG;COND;PRS	do të bëja	V;3;SG;IND;PRF;PST	pati bërë
+V;3;SG;IND;PRF	ka propozuar	V;2;PL;SBJV;PRS	të propozoni
+V;1;SG;COND;PRF	do të kisha bërë	V;2;SG;SBJV;PRF;PST	të kishe bërë
+V;3;PL;SBJV;PST	të gënjenin	V;1;SG;IND;PRF;PST	pata gënjyer
+V;2;PL;COND;PRS	do të besonit	V;2;PL;IND;PST	besuat
+V;1;SG;IND;PST	armatosa	V;2;SG;IND;IPFV	armatosje
+V;1;PL;ADM;IPFV	armatoskëshim	V;3;PL;SBJV;PRF;PST	të kishin armatosur
+V;3;SG;IND;IPFV	sqaronte	V;2;SG;IND;PRS	sqaron
+V;3;SG;SBJV;PRS	të besojë	V;2;SG;IND;IPFV	besoje
+V;3;PL;IND;PRF;FUT	do të kenë shikuar	V;2;PL;COND;PRF	do të kishit shikuar
+V;3;SG;IND;PRF;PST	pati lidhur	V;2;PL;ADM;PRF	paskeni lidhur
+V;3;SG;IND;IPFV	bashkëpunonte	V;2;PL;IND;PRF	keni bashkëpunuar
+V;3;SG;SBJV;PRF	të ketë asnjanësuar	V;1;PL;SBJV;PRF	të kemi asnjanësuar
+V;2;SG;COND;PRS	do të copëtoje	V;3;SG;ADM;PRF;PST	paskësh copëtuar
+V;2;SG;ADM;PRS	abuzuake	V;2;SG;ADM;PRF	paske abuzuar
+V;1;SG;IND;IPFV	grumbulloja	V;3;PL;IND;PRS	grumbullojnë
+V;3;PL;IND;PRF	kanë shtypur	V;1;SG;OPT;PRF	paça shtypur
+V;2;SG;COND;PRF	do të kishe asnjanësuar	V;3;PL;OPT;PRF	paçin asnjanësuar
+V;1;SG;SBJV;PRF;PST	të kisha dërguar	V;2;SG;SBJV;PRS	të dërgosh
+V;1;SG;IND;PRF;PST	pata lëshuar	V;3;PL;IND;FUT	do të lëshojnë
+V;2;SG;ADM;PRF;PST	paskëshe pshurrur	V;3;PL;IND;PST	pshurrën
+V;1;SG;IND;PRF	kam ndërlikuar	V;2;PL;COND;PRS	do të ndërlikonit
+V;3;SG;ADM;PRS	propozuaka	V;2;SG;COND;PRS	do të propozoje
+V;1;SG;SBJV;PRF;PST	të kisha krahasuar	V;2;PL;SBJV;PRF	të keni krahasuar
+V;1;PL;SBJV;PRS	të degjojmë	V;2;SG;SBJV;PRS	të degjosh
+V;3;PL;OPT;PRS	grumbullofshin	V;1;PL;IND;PRF;FUT	do të kemi grumbulluar
+V;3;PL;COND;PRS	do të bashkëpunonin	V;2;PL;COND;PRS	do të bashkëpunonit
+V;3;SG;IND;IPFV	propozonte	V;3;PL;SBJV;PRS	të propozojnë
+V;3;SG;IND;PRF;PST	pati pshurrur	V;1;PL;IND;PRF;PST	patëm pshurrur
+V;3;PL;COND;PRF	do të ishin zgjuar	V;2;PL;IND;IPFV	zgjoheshit
+V;3;PL;COND;PRF	do të kishin gënjyer	V;3;PL;IND;IPFV	gënjenin
+V;1;SG;ADM;IPFV	ndërlikuakësha	V;1;PL;ADM;PRS	ndërlikuakemi
+V;2;PL;ADM;PRF	paskeni pshurrur	V;1;PL;COND;PRF	do të kishim pshurrur
+V;2;PL;ADM;IPFV	krahasuakëshit	V;3;SG;SBJV;PRF;PST	të kishte krahasuar
+V;1;SG;IND;PRF;FUT	do të kem copëtuar	V;2;PL;IND;PRF;FUT	do të keni copëtuar
+V;1;PL;OPT;PRS	shtypshim	V;1;SG;OPT;PRS	shtypsha
+V;3;PL;OPT;PRF	qofshin zgjuar	V;3;PL;SBJV;PRF	të jenë zgjuar
+V;3;SG;ADM;PRF;PST	paskësh armatosur	V;3;PL;SBJV;PRS	të armatosin
+V;3;PL;SBJV;PRF;PST	të kishin plaguar	V;2;PL;ADM;PRF	paskeni plaguar
+V;3;SG;IND;PRS	asnjanëson	V;2;PL;ADM;PRF;PRF	paskëshit asnjanësuar
+V;3;PL;SBJV;PRF;PST	të kishin sqaruar	V;1;SG;SBJV;PRS	të sqaroj
+V;2;PL;SBJV;PST	të propozonit	V;3;PL;OPT;PRS	propozofshin
+V;1;SG;SBJV;PRS	të bashkëpunoj	V;1;SG;ADM;PRF;PST	paskësha bashkëpunuar
+V;2;PL;ADM;IPFV	besuakëshit	V;1;SG;OPT;PRF	paça besuar
+V;2;SG;COND;PRF	do të kishe besuar	V;3;PL;OPT;PRF	paçin besuar
+V;2;SG;ADM;PRF	paske armatosur	V;3;SG;COND;PRS	do të armatoste
+V;1;PL;ADM;PRF	paskemi gënjyer	V;2;SG;ADM;PRF	paske gënjyer
+V;1;PL;ADM;IPFV	ngritkëshim	V;1;PL;IND;PRS	ngremë
+V;3;SG;IND;FUT	do të zgjohet	V;2;SG;SBJV;PRS	të zgjohesh
+V;3;PL;IND;PST	lidhën	V;3;SG;SBJV;PRF	të ketë lidhur
+V;1;SG;IND;PRS	gënjej	V;3;SG;IND;PRF;FUT	do të ketë gënjyer
+V;2;PL;COND;PRS	do të abuzonit	V;1;PL;IND;FUT	do të abuzojmë
+V;2;SG;SBJV;PRS	të copëtosh	V;1;PL;OPT;PRF	paçim copëtuar
+V;1;SG;IND;PST	grumbullova	V;2;SG;SBJV;PRF	të kesh grumbulluar
+V;3;PL;IND;PRF;FUT	do të kenë ngritur	V;3;PL;OPT;PRF	paçin ngritur
+V;1;SG;OPT;PRS	asnjanësofsha	V;2;SG;SBJV;PRS	të asnjanësosh
+V;2;SG;OPT;PRF	qofsh zgjuar	V;2;PL;IND;PRS	zgjoheni
+V;1;SG;COND;PRS	do të abuzoja	V;3;PL;COND;PRF	do të kishin abuzuar
+V;2;SG;ADM;IPFV	abuzuakëshe	V;3;SG;IND;PRF;FUT	do të ketë abuzuar
+V;1;SG;ADM;PRF;PST	paskësha sqaruar	V;1;PL;ADM;IPFV	sqaruakëshim
+V;2;SG;IND;IPFV	dërgoje	V;1;PL;ADM;PRS	dërguakemi
+V;1;PL;IND;PRS	propozojmë	V;1;SG;ADM;PRS	propozuakam
+V;3;SG;SBJV;PRS	të ndërlikojë	V;2;SG;IND;PRS	ndërlikon
+V;3;SG;ADM;PRF	paska bërë	V;2;SG;IND;PRF;FUT	do të kesh bërë
+V;2;SG;SBJV;PST	të lëshoje	V;1;SG;SBJV;PST	të lëshoja
+V;2;SG;IND;PRF	ke lëshuar	V;2;PL;ADM;IPFV	lëshuakëshit
+V;1;SG;IND;FUT	do të ndërlikoj	V;1;PL;IND;PST	ndërlikuam
+V;2;SG;IND;IPFV	sqaroje	V;1;SG;IND;PRF	kam sqaruar
+V;2;PL;SBJV;PRF;PRF	të kishit sqaruar	V;1;PL;SBJV;PST	të sqaronim
+V;3;PL;IND;PRF;FUT	do të kenë pshurrur	V;1;PL;COND;PRF	do të kishim pshurrur
+V;3;SG;IND;PRF;FUT	do të ketë grumbulluar	V;2;PL;SBJV;PRS	të grumbulloni
+V;3;SG;IND;IPFV	armatoste	V;2;SG;COND;PRF	do të kishe armatosur
+V;3;PL;IND;PRF;PST	patën bashkëpunuar	V;3;PL;SBJV;PST	të bashkëpunonin
+V;3;SG;IND;PRF;PST	pati shikuar	V;2;PL;COND;PRS	do të shikonit
+V;3;PL;OPT;PRS	armatosshin	V;3;PL;IND;PRS	armatosin
+V;2;SG;SBJV;PST	të armatosje	V;3;PL;OPT;PRF	paçin armatosur
+V;2;PL;IND;PRF;FUT	do të keni copëtuar	V;V.PTCP;PST	duke pasë copëtuar
+V;1;SG;IND;PRF;PST	pata gënjyer	V;1;SG;SBJV;PRF	të kem gënjyer
+V;3;SG;OPT;PRF	pastë armatosur	V;3;PL;SBJV;PRS	të armatosin
+V;1;SG;OPT;PRS	bëfsha	V;3;SG;ADM;IPFV	bëkësh
+V;3;SG;IND;PRF	ka degjuar	V;1;SG;IND;FUT	do të degjoj
+V;1;PL;COND;PRS	do të copëtonim	V;3;PL;IND;PRF;PST	patën copëtuar
+V;3;SG;SBJV;PRF	të ketë plaguar	V;1;SG;SBJV;PRS	të plagoj
+V;3;PL;IND;PRF;PST	patën lëshuar	V;1;PL;IND;IPFV	lëshonim
+V;3;SG;COND;PRF	do të kishte dërguar	V;1;PL;SBJV;PRF	të kemi dërguar
+V;3;SG;COND;PRS	do të copëtonte	V;2;SG;OPT;PRS	copëtofsh
+V;2;SG;SBJV;PST	të krahasoje	V;2;PL;IND;FUT	do të krahasoni
+V;1;PL;OPT;PRS	besofshim	V;2;SG;OPT;PRS	besofsh
+V;2;SG;SBJV;PRF	të kesh plaguar	V;2;PL;IND;PRS	plagoni
+V;1;SG;IND;IPFV	shikoja	V;3;PL;SBJV;PRF	të kenë shikuar
+V;3;PL;ADM;PRF;PST	paskëshin gënjyer	V;2;SG;IMP	gënje
+V;1;PL;IND;PRF;PST	patëm lidhur	V;1;SG;IND;PRS	lidh
+V;NFIN	për të grumbulluar	V;1;SG;ADM;PRF;PST	paskësha grumbulluar
+V;3;PL;ADM;PRF;PST	paskëshin abuzuar	V;2;SG;IND;PST	abuzove
+V;3;SG;IND;PRF;PST	ishte zgjuar	V;2;PL;IND;IPFV	zgjoheshit
+V;3;PL;ADM;PRF;PST	paskëshin shikuar	V;3;SG;ADM;IPFV	shikuakësh
+V;2;SG;SBJV;PRF;PST	të kishe besuar	V;1;PL;ADM;PRF	paskemi besuar
+V;2;PL;IND;PRF	keni besuar	V;1;SG;IND;PRF;PST	pata besuar
+V;3;PL;COND;PRS	do të propozonin	V;2;SG;SBJV;PRS	të propozosh
+V;2;SG;SBJV;PRF	të kesh sqaruar	V;NFIN	për të sqaruar
+V;3;SG;COND;PRS	do të shikonte	V;1;PL;SBJV;PRF;PST	të kishim shikuar
+V;2;PL;ADM;PRF	paskeni plaguar	V;1;PL;SBJV;PRF;PST	të kishim plaguar
+V;3;SG;COND;PRS	do të sqaronte	V;2;PL;ADM;IPFV	sqaruakëshit
+V;3;SG;ADM;PRF	paska plaguar	V;3;PL;IND;PRF;PST	patën plaguar
+V;2;PL;IND;PRS	propozoni	V;2;PL;SBJV;PRF;PRF	të kishit propozuar
+V;2;PL;IND;PRS	zgjoheni	V;2;SG;SBJV;PST	të zgjoheshe
+V;3;SG;OPT;PRF	pastë propozuar	V;1;PL;IND;FUT	do të propozojmë
+V;1;SG;ADM;PRF;PST	paskësha ngritur	V;1;SG;SBJV;PST	të ngrija
+V;1;PL;SBJV;PST	të propozonim	V;2;PL;ADM;PRF	paskeni propozuar
+V;3;SG;OPT;PRS	plagoftë	V;2;SG;SBJV;PRS	të plagosh
+V;V.PTCP;PRS	duke bërë	V;3;PL;ADM;IPFV	bëkëshin
+V;1;PL;IND;FUT	do të pshurrim	V;2;SG;SBJV;PRF;PST	të kishe pshurrur
+V;3;PL;IND;FUT	do të ndërlikojnë	V;2;PL;ADM;PRS	ndërlikuakeni
+V;1;SG;OPT;PRS	sqarofsha	V;2;SG;SBJV;PST	të sqaroje
+V;1;PL;IND;IPFV	degjonim	V;1;PL;OPT;PRF	paçim degjuar
+V;3;SG;COND;PRF	do të kishte shtypur	V;2;SG;COND;PRF	do të kishe shtypur
+V;3;PL;ADM;PRF	paskan abuzuar	V;2;PL;IND;PRF;PRF	patët abuzuar
+V;1;PL;ADM;PRS	krahasuakemi	V;1;PL;IND;PRF;PST	patëm krahasuar
+V;2;SG;SBJV;PRF	të kesh asnjanësuar	V;3;PL;OPT;PRF	paçin asnjanësuar
+V;3;SG;OPT;PRS	propozoftë	V;3;PL;OPT;PRF	paçin propozuar
+V;3;PL;IND;PST	ngritën	V;3;PL;ADM;PRS	ngritkan
+V;1;PL;COND;PRS	do të abuzonim	V;2;SG;IND;PRF;FUT	do të kesh abuzuar
+V;3;SG;SBJV;PRF	të ketë plaguar	V;3;SG;IND;PRF;FUT	do të ketë plaguar
+V;1;SG;SBJV;PST	të grumbulloja	V;1;PL;IND;PRF;PST	patëm grumbulluar
+V;2;PL;IND;PRS	sqaroni	V;2;PL;IND;FUT	do të sqaroni
+V;1;PL;IND;PRF;FUT	do të kemi degjuar	V;1;SG;IND;PRS	degjoj
+V;2;SG;SBJV;PST	të shtypje	V;2;PL;COND;PRS	do të shtypnit
+V;3;PL;IND;FUT	do të krahasojnë	V;1;SG;IND;PRF	kam krahasuar
+V;V.PTCP;PRS	duke shtypur	V;1;PL;OPT;PRF	paçim shtypur
+V;1;PL;ADM;PRS	lidhkemi	V;1;SG;SBJV;PST	të lidhja
+V;1;PL;IND;IPFV	sqaronim	V;3;SG;ADM;PRF;PST	paskësh sqaruar
+V;1;SG;SBJV;PRS	të lidh	V;1;PL;IND;PRF;PST	patëm lidhur
+V;2;SG;SBJV;PRS	të lëshosh	V;2;SG;COND;PRS	do të lëshoje
+V;3;PL;IND;PRF;PST	patën lëshuar	V;3;SG;IND;IPFV	lëshonte
+V;1;PL;SBJV;PST	të besonim	V;3;SG;COND;PRF	do të kishte besuar
+V;2;PL;IND;PRF	keni ngritur	V;2;SG;COND;PRS	do të ngrije
+V;1;PL;IND;PRS	bëjmë	V;1;SG;OPT;PRF	paça bërë
+V;2;PL;IND;PRS	pshurrni	V;3;SG;COND;PRS	do të pshurrte
+V;1;PL;IND;PRF;PST	patëm besuar	V;1;SG;COND;PRS	do të besoja
+V;2;SG;IND;FUT	do të shtypësh	V;2;PL;SBJV;PST	të shtypnit
+V;3;PL;COND;PRF	do të ishin zgjuar	V;2;SG;IMP	zgjohu
+V;1;PL;IND;PRF;FUT	do të kemi ndërlikuar	V;2;SG;IND;PRS	ndërlikon
+V;2;PL;IND;PRF;PRF	patët besuar	V;3;SG;IND;PRS	beson
+V;2;PL;OPT;PRS	lidhshit	V;2;SG;IND;IPFV	lidhje
+V;1;PL;IND;IPFV	besonim	V;NFIN	për të besuar
+V;1;SG;ADM;PRF;PST	qenkësha zgjuar	V;1;SG;ADM;IPFV	u zgjuakësha
+V;2;SG;SBJV;PRS	të shikosh	V;1;SG;SBJV;PST	të shikoja
+V;1;SG;IND;PRS	bëj	V;3;PL;ADM;IPFV	bëkëshin
+V;1;PL;COND;PRS	do të shikonim	V;3;SG;OPT;PRF	pastë shikuar
+V;2;PL;ADM;PRF;PRF	paskëshit besuar	V;3;PL;OPT;PRF	paçin besuar
+V;2;PL;SBJV;PRF;PRF	të kishit ndërlikuar	V;1;SG;SBJV;PRF;PST	të kisha ndërlikuar
+V;1;SG;SBJV;PRF	të kem besuar	V;NFIN	për të besuar
+V;1;PL;OPT;PRF	paçim sqaruar	V;2;SG;IND;PST	sqarove
+V;3;PL;IND;PRS	gënjejnë	V;3;SG;IND;PRF	ka gënjyer
+V;3;SG;SBJV;PRF;PST	të kishte ndërlikuar	V;1;SG;OPT;PRS	ndërlikofsha
+V;2;SG;ADM;PRF	paske ngritur	V;2;PL;OPT;PRF	paçit ngritur
+V;3;PL;SBJV;PRS	të ndërlikojnë	V;1;SG;IND;FUT	do të ndërlikoj
+V;1;PL;SBJV;PRS	të copëtojmë	V;2;PL;OPT;PRF	paçit copëtuar
+V;1;PL;COND;PRS	do të asnjanësonim	V;1;SG;COND;PRS	do të asnjanësoja
+V;3;SG;IND;IPFV	sqaronte	V;3;SG;ADM;PRF	paska sqaruar
+V;2;PL;COND;PRF	do të kishit bërë	V;1;PL;IND;PRF	kemi bërë
+V;1;SG;SBJV;PST	të lëshoja	V;3;PL;ADM;PRS	lëshuakan
+V;2;PL;ADM;PRS	bashkëpunuakeni	V;2;SG;IND;PRF	ke bashkëpunuar
+V;3;PL;IND;FUT	do të armatosin	V;3;PL;ADM;PRS	armatoskan
+V;3;PL;IND;IPFV	bashkëpunonin	V;2;PL;SBJV;PRF	të keni bashkëpunuar
+V;3;PL;ADM;IPFV	dërguakëshin	V;2;SG;SBJV;PRF	të kesh dërguar
+V;1;PL;IND;IPFV	krahasonim	V;1;PL;ADM;IPFV	krahasuakëshim
+V;2;SG;SBJV;PRF;PST	të kishe gënjyer	V;2;SG;IND;PRS	gënjen
+V;2;PL;SBJV;PRF	të keni shtypur	V;1;SG;IND;PST	shtypa
+V;1;SG;IND;PRF;FUT	do të kem armatosur	V;1;SG;IND;PRF	kam armatosur
+V;3;SG;OPT;PRF	pastë abuzuar	V;1;PL;SBJV;PST	të abuzonim
+V;3;SG;IND;FUT	do të lëshojë	V;1;SG;ADM;PRS	lëshuakam
+V;1;SG;SBJV;PRF;PST	të kisha shikuar	V;3;SG;ADM;PRF;PST	paskësh shikuar
+V;3;SG;SBJV;PRF	të ketë shtypur	V;2;PL;IND;PRF	keni shtypur
+V;2;PL;IND;PRF	keni armatosur	V;2;PL;IND;IPFV	armatosnit
+V;2;SG;IND;PST	plagove	V;3;PL;ADM;PRS	plaguakan
+V;V.PTCP	copëtuar	V;V.PTCP;PRS	duke copëtuar
+V;2;SG;IND;PST	krahasove	V;2;SG;IND;PRF;FUT	do të kesh krahasuar
+V;2;PL;OPT;PRS	krahasofshit	V;1;SG;COND;PRF	do të kisha krahasuar
+V;2;PL;ADM;IPFV	lidhkëshit	V;2;PL;ADM;PRS	lidhkeni
+V;3;PL;SBJV;PRF	të kenë propozuar	V;3;PL;ADM;PRS	propozuakan
+V;1;PL;ADM;PRS	besuakemi	V;2;SG;COND;PRF	do të kishe besuar
+V;1;SG;COND;PRF	do të kisha bashkëpunuar	V;1;SG;SBJV;PRF;PST	të kisha bashkëpunuar
+V;2;SG;IND;IPFV	plagoje	V;V.PTCP;PRS	duke plaguar
+V;2;PL;COND;PRF	do të kishit krahasuar	V;2;SG;ADM;PRS	krahasuake
+V;2;SG;SBJV;PRS	të lëshosh	V;1;PL;IND;FUT	do të lëshojmë
+V;3;SG;ADM;PRF;PST	paskësh besuar	V;2;PL;IND;PRF;FUT	do të keni besuar
+V;3;PL;IND;PRF;FUT	do të kenë ndërlikuar	V;1;PL;OPT;PRF	paçim ndërlikuar
+V;1;PL;IND;FUT	do të lidhim	V;1;PL;IND;PRF;PST	patëm lidhur
+V;3;SG;COND;PRS	do të grumbullonte	V;1;PL;ADM;IPFV	grumbulluakëshim
+V;3;SG;OPT;PRS	sqaroftë	V;1;SG;IND;FUT	do të sqaroj
+V;2;SG;IND;PRF;PST	pate gënjyer	V;1;SG;IND;FUT	do të gënjej
+V;1;PL;IND;PRF	kemi degjuar	V;3;SG;OPT;PRF	pastë degjuar
+V;1;PL;ADM;PRF;PST	paskëshim bërë	V;1;PL;OPT;PRS	bëfshim
+V;3;SG;IND;PST	lidhi	V;2;SG;COND;PRF	do të kishe lidhur
+V;2;SG;ADM;PRF;PST	paskëshe gënjyer	V;2;PL;IND;PRF;PRF	patët gënjyer
+V;3;PL;ADM;PRS	u zgjuakan	V;2;PL;IND;PRS	zgjoheni
+V;2;PL;IND;PRF;FUT	do të keni bërë	V;1;SG;IND;PRF;PST	pata bërë
+V;1;PL;OPT;PRS	abuzofshim	V;2;PL;IND;PRF	keni abuzuar
+V;2;PL;IMP	lëshoni	V;3;PL;ADM;PRF;PST	paskëshin lëshuar
+V;3;SG;COND;PRF	do të kishte krahasuar	V;3;PL;SBJV;PST	të krahasonin
+V;3;PL;SBJV;PRS	të bëjnë	V;1;PL;IND;PRS	bëjmë
+V;3;PL;ADM;PRF;PST	paskëshin plaguar	V;1;SG;IND;PRS	plagoj
+V;2;PL;IND;FUT	do të ndërlikoni	V;2;SG;ADM;PRS	ndërlikuake
+V;1;PL;SBJV;PRS	të shikojmë	V;3;SG;COND;PRF	do të kishte shikuar
+V;1;SG;ADM;PRS	copëtuakam	V;2;PL;IND;PRS	copëtoni
+V;2;PL;ADM;PRF;PRF	qenkëshit zgjuar	V;3;PL;IND;PRF	janë zgjuar
+V;2;SG;SBJV;PRF;PST	të ishe zgjuar	V;2;SG;IND;FUT	do të zgjohesh
+V;3;SG;OPT;PRF	pastë ndërlikuar	V;2;PL;SBJV;PRS	të ndërlikoni
+V;3;PL;SBJV;PST	të gënjenin	V;3;PL;COND;PRS	do të gënjenin
+V;1;SG;SBJV;PRS	të plagoj	V;2;PL;COND;PRS	do të plagonit
+V;3;SG;COND;PRF	do të kishte degjuar	V;3;SG;OPT;PRF	pastë degjuar
+V;2;SG;IND;PRS	gënjen	V;2;PL;IND;FUT	do të gënjeni
+V;2;PL;ADM;IPFV	pshurrkëshit	V;2;PL;IND;PRF	keni pshurrur
+V;2;SG;IND;PST	gënjeve	V;1;SG;ADM;PRF	paskam gënjyer
+V;3;SG;OPT;PRS	bëftë	V;3;SG;IND;PRF;PST	pati bërë
+V;3;PL;COND;PRS	do të lëshonin	V;2;SG;COND;PRF	do të kishe lëshuar
+V;3;PL;SBJV;PRS	të ndërlikojnë	V;2;PL;SBJV;PRF	të keni ndërlikuar
+V;2;PL;SBJV;PRS	të copëtoni	V;1;SG;IND;PRF;PST	pata copëtuar
+V;2;SG;COND;PRS	do të bashkëpunoje	V;1;SG;ADM;PRF;PST	paskësha bashkëpunuar
+V;3;SG;IND;PRF	ka degjuar	V;1;SG;IND;PRF;PST	pata degjuar
+V;1;PL;OPT;PRF	paçim lidhur	V;2;SG;SBJV;PRF	të kesh lidhur
+V;2;PL;COND;PRS	do të shikonit	V;3;PL;COND;PRS	do të shikonin
+V;3;SG;ADM;PRF	paska plaguar	V;3;SG;SBJV;PRS	të plagojë
+V;1;SG;IND;FUT	do të sqaroj	V;3;SG;OPT;PRS	sqaroftë
+V;3;SG;IND;FUT	do të grumbullojë	V;1;PL;ADM;PRF	paskemi grumbulluar
+V;2;PL;SBJV;PRF	të keni bashkëpunuar	V;2;SG;SBJV;PRF	të kesh bashkëpunuar
+V;2;PL;IND;PRF	keni shtypur	V;2;PL;SBJV;PRF	të keni shtypur
+V;1;PL;IND;PST	plaguam	V;1;SG;SBJV;PRF	të kem plaguar
+V;1;PL;OPT;PRS	sqarofshim	V;1;SG;IND;PRF	kam sqaruar
+V;1;PL;IND;PRF	kemi lidhur	V;1;SG;IND;FUT	do të lidh
+V;2;SG;IND;FUT	do të shikosh	V;3;SG;ADM;PRF;PST	paskësh shikuar
+V;2;PL;SBJV;PRF;PRF	të kishit armatosur	V;3;PL;IND;PST	armatosën
+V;2;SG;COND;PRS	do të armatosje	V;2;SG;IND;PRS	armatos
+V;2;PL;IND;PRF;FUT	do të keni degjuar	V;3;SG;ADM;PRF;PST	paskësh degjuar
+V;2;SG;ADM;PRF	paske dërguar	V;3;SG;COND;PRS	do të dërgonte
+V;2;PL;SBJV;PRF	të keni grumbulluar	V;3;SG;IND;PRF	ka grumbulluar
+V;3;SG;COND;PRF	do të kishte armatosur	V;3;SG;OPT;PRF	pastë armatosur
+V;2;PL;IND;PRF;PRF	patët pshurrur	V;1;SG;SBJV;PRS	të pshurr
+V;2;SG;IND;PRF	ke krahasuar	V;3;PL;IND;PRF	kanë krahasuar
+V;2;PL;IMP	pshurrni	V;2;SG;IND;PST	pshurre
+V;2;SG;IND;PRF;FUT	do të kesh bërë	V;2;SG;IND;PST	bëre
+V;1;PL;SBJV;PRS	të lidhim	V;1;SG;OPT;PRS	lidhsha
+V;2;PL;SBJV;PRS	të dërgoni	V;3;SG;IND;FUT	do të dërgojë
+V;2;PL;SBJV;PRS	të gënjeni	V;1;SG;COND;PRS	do të gënjeja
+V;1;PL;IND;FUT	do të zgjohemi	V;2;PL;COND;PRF	do të ishit zgjuar
+V;2;SG;OPT;PRF	qofsh zgjuar	V;1;SG;ADM;PRS	u zgjuakam
+V;2;SG;IND;PRF	ke armatosur	V;1;PL;IND;PRF	kemi armatosur
+V;1;PL;SBJV;PRF	të kemi pshurrur	V;1;PL;COND;PRS	do të pshurrnim
+V;3;SG;SBJV;PST	të propozonte	V;3;PL;ADM;PRS	propozuakan
+V;3;SG;OPT;PRF	pastë gënjyer	V;NFIN	për të gënjyer
+V;3;SG;IND;PST	sqaroi	V;2;SG;IND;PST	sqarove
+V;2;SG;SBJV;PRF;PST	të kishe shikuar	V;2;SG;IND;FUT	do të shikosh
+V;3;PL;IND;PRS	sqarojnë	V;2;PL;ADM;PRS	sqaruakeni
+V;NFIN	për të copëtuar	V;3;SG;IND;PST	copëtoi
+V;2;PL;ADM;PRF;PRF	paskëshit ngritur	V;3;SG;IND;FUT	do të ngrejë
+V;2;PL;IND;PST	propozuat	V;3;SG;SBJV;PRF;PST	të kishte propozuar
+V;3;PL;ADM;IPFV	asnjanësuakëshin	V;2;PL;SBJV;PRF	të keni asnjanësuar
+V;1;PL;IND;PRF;FUT	do të kemi dërguar	V;3;SG;IND;PST	dërgoi
+V;2;PL;SBJV;PRF;PRF	të kishit ngritur	V;3;PL;SBJV;PRF	të kenë ngritur
+V;1;SG;SBJV;PRF	të kem ndërlikuar	V;NFIN	për të ndërlikuar
+V;2;SG;IMP	pshurr	V;3;SG;IND;PRF	ka pshurrur
+V;2;PL;ADM;IPFV	besuakëshit	V;1;SG;IND;IPFV	besoja
+V;3;PL;IND;PRF;FUT	do të kenë pshurrur	V;1;PL;IND;PRF;PST	patëm pshurrur
+V;2;PL;ADM;PRF;PRF	paskëshit gënjyer	V;2;SG;SBJV;PST	të gënjeje
+V;3;SG;SBJV;PST	të plagonte	V;2;PL;IND;FUT	do të plagoni
+V;1;SG;IND;IPFV	zgjohesha	V;2;SG;IND;IPFV	zgjoheshe
+V;1;PL;IND;PRF;FUT	do të kemi besuar	V;2;SG;IND;PRS	beson
+V;3;SG;IND;PRS	bashkëpunon	V;NFIN	për të bashkëpunuar
+V;2;PL;IND;PRS	propozoni	V;2;SG;OPT;PRS	propozofsh
+V;2;PL;IND;PRS	dërgoni	V;1;SG;IND;IPFV	dërgoja
+V;2;PL;IND;FUT	do të copëtoni	V;3;PL;ADM;PRF	paskan copëtuar
+V;2;PL;COND;PRS	do të abuzonit	V;2;SG;IND;PRF;PST	pate abuzuar
+V;3;PL;COND;PRF	do të kishin plaguar	V;2;PL;SBJV;PST	të plagonit
+V;3;SG;IND;IPFV	abuzonte	V;1;SG;IND;IPFV	abuzoja
+V;1;PL;SBJV;PST	të propozonim	V;1;PL;OPT;PRF	paçim propozuar
+V;1;PL;SBJV;PRF;PST	të kishim pshurrur	V;1;SG;COND;PRF	do të kisha pshurrur
+V;2;SG;COND;PRS	do të ngrije	V;1;PL;SBJV;PRS	të ngremë
+V;2;PL;OPT;PRS	bëfshit	V;1;SG;IND;PRF	kam bërë
+V;3;SG;COND;PRF	do të kishte bashkëpunuar	V;2;PL;ADM;PRF;PRF	paskëshit bashkëpunuar
+V;2;SG;IND;PST	sqarove	V;3;SG;OPT;PRF	pastë sqaruar
+V;3;SG;COND;PRS	do të shtypte	V;2;SG;COND;PRS	do të shtypje
+V;1;PL;ADM;IPFV	abuzuakëshim	V;3;SG;OPT;PRF	pastë abuzuar
+V;3;SG;SBJV;PST	të lidhte	V;2;SG;SBJV;PRS	të lidhësh
+V;3;SG;IND;PRF;PST	pati ndërlikuar	V;1;SG;IND;IPFV	ndërlikoja
+V;2;PL;OPT;PRS	abuzofshit	V;1;PL;SBJV;PRS	të abuzojmë
+V;NFIN	për t'u zgjuar	V;3;SG;IND;PRF	është zgjuar
+V;3;SG;SBJV;PST	të armatoste	V;3;PL;OPT;PRS	armatosshin
+V;1;SG;ADM;IPFV	lëshuakësha	V;1;SG;IND;PRS	lëshoj
+V;2;SG;SBJV;PST	të copëtoje	V;1;SG;COND;PRS	do të copëtoja
+V;2;PL;SBJV;PRF;PRF	të kishit ndërlikuar	V;3;SG;OPT;PRF	pastë ndërlikuar
+V;3;SG;IND;PRF;FUT	do të ketë shtypur	V;1;SG;OPT;PRF	paça shtypur
+V;1;SG;IND;PRF	kam ngritur	V;1;PL;IND;FUT	do të ngremë
+V;2;PL;COND;PRF	do të kishit copëtuar	V;2;SG;OPT;PRF	paç copëtuar
+V;2;SG;IND;PRS	sqaron	V;3;PL;SBJV;PRF;PST	të kishin sqaruar
+V;1;SG;SBJV;PRF;PST	të kisha asnjanësuar	V;3;SG;IND;PRF;PST	pati asnjanësuar
+V;2;SG;OPT;PRF	paç degjuar	V;3;SG;SBJV;PRF;PST	të kishte degjuar
+V;2;PL;OPT;PRS	bashkëpunofshit	V;2;SG;ADM;PRS	bashkëpunuake
+V;1;PL;ADM;PRF;PST	paskëshim bashkëpunuar	V;2;PL;IND;PRF;FUT	do të keni bashkëpunuar
+V;3;SG;IND;PRF;PST	pati shikuar	V;2;PL;ADM;PRS	shikuakeni
+V;1;PL;COND;PRF	do të kishim plaguar	V;2;SG;ADM;PRF;PST	paskëshe plaguar
+V;3;SG;ADM;PRF;PST	paskësh abuzuar	V;1;SG;IND;FUT	do të abuzoj
+V;1;SG;OPT;PRF	paça copëtuar	V;1;PL;SBJV;PRS	të copëtojmë
+V;2;SG;OPT;PRS	sqarofsh	V;1;PL;IND;PST	sqaruam
+V;3;SG;IND;PRF;PST	pati gënjyer	V;2;PL;IMP	gënjeni
+V;1;PL;SBJV;PST	të lëshonim	V;2;SG;OPT;PRS	lëshofsh
+V;V.PTCP;PRS	duke gënjyer	V;3;PL;SBJV;PRF;PST	të kishin gënjyer
+V;2;SG;IND;PRF	ke propozuar	V;1;PL;SBJV;PST	të propozonim
+V;3;SG;COND;PRS	do të shtypte	V;1;PL;ADM;PRS	shtypkemi
+V;3;PL;OPT;PRS	besofshin	V;3;PL;ADM;PRS	besuakan
+V;3;PL;ADM;PRF;PST	paskëshin copëtuar	V;1;PL;SBJV;PRS	të copëtojmë
+V;1;SG;COND;PRF	do të kisha bashkëpunuar	V;2;SG;SBJV;PRF;PST	të kishe bashkëpunuar
+V;2;PL;SBJV;PRF;PRF	të kishit propozuar	V;1;PL;IND;FUT	do të propozojmë
+V;2;SG;IND;PRF	ke abuzuar	V;3;SG;IND;IPFV	abuzonte
+V;3;PL;ADM;PRF;PST	paskëshin degjuar	V;1;SG;COND;PRF	do të kisha degjuar
+V;2;PL;ADM;PRF	qenkeni zgjuar	V;2;PL;OPT;PRS	u zgjofshit
+V;2;PL;COND;PRS	do të degjonit	V;3;SG;SBJV;PRF	të ketë degjuar
+V;1;SG;SBJV;PRS	të krahasoj	V;3;PL;IND;PRF;PST	patën krahasuar
+V;3;PL;ADM;PRF;PST	paskëshin armatosur	V;3;SG;IND;PRS	armatos
+V;1;SG;SBJV;PRS	të ngre	V;1;PL;SBJV;PRS	të ngremë
+V;3;PL;IND;IPFV	krahasonin	V;2;PL;IND;FUT	do të krahasoni
+V;3;PL;COND;PRS	do të dërgonin	V;2;SG;IND;PRF	ke dërguar
+V;2;SG;OPT;PRF	paç dërguar	V;3;SG;SBJV;PRF	të ketë dërguar
+V;2;PL;IMP	shikoni	V;2;PL;ADM;PRS	shikuakeni
+V;3;PL;ADM;IPFV	shtypkëshin	V;3;PL;IND;PRF;PST	patën shtypur
+V;V.PTCP	shtypur	V;2;PL;IND;PRF	keni shtypur
+V;3;SG;ADM;PRF;PST	paskësh gënjyer	V;1;SG;IND;PRF;FUT	do të kem gënjyer
+V;3;PL;OPT;PRF	paçin dërguar	V;3;SG;ADM;PRS	dërguaka
+V;1;PL;OPT;PRS	lëshofshim	V;3;PL;IND;PRF;PST	patën lëshuar
+V;1;PL;COND;PRF	do të kishim dërguar	V;3;PL;IND;FUT	do të dërgojnë
+V;1;PL;IND;PRF;PST	patëm lëshuar	V;2;SG;IND;PRS	lëshon
+V;V.PTCP;PST	duke pasë asnjanësuar	V;3;PL;ADM;PRF	paskan asnjanësuar
+V;3;PL;IND;PRF	kanë pshurrur	V;3;SG;IND;PST	pshurri
+V;2;SG;SBJV;PST	të sqaroje	V;1;SG;COND;PRF	do të kisha sqaruar
+V;2;SG;COND;PRS	do të lidhje	V;1;SG;ADM;PRF	paskam lidhur
+V;3;SG;IND;PRF	ka ngritur	V;3;SG;SBJV;PRS	të ngrejë
+V;1;PL;IND;FUT	do të propozojmë	V;2;PL;IND;PRF	keni propozuar
+V;3;PL;IND;PRF	kanë shikuar	V;3;SG;ADM;IPFV	shikuakësh
+V;2;SG;ADM;IPFV	asnjanësuakëshe	V;1;PL;IND;IPFV	asnjanësonim
+V;3;PL;IND;FUT	do të besojnë	V;1;PL;SBJV;PRS	të besojmë
+V;2;PL;IND;IPFV	sqaronit	V;1;PL;IND;PRF;FUT	do të kemi sqaruar
+V;3;SG;SBJV;PRS	të bashkëpunojë	V;3;SG;SBJV;PST	të bashkëpunonte
+V;3;PL;IND;PRF;FUT	do të kenë asnjanësuar	V;1;PL;IND;PRS	asnjanësojmë
+V;2;PL;SBJV;PRF	të keni bërë	V;1;SG;IND;IPFV	bëja
+V;1;PL;OPT;PRS	bashkëpunofshim	V;2;PL;ADM;PRF	paskeni bashkëpunuar
+V;1;SG;SBJV;PRS	të ngre	V;1;PL;ADM;PRS	ngritkemi
+V;2;SG;IND;PRF;FUT	do të jesh zgjuar	V;2;SG;OPT;PRS	u zgjofsh
+V;3;PL;SBJV;PRF	të kenë bërë	V;1;PL;ADM;PRF	paskemi bërë
+V;2;PL;ADM;IPFV	bëkëshit	V;3;SG;SBJV;PRS	të bëjë
+V;3;SG;SBJV;PRS	të besojë	V;2;SG;IMP	beso
+V;3;PL;COND;PRF	do të kishin abuzuar	V;3;PL;IND;PRF;FUT	do të kenë abuzuar
+V;1;PL;SBJV;PRS	të degjojmë	V;2;PL;COND;PRF	do të kishit degjuar
+V;2;SG;IND;FUT	do të shtypësh	V;1;SG;COND;PRF	do të kisha shtypur
+V;2;PL;COND;PRS	do të asnjanësonit	V;3;SG;IND;PRF;FUT	do të ketë asnjanësuar
+V;3;PL;ADM;IPFV	pshurrkëshin	V;3;PL;IND;PST	pshurrën
+V;2;PL;ADM;IPFV	ndërlikuakëshit	V;1;PL;IND;PRF;FUT	do të kemi ndërlikuar
+V;1;PL;OPT;PRS	armatosshim	V;2;SG;COND;PRF	do të kishe armatosur
+V;2;PL;COND;PRF	do të kishit krahasuar	V;3;PL;SBJV;PST	të krahasonin
+V;3;PL;SBJV;PST	të copëtonin	V;3;PL;SBJV;PRF;PST	të kishin copëtuar
+V;1;PL;ADM;PRF;PST	paskëshim abuzuar	V;2;PL;SBJV;PRF	të keni abuzuar
+V;1;SG;ADM;PRS	lëshuakam	V;3;PL;IND;PRF;FUT	do të kenë lëshuar
+V;2;PL;SBJV;PRF	të keni shikuar	V;2;SG;ADM;PRF	paske shikuar
+V;3;PL;OPT;PRF	paçin lidhur	V;2;SG;IMP	lidh
+V;2;SG;IND;FUT	do të krahasosh	V;2;PL;ADM;PRS	krahasuakeni
+V;3;PL;IND;PRS	dërgojnë	V;1;SG;IND;PRS	dërgoj
+V;1;PL;OPT;PRS	u zgjofshim	V;2;SG;IND;IPFV	zgjoheshe
+V;2;PL;OPT;PRF	paçit abuzuar	V;3;PL;ADM;IPFV	abuzuakëshin
+V;1;SG;IND;PRF	kam plaguar	V;3;PL;SBJV;PST	të plagonin
+V;3;SG;ADM;PRS	propozuaka	V;3;PL;ADM;PRS	propozuakan
+V;3;SG;IND;IPFV	armatoste	V;3;SG;SBJV;PRF	të ketë armatosur
+V;3;SG;SBJV;PRS	të degjojë	V;2;SG;COND;PRS	do të degjoje
+V;3;SG;ADM;PRF	paska abuzuar	V;2;SG;ADM;IPFV	abuzuakëshe
+V;1;SG;IND;PRS	dërgoj	V;2;SG;SBJV;PST	të dërgoje
+V;V.PTCP	ndërlikuar	V;3;PL;SBJV;PRF	të kenë ndërlikuar
+V;2;SG;ADM;PRF;PST	paskëshe degjuar	V;3;SG;COND;PRF	do të kishte degjuar
+V;1;SG;IND;PRF;FUT	do të kem ndërlikuar	V;3;SG;SBJV;PRF;PST	të kishte ndërlikuar
+V;3;PL;IND;FUT	do të lidhin	V;2;SG;COND;PRF	do të kishe lidhur
+V;2;SG;SBJV;PRF	të kesh bashkëpunuar	V;1;PL;SBJV;PRF	të kemi bashkëpunuar
+V;1;PL;IND;PRF;FUT	do të kemi besuar	V;2;SG;IND;PRF;FUT	do të kesh besuar
+V;2;SG;COND;PRS	do të grumbulloje	V;3;PL;SBJV;PRF;PST	të kishin grumbulluar
+V;V.PTCP	ndërlikuar	V;3;SG;ADM;IPFV	ndërlikuakësh
+V;3;PL;SBJV;PRF;PST	të kishin plaguar	V;1;PL;IND;PRS	plagojmë
+V;V.PTCP;PRS	duke abuzuar	V;2;SG;ADM;PRF	paske abuzuar
+V;2;PL;SBJV;PRS	të sqaroni	V;3;SG;IND;FUT	do të sqarojë
+V;1;PL;OPT;PRS	lëshofshim	V;1;PL;SBJV;PRS	të lëshojmë
+V;NFIN	për të shtypur	V;2;SG;OPT;PRF	paç shtypur
+V;2;PL;IND;PST	krahasuat	V;3;PL;IND;PST	krahasuan
+V;3;SG;ADM;IPFV	shikuakësh	V;3;SG;SBJV;PRF;PST	të kishte shikuar
+V;1;PL;SBJV;PST	të zgjoheshim	V;1;PL;ADM;PRF	qenkemi zgjuar
+V;3;PL;IND;PST	pshurrën	V;3;PL;ADM;PRF;PST	paskëshin pshurrur
+V;2;PL;SBJV;PRF;PRF	të kishit lëshuar	V;2;SG;ADM;IPFV	lëshuakëshe
+V;3;PL;SBJV;PRF	të kenë grumbulluar	V;1;SG;COND;PRF	do të kisha grumbulluar
+V;1;SG;OPT;PRS	plagofsha	V;1;SG;SBJV;PST	të plagoja
+V;3;PL;ADM;IPFV	lëshuakëshin	V;V.PTCP;PRS	duke lëshuar
+V;3;PL;ADM;IPFV	degjuakëshin	V;2;PL;IND;PRF	keni degjuar
+V;3;PL;ADM;PRS	dërguakan	V;1;SG;SBJV;PRF;PST	të kisha dërguar
+V;2;SG;IND;PRS	bashkëpunon	V;2;PL;SBJV;PST	të bashkëpunonit
+V;3;SG;IND;IPFV	gënjente	V;2;PL;SBJV;PRS	të gënjeni
+V;2;SG;IND;PRF;PST	pate shtypur	V;2;SG;ADM;PRF	paske shtypur
+V;1;SG;OPT;PRS	shikofsha	V;3;SG;SBJV;PRS	të shikojë
+V;1;SG;ADM;IPFV	shikuakësha	V;3;PL;ADM;PRF	paskan shikuar
+V;3;PL;ADM;IPFV	bëkëshin	V;1;SG;IND;FUT	do të bëj
+V;2;PL;SBJV;PST	të sqaronit	V;1;SG;COND;PRS	do të sqaroja
+V;1;PL;IND;PRS	shikojmë	V;2;SG;IMP	shiko
+V;3;SG;IND;PRF;PST	pati sqaruar	V;3;PL;SBJV;PRF	të kenë sqaruar
+V;1;PL;SBJV;PRS	të copëtojmë	V;2;SG;SBJV;PRF	të kesh copëtuar
+V;3;SG;ADM;IPFV	degjuakësh	V;1;SG;OPT;PRS	degjofsha
+V;3;SG;SBJV;PRF;PST	të kishte copëtuar	V;2;PL;ADM;PRF	paskeni copëtuar
+V;1;SG;COND;PRS	do të bashkëpunoja	V;2;SG;COND;PRF	do të kishe bashkëpunuar
+V;2;SG;ADM;PRF	paske besuar	V;2;PL;ADM;PRS	besuakeni
+V;3;SG;SBJV;PST	të dërgonte	V;2;PL;SBJV;PRS	të dërgoni
+V;2;PL;IND;FUT	do të besoni	V;2;SG;SBJV;PRS	të besosh
+V;2;PL;ADM;PRF	paskeni asnjanësuar	V;2;PL;ADM;PRF;PRF	paskëshit asnjanësuar
+V;3;PL;OPT;PRF	paçin ngritur	V;3;PL;SBJV;PRF;PST	të kishin ngritur
+V;3;PL;SBJV;PRF	të kenë asnjanësuar	V;1;PL;OPT;PRS	asnjanësofshim
+V;V.PTCP;PRS	duke grumbulluar	V;3;SG;OPT;PRS	grumbulloftë
+V;1;SG;COND;PRS	do të pshurrja	V;3;SG;ADM;IPFV	pshurrkësh
+V;3;SG;IND;PRF;FUT	do të ketë grumbulluar	V;3;SG;OPT;PRS	grumbulloftë
+V;1;PL;SBJV;PST	të pshurrnim	V;1;PL;IND;FUT	do të pshurrim
+V;2;PL;SBJV;PRF	të keni gënjyer	V;2;PL;COND;PRS	do të gënjenit
+V;2;PL;IND;PRF;FUT	do të keni asnjanësuar	V;1;SG;OPT;PRS	asnjanësofsha
+V;2;SG;OPT;PRS	propozofsh	V;1;SG;IND;FUT	do të propozoj
+V;3;SG;IND;PRF;PST	pati abuzuar	V;2;PL;COND;PRS	do të abuzonit
+V;2;PL;ADM;PRS	pshurrkeni	V;1;SG;SBJV;PST	të pshurrja
+V;2;PL;OPT;PRS	shtypshit	V;1;SG;SBJV;PRF	të kem shtypur
+V;2;PL;COND;PRF	do të kishit gënjyer	V;3;PL;SBJV;PST	të gënjenin
+V;1;PL;IND;IPFV	lëshonim	V;1;SG;SBJV;PST	të lëshoja
+V;3;SG;SBJV;PST	të lëshonte	V;1;PL;SBJV;PRS	të lëshojmë
+V;2;PL;SBJV;PST	të bënit	V;3;SG;OPT;PRF	pastë bërë
+V;3;SG;SBJV;PRF;PST	të kishte degjuar	V;2;PL;SBJV;PRS	të degjoni
+V;1;PL;ADM;PRF	paskemi degjuar	V;1;PL;COND;PRF	do të kishim degjuar
+V;2;SG;OPT;PRS	shikofsh	V;3;SG;IND;PRF	ka shikuar
+V;2;PL;IND;IPFV	bënit	V;1;SG;COND;PRS	do të bëja
+V;3;SG;IND;PRF;PST	pati gënjyer	V;2;SG;ADM;PRF	paske gënjyer
+V;1;SG;IND;PRF;FUT	do të kem bërë	V;1;PL;SBJV;PST	të bënim
+V;3;PL;COND;PRS	do të armatosnin	V;2;PL;ADM;PRF;PRF	paskëshit armatosur
+V;1;PL;COND;PRF	do të kishim lidhur	V;2;PL;ADM;PRF	paskeni lidhur
+V;3;SG;OPT;PRS	gënjeftë	V;2;PL;OPT;PRS	gënjefshit
+V;1;PL;SBJV;PRF	të kemi grumbulluar	V;1;SG;ADM;PRF	paskam grumbulluar
+V;2;SG;SBJV;PRF;PST	të kishe bërë	V;1;SG;ADM;PRF;PST	paskësha bërë
+V;3;SG;SBJV;PRF	të ketë besuar	V;3;SG;SBJV;PST	të besonte
+V;2;SG;ADM;PRS	abuzuake	V;1;PL;ADM;PRF;PST	paskëshim abuzuar
+V;1;PL;IND;IPFV	shtypnim	V;2;PL;ADM;PRF;PRF	paskëshit shtypur
+V;2;PL;COND;PRS	do të abuzonit	V;2;PL;IMP	abuzoni
+V;2;PL;COND;PRS	do të ndërlikonit	V;3;PL;OPT;PRS	ndërlikofshin
+V;2;SG;ADM;PRF	qenke zgjuar	V;3;SG;SBJV;PRF;PST	të ishte zgjuar
+V;3;SG;SBJV;PRF	të ketë ngritur	V;3;SG;OPT;PRF	pastë ngritur
+V;3;PL;ADM;PRS	bashkëpunuakan	V;1;SG;SBJV;PRS	të bashkëpunoj
+V;1;SG;COND;PRS	do të dërgoja	V;2;SG;IND;IPFV	dërgoje
+V;2;PL;OPT;PRF	paçit grumbulluar	V;2;PL;ADM;PRF;PRF	paskëshit grumbulluar
+V;2;SG;ADM;PRF	paske grumbulluar	V;3;SG;COND;PRS	do të grumbullonte
+V;2;SG;SBJV;PRS	të gënjesh	V;1;SG;IND;PRS	gënjej
+V;3;SG;ADM;IPFV	asnjanësuakësh	V;2;SG;IND;PRF;PST	pate asnjanësuar
+V;2;SG;ADM;IPFV	ngritkëshe	V;1;PL;IND;PRS	ngremë
+V;2;PL;SBJV;PRF;PRF	të kishit bashkëpunuar	V;1;PL;COND;PRS	do të bashkëpunonim
+V;2;PL;SBJV;PST	të abuzonit	V;2;SG;SBJV;PRF;PST	të kishe abuzuar
+V;1;PL;COND;PRF	do të kishim gënjyer	V;3;SG;ADM;PRF;PST	paskësh gënjyer
+V;2;PL;IND;PRF;PRF	patët dërguar	V;2;SG;OPT;PRS	dërgofsh
+V;2;SG;IMP	zgjohu	V;1;PL;COND;PRS	do të zgjoheshim
+V;2;SG;IND;PRF;PST	pate asnjanësuar	V;2;SG;COND;PRF	do të kishe asnjanësuar
+V;1;SG;ADM;IPFV	degjuakësha	V;2;PL;IND;PST	degjuat
+V;2;SG;IND;PRF	ke armatosur	V;3;SG;SBJV;PRF;PST	të kishte armatosur
+V;3;SG;IND;PRS	sqaron	V;3;SG;SBJV;PRS	të sqarojë
+V;1;SG;IND;PRF;FUT	do të kem copëtuar	V;2;PL;IND;FUT	do të copëtoni
+V;2;PL;IND;PRF;FUT	do të jeni zgjuar	V;3;PL;OPT;PRS	u zgjofshin
+V;3;PL;COND;PRS	do të besonin	V;3;PL;ADM;PRF	paskan besuar
+V;NFIN	për të lëshuar	V;3;PL;IND;PRF;PST	patën lëshuar
+V;3;SG;ADM;PRF	paska ndërlikuar	V;2;PL;IND;PRF;FUT	do të keni ndërlikuar
+V;1;SG;IND;PST	dërgova	V;1;SG;IND;PRF	kam dërguar
+V;3;PL;SBJV;PRF;PST	të kishin krahasuar	V;NFIN	për të krahasuar
+V;1;PL;IND;PRF;PST	patëm copëtuar	V;1;PL;IND;PRS	copëtojmë
+V;2;PL;ADM;PRF;PRF	paskëshit gënjyer	V;3;PL;IND;FUT	do të gënjejnë
+V;2;SG;IND;PRF	ke asnjanësuar	V;1;PL;IND;FUT	do të asnjanësojmë
+V;1;PL;IND;FUT	do të zgjohemi	V;3;SG;IND;PRF;FUT	do të jetë zgjuar
+V;2;PL;SBJV;PRS	të dërgoni	V;1;SG;IND;PRF;FUT	do të kem dërguar
+V;3;PL;COND;PRS	do të lidhnin	V;1;SG;SBJV;PRF	të kem lidhur
+V;3;PL;SBJV;PST	të besonin	V;1;SG;IND;PRF	kam besuar
+V;3;SG;SBJV;PST	të dërgonte	V;1;SG;IND;PRF	kam dërguar
+V;3;PL;ADM;PRF;PST	paskëshin propozuar	V;1;PL;ADM;PRF;PST	paskëshim propozuar
+V;1;PL;ADM;IPFV	ngritkëshim	V;1;PL;ADM;PRS	ngritkemi
+V;1;SG;IND;PRF;PST	pata shikuar	V;2;SG;SBJV;PRF	të kesh shikuar
+V;2;PL;IMP	degjoni	V;2;PL;ADM;PRF;PRF	paskëshit degjuar
+V;2;PL;COND;PRF	do të kishit gënjyer	V;3;SG;ADM;IPFV	gënjyekësh
+V;3;SG;OPT;PRS	lidhtë	V;2;SG;IND;PRF;PST	pate lidhur
+V;1;SG;COND;PRF	do të kisha pshurrur	V;3;SG;SBJV;PRF;PST	të kishte pshurrur
+V;2;PL;IND;PRF;PRF	patët asnjanësuar	V;3;SG;IND;PRF;PST	pati asnjanësuar
+V;2;SG;SBJV;PRF;PST	të kishe dërguar	V;3;SG;IND;FUT	do të dërgojë
+V;V.PTCP;PST	duke pasë sqaruar	V;2;PL;COND;PRF	do të kishit sqaruar
+V;2;PL;IND;PRF;PRF	patët bërë	V;2;SG;OPT;PRS	bëfsh
+V;2;PL;IND;FUT	do të sqaroni	V;1;PL;OPT;PRF	paçim sqaruar
+V;3;SG;ADM;PRF;PST	paskësh armatosur	V;1;PL;SBJV;PRF;PST	të kishim armatosur
+V;2;SG;IND;PRF;FUT	do të kesh dërguar	V;3;SG;COND;PRF	do të kishte dërguar
+V;3;SG;SBJV;PRF;PST	të kishte ndërlikuar	V;1;SG;COND;PRF	do të kisha ndërlikuar
+V;1;SG;IND;PST	abuzova	V;3;PL;ADM;PRF	paskan abuzuar
+V;2;PL;IND;IPFV	armatosnit	V;2;PL;ADM;PRF	paskeni armatosur
+V;1;PL;IND;PRS	zgjohemi	V;3;PL;IND;PRF;FUT	do të jenë zgjuar
+V;3;SG;IND;PRF	ka shtypur	V;3;PL;ADM;IPFV	shtypkëshin
+V;2;SG;IMP	bashkëpuno	V;2;SG;ADM;IPFV	bashkëpunuakëshe
+V;2;PL;ADM;PRS	propozuakeni	V;3;PL;SBJV;PRS	të propozojnë
+V;2;SG;IND;PRF;PST	pate ngritur	V;1;PL;ADM;PRF;PST	paskëshim ngritur
+V;1;PL;ADM;PRF;PST	paskëshim gënjyer	V;2;PL;IND;PRF;FUT	do të keni gënjyer
+V;V.PTCP;PST	duke pasë copëtuar	V;3;SG;IND;PST	copëtoi
+V;2;PL;IMP	bëni	V;1;SG;COND;PRF	do të kisha bërë
+V;3;SG;SBJV;PRS	të copëtojë	V;3;SG;ADM;PRF;PST	paskësh copëtuar
+V;1;SG;ADM;PRF;PST	paskësha asnjanësuar	V;2;PL;IND;IPFV	asnjanësonit
+V;2;PL;IND;PST	grumbulluat	V;1;SG;ADM;PRF;PST	paskësha grumbulluar
+V;2;SG;IND;PRF;PST	pate grumbulluar	V;3;SG;COND;PRF	do të kishte grumbulluar
+V;3;SG;ADM;IPFV	ndërlikuakësh	V;2;SG;ADM;PRF;PST	paskëshe ndërlikuar
+V;3;PL;SBJV;PRF;PST	të kishin krahasuar	V;2;SG;ADM;PRF	paske krahasuar
+V;3;PL;ADM;PRS	propozuakan	V;3;PL;SBJV;PRS	të propozojnë
+V;2;PL;IND;PST	dërguat	V;1;PL;COND;PRS	do të dërgonim
+V;3;PL;IND;PRF	janë zgjuar	V;1;SG;IND;PRF;FUT	do të jem zgjuar
+V;1;PL;COND;PRF	do të kishim shikuar	V;1;PL;SBJV;PRS	të shikojmë
+V;3;PL;ADM;PRF;PST	paskëshin sqaruar	V;1;PL;IND;FUT	do të sqarojmë
+V;1;SG;IND;PRF;FUT	do të kem dërguar	V;3;SG;ADM;IPFV	dërguakësh
+V;3;PL;COND;PRF	do të kishin ndërlikuar	V;3;SG;IND;PRF;PST	pati ndërlikuar
+V;1;SG;ADM;PRS	u zgjuakam	V;NFIN	për t'u zgjuar
+V;1;PL;SBJV;PRS	të dërgojmë	V;1;SG;ADM;PRF;PST	paskësha dërguar
+V;3;PL;ADM;PRF	qenkan zgjuar	V;1;PL;OPT;PRF	qofshim zgjuar
+V;3;SG;SBJV;PST	të abuzonte	V;2;SG;OPT;PRS	abuzofsh
+V;1;SG;SBJV;PRF	të kem lidhur	V;1;PL;SBJV;PRF	të kemi lidhur
+V;2;PL;ADM;PRF;PRF	paskëshit plaguar	V;1;PL;IND;PST	plaguam
+V;2;SG;COND;PRF	do të kishe krahasuar	V;3;SG;IND;PRF	ka krahasuar
+V;3;SG;COND;PRF	do të kishte abuzuar	V;3;SG;SBJV;PRS	të abuzojë
+V;3;SG;IND;PRS	plagon	V;3;PL;IND;FUT	do të plagojnë
+V;3;SG;IND;PST	bashkëpunoi	V;3;PL;IND;PST	bashkëpunuan
+V;V.PTCP;PST	duke pasë lidhur	V;3;PL;ADM;IPFV	lidhkëshin
+V;2;SG;IND;PRF	ke asnjanësuar	V;2;PL;SBJV;PRF;PRF	të kishit asnjanësuar
+V;1;PL;IND;FUT	do të copëtojmë	V;1;SG;SBJV;PRF;PST	të kisha copëtuar
+V;1;SG;SBJV;PRS	të abuzoj	V;2;SG;IND;PRF	ke abuzuar
+V;1;SG;OPT;PRF	paça krahasuar	V;1;SG;IND;PST	krahasova
+V;1;SG;IND;PRF;PST	pata armatosur	V;2;PL;COND;PRS	do të armatosnit
+V;1;SG;COND;PRF	do të kisha bërë	V;2;PL;SBJV;PRS	të bëni
+V;3;SG;SBJV;PRF;PST	të kishte shikuar	V;3;SG;IND;PRS	shikon
+V;2;PL;IND;PRF;PRF	patët krahasuar	V;3;SG;SBJV;PRF	të ketë krahasuar
+V;2;SG;OPT;PRS	armatossh	V;3;PL;SBJV;PST	të armatosnin
+V;1;SG;IND;PRS	armatos	V;1;PL;IND;PRF	kemi armatosur
+V;3;SG;IND;PRS	bashkëpunon	V;3;SG;IND;PST	bashkëpunoi
+V;1;SG;ADM;IPFV	plaguakësha	V;1;SG;ADM;PRF	paskam plaguar
+V;2;SG;SBJV;PRF	të kesh sqaruar	V;3;SG;SBJV;PRS	të sqarojë
+V;3;SG;IND;PRF	ka ngritur	V;2;PL;IND;PRF	keni ngritur
+V;1;PL;IND;PRS	degjojmë	V;V.PTCP;PRS	duke degjuar
+V;2;PL;SBJV;PRF;PRF	të kishit armatosur	V;2;PL;COND;PRF	do të kishit armatosur
+V;V.PTCP;PST	duke pasë sqaruar	V;2;SG;IND;IPFV	sqaroje
+V;3;SG;ADM;PRF;PST	paskësh abuzuar	V;2;PL;COND;PRS	do të abuzonit
+V;3;PL;ADM;PRF;PST	paskëshin propozuar	V;2;PL;IND;PRS	propozoni
+V;1;SG;COND;PRF	do të kisha armatosur	V;3;SG;IND;IPFV	armatoste
+V;2;PL;COND;PRS	do të shikonit	V;2;SG;IND;PRF;FUT	do të kesh shikuar
+V;2;SG;SBJV;PST	të armatosje	V;2;SG;IMP	armatos
+V;3;SG;SBJV;PRS	të zgjohet	V;1;SG;SBJV;PRF	të jem zgjuar
+V;1;SG;IND;FUT	do të grumbulloj	V;1;SG;OPT;PRF	paça grumbulluar
+V;1;PL;COND;PRF	do të kishim bashkëpunuar	V;1;PL;ADM;PRF	paskemi bashkëpunuar
+V;2;PL;IMP	bashkëpunoni	V;1;SG;ADM;PRS	bashkëpunuakam
+V;3;SG;OPT;PRF	pastë abuzuar	V;2;PL;OPT;PRF	paçit abuzuar
+V;3;SG;SBJV;PRS	të bëjë	V;3;PL;IND;FUT	do të bëjnë
+V;3;PL;SBJV;PRF;PST	të kishin sqaruar	V;3;PL;IND;PRF;PST	patën sqaruar
+V;2;PL;ADM;PRS	gënjyekeni	V;2;SG;IND;PRS	gënjen
+V;2;SG;IND;PRF;FUT	do të kesh shikuar	V;2;PL;COND;PRS	do të shikonit
+V;2;SG;IND;PST	copëtove	V;2;PL;IND;PST	copëtuat
+V;2;PL;SBJV;PRF	të keni propozuar	V;1;SG;COND;PRS	do të propozoja
+V;1;PL;IND;IPFV	ndërlikonim	V;1;PL;IND;PST	ndërlikuam
+V;2;SG;IND;PRS	abuzon	V;1;SG;ADM;PRF	paskam abuzuar
+V;3;SG;COND;PRF	do të kishte lëshuar	V;3;PL;ADM;PRF	paskan lëshuar
+V;3;PL;COND;PRS	do të lëshonin	V;1;PL;IND;IPFV	lëshonim
+V;1;SG;ADM;PRF;PST	qenkësha zgjuar	V;3;PL;IND;IPFV	zgjoheshin
+V;3;PL;IND;PST	sqaruan	V;1;PL;OPT;PRS	sqarofshim
+V;3;PL;COND;PRS	do të lëshonin	V;1;PL;SBJV;PRF	të kemi lëshuar
+V;1;PL;SBJV;PST	të zgjoheshim	V;V.PTCP;PST	duke u pasë zgjuar
+V;1;SG;ADM;PRF;PST	paskësha besuar	V;3;SG;SBJV;PRS	të besojë
+V;2;SG;IMP	dërgo	V;1;SG;OPT;PRS	dërgofsha
+V;2;SG;IND;PRF;FUT	do të kesh propozuar	V;2;PL;SBJV;PRS	të propozoni
+V;3;PL;IND;IPFV	shtypnin	V;2;PL;SBJV;PRF;PRF	të kishit shtypur
+V;1;PL;OPT;PRS	ngritshim	V;2;SG;OPT;PRF	paç ngritur
+V;1;PL;OPT;PRF	paçim besuar	V;1;PL;SBJV;PRF;PST	të kishim besuar
+V;3;SG;ADM;IPFV	armatoskësh	V;3;PL;OPT;PRS	armatosshin
+V;2;SG;IND;PRF	ke dërguar	V;1;SG;IND;PRF;FUT	do të kem dërguar
+V;2;PL;ADM;IPFV	dërguakëshit	V;3;PL;COND;PRS	do të dërgonin

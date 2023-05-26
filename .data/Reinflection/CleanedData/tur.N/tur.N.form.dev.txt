@@ -1,0 +1,1000 @@
+N;LGSPEC1;1P;PL;PRS	vişneleriz	N;LGSPEC1;1P;PL;LGSPEC2	vişnelermişiz
+N;NOM;PL	deniz şortları	N;DAT;PL	deniz şortlarına
+N;LOC;SG;PSS1P	kütüğümüzde	N;LOC;SG	kütükte
+N;DAT;SG	imambayıldıya	N;NOM;PL;PSS1P	imambayıldılarımız
+N;DAT;SG	türev fonksiyonuna	N;NOM;PL	türev fonksiyonları
+N;LOC;SG	demir yolunda	N;ABL;PL	demir yollarından
+N;GEN;SG	göğüs kılının	N;GEN;PL	göğüs kıllarının
+N;GEN;SG	donmanın	N;LOC;SG;PSS2S	donmanda
+N;ACC;SG;PSS3S	abajurcusunu	N;LGSPEC1;1S;SG;LGSPEC2	abajurcuymuşum
+N;LOC;PL	kulüplerde	N;ACC;PL	kulüpleri
+N;DAT;PL	tornavidalara	N;NOM;PL	tornavidalar
+N;NOM;PL	şarkıcılıklar	N;ACC;PL	şarkıcılıkları
+N;LOC;PL	deniz kızlarında	N;DAT;SG	deniz kızına
+N;ACC;SG;PSS2S	panendeistini	N;LGSPEC1;1S;PL;LGSPEC2	panendeistlermişim
+N;DAT;SG;PSS1P	vademize	N;NOM;SG	vade
+N;ACC;PL;PSS1P	evcikkıranlarımızı	N;LGSPEC1;3S;SG;PST	evcikkırandı
+N;NOM;SG;PSS2S	metrdotelin	N;NOM;SG;PSS2P	metrdoteliniz
+N;NOM;PL	bilinemezcilikler	N;GEN;PL	bilinemezciliklerin
+N;LOC;PL;PSS3S	disleksilerinde	N;ABL;SG;PSS1P	disleksimizden
+N;LOC;SG;PSS1P	sözlüğümüzde	N;NOM;PL;PSS2S	sözlüklerin
+N;NOM;PL;PSS2P	içyüzleriniz	N;DAT;PL;PSS3S	içyüzlerine
+N;NOM;PL;PSS2S	köylülerin	N;LOC;PL;PSS2P	köylülerinizde
+N;DAT;PL	yazarlara	N;ABL;SG	yazardan
+N;DAT;PL;PSS2P	köftelerinize	N;LOC;SG;PSS3S	köftesinde
+N;LOC;PL;PSS2S	vitrinlerinde	N;ABL;SG	vitrinden
+N;ACC;PL	mali yardımları	N;DAT;SG;PSS3S	mali yardımına
+N;GEN;SG;PSS3S	homoseksüelinin	N;LGSPEC1;3S;PL;PST	homoseksüellerdi
+N;ACC;PL	isimsiz sınıfları	N;LOC;PL;PSS3S	isimsiz sınıflarında
+N;DAT;SG	şehir efsanesine	N;NOM;SG	şehir efsanesi
+N;ACC;SG;PSS3S	duymamasını	N;ACC;PL;PSS2P	duymamalarınızı
+N;ACC;SG;PSS2S	sapanını	N;LOC;PL;PSS2S	sapanlarında
+N;ABL;PL;PSS2P	çerçilerinizden	N;LGSPEC1;3S;PL;PRS	çerçiler
+N;DAT;PL;PSS2S	tasalarına	N;GEN;SG	tasanın
+N;LOC;SG;PSS2P	parlatıcınızda	N;ACC;PL;PSS3S	parlatıcılarını
+N;LGSPEC1;2P;PL;PST	peynirli pastalardınız	N;ABL;PL	peynirli pastalardan
+N;NOM;SG	sıkıntı	N;LOC;PL	sıkıntılarda
+N;ABL;PL;PSS2S	prototiplemelerinden	N;ABL;PL;PSS2P	prototiplemelerinizden
+N;ABL;SG	ofisten	N;NOM;SG;PSS3S	ofisi
+N;ABL;SG;PSS2P	gamalı haçınızdan	N;ABL;SG;PSS1P	gamalı haçımızdan
+N;ACC;SG	Hindistan cevizini	N;DAT;PL	Hindistan cevizlerine
+N;LGSPEC1;2S;SG;LGSPEC2	kurbağaymışsın	N;LGSPEC1;2P;SG;PST	kurbağaydınız
+N;ACC;SG	bilişsel psikolojiyi	N;DAT;SG	bilişsel psikolojiye
+N;NOM;SG;PSS3S	artçı depremi	N;LGSPEC1;3P;SG;PRS	artçı depremler
+N;GEN;SG;PSS2P	evcil sineğinizin	N;DAT;PL	evcil sineklere
+N;GEN;SG	midyenin	N;LOC;SG;PSS2P	midyenizde
+N;LOC;PL	havai fişeklerde	N;ABL;SG	havai fişekten
+N;ACC;PL	enerjileri	N;DAT;SG	enerjiye
+N;NOM;SG	kabartma tozu	N;ACC;SG	kabartma tozunu
+N;ABL;SG	muğlalıktan	N;ACC;PL	muğlalıkları
+N;DAT;SG;PSS2P	dılağınıza	N;GEN;SG;PSS3S	dılağının
+N;NOM;PL	saklambaçlar	N;NOM;SG	saklambaç
+N;LOC;SG	gezegen bilimide	N;GEN;SG	gezegen bilimiin
+N;LGSPEC1;2S;SG;PST	fırındın	N;ABL;PL	fırınlardan
+N;ABL;PL	yalvarışlardan	N;DAT;SG	yalvarışa
+N;ACC;PL	büyükelçileri	N;ABL;SG	büyükelçiden
+N;LGSPEC1;2P;SG;LGSPEC2	papatyaymışsınız	N;LGSPEC1;2S;PL;PRS	papatyalarsın
+N;GEN;SG	uzaktan kumandanın	N;ABL;PL;PSS2P	uzaktan kumandalarınızdan
+N;NOM;PL	somnifobiler	N;GEN;PL	somnifobilerin
+N;GEN;SG;PSS2P	enjektörünüzün	N;ABL;SG;PSS2S	enjektöründen
+N;ABL;SG	eziyetten	N;ACC;PL;PSS1P	eziyetlerimizi
+N;ACC;SG	karnabaharı	N;ACC;SG;PSS3S	karnabaharını
+N;LOC;PL;PSS2S	içli köftelerinde	N;NOM;SG;PSS3S	içli köftesi
+N;LOC;PL;PSS2S	otomobilcilerinde	N;ABL;PL;PSS2P	otomobilcilerinizden
+N;ABL;PL;PSS2S	sahipli yazılımlarından	N;ACC;SG;PSS2P	sahipli yazılımınızı
+N;DAT;SG	güneşe	N;ABL;SG	güneşten
+N;LOC;PL	çukurlarda	N;ABL;PL	çukurlardan
+N;NOM;SG	asansör	N;DAT;SG	asansöre
+N;NOM;PL;PSS2P	ilâçlarınız	N;LOC;SG;PSS2P	ilâcınızda
+N;DAT;SG;PSS2P	kloroplastınıza	N;NOM;PL	kloroplastlar
+N;ACC;PL;PSS3S	şelalelerini	N;LGSPEC1;1S;SG;PST	şelaleydim
+N;ABL;PL;PSS2P	salahiyetlerinizden	N;GEN;SG	salahiyetin
+N;LOC;PL	Ay tutulmalarında	N;GEN;PL	Ay tutulmalarının
+N;ABL;PL;PSS2S	televizyonlarından	N;LOC;SG	televizyonda
+N;GEN;SG	gelirin	N;LOC;SG;PSS1P	gelirimizde
+N;GEN;PL	kupürlerin	N;ABL;SG;PSS1P	kupürümüzden
+N;DAT;SG	güneşe	N;NOM;PL	güneşler
+N;NOM;SG	domuz pastırması	N;LOC;SG	domuz pastırmasında
+N;ABL;PL;PSS2P	Abu Dabililerinizden	N;DAT;PL;PSS1P	Abu Dabililerimize
+N;LOC;SG;PSS2P	iğnenizde	N;GEN;SG	iğnenin
+N;NOM;SG	dakika	N;ACC;SG;PSS3S	dakikasını
+N;NOM;PL;PSS2S	ortakların	N;LGSPEC1;2P;SG;LGSPEC2	ortakmışsınız
+N;ABL;PL;PSS1P	falcılarımızdan	N;GEN;SG;PSS1P	falcımızın
+N;LOC;SG	acelecilikte	N;DAT;SG	aceleciliğe
+N;GEN;PL;PSS3S	kâinatlarının	N;DAT;SG;PSS1P	kâinatımıza
+N;LGSPEC1;3P;SG;PRS	insanımsılar	N;GEN;SG	insanımsının
+N;LOC;PL;PSS3S	granüllü endoplazmik retikulumlarında	N;ACC;SG;PSS3S	granüllü endoplazmik retikulumunu
+N;DAT;SG;PSS3S	netine	N;LOC;SG;PSS2S	netinde
+N;ACC;SG;PSS2S	yan cümleni	N;LOC;SG;PSS3S	yan cümlesinde
+N;ACC;SG	lipofobiyi	N;GEN;SG	lipofobinin
+N;NOM;SG	evlat	N;NOM;PL;PSS2P	evlatlarınız
+N;NOM;SG	kardeşlik	N;ABL;PL	kardeşliklerden
+N;ACC;SG;PSS1P	periyodik cetvelimizi	N;GEN;SG;PSS2S	periyodik cetvelinin
+N;GEN;PL;PSS2P	dakikalarınızın	N;ACC;PL;PSS2P	dakikalarınızı
+N;NOM;PL;PSS3S	parabolleri	N;ABL;PL;PSS2P	parabollerinizden
+N;GEN;SG;PSS2S	olay güdümlü programlamanın	N;NOM;PL;PSS1P	olay güdümlü programlamalarımız
+N;NOM;SG;PSS1P	kullanmamız	N;LOC;SG;PSS2P	kullanmanızda
+N;LGSPEC1;1S;PL;PRS	yakınlarım	N;NOM;PL	yakınlar
+N;NOM;SG	düşman	N;NOM;PL;PSS1P	düşmanlarımız
+N;LOC;PL;PSS2P	metrdotellerinizde	N;LGSPEC1;2S;SG;PST	metrdoteldin
+N;ABL;PL	ahudutlarından	N;DAT;SG	ahududuna
+N;ACC;SG;PSS3S	büzüğünü	N;ABL;PL;PSS2S	büzüklerinden
+N;ABL;SG	pimden	N;ACC;PL	pimleri
+N;ACC;PL;PSS1P	yardımcılıklarımızı	N;GEN;PL;PSS2P	yardımcılıklarınızın
+N;ACC;SG;PSS2P	hançerinizi	N;DAT;SG;PSS3S	hançerine
+N;ACC;SG	zammı	N;NOM;PL;PSS3S	zamları
+N;ABL;SG	avantajdan	N;LOC;PL	avantajlarda
+N;DAT;SG	otomatik bilet makinasına	N;ACC;SG	otomatik bilet makinasını
+N;DAT;PL	kosinüslere	N;GEN;PL	kosinüslerin
+N;ABL;PL;PSS2S	yalın hallerinden	N;ABL;PL;PSS2P	yalın hallerinizden
+N;LOC;SG;PSS3S	şarkında	N;LOC;SG;PSS1P	şarkımızda
+N;GEN;PL;PSS2P	leblebilerinizin	N;NOM;SG;PSS1P	leblebimiz
+N;ABL;PL	hazinelerden	N;DAT;SG	hazineye
+N;DAT;PL	otizmlere	N;GEN;SG	otizmin
+N;GEN;SG;PSS3S	sarımsağının	N;ABL;SG;PSS2P	sarımsağınızdan
+N;GEN;PL	teyzelerin	N;ABL;PL	teyzelerden
+N;ACC;PL;PSS2S	yeniliklerini	N;LOC;SG;PSS2P	yeniliğinizde
+N;DAT;SG;PSS1P	Yahudimize	N;DAT;PL	Yahudilere
+N;LOC;PL	nükleotitlerde	N;ABL;SG	nükleotitten
+N;DAT;PL;PSS3S	zamlarına	N;ACC;SG;PSS3S	zammını
+N;DAT;SG;PSS2S	ilâcına	N;NOM;SG	ilâç
+N;ACC;PL;PSS2S	gerçek sayılarını	N;ABL;SG;PSS3S	gerçek sayısından
+N;NOM;SG;PSS1P	fanusumuz	N;LOC;SG;PSS3S	fanusunda
+N;LOC;SG	Çin çöl kedisi	N;NOM;PL	Çin çöl kedi
+N;ACC;SG;PSS3S	gayzerini	N;LOC;PL;PSS3S	gayzerlerinde
+N;LGSPEC1;2P;SG;PRS	kahramansınız	N;ABL;SG;PSS2P	kahramanınızdan
+N;GEN;SG;PSS3S	vişnesinin	N;LGSPEC1;1P;SG;LGSPEC2	vişneymişiz
+N;DAT;SG;PSS1P	sivilcemize	N;GEN;SG;PSS2S	sivilcenin
+N;ACC;PL;PSS3S	rimellerini	N;LOC;SG	rimelde
+N;GEN;SG	dansçının	N;LOC;SG	dansçıda
+N;NOM;PL;PSS2S	dadıların	N;LOC;PL;PSS3S	dadılarında
+N;ACC;PL	alfa sürümlerini	N;NOM;SG	alfa sürümü
+N;ACC;PL;PSS3S	sistemlerini	N;DAT;SG;PSS3S	sistemine
+N;GEN;SG	erojen bölgenin	N;LOC;PL	erojen bölgelerde
+N;NOM;SG	çıkma hâli	N;ABL;SG	çıkma hâlinden
+N;GEN;SG;PSS1P	cibinliğimizin	N;ACC;SG;PSS3S	cibinliğini
+N;GEN;SG	şekerparenin	N;DAT;SG	şekerpareye
+N;ACC;SG	cinsel ilişkiyi	N;ABL;SG	cinsel ilişkiden
+N;LOC;SG;PSS1P	bölümümüzde	N;ABL;PL;PSS3S	bölümlerinden
+N;LGSPEC1;3P;PL;LGSPEC2	süslermiş	N;LGSPEC1;3S;PL;PST	süslerdi
+N;LOC;SG;PSS2P	sebebinizde	N;ABL;SG;PSS2S	sebebinden
+N;GEN;SG;PSS2P	lokumunuzun	N;LGSPEC1;1P;SG;PRS	lokumuz
+N;LGSPEC1;1P;SG;PRS	turşuyuz	N;ACC;PL;PSS3S	turşularını
+N;NOM;SG;PSS3S	dildosu	N;ABL;PL;PSS1P	dildolarımızdan
+N;GEN;PL;PSS2S	gemilerinin	N;LOC;SG	gemide
+N;ACC;PL;PSS3S	çalar saatlerini	N;GEN;PL;PSS3S	çalar saatlerinin
+N;GEN;PL	yarışların	N;NOM;PL	yarışlar
+N;GEN;PL;PSS2P	astronotlarınızın	N;ACC;PL;PSS3S	astronotlarını
+N;ABL;SG	çıbandan	N;ABL;PL	çıbanlardan
+N;NOM;PL;PSS3S	derleyicileri	N;DAT;SG;PSS1P	derleyicimize
+N;DAT;PL;PSS3S	veletlerine	N;DAT;SG;PSS2S	veledine
+N;NOM;PL;PSS2P	bölümleriniz	N;ABL;SG	bölümden
+N;DAT;PL;PSS3S	ideallerine	N;LGSPEC1;2S;PL;LGSPEC2	ideallermişsin
+N;NOM;PL;PSS3S	olayları	N;GEN;PL;PSS2P	olaylarınızın
+N;DAT;SG	kara	N;ACC;PL;PSS2S	karlarını
+N;GEN;SG;PSS2P	dikkatinizin	N;ACC;SG;PSS3S	dikkatini
+N;NOM;SG	davranış	N;GEN;PL;PSS2P	davranışlarınızın
+N;NOM;SG;PSS2S	totemin	N;DAT;PL	totemlere
+N;DAT;SG	belirtili ad tamlamasına	N;GEN;PL	belirtili ad tamlamalarının
+N;LOC;PL;PSS2S	kâğıtlarında	N;DAT;SG	kâğıda
+N;DAT;PL	tebeşirlere	N;GEN;SG	tebeşirin
+N;GEN;PL	öksürük şuruplarının	N;GEN;SG	öksürük şurubunun
+N;NOM;SG	yaprak	N;GEN;PL;PSS1P	yapraklarımızın
+N;ACC;SG	doğruculuğu	N;LOC;SG;PSS1P	doğruculuğumuzda
+N;GEN;PL	tacizlerin	N;GEN;SG	tacizin
+N;DAT;SG;PSS2S	Siyamlı ikizine	N;NOM;SG;PSS2P	Siyamlı ikiziniz
+N;LOC;PL	iyonosferlerde	N;DAT;PL	iyonosferlere
+N;GEN;PL;PSS3S	sağduyularının	N;ACC;PL;PSS2S	sağduyularını
+N;ACC;PL;PSS3S	motorinlerini	N;GEN;PL;PSS3S	motorinlerinin
+N;GEN;SG;PSS3S	sakızının	N;ACC;PL	sakızları
+N;LGSPEC1;2P;PL;PRS	avcılarsınız	N;DAT;PL;PSS2S	avcılarına
+N;LOC;SG	gözlemcide	N;DAT;SG	gözlemciye
+N;GEN;SG	eriğin	N;ACC;SG;PSS2S	eriğini
+N;LOC;PL	patlamalarda	N;ABL;PL	patlamalardan
+N;ACC;SG	işletim sistemini	N;LOC;SG	işletim sisteminde
+N;ACC;PL;PSS2S	farelerini	N;NOM;PL;PSS2P	fareleriniz
+N;GEN;PL;PSS2P	bluzlularınızın	N;DAT;SG;PSS2P	bluzlunuza
+N;LGSPEC1;3S;SG;LGSPEC2	biseksüelmiş	N;LGSPEC1;3S;PL;LGSPEC2	biseksüellermiş
+N;ACC;SG;PSS2S	fitilini	N;GEN;SG;PSS3S	fitilinin
+N;ACC;SG;PSS3S	kuzgununu	N;ACC;SG;PSS2P	kuzgununuzu
+N;LGSPEC1;2S;SG;PRS	yapışık ikizsin	N;NOM;PL;PSS3S	yapışık ikizleri
+N;NOM;SG;PSS3S	yerküre bilimcisi	N;GEN;SG;PSS2P	yerküre bilimcinizin
+N;GEN;SG;PSS1P	vaktimizin	N;LOC;SG;PSS2P	vaktinizde
+N;LOC;PL	içbükey dörtgenlerde	N;GEN;PL	içbükey dörtgenlerin
+N;DAT;PL	yorganlara	N;DAT;SG	yorgana
+N;NOM;SG;PSS3S	yönü	N;NOM;SG;PSS2S	yönün
+N;LOC;PL;PSS1P	bardaklarımızda	N;LOC;SG;PSS2S	bardağında
+N;LGSPEC1;2S;PL;PRS	başrahiplersin	N;GEN;SG;PSS2S	başrahibinin
+N;DAT;SG	yıldırıma	N;DAT;SG;PSS3S	yıldırımına
+N;DAT;PL	bezdirilere	N;ACC;PL	bezdirileri
+N;NOM;PL;PSS2S	arpaların	N;GEN;PL;PSS1P	arpalarımızın
+N;LGSPEC1;3P;SG;PST	mandalinaydılar	N;LOC;SG	mandalinada
+N;ABL;PL	çıplaklıklardan	N;ABL;SG	çıplaklıktan
+N;ACC;SG	kandil simidini	N;ABL;PL	kandil simitlerinden
+N;DAT;SG;PSS3S	bacasına	N;DAT;SG;PSS1P	bacamıza
+N;LOC;PL	azınlıklarda	N;ABL;PL	azınlıklardan
+N;NOM;SG;PSS2P	sinagogunuz	N;GEN;SG;PSS2P	sinagogunuzun
+N;ACC;SG;PSS2P	dış ağınızı	N;LOC;SG;PSS3S	dış ağında
+N;ABL;SG	civcivden	N;LOC;SG	civcivde
+N;ABL;SG	kefaldan	N;ACC;SG;PSS2S	kefalını
+N;GEN;PL	bulunmaların	N;ABL;PL	bulunmalardan
+N;ACC;PL	börekleri	N;GEN;PL;PSS2S	böreklerinin
+N;NOM;PL	hiper bağlar	N;LOC;PL	hiper bağlarda
+N;LGSPEC1;2P;SG;LGSPEC2	fizikçiymişsiniz	N;LGSPEC1;1P;SG;LGSPEC2	fizikçiymişiz
+N;ACC;SG;PSS3S	ritmini	N;LOC;PL;PSS2S	ritimlerinde
+N;DAT;PL;PSS1P	kartlarımıza	N;LOC;SG;PSS2P	kartınızda
+N;ACC;SG	telefon rehberini	N;LOC;SG	telefon rehberinde
+N;NOM;PL;PSS1P	balık adamlarımız	N;LGSPEC1;1P;SG;LGSPEC2	balık adammışız
+N;GEN;PL	narkotiklerin	N;LOC;SG;PSS2P	narkotiğinizde
+N;ABL;SG;PSS3S	tekrarından	N;NOM;SG;PSS3S	tekrarı
+N;ACC;PL	belirli integralleri	N;ABL;PL	belirli integrallerden
+N;GEN;SG;PSS2P	yörekentinizin	N;NOM;PL;PSS3S	yörekentleri
+N;DAT;SG;PSS3S	yüksüğüne	N;ACC;SG;PSS2P	yüksüğünüzü
+N;LGSPEC1;3S;SG;PST	gerzekti	N;ACC;SG;PSS3S	gerzeğini
+N;DAT;SG;PSS3S	sıpasına	N;ACC;PL;PSS1P	sıpalarımızı
+N;ACC;SG	taneyi	N;LOC;SG	tanede
+N;GEN;SG	basın konferansının	N;ABL;PL	basın konferanslarından
+N;GEN;SG;PSS2S	karantinanın	N;DAT;PL;PSS2P	karantinalarınıza
+N;ACC;PL;PSS2P	eziyetlerinizi	N;NOM;SG;PSS3S	eziyeti
+N;LGSPEC1;3S;PL;LGSPEC2	şelalelermiş	N;LGSPEC1;3P;PL;PRS	şelalelerdir
+N;ABL;SG;PSS2P	kartalınızdan	N;ABL;SG;PSS3S	kartalından
+N;NOM;SG;PSS1P	madamımız	N;GEN;PL;PSS1P	madamlarımızın
+N;LOC;SG	iğdede	N;ACC;SG	iğdeyi
+N;DAT;SG;PSS2S	götüne	N;LGSPEC1;3P;SG;LGSPEC2	götmüşler
+N;ABL;PL	sumaklardan	N;GEN;SG;PSS2S	sumağının
+N;ACC;SG;PSS2P	bağınızı	N;LGSPEC1;3P;PL;PST	bağlardı
+N;ABL;PL	sözdizimsel şekerlerden	N;GEN;PL	sözdizimsel şekerlerin
+N;GEN;PL	iç gezegenlerin	N;ACC;PL	iç gezegenleri
+N;ACC;PL;PSS1P	bilgilerimizi	N;DAT;SG;PSS3S	bilgisine
+N;LOC;PL	validelerde	N;GEN;SG	validenin
+N;DAT;SG;PSS1P	paskalyamıza	N;ACC;PL;PSS3S	paskalyalarını
+N;ABL;PL;PSS2P	anasızlıklarınızdan	N;NOM;PL	anasızlıklar
+N;ACC;PL	Bengal kaplanlarını	N;GEN;PL	Bengal kaplanlarının
+N;DAT;PL	seks pozisyonlarına	N;ACC;SG	seks pozisyonunu
+N;ABL;SG	yağmurdan	N;ABL;SG;PSS3S	yağmurundan
+N;GEN;PL	bakireliklerin	N;LOC;PL	bakireliklerde
+N;ABL;PL	ikizkenar dik üçgenlerden	N;NOM;PL	ikizkenar dik üçgenler
+N;ACC;SG	çokgeni	N;ABL;SG	çokgenden
+N;DAT;PL;PSS1P	gözlükçülerimize	N;GEN;SG;PSS2S	gözlükçünün
+N;LOC;PL	etkilerde	N;DAT;SG	etkiye
+N;LOC;PL;PSS1P	totemcilerimizde	N;LGSPEC1;3P;PL;LGSPEC2	totemcilermiş
+N;ACC;SG	yüzük parmağını	N;GEN;SG	yüzük parmağının
+N;GEN;SG	şafağın	N;LOC;SG;PSS3S	şafağında
+N;LOC;PL	paleoantropolojilerde	N;LOC;SG	paleoantropolojide
+N;NOM;SG;PSS2P	en büyük ortak böleniniz	N;ABL;SG;PSS3S	en büyük ortak böleninden
+N;NOM;SG	ikizkenar dik üçgen	N;ACC;SG	ikizkenar dik üçgeni
+N;ABL;PL;PSS2P	bilyelerinizden	N;LGSPEC1;2P;SG;LGSPEC2	bilyeymişsiniz
+N;NOM;PL;PSS2P	içgüdüleriniz	N;LOC;SG;PSS3S	içgüdüsünde
+N;DAT;SG	cacığa	N;ACC;PL	cacıkları
+N;ABL;PL	uzay mekiklerinden	N;DAT;PL	uzay mekiklerine
+N;GEN;SG;PSS1P	samurumuzun	N;LOC;SG;PSS2P	samurunuzda
+N;LOC;PL;PSS3S	edebiyatlarında	N;ABL;PL;PSS2S	edebiyatlarından
+N;LOC;PL	güçlüklerde	N;ABL;SG	güçlükten
+N;ACC;PL;PSS1P	barışlarımızı	N;DAT;PL	barışlara
+N;NOM;PL	abacılar	N;LGSPEC1;3S;SG;PST	abacıydı
+N;DAT;SG;PSS2P	döneminize	N;ACC;PL;PSS1P	dönemlerimizi
+N;GEN;SG;PSS3S	jiletinin	N;ACC;PL;PSS2P	jiletlerinizi
+N;ACC;SG;PSS2S	eğlenceni	N;ABL;SG;PSS3S	eğlencesinden
+N;LGSPEC1;2P;SG;LGSPEC2	ilklendirmeymişsiniz	N;LGSPEC1;1S;SG;PST	ilklendirmeydim
+N;ABL;SG	gözlemciden	N;LOC;PL	gözlemcilerde
+N;DAT;SG;PSS2S	odacına	N;LGSPEC1;1S;PL;PRS	odacılarım
+N;ABL;SG	azınlıktan	N;NOM;SG	azınlık
+N;LOC;SG;PSS3S	yardımseverliğinde	N;ABL;PL;PSS1P	yardımseverliklerimizden
+N;ABL;PL	vasiyetlerden	N;DAT;PL	vasiyetlere
+N;LGSPEC1;1S;PL;PRS	çetelerim	N;DAT;SG	çeteye
+N;ACC;PL	bilgisayar korsanlarını	N;ACC;SG	bilgisayar korsanını
+N;DAT;SG;PSS2P	oyuncağınıza	N;DAT;PL;PSS2P	oyuncaklarınıza
+N;DAT;SG;PSS3S	işkencecisine	N;ACC;PL;PSS2S	işkencecilerini
+N;ABL;PL;PSS2S	saçlarından	N;NOM;PL;PSS2S	saçların
+N;NOM;PL	yatay asimptotlar	N;NOM;SG;PSS2P	yatay asimptotunuz
+N;GEN;SG	elma suyunun	N;LOC;PL	elma sularında
+N;ACC;SG;PSS2P	okulunuzu	N;DAT;SG;PSS2P	okulunuza
+N;LOC;PL;PSS1P	yastıklarımızda	N;LOC;SG;PSS2S	yastığında
+N;LGSPEC1;2S;SG;PRS	kasidesin	N;NOM;SG;PSS2S	kasiden
+N;LGSPEC1;1S;PL;LGSPEC2	eğlencelermişim	N;LGSPEC1;3P;PL;PST	eğlencelerdi
+N;ABL;PL	masalardan	N;NOM;PL;PSS3S	masaları
+N;NOM;PL;PSS1P	aşurelerimiz	N;GEN;SG;PSS2P	aşurenizin
+N;DAT;SG	rebetikoya	N;GEN;PL	rebetikoların
+N;ABL;SG	sünnet derisinden	N;ACC;PL	sünnet derilerini
+N;ACC;SG	böcekbilimi	N;GEN;PL	böcekbilimlerin
+N;DAT;PL;PSS2P	mazotlarınıza	N;GEN;PL;PSS2S	mazotlarının
+N;LOC;PL	türevlerde	N;GEN;SG	türevin
+N;GEN;SG	kır pidesinin	N;ABL;SG	kır pidesinden
+N;GEN;SG	soylunun	N;DAT;SG	soyluya
+N;NOM;SG	aba güreşi	N;ABL;PL	aba güreşlerinden
+N;NOM;SG	tamlayan hali	N;GEN;PL	tamlayan hallerinin
+N;NOM;PL	nüfus sayımları	N;ABL;PL	nüfus sayımlarından
+N;GEN;PL;PSS2S	mikrofiberlerinin	N;ABL;SG;PSS2S	mikrofiberinden
+N;NOM;PL	limonlar	N;GEN;PL;PSS2P	limonlarınızın
+N;DAT;SG;PSS2S	havluna	N;GEN;SG;PSS2P	havlunuzun
+N;NOM;SG;PSS1P	bayılmamız	N;ACC;SG;PSS3S	bayılmasını
+N;DAT;PL;PSS1P	doktorlarımıza	N;DAT;SG;PSS2P	doktorunuza
+N;ABL;SG;PSS3S	kategorisinden	N;ACC;PL;PSS1P	kategorilerimizi
+N;LOC;PL	entomolojilerde	N;ABL;PL	entomolojilerden
+N;ACC;SG;PSS1P	vaziyetimizi	N;ABL;PL;PSS3S	vaziyetlerinden
+N;NOM;SG;PSS1P	izleyicimiz	N;NOM;PL;PSS3S	izleyicileri
+N;ABL;SG	dededen	N;LOC;PL	dedelerde
+N;LOC;PL;PSS1P	şerbetçilerimizde	N;LGSPEC1;3S;PL;LGSPEC2	şerbetçilermiş
+N;ABL;SG;PSS3S	sağlayıcısından	N;ACC;PL	sağlayıcıları
+N;NOM;SG	boğa	N;NOM;PL	boğalar
+N;ABL;SG;PSS1P	hastanemizden	N;ABL;PL	hastanelerden
+N;ACC;SG;PSS2P	afiyetinizi	N;GEN;SG	afiyetin
+N;LOC;PL	boyunlarda	N;DAT;PL	boyunlara
+N;ACC;SG;PSS1P	brokolimizi	N;ACC;PL;PSS2S	brokolilerini
+N;NOM;PL	kantolar	N;ACC;SG	kantoyu
+N;GEN;PL;PSS1P	kolejlerimizin	N;DAT;SG;PSS2S	kolejine
+N;ACC;SG	maskeli isketeyi	N;GEN;SG	maskeli isketenin
+N;ABL;PL	şeftalilerden	N;GEN;PL	şeftalilerin
+N;ABL;SG;PSS2S	teşhirinden	N;ACC;PL;PSS3S	teşhirlerini
+N;DAT;SG	değişikliğe	N;ABL;PL	değişikliklerden
+N;DAT;SG	yazara	N;GEN;PL	yazarların
+N;GEN;SG;PSS1P	indirimimizin	N;NOM;PL;PSS2S	indirimlerin
+N;DAT;SG	acıya	N;GEN;SG	acının
+N;LOC;SG;PSS2S	tepkimende	N;GEN;SG;PSS1P	tepkimemizin
+N;ACC;PL;PSS2P	değişkenlerinizi	N;LOC;SG;PSS2P	değişkeninizde
+N;ABL;PL	entomolojilerden	N;LOC;PL	entomolojilerde
+N;GEN;SG	pompanın	N;NOM;SG	pompa
+N;ABL;PL;PSS1P	cenuplarımızdan	N;ACC;SG;PSS2S	cenubunu
+N;ABL;SG	yol arkadaşından	N;NOM;PL	yol arkadaşları
+N;DAT;SG;PSS2S	aşurene	N;LOC;SG;PSS2P	aşurenizde
+N;NOM;SG;PSS2P	pipiniz	N;GEN;PL;PSS3S	pipilerinin
+N;ABL;PL;PSS2P	kuşlarınızdan	N;ABL;SG;PSS1P	kuşumuzdan
+N;LGSPEC1;3S;SG;PST	akşamdan kalmaydı	N;LGSPEC1;3P;PL;PRS	akşamdan kalmalardır
+N;GEN;PL	marmelatların	N;LOC;SG	marmelatta
+N;LOC;SG	incirde	N;GEN;SG;PSS3S	incirinin
+N;ABL;PL;PSS2S	meyhanelerinden	N;GEN;SG;PSS2S	meyhanenin
+N;NOM;SG;PSS1P	cemaatimiz	N;GEN;SG	cemaatin
+N;GEN;SG;PSS2P	yonganızın	N;ABL;SG;PSS2P	yonganızdan
+N;DAT;SG	anahtarlığa	N;NOM;PL	anahtarlıklar
+N;DAT;PL	işgüçlerine	N;ACC;SG	işgücünü
+N;LGSPEC1;1P;SG;PRS	erkeceyiz	N;DAT;SG;PSS3S	erkeceyine
+N;LOC;SG	bezdiride	N;ABL;PL	bezdirilerden
+N;ACC;PL;PSS2P	çarmıhlarınızı	N;GEN;PL	çarmıhların
+N;NOM;SG;PSS1P	aygıtımız	N;DAT;SG	aygıta
+N;ACC;PL	anahtar sözcükleri	N;NOM;SG	anahtar sözcük
+N;ACC;SG	sera etkisini	N;LOC;SG	sera etkisinde
+N;ACC;SG	idadiyi	N;GEN;PL	idadilerin
+N;LOC;PL	Siyamlı ikizlerde	N;DAT;SG;PSS2P	Siyamlı ikizinize
+N;DAT;PL;PSS2S	namazlarına	N;GEN;SG	namazın
+N;GEN;SG;PSS2S	delinin	N;LGSPEC1;2S;PL;PRS	delilersin
+N;DAT;PL	röportajlara	N;GEN;PL;PSS2P	röportajlarınızın
+N;DAT;PL	lenslere	N;NOM;PL	lensler
+N;ACC;PL	dışbükey dörtgenleri	N;GEN;PL	dışbükey dörtgenlerin
+N;DAT;PL	biralara	N;NOM;PL	biralar
+N;GEN;PL;PSS2S	mıhlarının	N;LOC;SG;PSS1P	mıhımızda
+N;LOC;PL;PSS2S	gündöndülerinde	N;GEN;PL;PSS2P	gündöndülerinizin
+N;ABL;PL;PSS3S	takvimlerinden	N;LOC;PL;PSS3S	takvimlerinde
+N;DAT;SG;PSS2S	vadene	N;GEN;PL;PSS3S	vadelerinin
+N;ACC;SG;PSS3S	endokrin sistemini	N;GEN;SG;PSS2P	endokrin sisteminizin
+N;GEN;PL	sinüslerin	N;NOM;SG	sinüs
+N;LOC;PL;PSS2P	kusmalarınızda	N;NOM;PL;PSS2S	kusmaların
+N;ACC;PL;PSS2P	çoğullarınızı	N;LOC;PL;PSS2S	çoğullarında
+N;GEN;PL	deney tüplerinin	N;ACC;PL	deney tüplerini
+N;GEN;SG	gaganın	N;ACC;PL	gagaları
+N;NOM;PL;PSS2P	yufkalarınız	N;ABL;PL;PSS3S	yufkalarından
+N;LGSPEC1;1S;SG;LGSPEC2	öğretmenmişim	N;ABL;PL;PSS2S	öğretmenlerinden
+N;LOC;SG;PSS2P	musluğunuzda	N;NOM;SG;PSS1P	musluğumuz
+N;ABL;SG	yakuttan	N;ABL;PL	yakutlardan
+N;LGSPEC1;2P;PL;LGSPEC2	irkeneklermişsiniz	N;NOM;SG;PSS3S	irkeneği
+N;ACC;SG	takısız isim tamlamasını	N;ACC;PL	takısız isim tamlamalarını
+N;ABL;SG;PSS1P	lügatçemizden	N;ACC;SG;PSS1P	lügatçemizi
+N;ABL;SG	buluttan	N;ACC;SG	bulutu
+N;DAT;PL	antioksidanlara	N;NOM;PL	antioksidanlar
+N;LOC;PL;PSS3S	maşalarında	N;GEN;PL;PSS2P	maşalarınızın
+N;ABL;SG	doğum kontrolünden	N;GEN;PL	doğum kontrollerinin
+N;DAT;SG;PSS2S	mısrana	N;NOM;SG;PSS1P	mısramız
+N;LGSPEC1;1P;SG;PRS	akrebiz	N;LGSPEC1;3P;SG;PRS	akrepler
+N;NOM;SG	haşefe	N;DAT;PL;PSS3S	haşefelerine
+N;ABL;PL;PSS2P	şeylerinizden	N;LGSPEC1;3S;PL;PRS	şeyler
+N;LOC;SG	geride	N;GEN;SG;PSS2S	gerinin
+N;LOC;PL;PSS3S	öçlerinde	N;NOM;PL	öçler
+N;ACC;PL;PSS1P	papazlarımızı	N;LGSPEC1;1P;PL;PRS	papazlarız
+N;GEN;SG	lenf sisteminin	N;ABL;SG	lenf sisteminden
+N;ACC;PL	gökadaları	N;ACC;SG	gökadayı
+N;NOM;PL	sosyal paylaşım Web siteleri	N;ACC;SG	sosyal paylaşım Web sitesini
+N;DAT;SG	öksürük şurubuna	N;NOM;SG	öksürük şurubu
+N;LOC;PL	surelerde	N;ABL;SG	sureden
+N;NOM;SG	şampiyonluk	N;GEN;SG	şampiyonluğun
+N;GEN;PL;PSS1P	sinagoglarımızın	N;DAT;SG;PSS1P	sinagogumuza
+N;NOM;SG	plektrum	N;ABL;PL;PSS2P	plektrumlarınızdan
+N;NOM;SG	kutlama	N;ACC;PL	kutlamaları
+N;LOC;PL;PSS2S	pusulalarında	N;ABL;SG;PSS3S	pusulasından
+N;ABL;PL	keşkeklerden	N;ACC;SG	keşkeği
+N;ABL;PL	Bengal kaplanlarından	N;ABL;SG	Bengal kaplanından
+N;GEN;PL;PSS2P	ormanlarınızın	N;DAT;SG;PSS1P	ormanımıza
+N;ABL;SG;PSS2S	teklifinden	N;LGSPEC1;1P;SG;PST	tekliftik
+N;NOM;PL	sekizgenler	N;GEN;SG	sekizgenin
+N;DAT;SG;PSS2P	odağınıza	N;GEN;PL;PSS2P	odaklarınızın
+N;LOC;PL;PSS1P	hayırseverlerimizde	N;DAT;SG;PSS1P	hayırseverimize
+N;DAT;PL	jaguarlara	N;ABL;SG	jaguardan
+N;LOC;SG	fondötende	N;ABL;PL	fondötenlerden
+N;LOC;PL	kitap kurtlarında	N;GEN;PL	kitap kurtlarının
+N;NOM;SG	fikoloji	N;LOC;SG	fikolojide
+N;ABL;PL	jaguarlardan	N;NOM;SG	jaguar
+N;ABL;PL;PSS1P	yağlayıcılarımızdan	N;DAT;PL;PSS1P	yağlayıcılarımıza
+N;ACC;SG;PSS2P	gişenizi	N;NOM;PL;PSS2P	gişeleriniz
+N;LGSPEC1;2S;PL;LGSPEC2	serverlermişsin	N;LGSPEC1;3S;PL;PRS	serverler
+N;LOC;PL;PSS3S	çubuklarında	N;DAT;SG;PSS2S	çubuğuna
+N;GEN;PL	veri tipilerin	N;ABL;PL	veri tipilerden
+N;ACC;SG	jaguarı	N;LOC;PL	jaguarlarda
+N;GEN;SG;PSS2P	cevabınızın	N;LOC;SG;PSS2P	cevabınızda
+N;LGSPEC1;1P;PL;PRS	palyaçolarız	N;GEN;SG;PSS3S	palyaçosunun
+N;ABL;PL	mürekkep balıklarından	N;NOM;SG	mürekkep balığı
+N;LGSPEC1;3S;PL;PRS	balamozlar	N;ACC;SG;PSS3S	balamozunu
+N;ABL;PL;PSS3S	dilsizliklerinden	N;ABL;PL;PSS1P	dilsizliklerimizden
+N;ACC;SG	masa örtüsünü	N;DAT;SG	masa örtüsüne
+N;LOC;SG;PSS3S	aynştaynyumunda	N;ABL;PL	aynştaynyumlardan
+N;ACC;PL	kaderleri	N;NOM;PL;PSS2P	kaderleriniz
+N;LGSPEC1;3S;SG;LGSPEC2	manaymış	N;ACC;PL	manaları
+N;NOM;SG	erojen bölge	N;GEN;PL	erojen bölgelerin
+N;ACC;PL;PSS2S	utlarını	N;ABL;SG;PSS2P	udunuzdan
+N;ACC;PL	etekleri	N;ACC;SG;PSS3S	eteğini
+N;NOM;PL;PSS2S	savaşçıların	N;GEN;SG;PSS2P	savaşçınızın
+N;NOM;PL	mikrofonlar	N;LOC;PL	mikrofonlarda
+N;LGSPEC1;1P;SG;PST	neneydik	N;NOM;SG;PSS3S	nenesi
+N;NOM;SG	elma suyu	N;LOC;SG	elma suyunda
+N;DAT;PL;PSS3S	sessizliklerine	N;DAT;SG;PSS2P	sessizliğinize
+N;DAT;PL;PSS2S	türevlerine	N;LOC;PL;PSS2S	türevlerinde
+N;NOM;SG;PSS2P	kozmonotunuz	N;DAT;PL;PSS2S	kozmonotlarına
+N;ABL;PL	yazılardan	N;GEN;PL	yazıların
+N;ABL;PL;PSS2P	iç ağlarınızdan	N;LOC;PL;PSS2S	iç ağlarında
+N;NOM;SG;PSS2P	anahtar sözcüğünüz	N;DAT;PL;PSS3S	anahtar sözcüklerine
+N;LOC;SG	uzuneşekde	N;ACC;PL	uzuneşekleri
+N;DAT;PL;PSS3S	sunucularına	N;ACC;PL;PSS2P	sunucularınızı
+N;LOC;PL;PSS2P	lehçelerinizde	N;GEN;PL;PSS1P	lehçelerimizin
+N;DAT;PL;PSS2S	üstverilerine	N;LOC;SG	üstveride
+N;GEN;PL	öçlerin	N;ACC;SG;PSS3S	öcünü
+N;ABL;SG;PSS2S	ablandan	N;DAT;PL;PSS2S	ablalarına
+N;ACC;PL	kene sineklerini	N;LOC;PL	kene sineklerinde
+N;ABL;PL;PSS2S	küvetlerinden	N;NOM;PL	küvetler
+N;NOM;PL	sınırlı integraller	N;GEN;PL;PSS2P	sınırlı integrallerinizin
+N;ACC;SG;PSS1P	mimari desenimizi	N;NOM;PL;PSS3S	mimari desenleri
+N;NOM;PL;PSS1P	mikroplarımız	N;GEN;PL	mikropların
+N;ACC;SG	tecridi	N;ABL;PL	tecritlerden
+N;NOM;PL;PSS2S	sitelerin	N;ABL;PL;PSS1P	sitelerimizden
+N;LGSPEC1;3S;PL;PRS	şırıngalar	N;LGSPEC1;1S;PL;PST	şırıngalardım
+N;LOC;SG;PSS2S	ebediyetinde	N;ABL;SG;PSS1P	ebediyetimizden
+N;ABL;PL	kervansaraylardan	N;GEN;SG	kervansarayın
+N;GEN;SG	midyenin	N;LOC;PL;PSS3S	midyelerinde
+N;ABL;SG	iklim değişikliğinden	N;DAT;PL	iklim değişikliklerine
+N;GEN;SG;PSS2S	bankanın	N;LOC;SG;PSS2P	bankanızda
+N;LGSPEC1;1S;SG;LGSPEC2	öyküymüşüm	N;LGSPEC1;3P;SG;PRS	öyküler
+N;LOC;SG	gözlemcide	N;ACC;PL	gözlemcileri
+N;ABL;SG;PSS2P	sürüngeninizden	N;ABL;SG;PSS3S	sürüngeninden
+N;GEN;SG;PSS2S	gişenin	N;ACC;SG	gişeyi
+N;ACC;SG	engizisyonu	N;GEN;SG	engizisyonun
+N;GEN;PL	hastanelerin	N;ACC;PL;PSS3S	hastanelerini
+N;LOC;PL;PSS1P	kebaplarımızda	N;GEN;PL;PSS3S	kebaplarının
+N;ABL;SG;PSS2P	küçük parmağınızdan	N;ACC;SG;PSS1P	küçük parmağımızı
+N;DAT;PL;PSS3S	dişlerine	N;ACC;SG;PSS2P	dişinizi
+N;LOC;PL;PSS1P	yalın durumlarımızda	N;ACC;SG;PSS2S	yalın durumunu
+N;LGSPEC1;3S;PL;PRS	yaralar	N;NOM;SG	yara
+N;ABL;SG	çıplaklıktan	N;DAT;PL	çıplaklıklara
+N;GEN;SG	kravatın	N;DAT;SG;PSS3S	kravatına
+N;GEN;PL;PSS2S	önlerinin	N;LOC;SG;PSS3S	önünde
+N;DAT;PL;PSS2P	midyelerinize	N;NOM;PL	midyeler
+N;GEN;PL	prezervatiflerin	N;DAT;SG;PSS2P	prezervatifinize
+N;ABL;PL;PSS2P	ağıtlarınızdan	N;GEN;SG;PSS3S	ağıdının
+N;GEN;PL	vasiyetlerin	N;DAT;SG	vasiyete
+N;LOC;SG	bilişsel psikolojide	N;LOC;PL	bilişsel psikolojilerde
+N;NOM;SG	agnostisizm	N;GEN;PL	agnostisizmlerin
+N;GEN;SG;PSS1P	pabucumuzun	N;GEN;SG;PSS3S	pabucunun
+N;ACC;SG	çalışma konseyini	N;GEN;SG	çalışma konseyinin
+N;ABL;SG	yirmigenden	N;DAT;SG	yirmigene
+N;LOC;PL;PSS2S	kireçlerinde	N;NOM;PL;PSS2P	kireçleriniz
+N;NOM;SG;PSS3S	gerisi	N;ACC;PL;PSS2S	gerilerini
+N;NOM;PL	armağanlar	N;GEN;PL	armağanların
+N;DAT;PL	gefirofobilere	N;LOC;SG	gefirofobide
+N;LOC;SG	sentaksta	N;ACC;PL	sentaksları
+N;ACC;SG	avizeyi	N;GEN;SG;PSS2P	avizenizin
+N;ABL;SG	elma suyundan	N;NOM;PL	elma suları
+N;NOM;SG	paskalya tavşanı	N;NOM;PL	paskalya tavşanları
+N;ABL;PL;PSS1P	dirim bilimcilerimizden	N;DAT;SG;PSS2P	dirim bilimcinize
+N;ABL;SG	kurabiyeden	N;NOM;SG	kurabiye
+N;DAT;PL	anneliklere	N;LOC;PL	anneliklerde
+N;GEN;PL	klatratların	N;NOM;SG;PSS2S	klatratın
+N;LOC;PL;PSS2P	öğretmenlerinizde	N;GEN;SG;PSS1P	öğretmenimizin
+N;ACC;PL	karanlık maddeleri	N;ABL;SG	karanlık maddeden
+N;NOM;PL	iguanalar	N;NOM;SG	iguana
+N;LGSPEC1;2P;SG;LGSPEC2	iffetmişsiniz	N;LOC;PL;PSS2S	iffetlerinde
+N;NOM;SG;PSS3S	bozayısı	N;LGSPEC1;3P;SG;PRS	bozayılar
+N;LOC;PL;PSS1P	bankalarımızda	N;GEN;PL;PSS3S	bankalarının
+N;GEN;PL	monarşilerin	N;DAT;SG	monarşiye
+N;NOM;PL	kavimler	N;ACC;SG;PSS2P	kavminizi
+N;LOC;SG;PSS1P	homurdanmamızda	N;LOC;SG;PSS2S	homurdanmanda
+N;ABL;PL	eylemlerden	N;GEN;PL	eylemlerin
+N;GEN;SG;PSS1P	vilayetimizin	N;GEN;PL;PSS3S	vilayetlerinin
+N;ACC;SG;PSS3S	seçmenini	N;LGSPEC1;2S;SG;LGSPEC2	seçmenmişsin
+N;ABL;PL	hesap makinelerinden	N;GEN;SG	hesap makinesinin
+N;LGSPEC1;3S;SG;PRS	bacı	N;LGSPEC1;1S;SG;LGSPEC2	bacıymışım
+N;ACC;PL;PSS3S	sayfalandırmalarını	N;ACC;PL;PSS2S	sayfalandırmalarını
+N;DAT;SG;PSS3S	şafağına	N;GEN;SG;PSS1P	şafağımızın
+N;GEN;SG;PSS2P	kaderinizin	N;DAT;PL;PSS2P	kaderlerinize
+N;GEN;PL	telefon rehberlerinin	N;ACC;SG	telefon rehberini
+N;GEN;PL	optik karakter tanımalarının	N;NOM;PL	optik karakter tanımaları
+N;DAT;PL	kalınlara	N;GEN;PL	kalınların
+N;LOC;PL;PSS1P	zeytinlerimizde	N;GEN;PL;PSS2P	zeytinlerinizin
+N;ACC;SG	bazaltı	N;ABL;SG;PSS3S	bazaltından
+N;ABL;SG;PSS2S	erkeneğinden	N;LOC;PL;PSS3S	erkeneklerinde
+N;LGSPEC1;3S;SG;LGSPEC2	körmüş	N;LGSPEC1;3S;PL;PST	körlerdi
+N;ACC;PL;PSS2S	taşaklarını	N;GEN;PL	taşakların
+N;LGSPEC1;3S;SG;PRS	kist	N;DAT;PL;PSS2P	kistlerinize
+N;NOM;PL;PSS2S	süspansuarların	N;DAT;PL;PSS2S	süspansuarlarına
+N;LGSPEC1;3P;PL;PRS	çiçelerdir	N;LGSPEC1;3S;PL;PST	çiçelerdi
+N;DAT;SG	boynuz sineği deri yangısına	N;ABL;PL	boynuz sineği deri yangılarından
+N;GEN;SG;PSS3S	götünün	N;GEN;PL;PSS1P	götlerimizin
+N;GEN;PL;PSS2S	karılarının	N;ABL;SG;PSS2S	karından
+N;DAT;PL	fahişeliklere	N;ACC;PL	fahişelikleri
+N;DAT;PL;PSS1P	lisanlarımıza	N;LOC;PL;PSS1P	lisanlarımızda
+N;NOM;PL;PSS2S	zayıf istemcilerin	N;DAT;PL;PSS2P	zayıf istemcilerinize
+N;LGSPEC1;3S;PL;PRS	vahalar	N;GEN;SG	vahanın
+N;DAT;PL	ekinokslara	N;ABL;SG	ekinokstan
+N;NOM;PL;PSS2P	sürtüklükleriniz	N;ABL;PL;PSS2S	sürtüklüklerinden
+N;ABL;SG	gökdelenden	N;GEN;PL	gökdelenlerin
+N;NOM;SG;PSS2P	striptiziniz	N;ACC;PL;PSS2P	striptizlerinizi
+N;LGSPEC1;2S;PL;PRS	modellersin	N;ABL;SG;PSS3S	modelinden
+N;ABL;PL	cimcimelerden	N;NOM;SG	cimcime
+N;LOC;SG	çeyrekte	N;DAT;SG	çeyreğe
+N;ABL;SG	zarftan	N;ACC;SG	zarfı
+N;LGSPEC1;3P;SG;PST	dernektiler	N;LOC;PL	derneklerde
+N;ABL;SG	gökadadan	N;ACC;SG	gökadayı
+N;GEN;SG;PSS2P	memenizin	N;GEN;SG;PSS2S	memenin
+N;GEN;PL;PSS2P	yasaklarınızın	N;ACC;SG;PSS1P	yasağımızı
+N;LOC;SG	otizmde	N;ABL;PL	otizmlerden
+N;LOC;PL;PSS1P	sahnelerimizde	N;ACC;PL	sahneleri
+N;DAT;SG;PSS3S	cezeriyesine	N;NOM;PL;PSS2S	cezeriyelerin
+N;LOC;PL;PSS1P	saksocularımızda	N;LGSPEC1;1S;SG;LGSPEC2	saksocuymuşum
+N;ABL;SG;PSS2S	solucanından	N;ACC;PL	solucanları
+N;LOC;PL	alfabelerde	N;ABL;SG	alfabede
+N;GEN;SG;PSS3S	frizbisinin	N;NOM;SG;PSS2P	frizbiniz
+N;ACC;SG;PSS3S	bacanağını	N;ACC;PL	bacanakları
+N;GEN;PL	hafıza çubuklarının	N;LOC;PL	hafıza çubuklarında
+N;NOM;PL;PSS2S	albatrosların	N;GEN;PL;PSS3S	albatroslarının
+N;ACC;PL;PSS3S	bacalarını	N;ACC;SG;PSS1P	bacamızı
+N;GEN;PL	baharların	N;ACC;PL	baharları
+N;DAT;PL	abajurculuklara	N;ABL;SG	abajurculuktan
+N;ABL;PL;PSS3S	ebelerinden	N;LOC;PL;PSS2S	ebelerinde
+N;ABL;PL;PSS2S	çizgili sineklerinden	N;ABL;SG;PSS2S	çizgili sineğinden
+N;LGSPEC1;2S;SG;PRS	mantisin	N;LGSPEC1;2P;SG;LGSPEC2	mantiymişsiniz
+N;NOM;PL;PSS2P	kraliçelikleriniz	N;NOM;PL	kraliçelikler
+N;LOC;PL;PSS1P	kullanıcılarımızda	N;LGSPEC1;1P;PL;LGSPEC2	kullanıcılarmışız
+N;ABL;SG;PSS1P	akvaryumumuzdan	N;ACC;SG;PSS2P	akvaryumunuzu
+N;DAT;PL;PSS2P	çığırtkanlarınıza	N;GEN;PL;PSS2S	çığırtkanlarının
+N;DAT;SG	hayal dünyasına	N;LOC;SG	hayal dünyasında
+N;ABL;PL;PSS1P	aynasızlarımızdan	N;NOM;SG;PSS2P	aynasızınız
+N;ABL;PL;PSS2P	plektrumlarınızdan	N;ACC;SG;PSS2P	plektrumunuzu
+N;DAT;SG	ayrılma hâline	N;GEN;SG	ayrılma hâlinin
+N;DAT;SG	duruma	N;ACC;SG;PSS2S	durumunu
+N;DAT;PL	dirim bilimcilere	N;LGSPEC1;2P;PL;LGSPEC2	dirim bilimcilermişsiniz
+N;LOC;SG	dağlıda	N;NOM;PL	dağlılar
+N;DAT;SG;PSS2P	kastanyetinize	N;LOC;SG	kastanyette
+N;ACC;PL	mango sineklerini	N;GEN;PL	mango sineklerinin
+N;GEN;SG	sıcaklığın	N;DAT;PL	sıcaklıklara
+N;LOC;SG	dışta	N;DAT;SG;PSS2S	dışına
+N;LOC;PL	yarışlarda	N;GEN;PL	yarışların
+N;GEN;SG	sera etkisinin	N;DAT;SG	sera etkisine
+N;ABL;SG;PSS3S	sekmesinden	N;DAT;PL	sekmelere
+N;ABL;SG;PSS2S	kesyapından	N;ACC;SG;PSS3S	kesyapını
+N;LGSPEC1;2S;PL;PST	metreslerdin	N;ABL;SG;PSS2S	metresinden
+N;GEN;PL;PSS2P	klarnetlerinizin	N;GEN;PL;PSS2S	klarnetlerinin
+N;GEN;PL	tuvaletlerin	N;ABL;PL	tuvaletlerden
+N;LOC;PL	kardeşliklerde	N;DAT;PL	kardeşliklere
+N;ABL;SG	paradan	N;ACC;SG	parayı
+N;DAT;PL;PSS3S	sevenlerine	N;ABL;SG;PSS3S	seveninden
+N;ABL;SG;PSS2P	belirli integralinizden	N;ACC;PL;PSS3S	belirli integrallerini
+N;GEN;PL;PSS3S	sorumsuzluklarının	N;ACC;SG;PSS1P	sorumsuzluğumuzu
+N;DAT;SG	kertenkeleye	N;DAT;PL	kertenkelelere
+N;ACC;PL;PSS2S	radarlarını	N;ACC;SG;PSS2P	radarınızı
+N;GEN;PL;PSS2S	beyaz şaraplarının	N;ABL;PL;PSS2S	beyaz şaraplarından
+N;GEN;PL;PSS1P	eksikliklerimizin	N;DAT;PL;PSS3S	eksikliklerine
+N;ACC;PL;PSS2S	aşklarını	N;LOC;SG	aşkta
+N;LGSPEC1;1S;PL;PRS	ninnilerim	N;LGSPEC1;3P;SG;LGSPEC2	ninniymişler
+N;ABL;SG;PSS1P	kağıdımızdan	N;GEN;SG;PSS2P	kağıdınızın
+N;ABL;PL;PSS3S	minberlerinden	N;DAT;PL;PSS2P	minberlerinize
+N;NOM;PL	vuvuzelalar	N;ABL;SG	vuvuzeladan
+N;ACC;PL	kapıları	N;DAT;SG;PSS2S	kapına
+N;ACC;SG;PSS3S	belini	N;GEN;PL;PSS2S	bellerinin
+N;LOC;PL;PSS1P	blogcularımızda	N;GEN;SG	blogcunun
+N;LGSPEC1;2S;PL;PRS	kuyumcularsın	N;NOM;SG;PSS2P	kuyumcunuz
+N;GEN;SG;PSS3S	kolikasının	N;NOM;PL	kolikalar
+N;LOC;SG	zürafada	N;LOC;PL	zürafalarda
+N;NOM;SG	bilişsel psikoloji	N;NOM;PL	bilişsel psikolojiler
+N;DAT;PL;PSS2P	kaslarınıza	N;ABL;SG;PSS3S	kasından
+N;NOM;PL	kalp krizleri	N;GEN;PL	kalp krizlerinin
+N;NOM;PL;PSS2P	yollarınız	N;LGSPEC1;1S;SG;PST	yoldum
+N;NOM;PL;PSS3S	sempozyumları	N;DAT;SG;PSS1P	sempozyumumuza
+N;DAT;PL;PSS2S	mobilyalarına	N;LOC;PL	mobilyalarda
+N;ACC;PL;PSS2P	küllerinizi	N;LOC;SG;PSS2S	külünde
+N;NOM;PL;PSS2P	netleriniz	N;DAT;PL;PSS2P	netlerinize
+N;GEN;PL	nüfusların	N;DAT;PL	nüfuslara
+N;NOM;PL	şiveler	N;ACC;PL;PSS3S	şivelerini
+N;NOM;PL;PSS1P	prostatlarımız	N;GEN;SG;PSS2P	prostatınızın
+N;ACC;SG	koltuğu	N;DAT;PL	koltuklara
+N;DAT;PL	biftekkeklere	N;GEN;PL	biftekkeklerin
+N;LOC;SG	şüphede	N;DAT;SG;PSS3S	şüphesine
+N;LOC;PL;PSS3S	portlarında	N;ABL;PL;PSS1P	portlarımızdan
+N;ABL;PL;PSS2P	çıkmaz sokaklarınızdan	N;LOC;PL;PSS2S	çıkmaz sokaklarında
+N;ABL;PL;PSS2P	papyonlarınızdan	N;GEN;PL;PSS2P	papyonlarınızın
+N;ABL;SG	arzudan	N;LOC;PL;PSS1P	arzularımızda
+N;ABL;SG	bitki biliminden	N;ABL;PL	bitki bilimlerinden
+N;LOC;PL	konveks dörtgenlerde	N;ACC;PL	konveks dörtgenleri
+N;LOC;PL;PSS1P	mantilerimizde	N;ACC;PL;PSS2S	mantilerini
+N;LGSPEC1;1P;PL;PRS	çarlarız	N;LGSPEC1;2P;PL;PRS	çarlarsınız
+N;LOC;PL	menilerde	N;GEN;SG;PSS2S	meninin
+N;LOC;SG	büstte	N;LOC;PL;PSS1P	büstlerimizde
+N;ABL;SG;PSS3S	şehvetinden	N;ACC;SG;PSS2S	şehvetini
+N;LOC;SG	menide	N;ACC;SG;PSS3S	menisini
+N;ACC;SG	ortayı	N;ABL;PL;PSS1P	ortalarımızdan
+N;GEN;SG	kuyunun	N;LOC;PL;PSS2P	kuyularınızda
+N;DAT;SG	çılgınlığa	N;ABL;PL	çılgınlıklardan
+N;NOM;PL	tırtıllar	N;ABL;PL	tırtıllardan
+N;NOM;SG	kimofobi	N;NOM;PL	kimofobiler
+N;NOM;SG	ananas	N;NOM;PL;PSS3S	ananasları
+N;DAT;PL;PSS1P	konseylerimize	N;NOM;PL;PSS3S	konseyleri
+N;DAT;SG	deveye	N;GEN;SG	devenin
+N;LOC;SG;PSS1P	bluzlumuzda	N;GEN;SG;PSS1P	bluzlumuzun
+N;DAT;PL;PSS3S	duvarlarına	N;ACC;SG;PSS2P	duvarınızı
+N;DAT;SG	yemek tarifine	N;GEN;PL	yemek tariflerinin
+N;ACC;PL	sindirim sistemlerini	N;DAT;SG	sindirim sistemine
+N;GEN;PL	laçoların	N;LOC;SG;PSS1P	laçomuzda
+N;ACC;SG	yer elmasını	N;GEN;SG	yer elmasının
+N;DAT;SG	ölümsüzlüğe	N;NOM;SG	ölümsüzlük
+N;ACC;SG	topiği	N;GEN;PL;PSS3S	topiklerinin
+N;ACC;SG;PSS2S	akışını	N;GEN;SG;PSS3S	akışının
+N;GEN;PL;PSS3S	makinelerinin	N;LOC;PL;PSS2S	makinelerinde
+N;LOC;PL;PSS1P	asıllarımızda	N;DAT;PL	asıllara
+N;NOM;PL	vibratörler	N;LOC;SG	vibratörde
+N;ACC;PL	kazmaları	N;ABL;PL;PSS1P	kazmalarımızdan
+N;LOC;SG;PSS1P	bereketimizde	N;LOC;PL;PSS2P	bereketlerinizde
+N;ABL;PL	laternalardan	N;ABL;PL;PSS3S	laternalarından
+N;LOC;PL;PSS2S	çoğullarında	N;GEN;PL;PSS3S	çoğullarının
+N;LOC;SG	mutlak sıfırda	N;ACC;SG;PSS2P	mutlak sıfırınızı
+N;LOC;PL;PSS1P	interfazlarımızda	N;GEN;SG;PSS3S	interfazının
+N;LOC;PL;PSS2P	krizlerinizde	N;LOC;SG;PSS2P	krizinizde
+N;ABL;SG;PSS2S	otomobilciliğinden	N;DAT;SG	otomobilciliğe
+N;LOC;PL	cinsel tacizlerde	N;ACC;SG	cinsel tacizi
+N;GEN;PL;PSS2S	silahlarının	N;ACC;SG;PSS2P	silahınızı
+N;ACC;PL;PSS2S	basketbolcularını	N;ACC;PL	basketbolcuları
+N;GEN;PL	kalabalıkların	N;ACC;SG	kalabalığı
+N;ABL;PL	ölü doğumlardan	N;LOC;PL	ölü doğumlarda
+N;NOM;PL;PSS2P	nosyonlarınız	N;NOM;SG;PSS3S	nosyonu
+N;ACC;SG;PSS2P	pozitif sayınızı	N;DAT;PL;PSS2P	pozitif sayılarınıza
+N;ABL;SG	bellek çubuğundan	N;ABL;PL	bellek çubuklarından
+N;ACC;PL	özel okulları	N;ABL;SG;PSS3S	özel okulundan
+N;ACC;PL;PSS2P	kımızlarınızı	N;GEN;SG	kımızın
+N;DAT;PL;PSS3S	genelevlerine	N;LOC;PL;PSS2S	genelevlerinde
+N;DAT;PL	klinik psikolojilere	N;LOC;PL	klinik psikolojilerde
+N;DAT;SG;PSS1P	şalvarımıza	N;LOC;SG	şalvarda
+N;DAT;SG	otizme	N;LOC;PL	otizmlerde
+N;LGSPEC1;1S;SG;LGSPEC2	aseksüelmişim	N;ACC;PL	aseksüelleri
+N;GEN;SG;PSS2P	yaratmanızın	N;LOC;SG;PSS3S	yaratmasında
+N;DAT;PL;PSS2P	kediciklerinize	N;ACC;PL;PSS2P	kediciklerinizi
+N;GEN;SG	krallığın	N;LOC;SG	krallıkta
+N;ABL;SG;PSS2P	böceğinizden	N;ACC;PL;PSS1P	böceklerimizi
+N;GEN;PL	botaniklerin	N;DAT;PL	botaniklere
+N;LGSPEC1;1P;SG;PRS	otomobiliz	N;LGSPEC1;1S;SG;PRS	otomobilim
+N;ABL;SG	ay çöreğinden	N;ACC;SG	ay çöreğini
+N;LGSPEC1;3P;PL;PRS	zurnalardır	N;NOM;PL;PSS3S	zurnaları
+N;GEN;SG;PSS2P	yüksek fırınınızın	N;LGSPEC1;2P;PL;PRS	yüksek fırınlarsınız
+N;NOM;PL	penisler	N;LOC;SG;PSS3S	penisinde
+N;NOM;SG;PSS2P	savaşınız	N;ACC;SG;PSS1P	savaşımızı
+N;LOC;PL;PSS3S	salonlarında	N;DAT;SG;PSS2P	salonunuza
+N;DAT;SG;PSS2P	düzinenize	N;GEN;PL;PSS2P	düzinelerinizin
+N;ACC;PL	balalaykaları	N;ABL;SG	balalaykadan
+N;LGSPEC1;3P;PL;PRS	maktalardır	N;DAT;SG	maktaya
+N;ABL;PL;PSS3S	domateslerinden	N;ABL;SG	domatesten
+N;ACC;PL	valideleri	N;LOC;SG	validede
+N;GEN;PL	peygamberdevelerinin	N;DAT;PL	peygamberdevelerine
+N;LOC;SG	uzayda	N;NOM;SG;PSS2S	uzayın
+N;DAT;SG;PSS2S	papağanına	N;DAT;PL;PSS2S	papağanlarına
+N;ACC;SG	cesedi	N;DAT;SG	cesede
+N;NOM;SG;PSS2S	çeşnin	N;GEN;SG	çeşninin
+N;GEN;SG;PSS2P	karantinanızın	N;GEN;SG	karantinanın
+N;DAT;PL;PSS3S	üyeliklerine	N;NOM;PL;PSS3S	üyelikleri
+N;LOC;SG;PSS1P	düdüğümüzde	N;GEN;PL;PSS2S	düdüklerinin
+N;ACC;SG;PSS2S	sözcüğünü	N;GEN;PL	sözcüklerin
+N;GEN;SG	rüzgarın	N;ABL;SG	rüzgardan
+N;NOM;PL;PSS3S	pozisyonları	N;NOM;PL;PSS2P	pozisyonlarınız
+N;ACC;PL;PSS3S	sillelerini	N;LOC;SG	sillede
+N;ABL;SG	analitik geometriden	N;ABL;SG;PSS3S	analitik geometrisinden
+N;GEN;SG;PSS3S	eksi sayısının	N;GEN;SG;PSS2P	eksi sayınızın
+N;NOM;SG;PSS3S	şahısı	N;LOC;PL;PSS2S	şahıslarında
+N;DAT;SG;PSS1P	numaralamamamıza	N;LOC;SG;PSS3S	numaralamamasında
+N;ABL;SG	tanjanttan	N;NOM;PL	tanjantlar
+N;LGSPEC1;3S;PL;PST	şapkacılardı	N;ABL;PL;PSS3S	şapkacılarından
+N;LOC;PL;PSS3S	vaziyetlerinde	N;GEN;SG;PSS3S	vaziyetinin
+N;GEN;SG;PSS2P	udunuzun	N;ACC;SG;PSS1P	udumuzu
+N;DAT;PL;PSS2P	hastalıklarınıza	N;GEN;SG;PSS3S	hastalığının
+N;ABL;SG;PSS2S	aktrisinden	N;LGSPEC1;2P;PL;PRS	aktrislersiniz
+N;LOC;PL;PSS1P	hedonizmlerimizde	N;DAT;PL;PSS1P	hedonizmlerimize
+N;DAT;SG;PSS2S	papirüsüne	N;ABL;PL;PSS2P	papirüslerinizden
+N;GEN;SG;PSS2P	penisinizin	N;ABL;SG;PSS2S	penisinden
+N;ACC;PL	düğün pastalarını	N;DAT;PL	düğün pastalarına
+N;NOM;PL;PSS2S	sözlüklerin	N;LGSPEC1;3P;SG;PST	sözlüktüler
+N;DAT;SG;PSS1P	rehberimize	N;ACC;PL;PSS2P	rehberlerinizi
+N;GEN;SG	cacığın	N;ABL;SG	cacıktan
+N;ABL;PL;PSS2P	birincil sürümlerinizden	N;DAT;SG;PSS2S	birincil sürümüne
+N;LGSPEC1;2S;SG;LGSPEC2	ziyaretçiymişsin	N;NOM;SG;PSS2P	ziyaretçiniz
+N;NOM;PL;PSS2S	düldüllerin	N;ABL;SG;PSS2P	düldülünüzden
+N;NOM;PL	nükleotitler	N;ABL;SG	nükleotitten
+N;ABL;SG;PSS2S	mekiğinden	N;DAT;PL;PSS2S	mekiklerine
+N;NOM;PL	abiyeler	N;DAT;SG	abiyeye
+N;LGSPEC1;1S;PL;PRS	insanımsılarım	N;GEN;PL;PSS3S	insanımsılarının
+N;LOC;PL;PSS2S	bokslarında	N;NOM;PL;PSS2S	boksların
+N;LGSPEC1;2P;PL;PST	tabansızlardınız	N;GEN;SG;PSS2P	tabansızınızın
+N;LOC;PL;PSS2P	mevzularınızda	N;NOM;SG;PSS2S	mevzun
+N;GEN;SG	süngünün	N;NOM;PL	süngüler
+N;LGSPEC1;2S;PL;PST	bitimlerdin	N;LGSPEC1;1P;SG;LGSPEC2	bitimmişiz
+N;LOC;SG	sirkte	N;GEN;PL;PSS1P	sirklerimizin
+N;LOC;SG;PSS1P	bankamızda	N;LOC;SG	bankada
+N;ACC;PL;PSS1P	izolasyonlarımızı	N;NOM;PL;PSS1P	izolasyonlarımız
+N;LOC;SG;PSS3S	basınında	N;DAT;PL	basınlara
+N;DAT;PL	kayıklara	N;NOM;SG	kayık
+N;ACC;SG;PSS2S	ahizeni	N;GEN;SG;PSS2S	ahizenin
+N;ABL;PL	iskeletlerden	N;GEN;SG	iskeletin
+N;LGSPEC1;2P;PL;LGSPEC2	nenelermişsiniz	N;LGSPEC1;2P;SG;LGSPEC2	neneymişsiniz
+N;ABL;PL;PSS3S	magmalarından	N;GEN;PL;PSS1P	magmalarımızın
+N;NOM;PL	köpekler	N;ACC;PL	köpekleri
+N;LOC;PL	şuruplarda	N;ABL;PL	şuruplardan
+N;ACC;PL;PSS2P	tanelerinizi	N;ACC;SG	taneyi
+N;DAT;SG	kuvantum bilgisayarına	N;GEN;SG	kuvantum bilgisayarının
+N;DAT;PL	sabit disklere	N;DAT;PL;PSS1P	sabit disklerimize
+N;GEN;PL;PSS1P	hülyalarımızın	N;DAT;PL;PSS2S	hülyalarına
+N;DAT;SG	sağduyuya	N;GEN;SG	sağduyunun
+N;NOM;PL	hacılıklar	N;ACC;SG	hacılığı
+N;ABL;SG;PSS2P	kalıbınızdan	N;LOC;SG	kalıpda
+N;NOM;PL;PSS2P	eceleriniz	N;NOM;PL;PSS2S	ecelerin
+N;NOM;PL;PSS3S	final sınıfları	N;ACC;PL;PSS2P	final sınıflarınızı
+N;LOC;SG	işaret parmağında	N;ACC;PL	işaret parmaklarını
+N;ABL;SG;PSS2P	ortanızdan	N;GEN;SG;PSS3S	ortasının
+N;NOM;SG	konferans	N;NOM;PL	konferanslar
+N;DAT;PL	argolara	N;GEN;SG	argonun
+N;GEN;PL;PSS2S	korkuluklarının	N;DAT;SG;PSS1P	korkuluğumuza
+N;GEN;PL	küleklerin	N;ACC;PL;PSS2S	küleklerini
+N;ACC;PL	istemcileri	N;DAT;SG;PSS1P	istemcimize
+N;LGSPEC1;1S;SG;PRS	hanımım	N;LGSPEC1;3P;PL;PST	hanımlardı
+N;LOC;PL	kosinüslerde	N;ACC;SG	kosinüsü
+N;NOM;SG;PSS2S	birleşik sözcüğün	N;GEN;SG;PSS2S	birleşik sözcüğünün
+N;NOM;SG	ağaç çivi	N;LOC;PL;PSS1P	ağaç çivilerimizde
+N;NOM;PL;PSS2S	tipografyaların	N;DAT;PL;PSS2P	tipografyalarınıza
+N;ACC;SG	doğum gününü	N;LOC;SG	doğum gününde
+N;LOC;SG	donanım tanımlamı dilinde	N;LOC;PL	donanım tanımlamı dillerinde
+N;GEN;PL;PSS1P	laternalarımızın	N;GEN;SG;PSS2P	laternanızın
+N;ACC;SG	kalını	N;GEN;PL	kalınların
+N;LOC;PL	donanım tanımlamı dillerinde	N;NOM;SG	donanım tanımlamı dili
+N;GEN;PL;PSS2P	akrabalarınızın	N;DAT;PL;PSS1P	akrabalarımıza
+N;LGSPEC1;1S;PL;PRS	mümessilliklerim	N;GEN;PL;PSS2P	mümessilliklerinizin
+N;ABL;PL;PSS1P	kızanlarımızdan	N;LOC;SG;PSS2S	kızanında
+N;GEN;SG;PSS2P	uzaktan kumandanızın	N;ABL;PL;PSS3S	uzaktan kumandalarından
+N;GEN;PL;PSS1P	hamtlarımızın	N;GEN;PL;PSS2P	hamtlarınızın
+N;ACC;PL;PSS3S	çıkmaz sokaklarını	N;GEN;PL;PSS2S	çıkmaz sokaklarının
+N;ACC;SG	vitrini	N;GEN;SG;PSS2P	vitrininizin
+N;GEN;PL;PSS3S	kozmonotlarının	N;DAT;PL;PSS2P	kozmonotlarınıza
+N;LGSPEC1;2P;SG;LGSPEC2	yermişsiniz	N;ABL;SG	yerden
+N;GEN;PL	psikiyatristlerin	N;LOC;PL	psikiyatristlerde
+N;NOM;SG;PSS2P	kolaylığınız	N;DAT;PL;PSS2S	kolaylıklarına
+N;GEN;SG	lensin	N;ACC;PL	lensleri
+N;NOM;PL;PSS2P	tipografyalarınız	N;ABL;SG;PSS1P	tipografyamızdan
+N;GEN;PL;PSS2P	evrenlerinizin	N;DAT;PL;PSS1P	evrenlerimize
+N;ACC;SG	şömine kenarını	N;DAT;SG	şömine kenarına
+N;DAT;PL;PSS1P	homurdanmalarımıza	N;LOC;PL;PSS1P	homurdanmalarımızda
+N;ACC;PL	politikaları	N;GEN;SG	politikanın
+N;NOM;PL	çocukluklar	N;ABL;SG	çocukluktan
+N;NOM;SG	börek	N;LOC;PL;PSS1P	böreklerimizde
+N;DAT;PL	polis akademilerine	N;ABL;SG	polis akademisinden
+N;ABL;PL	cemaatlerden	N;GEN;SG;PSS1P	cemaatimizin
+N;ACC;SG	yumurtalığı	N;DAT;PL;PSS2S	yumurtalıklarına
+N;ACC;SG	mezrayı	N;GEN;PL;PSS3S	mezralarının
+N;ABL;PL	geçmişlerden	N;GEN;PL	geçmişlerin
+N;DAT;SG	sinüse	N;ABL;SG	sinüsten
+N;NOM;PL;PSS3S	belleri	N;DAT;PL;PSS1P	bellerimize
+N;GEN;PL;PSS3S	hıçkırıklarının	N;ABL;SG;PSS2P	hıçkırığınızdan
+N;GEN;PL;PSS1P	kerpiçlerimizin	N;GEN;SG	kerpicin
+N;DAT;PL	kirazlara	N;ABL;SG;PSS3S	kirazından
+N;ABL;SG	elektromanyetik kuvvetten	N;LOC;SG	elektromanyetik kuvvette
+N;NOM;SG;PSS3S	şahmerdanı	N;ABL;SG;PSS2P	şahmerdanınızdan
+N;LGSPEC1;3P;SG;PST	evrimdiler	N;LGSPEC1;1S;PL;PST	evrimlerdim
+N;LOC;PL;PSS1P	evcikkıranlarımızda	N;LGSPEC1;3P;SG;LGSPEC2	evcikkıranmışlar
+N;LOC;SG	karanlıkta	N;DAT;SG	karanlığa
+N;LGSPEC1;3P;PL;PST	hahamlardı	N;DAT;SG;PSS2S	hahamına
+N;ABL;PL;PSS1P	öbeklerimizden	N;DAT;PL;PSS1P	öbeklerimize
+N;ACC;PL	açlıkları	N;GEN;PL	açlıkların
+N;ABL;SG;PSS2S	prensinden	N;NOM;SG;PSS2P	prensiniz
+N;GEN;PL	Web sitelerinin	N;ABL;PL	Web sitelerinden
+N;GEN;PL;PSS1P	çizgili sineklerimizin	N;ACC;SG;PSS3S	çizgili sineğini
+N;ACC;SG	idare-i örfîyi	N;NOM;SG	idare-i örfî
+N;DAT;PL	bakirliklere	N;NOM;SG	bakirlik
+N;GEN;PL;PSS3S	haşefelerinin	N;LOC;SG;PSS2S	haşefende
+N;ABL;PL;PSS1P	temsillerimizden	N;GEN;PL;PSS3S	temsillerinin
+N;LOC;PL	müezzinlerde	N;ABL;SG;PSS2P	müezzininizden
+N;LOC;SG	dik üçgende	N;ABL;SG	dik üçgenden
+N;DAT;PL	dutlara	N;NOM;SG	dut
+N;ABL;SG	pandeistten	N;NOM;PL;PSS1P	pandeistlerimiz
+N;ABL;PL	konkav açılardan	N;DAT;SG	konkav açıya
+N;LGSPEC1;2P;PL;PRS	temsilcilersiniz	N;LGSPEC1;2P;PL;LGSPEC2	temsilcilermişsiniz
+N;ACC;SG;PSS2S	sekmeni	N;NOM;SG;PSS2P	sekmeniz
+N;NOM;SG	muğlalık	N;LOC;SG	muğlalıkta
+N;LOC;PL;PSS3S	yanaklarında	N;GEN;PL	yanakların
+N;LOC;SG	mısrada	N;ABL;PL;PSS2S	mısralarından
+N;ACC;SG	musonu	N;DAT;SG	musona
+N;NOM;PL;PSS2P	kolajlarınız	N;ABL;PL	kolajlardan
+N;DAT;PL	çıktılara	N;ACC;SG;PSS3S	çıktısını
+N;GEN;SG	takısız isim tamlamasının	N;NOM;SG	takısız isim tamlaması
+N;NOM;PL;PSS3S	ketçapları	N;NOM;PL	ketçaplar
+N;ACC;PL;PSS2P	değişkenlerinizi	N;GEN;SG;PSS2S	değişkeninin
+N;ABL;SG;PSS1P	havucumuzdan	N;ACC;SG;PSS1P	havucumuzu
+N;ACC;PL	ribozları	N;ABL;PL	ribozlardan
+N;LOC;SG;PSS2S	günebakanında	N;NOM;PL	günebakanlar
+N;DAT;PL	pornolara	N;GEN;SG	pornonun
+N;ACC;SG;PSS1P	gülüşümüzü	N;GEN;PL	gülüşlerin
+N;GEN;PL	hedonistlerin	N;DAT;SG;PSS2S	hedonistine
+N;ABL;PL	bencilliklerden	N;NOM;PL	bencillikler
+N;LOC;SG	güvende	N;ABL;SG;PSS2P	güveninizden
+N;LGSPEC1;2P;PL;LGSPEC2	abacılarmışsınız	N;ABL;PL;PSS2S	abacılarından
+N;ABL;PL;PSS1P	böğürtlenlerimizden	N;ACC;PL;PSS3S	böğürtlenlerini
+N;DAT;SG	babaanneye	N;LOC;PL	babaannelerde
+N;GEN;SG;PSS2P	hormonal sisteminizin	N;ABL;PL;PSS3S	hormonal sistemlerinden
+N;LGSPEC1;1S;PL;LGSPEC2	tozlarmışım	N;DAT;PL;PSS2P	tozlarınıza
+N;ABL;PL;PSS1P	sandviçlerimizden	N;NOM;PL;PSS2S	sandviçlerin
+N;ACC;SG	tercümeyi	N;ABL;PL	tercümelerden
+N;ACC;PL;PSS2P	güreşçilerinizi	N;ACC;PL;PSS1P	güreşçilerimizi
+N;LGSPEC1;3P;SG;LGSPEC2	çapmışlar	N;DAT;SG;PSS2P	çapınıza
+N;LOC;SG	reçelde	N;ABL;PL	reçellerden
+N;LGSPEC1;2S;PL;LGSPEC2	aşçılarmışsın	N;LGSPEC1;1S;PL;PST	aşçılardım
+N;LGSPEC1;2P;SG;PST	omurgaydınız	N;GEN;PL;PSS3S	omurgalarının
+N;NOM;SG;PSS1P	virgülümüz	N;LOC;SG;PSS2P	virgülünüzde
+N;LOC;SG;PSS2S	endoplazmik retikulumunda	N;GEN;PL;PSS1P	endoplazmik retikulumlarımızın
+N;GEN;SG	validenin	N;ABL;SG	valideden
+N;LGSPEC1;2P;PL;LGSPEC2	kistlermişsiniz	N;LGSPEC1;3P;PL;PST	kistlerdi
+N;ACC;SG;PSS2P	mesuliyetinizi	N;DAT;SG;PSS2P	mesuliyetinize
+N;DAT;SG	mango sineğine	N;ACC;PL	mango sineklerini
+N;LGSPEC1;3S;PL;LGSPEC2	çökeleklermiş	N;ABL;SG;PSS1P	çökeleğimizden
+N;DAT;PL;PSS2S	bohçalarına	N;ACC;SG;PSS2P	bohçanızı
+N;GEN;PL;PSS2P	eşiklerinizin	N;LGSPEC1;1P;PL;PRS	eşikleriz
+N;NOM;SG;PSS2P	tahtınız	N;DAT;SG;PSS2P	tahtınıza
+N;LOC;SG;PSS3S	kilisesinde	N;GEN;PL;PSS2P	kiliselerinizin
+N;LGSPEC1;3P;PL;PRS	mallardır	N;LOC;SG;PSS2S	malında
+N;NOM;PL;PSS2S	votkaların	N;ACC;PL;PSS1P	votkalarımızı
+N;LOC;SG;PSS2P	oğlunuzda	N;LGSPEC1;2P;PL;LGSPEC2	oğullarmışsınız
+N;GEN;PL;PSS2S	erimelerinin	N;ACC;PL;PSS3S	erimelerini
+N;ACC;PL	hava yastıklarını	N;GEN;SG	hava yastığının
+N;LGSPEC1;1S;SG;LGSPEC2	çavuşmuşum	N;ABL;SG;PSS2P	çavuşunuzdan
+N;DAT;PL;PSS2P	cevaplarınıza	N;DAT;PL	cevaplara
+N;DAT;SG;PSS1P	jokeyimize	N;GEN;PL;PSS2S	jokeylerinin
+N;LOC;PL	belirtili ad tamlamalarında	N;ABL;SG	belirtili ad tamlamasından
+N;NOM;PL;PSS3S	ehemmiyetsizlikleri	N;ACC;PL;PSS2S	ehemmiyetsizliklerini
+N;NOM;SG;PSS3S	videosu	N;ABL;PL	videolardan
+N;ABL;SG;PSS3S	sapanından	N;LGSPEC1;3S;PL;PRS	sapanlar
+N;NOM;PL;PSS1P	üstdillerimiz	N;ACC;PL;PSS2P	üstdillerinizi
+N;NOM;PL	katakulliler	N;GEN;PL	katakullilerin
+N;GEN;SG;PSS2S	halkının	N;LOC;SG;PSS2S	halkında
+N;DAT;PL	karamellere	N;LOC;SG;PSS2S	karamelinde
+N;ABL;SG;PSS1P	bacamızdan	N;ABL;PL;PSS1P	bacalarımızdan
+N;GEN;SG;PSS2S	dişlekliğiinin	N;ACC;SG;PSS3S	dişlekliğiini
+N;LOC;SG;PSS2P	papazınızda	N;ABL;PL;PSS3S	papazlarından
+N;GEN;PL;PSS1P	sitelerimizin	N;ABL;PL	sitelerden
+N;DAT;SG	bölüme	N;NOM;PL;PSS2P	bölümleriniz
+N;ABL;SG	vaziyetten	N;ABL;PL	vaziyetlerden
+N;DAT;PL	lenslere	N;ABL;PL	lenslerden
+N;LGSPEC1;3S;SG;LGSPEC2	rehineymiş	N;NOM;SG	rehine
+N;GEN;SG;PSS1P	tatbikimizin	N;LOC;PL;PSS2P	tatbiklerinizde
+N;GEN;SG	büyük babanın	N;GEN;PL	büyük babaların
+N;NOM;SG;PSS2S	alnın	N;NOM;SG;PSS3S	alnı
+N;DAT;SG;PSS1P	genel kültürümüze	N;ABL;SG;PSS2S	genel kültüründen
+N;GEN;PL	saklambaçların	N;ACC;PL	saklambaçları
+N;LGSPEC1;1S;SG;PRS	vişneyim	N;LGSPEC1;3S;SG;PRS	vişne
+N;ACC;PL;PSS1P	öbeklerimizi	N;GEN;PL;PSS3S	öbeklerinin
+N;ABL;PL;PSS2P	ikizlerinizden	N;GEN;SG;PSS1P	ikizimizin
+N;LOC;SG;PSS3S	çığırtkanlığında	N;ABL;PL;PSS2P	çığırtkanlıklarınızdan
+N;DAT;PL;PSS2P	çarpılarınıza	N;LGSPEC1;2S;SG;PRS	çarpısın
+N;GEN;SG	televizyon kumandasının	N;ABL;SG	televizyon kumandasından
+N;LOC;SG	pupa rüzgârında	N;DAT;PL	pupa rüzgârlarına
+N;DAT;SG;PSS3S	akşamına	N;LOC;SG;PSS1P	akşamımızda
+N;ABL;PL	lalalardan	N;ABL;SG	laladan
+N;NOM;PL;PSS2S	rujların	N;DAT;SG	ruja
+N;DAT;PL;PSS2P	rotorlarınıza	N;ACC;SG;PSS2S	rotorunu
+N;DAT;SG	kullanıcıya	N;ABL;SG	kullanıcıdan
+N;LOC;PL;PSS2S	kimyasal tepkimelerinde	N;ACC;SG;PSS1P	kimyasal tepkimemizi
+N;ABL;PL;PSS1P	bitişlerimizden	N;DAT;PL	bitişlere
+N;NOM;SG	çalgıç	N;ABL;SG	çalgıçtan
+N;NOM;PL;PSS2P	dirsekleriniz	N;GEN;PL;PSS2S	dirseklerinin
+N;NOM;SG	boyun	N;ACC;SG	boynu
+N;ACC;SG;PSS2P	aynştaynyumunuzu	N;GEN;PL;PSS3S	aynştaynyumlarının
+N;ACC;PL;PSS2P	samankapanlarınızı	N;ACC;SG;PSS3S	samankapanını
+N;ABL;SG	su kuşundan	N;NOM;PL	su kuşları
+N;LGSPEC1;2S;SG;PRS	zengin istemcisin	N;LGSPEC1;3P;SG;LGSPEC2	zengin istemciymişler
+N;GEN;PL;PSS2P	dilimlerinizin	N;LOC;PL;PSS3S	dilimlerinde
+N;ABL;SG;PSS3S	ekstremumundan	N;LOC;PL;PSS3S	ekstremumlarında
+N;NOM;PL	harçlıklar	N;GEN;PL;PSS1P	harçlıklarımızın
+N;ABL;PL	polis akademilerinden	N;ABL;SG	polis akademisinden
+N;NOM;SG;PSS2S	belirsiz integralin	N;NOM;PL;PSS2P	belirsiz integralleriniz
+N;ABL;PL;PSS2S	yoldaşlarından	N;LGSPEC1;1P;PL;PST	yoldaşlardık
+N;LOC;SG;PSS1P	aslımızda	N;ACC;SG;PSS1P	aslımızı
+N;DAT;PL	dinçliklere	N;DAT;PL;PSS2P	dinçliklerinize
+N;GEN;PL;PSS2S	yeleklerinin	N;ACC;SG;PSS3S	yeleğini
+N;LOC;PL	pilavlarda	N;LGSPEC1;2P;SG;LGSPEC2	pilavmışsınız
+N;NOM;PL	şiirler	N;GEN;SG	şiirin
+N;ACC;PL	kara delikleri	N;ACC;SG	kara deliği
+N;ABL;PL	kuvantum bilgisayarlarından	N;NOM;SG	kuvantum bilgisayarı
+N;LOC;PL	bisiklet kasklarında	N;NOM;PL	bisiklet kaskları
+N;ABL;PL;PSS3S	söyleşilerinden	N;GEN;SG;PSS2P	söyleşinizin
+N;DAT;SG;PSS3S	arzusuna	N;LOC;PL;PSS2P	arzularınızda
+N;ABL;SG;PSS3S	yatılı okulundan	N;ABL;PL;PSS2S	yatılı okullarından
+N;NOM;PL;PSS3S	gizemleri	N;LOC;PL	gizemlerde
+N;LGSPEC1;1P;SG;PRS	aracız	N;GEN;PL;PSS1P	araçlarımızın
+N;LGSPEC1;1P;PL;LGSPEC2	sporcularmışız	N;DAT;SG;PSS3S	sporcusuna
+N;GEN;PL;PSS2P	kırıklarınızın	N;NOM;PL;PSS3S	kırıkları
+N;LOC;PL	Çin çöl kedi	N;NOM;PL	Çin çöl kedi
+N;LGSPEC1;3P;PL;PRS	dadılardır	N;LOC;PL;PSS2P	dadılarınızda
+N;LGSPEC1;1S;PL;PST	akrobatlardım	N;ABL;SG;PSS2P	akrobatınızdan
+N;GEN;PL;PSS1P	sıpalarımızın	N;ABL;SG;PSS2S	sıpandan
+N;NOM;PL;PSS1P	gollerimiz	N;DAT;SG;PSS3S	golüne
+N;LGSPEC1;3P;SG;PRS	rahipler	N;GEN;SG;PSS3S	rahibinin
+N;LOC;SG	pudingde	N;LOC;PL	pudinglerde
+N;LOC;PL;PSS1P	baytarlarımızda	N;DAT;PL;PSS3S	baytarlarına
+N;DAT;SG	hacılığa	N;ABL;SG	hacılıktan
+N;ABL;SG	saatten	N;NOM;SG	saat
+N;LOC;SG;PSS1P	piyanomuzda	N;GEN;SG;PSS2P	piyanonuzun
+N;ABL;SG;PSS3S	frambuazından	N;LOC;PL	frambuazlarda
+N;ACC;PL;PSS3S	midyelerini	N;ACC;PL	midyeleri
+N;ABL;SG;PSS1P	kuşumuzdan	N;ABL;SG;PSS3S	kuşundan
+N;LGSPEC1;3P;PL;LGSPEC2	kameralarmış	N;LOC;SG;PSS1P	kameramızda
+N;LGSPEC1;3P;PL;LGSPEC2	beyitlermiş	N;LOC;SG;PSS1P	beytimizde
+N;GEN;PL	cinsel tacizlerin	N;DAT;SG	cinsel tacize
+N;DAT;PL;PSS3S	ağlarına	N;ACC;PL;PSS2S	ağlarını
+N;GEN;SG;PSS2P	homurdanmanızın	N;GEN;PL;PSS3S	homurdanmalarının
+N;LGSPEC1;2S;PL;PRS	süslersin	N;ABL;PL;PSS2S	süslerinden
+N;ACC;SG;PSS1P	sesçiliğimizi	N;ACC;PL;PSS3S	sesçiliklerini
+N;GEN;PL	örümcek ağlarının	N;ABL;SG	örümcek ağından
+N;GEN;PL	civcivlerin	N;DAT;SG	civcive
+N;ACC;PL;PSS3S	gelinlerini	N;LOC;SG;PSS2S	gelininde
+N;DAT;SG	güneş gözlüğüne	N;NOM;SG	güneş gözlüğü
+N;LOC;PL	alacakaranlıklarda	N;GEN;PL	alacakaranlıkların
+N;DAT;SG;PSS2P	anahtarlığınıza	N;GEN;SG	anahtarlığın
+N;ABL;PL;PSS3S	bazaltlarından	N;NOM;PL;PSS2P	bazaltlarınız
+N;NOM;PL	emniyetler	N;ACC;PL	emniyetleri
+N;ABL;SG;PSS1P	sesçimizden	N;LGSPEC1;1S;SG;LGSPEC2	sesçiymişim
+N;DAT;PL;PSS3S	harçlarına	N;DAT;PL;PSS2P	harçlarınıza
+N;GEN;PL;PSS2P	kaçaklarınızın	N;NOM;PL;PSS2S	kaçakların
+N;ABL;SG;PSS2P	kırışıklığınızdan	N;ACC;SG;PSS2P	kırışıklığınızı
+N;GEN;SG	emniyetin	N;ACC;SG	emniyeti
+N;ACC;SG	dürümü	N;LOC;PL	dürümlerde
+N;LOC;PL;PSS3S	valizlerinde	N;DAT;SG;PSS2P	valizinize
+N;GEN;PL;PSS3S	kasıklarının	N;LOC;PL	kasıklarda
+N;LOC;PL	sigaralarda	N;DAT;PL	sigaralara
+N;NOM;SG	anason	N;ABL;SG;PSS2P	anasonunuzdan
+N;DAT;PL	sekizgenlere	N;LOC;SG	sekizgende
+N;LOC;SG;PSS1P	mekiğimizde	N;ABL;SG;PSS2P	mekiğinizden
+N;GEN;PL	başçıkların	N;LOC;PL;PSS1P	başçıklarımızda
+N;ABL;SG	dış gezegenden	N;ACC;SG	dış gezegeni
+N;LOC;SG	rakette	N;GEN;PL	raketlerin
+N;ABL;PL;PSS1P	çözeltilerimizden	N;NOM;PL;PSS1P	çözeltilerimiz
+N;NOM;PL	mikrofonlar	N;ACC;SG	mikrofonu
+N;LOC;PL;PSS2P	lastiklerinizde	N;NOM;SG;PSS3S	lastiği
+N;LOC;SG;PSS3S	makyajında	N;LOC;SG;PSS2P	makyajınızda
+N;GEN;PL;PSS2S	laternalarının	N;ABL;PL;PSS2P	laternalarınızdan
+N;ABL;SG;PSS1P	endokrin sistemimizden	N;ABL;SG	endokrin sistemden
+N;LOC;PL;PSS2S	bloglarında	N;ABL;SG;PSS2S	blogundan
+N;NOM;PL;PSS1P	mallarımız	N;LOC;SG;PSS2P	malınızda
+N;LOC;PL;PSS2S	erkekliklerinde	N;GEN;PL;PSS1P	erkekliklerimizin
+N;DAT;PL;PSS3S	kediciklerine	N;DAT;SG;PSS1P	kediciğimize
+N;ACC;SG;PSS3S	fakirini	N;DAT;SG;PSS2S	fakirine
+N;LGSPEC1;3P;PL;PST	lahanalardı	N;LOC;SG;PSS2S	lahananda
+N;LOC;SG	oğulda	N;NOM;SG;PSS2P	oğlunuz
+N;LOC;PL	tesadüflerde	N;GEN;PL	tesadüflerin
+N;ACC;PL	ölümsüzlükleri	N;GEN;PL	ölümsüzlüklerin
+N;ACC;SG	koruganı	N;LOC;PL	koruganlarda
+N;ACC;SG;PSS2P	günebakanınızı	N;ABL;PL;PSS1P	günebakanlarımızdan
+N;LOC;SG	sinek kuşunda	N;ACC;SG	sinek kuşunu
+N;DAT;SG	koltuk altına	N;LOC;SG	koltuk altında
+N;GEN;SG	horoz şekerinin	N;NOM;SG	horoz şekeri
+N;LOC;PL;PSS2P	gemilerinizde	N;ACC;SG;PSS3S	gemisini
+N;DAT;PL;PSS2S	zürriyetlerine	N;ACC;SG	zürriyeti
+N;ACC;SG	ırkü	N;ABL;PL	ırklerden
+N;NOM;PL;PSS2P	en küçük ortak kat	N;GEN;SG;PSS2S	en küçük ortak kat
+N;DAT;PL;PSS2S	biçimlerine	N;NOM;PL;PSS2P	biçimleriniz
+N;DAT;SG;PSS3S	verniklemesine	N;NOM;SG;PSS1P	verniklememiz
+N;ACC;SG	tuvaleti	N;ABL;SG	tuvaletten
+N;LOC;SG	bilezikte	N;GEN;PL;PSS2P	bileziklerinizin
+N;DAT;PL;PSS3S	kebaplarına	N;GEN;SG;PSS1P	kebabımızın
+N;GEN;SG	yağın	N;ABL;PL	yağlardan
+N;GEN;SG;PSS1P	totemciliğimizin	N;DAT;SG;PSS1P	totemciliğimize
+N;LOC;SG;PSS3S	parıltısında	N;ABL;SG;PSS2P	parıltınızdan
+N;LGSPEC1;2S;SG;PST	nedimeydin	N;DAT;PL	nedimelere
+N;ABL;SG	gözlemden	N;ACC;SG	gözlemi
+N;ACC;PL	enjektörleri	N;ACC;PL;PSS2S	enjektörlerini
+N;DAT;PL	abiyelere	N;GEN;PL	abiyelerin
+N;ABL;PL;PSS2P	prensiplerinizden	N;LOC;SG;PSS3S	prensibinde
+N;GEN;SG;PSS3S	sikinin	N;GEN;PL;PSS3S	siklerinin
+N;ABL;PL;PSS2P	mamalarınızdan	N;ABL;SG;PSS2P	mamanızdan
+N;LOC;SG;PSS3S	günebakanında	N;LOC;SG	günebakanda
+N;ACC;PL	yetkileri	N;ACC;PL;PSS2P	yetkilerinizi
+N;ABL;PL;PSS3S	ürünlerinden	N;NOM;SG	ürün
+N;NOM;PL	analitik geometriler	N;GEN;SG	analitik geometrinin
+N;ABL;SG;PSS2S	üyeliğinden	N;GEN;PL;PSS3S	üyeliklerinin
+N;ABL;SG;PSS3S	serverinden	N;LGSPEC1;3S;SG;PRS	server
+N;DAT;SG;PSS2S	mobilyana	N;GEN;SG	mobilyanın
+N;GEN;PL;PSS3S	gölgelerinin	N;ACC;PL;PSS2P	gölgelerinizi
+N;LGSPEC1;3P;SG;PST	otomobilciydiler	N;ABL;PL;PSS3S	otomobilcilerinden
+N;NOM;PL	başkanlar	N;GEN;PL;PSS2P	başkanlarınızın
+N;GEN;SG	şapkanın	N;LOC;SG	şapkada

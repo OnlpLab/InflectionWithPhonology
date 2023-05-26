@@ -1,0 +1,1000 @@
+V;3;SG;SBJV;PRF	të ketë fërkuar	V;2;PL;SBJV;PRS	të fërkoni
+V;3;SG;COND;PRS	do të shkërdhente	V;3;PL;SBJV;PRS	të shkërdhejnë
+V;2;SG;IND;PRF;PST	pate fërkuar	V;2;PL;IND;FUT	do të fërkoni
+V;2;SG;COND;PRF	do të kishe shfuqizuar	V;2;SG;SBJV;PST	të shfuqizoje
+V;1;SG;IND;FUT	do të buzëqesh	V;3;SG;IND;FUT	do të buzëqeshë
+V;3;PL;OPT;PRF	qofshin zhvilluar	V;3;SG;SBJV;PRS	të zhvillohet
+V;2;SG;IND;PST	zgjedhe	V;2;PL;IND;FUT	do të zgjedhni
+V;1;SG;IND;PRF;PST	pata sulmuar	V;1;SG;SBJV;PST	të sulmoja
+V;3;PL;SBJV;PRF	të kenë sodomizuar	V;2;PL;SBJV;PRS	të sodomizoni
+V;V.PTCP	buzëqeshur	V;1;PL;COND;PRF	do të kishim buzëqeshur
+V;1;PL;IND;PRF;FUT	do të kemi sodomizuar	V;3;PL;IND;PST	sodomizuan
+V;1;SG;IND;PST	sodomizova	V;2;SG;SBJV;PST	të sodomizoje
+V;3;SG;ADM;PRS	themeluaka	V;3;SG;SBJV;PST	të themelonte
+V;3;SG;ADM;PRS	thënka	V;2;SG;IMP	thuaj
+V;3;SG;OPT;PRF	pastë abdikuar	V;2;SG;IND;PRS	abdikon
+V;1;SG;IND;PRS	zgjedh	V;2;SG;COND;PRF	do të kishe zgjedhur
+V;NFIN	për të abdikuar	V;1;SG;IND;PST	abdikova
+V;1;PL;ADM;IPFV	sodomizuakëshim	V;3;SG;OPT;PRS	sodomizoftë
+V;2;PL;ADM;IPFV	abdikuakëshit	V;2;SG;ADM;PRF	paske abdikuar
+V;V.PTCP	fërkuar	V;3;SG;COND;PRF	do të kishte fërkuar
+V;2;PL;ADM;PRF;PRF	paskëshit zgjedhur	V;2;SG;SBJV;PRS	të zgjedhësh
+V;2;PL;OPT;PRS	këndofshit	V;3;SG;ADM;IPFV	kënduakësh
+V;2;SG;IND;FUT	do të sodomizosh	V;2;PL;IND;IPFV	sodomizonit
+V;1;SG;IND;PRS	fërkoj	V;3;PL;IND;IPFV	fërkonin
+V;1;SG;SBJV;PRF	të kem prishur	V;3;SG;ADM;PRF	paska prishur
+V;1;SG;SBJV;PRF	të kem zgjedhur	V;1;SG;IND;IPFV	zgjedhja
+V;3;SG;SBJV;PRS	të fërkojë	V;3;SG;ADM;PRF;PST	paskësh fërkuar
+V;3;SG;COND;PRS	do të sulmonte	V;2;PL;SBJV;PRF;PRF	të kishit sulmuar
+V;3;SG;OPT;PRS	prishtë	V;1;PL;IND;PST	prishëm
+V;3;PL;ADM;PRS	dërmuakan	V;1;SG;SBJV;PRF	të kem dërmuar
+V;1;SG;IND;IPFV	prishja	V;2;SG;ADM;PRF;PST	paskëshe prishur
+V;2;SG;IND;FUT	do të ngjitesh	V;2;SG;IMP	ngjitu
+V;1;PL;OPT;PRS	dërmofshim	V;1;PL;IND;PRF	kemi dërmuar
+V;2;PL;SBJV;PRF;PRF	të kishit ofenduar	V;3;SG;IND;PRF;PST	pati ofenduar
+V;3;PL;IND;PRS	zgjedhin	V;2;PL;ADM;PRF;PRF	paskëshit zgjedhur
+V;1;PL;OPT;PRF	paçim dërmuar	V;3;SG;SBJV;PRF	të ketë dërmuar
+V;3;PL;ADM;PRS	prishkan	V;1;PL;IND;PRS	prishim
+V;3;PL;COND;PRS	do të dërmonin	V;3;SG;IND;PRF;FUT	do të ketë dërmuar
+V;3;SG;ADM;PRF;PST	paskësh shfuqizuar	V;3;PL;IND;PRS	shfuqizojnë
+V;3;PL;IND;PRF	kanë votuar	V;1;SG;OPT;PRF	paça votuar
+V;1;SG;ADM;IPFV	themeluakësha	V;1;PL;COND;PRS	do të themelonim
+V;2;PL;IND;PRF;PRF	ishit ngjituar	V;1;PL;OPT;PRF	qofshim ngjituar
+V;1;PL;SBJV;PRS	të lëmë	V;1;PL;IND;FUT	do të lëmë
+V;1;SG;IND;PRF;FUT	do të kem dëmtuar	V;3;PL;IND;PRF	kanë dëmtuar
+V;2;PL;OPT;PRF	paçit ofenduar	V;3;SG;IND;PRF	ka ofenduar
+V;1;SG;SBJV;PRF;PST	të kisha kënduar	V;3;SG;SBJV;PST	të këndonte
+V;1;SG;OPT;PRS	thënça	V;3;PL;SBJV;PRF;PST	të kishin thënë
+V;1;SG;OPT;PRS	sodomizofsha	V;1;SG;SBJV;PRF	të kem sodomizuar
+V;2;SG;IND;PST	le	V;1;PL;COND;PRS	do të linim
+V;3;SG;SBJV;PRF	të ketë hapur	V;1;SG;IND;IPFV	hapja
+V;3;SG;ADM;IPFV	shfuqizuakësh	V;3;PL;ADM;PRS	shfuqizuakan
+V;2;PL;SBJV;PRF	të keni abdikuar	V;3;SG;SBJV;PRF;PST	të kishte abdikuar
+V;3;PL;SBJV;PST	të votonin	V;3;PL;IND;IPFV	votonin
+V;1;SG;SBJV;PRS	të zhvillohem	V;3;SG;COND;PRS	do të zhvillohej
+V;2;PL;SBJV;PST	të lexonit	V;1;PL;SBJV;PST	të lexonim
+V;3;SG;COND;PRF	do të kishte buzëqeshur	V;3;PL;COND;PRF	do të kishin buzëqeshur
+V;1;SG;ADM;PRF	paskam sodomizuar	V;2;SG;IMP	sodomizo
+V;3;PL;SBJV;PST	të votonin	V;NFIN	për të votuar
+V;2;PL;ADM;PRF;PRF	paskëshit themeluar	V;3;PL;SBJV;PRF	të kenë themeluar
+V;2;PL;ADM;PRF;PRF	paskëshit fërkuar	V;2;SG;IND;PRF;PST	pate fërkuar
+V;3;SG;OPT;PRS	shkëlqeftë	V;1;PL;ADM;PRS	shkëlqyekemi
+V;2;PL;SBJV;PRF;PRF	të ishit ngjituar	V;1;SG;SBJV;PRF;PST	të isha ngjituar
+V;3;SG;ADM;IPFV	fërkuakësh	V;V.PTCP;PST	duke pasë fërkuar
+V;3;SG;IND;PRS	buzëqesh	V;1;PL;ADM;PRF	paskemi buzëqeshur
+V;2;PL;COND;PRS	do të ofendonit	V;1;SG;SBJV;PST	të ofendoja
+V;3;PL;SBJV;PRF	të kenë abdikuar	V;2;PL;ADM;PRF;PRF	paskëshit abdikuar
+V;2;PL;ADM;PRS	shkërdhyekeni	V;1;PL;ADM;PRF	paskemi shkërdhyer
+V;1;SG;ADM;IPFV	kënduakësha	V;1;SG;IND;PST	këndova
+V;1;SG;SBJV;PRS	të dërmoj	V;1;PL;IND;PRF;PST	patëm dërmuar
+V;2;PL;ADM;IPFV	votuakëshit	V;2;SG;SBJV;PRS	të votosh
+V;1;PL;IND;PRF;PST	patëm zgjedhur	V;2;PL;COND;PRF	do të kishit zgjedhur
+V;3;SG;SBJV;PRF	të ketë dërmuar	V;3;PL;SBJV;PST	të dërmonin
+V;3;PL;ADM;PRF	paskan buzëqeshur	V;1;SG;ADM;PRF	paskam buzëqeshur
+V;1;SG;IND;PST	zgjedha	V;2;SG;COND;PRS	do të zgjedhje
+V;3;PL;OPT;PRF	qofshin zhvilluar	V;1;SG;ADM;PRF	qenkam zhvilluar
+V;2;PL;IND;PRS	sodomizoni	V;1;SG;ADM;PRF	paskam sodomizuar
+V;3;SG;IND;PRF;FUT	do të ketë hapur	V;2;PL;OPT;PRF	paçit hapur
+V;1;SG;IND;IPFV	zgjedhja	V;2;SG;OPT;PRS	zgjedhsh
+V;2;PL;ADM;IPFV	shkëlqyekëshit	V;2;SG;SBJV;PRF	të kesh shkëlqyer
+V;2;PL;OPT;PRF	paçit shkëlqyer	V;2;SG;COND;PRF	do të kishe shkëlqyer
+V;3;SG;COND;PRS	do të prishte	V;2;SG;IND;PST	prishe
+V;3;SG;SBJV;PRF	të jetë ngjituar	V;1;SG;SBJV;PRS	të ngjitem
+V;1;SG;IND;PRF;FUT	do të jem ngjituar	V;1;PL;IND;PRF	jemi ngjituar
+V;NFIN	për të themeluar	V;3;SG;COND;PRF	do të kishte themeluar
+V;3;SG;SBJV;PRF	të ketë lexuar	V;3;SG;IND;PST	lexoi
+V;1;PL;ADM;IPFV	votuakëshim	V;2;SG;IND;PRS	voton
+V;1;SG;COND;PRS	do të sodomizoja	V;2;PL;IND;PST	sodomizuat
+V;3;SG;IND;PRF	ka hapur	V;3;SG;SBJV;PST	të hapte
+V;2;PL;ADM;PRF	paskeni lënë	V;2;SG;SBJV;PRF;PST	të kishe lënë
+V;1;PL;ADM;PRF	paskemi lexuar	V;1;PL;IND;FUT	do të lexojmë
+V;3;PL;IND;PRF	kanë lënë	V;3;PL;OPT;PRF	paçin lënë
+V;2;PL;OPT;PRF	paçit sodomizuar	V;2;PL;ADM;PRF;PRF	paskëshit sodomizuar
+V;2;PL;SBJV;PRF;PRF	të kishit sulmuar	V;V.PTCP;PST	duke pasë sulmuar
+V;2;PL;IND;PST	u zhvilluat	V;1;SG;OPT;PRF	qofsha zhvilluar
+V;3;SG;IND;IPFV	linte	V;2;SG;OPT;PRF	paç lënë
+V;1;PL;ADM;IPFV	dërmuakëshim	V;2;SG;SBJV;PST	të dërmoje
+V;2;PL;SBJV;PRS	të buzëqeshni	V;2;SG;IND;PRS	buzëqesh
+V;2;PL;SBJV;PRF	të keni ofenduar	V;3;PL;OPT;PRS	ofendofshin
+V;2;PL;IND;PRF;FUT	do të keni ofenduar	V;2;PL;SBJV;PRS	të ofendoni
+V;3;SG;ADM;PRF	paska sodomizuar	V;2;PL;ADM;IPFV	sodomizuakëshit
+V;2;PL;COND;PRF	do të kishit shfuqizuar	V;3;PL;IND;PRF	kanë shfuqizuar
+V;2;SG;IND;FUT	do të dërmosh	V;3;SG;ADM;PRF;PST	paskësh dërmuar
+V;1;SG;ADM;PRF	paskam votuar	V;1;PL;ADM;PRF	paskemi votuar
+V;3;SG;IND;PRF;PST	pati prishur	V;2;PL;IMP	prishni
+V;V.PTCP;PST	duke pasë votuar	V;3;PL;IND;PRF;PST	patën votuar
+V;2;PL;IND;FUT	do të ngjiteni	V;2;PL;SBJV;PST	të ngjiteshit
+V;3;PL;SBJV;PRF;PST	të kishin themeluar	V;2;SG;IND;PST	themelove
+V;1;PL;IND;PRF;FUT	do të kemi shfuqizuar	V;1;PL;COND;PRS	do të shfuqizonim
+V;1;PL;OPT;PRS	lexofshim	V;3;SG;ADM;PRS	lexuaka
+V;2;PL;OPT;PRF	paçit votuar	V;3;SG;SBJV;PRF;PST	të kishte votuar
+V;1;PL;SBJV;PRF;PST	të kishim dërmuar	V;2;PL;ADM;PRF;PRF	paskëshit dërmuar
+V;1;PL;OPT;PRF	paçim shfuqizuar	V;2;PL;ADM;PRS	shfuqizuakeni
+V;3;SG;IND;PRF	ka sulmuar	V;1;SG;IND;PRF;FUT	do të kem sulmuar
+V;2;SG;SBJV;PRF	të kesh abdikuar	V;2;SG;OPT;PRS	abdikofsh
+V;2;SG;COND;PRS	do të dëmtoje	V;2;SG;SBJV;PRS	të dëmtosh
+V;1;PL;ADM;PRF	paskemi zgjedhur	V;3;SG;SBJV;PRF;PST	të kishte zgjedhur
+V;3;SG;IND;PRF;PST	pati themeluar	V;1;PL;IND;PRF;PST	patëm themeluar
+V;1;PL;ADM;PRF;PST	paskëshim lënë	V;1;PL;OPT;PRS	lënçim
+V;1;SG;IND;PST	shkërdheva	V;1;SG;SBJV;PRF	të kem shkërdhyer
+V;3;PL;OPT;PRF	paçin dërmuar	V;2;SG;SBJV;PRF;PST	të kishe dërmuar
+V;1;PL;IND;PST	dërmuam	V;1;PL;OPT;PRS	dërmofshim
+V;1;PL;ADM;IPFV	sodomizuakëshim	V;3;SG;COND;PRS	do të sodomizonte
+V;1;PL;IND;PRF	kemi thënë	V;2;PL;SBJV;PRS	të thoni
+V;2;SG;SBJV;PST	të zgjedhje	V;1;PL;SBJV;PST	të zgjedhnim
+V;1;PL;ADM;IPFV	zgjedhkëshim	V;1;SG;ADM;IPFV	zgjedhkësha
+V;1;SG;SBJV;PRS	të shfuqizoj	V;3;SG;ADM;IPFV	shfuqizuakësh
+V;3;PL;ADM;PRF;PST	paskëshin shkërdhyer	V;3;PL;ADM;PRF	paskan shkërdhyer
+V;2;PL;IND;PRS	shfuqizoni	V;3;PL;IND;PRF;FUT	do të kenë shfuqizuar
+V;2;SG;COND;PRF	do të kishe abdikuar	V;3;SG;ADM;PRF;PST	paskësh abdikuar
+V;2;PL;SBJV;PRS	të buzëqeshni	V;3;SG;ADM;PRF;PST	paskësh buzëqeshur
+V;1;SG;COND;PRF	do të kisha themeluar	V;1;PL;ADM;PRS	themeluakemi
+V;2;PL;IND;FUT	do të prishni	V;1;SG;SBJV;PST	të prishja
+V;V.PTCP;PST	duke pasë buzëqeshur	V;3;PL;IND;FUT	do të buzëqeshin
+V;2;SG;IND;PRS	ngjitesh	V;2;PL;IMP	ngjituni
+V;2;PL;COND;PRF	do të kishit buzëqeshur	V;1;SG;COND;PRS	do të buzëqeshja
+V;3;SG;COND;PRF	do të kishte dëmtuar	V;2;SG;IND;IPFV	dëmtoje
+V;1;PL;IND;PST	hapëm	V;1;SG;COND;PRS	do të hapja
+V;3;SG;ADM;PRF;PST	paskësh abdikuar	V;2;PL;COND;PRF	do të kishit abdikuar
+V;3;PL;SBJV;PST	të ngjiteshin	V;2;SG;COND;PRF	do të ishe ngjituar
+V;1;SG;COND;PRF	do të kisha dëmtuar	V;3;SG;OPT;PRS	dëmtoftë
+V;2;SG;ADM;PRF;PST	paskëshe lexuar	V;2;PL;IND;PRS	lexoni
+V;1;SG;OPT;PRF	qofsha zhvilluar	V;1;PL;COND;PRF	do të ishim zhvilluar
+V;2;SG;SBJV;PRF	të kesh thënë	V;2;PL;IND;PRS	thoni
+V;1;PL;IND;PRS	buzëqeshim	V;3;SG;COND;PRF	do të kishte buzëqeshur
+V;2;PL;IND;PST	abdikuat	V;3;PL;ADM;PRF;PST	paskëshin abdikuar
+V;1;PL;SBJV;PRF;PST	të kishim shkëlqyer	V;3;PL;OPT;PRF	paçin shkëlqyer
+V;3;SG;OPT;PRF	pastë dëmtuar	V;2;PL;SBJV;PRF	të keni dëmtuar
+V;2;PL;IND;PRF	keni hapur	V;3;SG;OPT;PRS	haptë
+V;3;SG;SBJV;PRS	të lexojë	V;1;PL;ADM;IPFV	lexuakëshim
+V;1;PL;ADM;PRF;PST	paskëshim buzëqeshur	V;3;SG;IND;PRF;PST	pati buzëqeshur
+V;3;PL;OPT;PRF	paçin votuar	V;1;PL;IND;PRS	votojmë
+V;2;PL;ADM;PRF	qenkeni zhvilluar	V;1;SG;IND;PRS	zhvillohem
+V;2;SG;IMP	shfuqizo	V;2;SG;SBJV;PRF	të kesh shfuqizuar
+V;1;PL;OPT;PRS	këndofshim	V;2;SG;OPT;PRF	paç kënduar
+V;3;PL;SBJV;PRF	të kenë dëmtuar	V;2;SG;SBJV;PRF	të kesh dëmtuar
+V;1;SG;OPT;PRF	qofsha zhvilluar	V;1;SG;IND;PRF;PST	isha zhvilluar
+V;1;PL;ADM;PRF	paskemi lënë	V;2;SG;IND;PRF;FUT	do të kesh lënë
+V;2;SG;SBJV;PRS	të abdikosh	V;2;SG;ADM;PRF;PST	paskëshe abdikuar
+V;1;PL;OPT;PRF	paçim prishur	V;2;SG;OPT;PRS	prishsh
+V;3;SG;COND;PRS	do të themelonte	V;3;PL;SBJV;PST	të themelonin
+V;1;SG;IND;PST	prisha	V;3;PL;ADM;PRF;PST	paskëshin prishur
+V;3;PL;COND;PRF	do të kishin sodomizuar	V;2;SG;OPT;PRF	paç sodomizuar
+V;1;PL;IND;PST	ofenduam	V;2;PL;ADM;PRF;PRF	paskëshit ofenduar
+V;2;PL;COND;PRS	do të themelonit	V;2;SG;IMP	themelo
+V;1;SG;COND;PRS	do të lija	V;2;PL;OPT;PRS	lënçit
+V;3;PL;IND;PRF	kanë sulmuar	V;3;SG;IND;PST	sulmoi
+V;1;PL;IND;IPFV	fërkonim	V;3;SG;IND;PRF	ka fërkuar
+V;3;PL;COND;PRS	do të thoshin	V;1;SG;SBJV;PRF	të kem thënë
+V;2;PL;IND;PRS	zhvilloheni	V;2;SG;OPT;PRF	qofsh zhvilluar
+V;1;PL;ADM;PRS	u zhvilluakemi	V;2;PL;COND;PRS	do të zhvilloheshit
+V;2;SG;IMP	zgjedh	V;3;SG;IND;PRF	ka zgjedhur
+V;3;PL;COND;PRF	do të ishin zhvilluar	V;2;PL;SBJV;PST	të zhvilloheshit
+V;3;PL;SBJV;PRS	të lexojnë	V;1;SG;ADM;PRS	lexuakam
+V;3;PL;OPT;PRS	zgjedhshin	V;1;PL;IND;IPFV	zgjedhnim
+V;1;PL;IND;PRS	ngjitemi	V;2;SG;IMP	ngjitu
+V;2;SG;ADM;PRS	thënke	V;3;PL;ADM;PRF	paskan thënë
+V;3;SG;ADM;PRF	paska hapur	V;1;PL;IND;PRF	kemi hapur
+V;1;SG;IND;PRS	sulmoj	V;V.PTCP	sulmuar
+V;NFIN	për të abdikuar	V;2;SG;IND;PST	abdikove
+V;1;SG;ADM;IPFV	shfuqizuakësha	V;1;PL;ADM;PRF	paskemi shfuqizuar
+V;2;PL;IND;PST	kënduat	V;2;PL;ADM;PRF;PRF	paskëshit kënduar
+V;3;PL;COND;PRS	do të votonin	V;1;SG;SBJV;PST	të votoja
+V;2;SG;IND;IPFV	lije	V;3;SG;IND;FUT	do të lërë
+V;2;SG;SBJV;PRS	të lexosh	V;2;SG;ADM;PRS	lexuake
+V;NFIN	për të zgjedhur	V;2;PL;COND;PRS	do të zgjedhnit
+V;V.PTCP;PRS	duke sulmuar	V;1;PL;SBJV;PRS	të sulmojmë
+V;2;SG;SBJV;PST	të sodomizoje	V;2;PL;ADM;PRF	paskeni sodomizuar
+V;2;SG;ADM;IPFV	u zhvilluakëshe	V;3;PL;COND;PRS	do të zhvilloheshin
+V;2;SG;IND;FUT	do të zgjedhësh	V;2;PL;COND;PRF	do të kishit zgjedhur
+V;2;PL;SBJV;PRF	të keni prishur	V;2;PL;ADM;PRF	paskeni prishur
+V;2;PL;ADM;IPFV	themeluakëshit	V;2;PL;IND;PRF	keni themeluar
+V;3;SG;ADM;IPFV	u zhvilluakësh	V;3;SG;ADM;PRF	qenka zhvilluar
+V;3;SG;IND;PRF;FUT	do të ketë lënë	V;2;PL;SBJV;PST	të linit
+V;1;PL;IND;PRS	votojmë	V;1;PL;ADM;PRF;PST	paskëshim votuar
+V;1;SG;ADM;PRF	paskam themeluar	V;2;PL;SBJV;PST	të themelonit
+V;3;PL;ADM;PRF	paskan shkëlqyer	V;2;SG;OPT;PRS	shkëlqefsh
+V;1;SG;SBJV;PRF	të kem zgjedhur	V;1;PL;COND;PRF	do të kishim zgjedhur
+V;3;PL;ADM;PRF;PST	paskëshin hapur	V;2;PL;OPT;PRF	paçit hapur
+V;1;PL;ADM;PRS	dëmtuakemi	V;3;PL;IND;PST	dëmtuan
+V;1;SG;IND;PRF;FUT	do të kem lënë	V;2;PL;COND;PRF	do të kishit lënë
+V;1;SG;OPT;PRF	paça lexuar	V;2;PL;IND;PRF;PRF	patët lexuar
+V;2;SG;IND;IPFV	shkërdheje	V;2;SG;IND;PRS	shkërdhen
+V;3;PL;IND;IPFV	dërmonin	V;1;SG;SBJV;PRF;PST	të kisha dërmuar
+V;1;PL;IND;PRF;PST	patëm lënë	V;2;SG;SBJV;PRF	të kesh lënë
+V;1;SG;COND;PRS	do të ngjitesha	V;1;SG;COND;PRF	do të isha ngjituar
+V;3;PL;ADM;PRS	shkërdhyekan	V;1;PL;COND;PRS	do të shkërdhenim
+V;3;PL;IND;PRF	kanë lënë	V;3;SG;IND;PST	la
+V;3;PL;IND;PRF;FUT	do të kenë abdikuar	V;3;PL;ADM;PRF;PST	paskëshin abdikuar
+V;2;PL;IND;PST	fërkuat	V;1;SG;OPT;PRF	paça fërkuar
+V;2;SG;ADM;PRF	qenke zhvilluar	V;1;PL;ADM;PRS	u zhvilluakemi
+V;2;SG;IMP	këndo	V;3;SG;OPT;PRF	pastë kënduar
+V;2;PL;ADM;PRS	shkëlqyekeni	V;2;SG;OPT;PRF	paç shkëlqyer
+V;2;SG;ADM;IPFV	sodomizuakëshe	V;3;PL;ADM;PRF;PST	paskëshin sodomizuar
+V;3;PL;ADM;IPFV	kënduakëshin	V;1;PL;ADM;PRS	kënduakemi
+V;1;PL;IND;PRF	kemi lënë	V;3;PL;SBJV;PST	të linin
+V;3;PL;IND;PRF;FUT	do të kenë shkëlqyer	V;1;PL;IND;PRF	kemi shkëlqyer
+V;1;PL;ADM;IPFV	sodomizuakëshim	V;1;SG;SBJV;PST	të sodomizoja
+V;2;SG;IMP	voto	V;2;PL;OPT;PRF	paçit votuar
+V;2;SG;SBJV;PST	të zhvilloheshe	V;2;SG;IND;FUT	do të zhvillohesh
+V;3;SG;COND;PRS	do të shkëlqente	V;2;SG;IND;PRF;FUT	do të kesh shkëlqyer
+V;3;SG;IND;PRF	ka lënë	V;1;PL;OPT;PRF	paçim lënë
+V;3;PL;IND;FUT	do të fërkojnë	V;3;SG;IND;PST	fërkoi
+V;3;PL;IND;PST	kënduan	V;1;PL;IND;PST	kënduam
+V;2;SG;COND;PRF	do të kishe shkëlqyer	V;1;PL;SBJV;PST	të shkëlqenim
+V;3;PL;SBJV;PRF;PST	të kishin abdikuar	V;1;SG;COND;PRS	do të abdikoja
+V;3;SG;IND;PRF;FUT	do të ketë shkërdhyer	V;3;SG;OPT;PRS	shkërdheftë
+V;1;PL;SBJV;PRF;PST	të kishim thënë	V;1;SG;SBJV;PRS	të them
+V;1;SG;IND;PRF	kam lënë	V;2;PL;SBJV;PRS	të lëni
+V;NFIN	për të votuar	V;2;PL;IND;IPFV	votonit
+V;1;PL;COND;PRF	do të kishim shfuqizuar	V;1;PL;SBJV;PRF;PST	të kishim shfuqizuar
+V;3;PL;IND;PRS	zhvillohen	V;1;SG;IND;FUT	do të zhvillohem
+V;3;PL;IND;PRF	kanë shkëlqyer	V;2;SG;COND;PRS	do të shkëlqeje
+V;2;PL;IND;PST	votuat	V;NFIN	për të votuar
+V;3;PL;ADM;IPFV	ofenduakëshin	V;3;SG;IND;PRS	ofendon
+V;3;SG;SBJV;PRS	të buzëqeshë	V;1;PL;COND;PRF	do të kishim buzëqeshur
+V;3;PL;COND;PRF	do të kishin buzëqeshur	V;2;PL;IND;PST	buzëqeshët
+V;2;PL;SBJV;PRF	të keni sulmuar	V;1;SG;OPT;PRF	paça sulmuar
+V;2;SG;IND;PRF;PST	ishe ngjituar	V;1;PL;SBJV;PRF	të jemi ngjituar
+V;1;PL;IND;IPFV	shfuqizonim	V;2;SG;SBJV;PRF;PST	të kishe shfuqizuar
+V;1;PL;COND;PRF	do të ishim zhvilluar	V;3;SG;ADM;PRF;PST	qenkësh zhvilluar
+V;1;SG;OPT;PRF	paça hapur	V;2;SG;COND;PRF	do të kishe hapur
+V;2;PL;OPT;PRF	paçit thënë	V;1;SG;ADM;IPFV	thënkësha
+V;V.PTCP;PRS	duke sodomizuar	V;3;PL;IND;PRS	sodomizojnë
+V;2;PL;IND;FUT	do të buzëqeshni	V;1;PL;SBJV;PRF	të kemi buzëqeshur
+V;1;PL;ADM;PRF	paskemi lexuar	V;2;PL;IND;PRF;PRF	patët lexuar
+V;1;PL;COND;PRF	do të kishim thënë	V;1;PL;ADM;PRF	paskemi thënë
+V;3;SG;IND;FUT	do të dërmojë	V;3;PL;OPT;PRS	dërmofshin
+V;1;SG;ADM;PRS	buzëqeshkam	V;2;PL;IND;FUT	do të buzëqeshni
+V;2;SG;OPT;PRS	abdikofsh	V;2;SG;SBJV;PST	të abdikoje
+V;3;SG;SBJV;PRF	të ketë zgjedhur	V;3;SG;OPT;PRF	pastë zgjedhur
+V;2;SG;SBJV;PRF	të kesh kënduar	V;1;PL;ADM;PRS	kënduakemi
+V;1;PL;SBJV;PRF	të kemi lënë	V;3;SG;SBJV;PST	të linte
+V;1;PL;SBJV;PRF	të kemi sodomizuar	V;3;SG;SBJV;PST	të sodomizonte
+V;3;SG;ADM;PRS	shfuqizuaka	V;1;PL;OPT;PRS	shfuqizofshim
+V;2;SG;IND;FUT	do të zhvillohesh	V;3;PL;SBJV;PRF	të jenë zhvilluar
+V;3;SG;ADM;PRF;PST	paskësh thënë	V;2;PL;IND;IPFV	thoshit
+V;3;PL;IND;PRF;PST	ishin ngjituar	V;3;PL;COND;PRF	do të ishin ngjituar
+V;2;SG;SBJV;PRF;PST	të kishe lexuar	V;2;PL;IND;PRF;FUT	do të keni lexuar
+V;3;PL;IND;FUT	do të sulmojnë	V;3;SG;IND;PRF;FUT	do të ketë sulmuar
+V;2;PL;SBJV;PRF	të keni lënë	V;3;PL;ADM;PRF	paskan lënë
+V;1;PL;ADM;PRF	paskemi themeluar	V;2;SG;OPT;PRF	paç themeluar
+V;1;SG;SBJV;PRF	të kem shkërdhyer	V;3;PL;ADM;IPFV	shkërdhyekëshin
+V;1;SG;IND;FUT	do të lë	V;1;SG;ADM;PRF	paskam lënë
+V;1;PL;OPT;PRF	paçim dëmtuar	V;3;SG;IND;PRF;PST	pati dëmtuar
+V;3;PL;IND;PRF;PST	ishin ngjituar	V;2;SG;IND;PRF;FUT	do të jesh ngjituar
+V;1;PL;IND;PST	abdikuam	V;3;PL;IND;FUT	do të abdikojnë
+V;3;PL;IND;PRF;PST	patën lënë	V;2;SG;ADM;PRS	lënke
+V;3;SG;COND;PRS	do të abdikonte	V;1;PL;IND;PRF;FUT	do të kemi abdikuar
+V;3;PL;OPT;PRF	paçin dëmtuar	V;3;SG;IND;FUT	do të dëmtojë
+V;3;PL;SBJV;PRF;PST	të kishin zgjedhur	V;1;SG;ADM;PRF	paskam zgjedhur
+V;1;PL;ADM;PRS	dëmtuakemi	V;3;PL;SBJV;PRS	të dëmtojnë
+V;2;SG;COND;PRF	do të kishe shfuqizuar	V;2;SG;IMP	shfuqizo
+V;3;PL;COND;PRS	do të këndonin	V;1;PL;OPT;PRS	këndofshim
+V;3;PL;ADM;PRF;PST	paskëshin prishur	V;1;SG;COND;PRS	do të prishja
+V;2;SG;IND;IPFV	votoje	V;1;PL;ADM;IPFV	votuakëshim
+V;1;PL;OPT;PRF	paçim zgjedhur	V;3;SG;IND;PRF;FUT	do të ketë zgjedhur
+V;1;SG;IND;FUT	do të fërkoj	V;2;SG;IND;PRF;FUT	do të kesh fërkuar
+V;3;PL;IND;PRS	dëmtojnë	V;3;PL;IND;PST	dëmtuan
+V;3;SG;ADM;PRF;PST	qenkësh ngjituar	V;3;SG;OPT;PRF	qoftë ngjituar
+V;2;PL;IND;PRF	keni prishur	V;3;PL;ADM;PRF;PST	paskëshin prishur
+V;2;PL;IND;PRF;PRF	patët lexuar	V;1;SG;IND;FUT	do të lexoj
+V;3;PL;IND;PST	shfuqizuan	V;2;PL;COND;PRS	do të shfuqizonit
+V;2;SG;ADM;PRF;PST	paskëshe sulmuar	V;1;PL;COND;PRF	do të kishim sulmuar
+V;1;SG;SBJV;PST	të zgjedhja	V;1;PL;IND;PST	zgjedhëm
+V;1;SG;OPT;PRF	paça thënë	V;1;SG;COND;PRS	do të thosha
+V;2;PL;OPT;PRF	paçit kënduar	V;2;PL;COND;PRS	do të këndonit
+V;3;SG;SBJV;PRF;PST	të kishte ofenduar	V;2;SG;SBJV;PST	të ofendoje
+V;3;SG;IND;PRF;FUT	do të ketë fërkuar	V;3;SG;ADM;PRF	paska fërkuar
+V;V.PTCP	lënë	V;NFIN	për të lënë
+V;1;SG;OPT;PRF	paça abdikuar	V;2;PL;COND;PRF	do të kishit abdikuar
+V;2;SG;IND;PRF;PST	pate shkëlqyer	V;1;PL;SBJV;PRF;PST	të kishim shkëlqyer
+V;3;PL;COND;PRF	do të kishin ofenduar	V;1;PL;IND;IPFV	ofendonim
+V;2;SG;IND;PRF;FUT	do të kesh fërkuar	V;1;PL;SBJV;PRF;PST	të kishim fërkuar
+V;2;PL;IND;PRF;FUT	do të keni thënë	V;3;PL;ADM;IPFV	thënkëshin
+V;3;PL;ADM;IPFV	thënkëshin	V;2;PL;IND;PST	thatë
+V;1;PL;SBJV;PRF;PST	të kishim lexuar	V;3;PL;OPT;PRS	lexofshin
+V;V.PTCP;PST	duke pasë votuar	V;3;PL;IND;PRS	votojnë
+V;3;PL;ADM;PRS	kënduakan	V;3;PL;IND;PRF	kanë kënduar
+V;2;SG;OPT;PRS	buzëqeshsh	V;3;PL;IND;PRF;FUT	do të kenë buzëqeshur
+V;3;PL;IND;PST	shfuqizuan	V;1;SG;IND;PRF;PST	pata shfuqizuar
+V;1;PL;IND;PRF;FUT	do të kemi dëmtuar	V;1;SG;IND;PRS	dëmtoj
+V;1;SG;IND;PRS	këndoj	V;2;SG;SBJV;PRS	të këndosh
+V;2;SG;IND;PRS	prish	V;3;PL;IND;PRF	kanë prishur
+V;1;SG;ADM;IPFV	shkërdhyekësha	V;2;SG;COND;PRS	do të shkërdheje
+V;3;PL;ADM;PRF;PST	paskëshin dërmuar	V;1;PL;IND;PRF	kemi dërmuar
+V;1;SG;IND;PRF;PST	pata hapur	V;2;PL;COND;PRS	do të hapnit
+V;1;SG;ADM;IPFV	themeluakësha	V;1;PL;IND;FUT	do të themelojmë
+V;3;SG;SBJV;PRF	të ketë prishur	V;1;PL;IND;PRF;PST	patëm prishur
+V;1;SG;OPT;PRF	paça shkërdhyer	V;3;SG;SBJV;PRF	të ketë shkërdhyer
+V;3;SG;SBJV;PST	të shkërdhente	V;3;SG;IND;FUT	do të shkërdhejë
+V;2;SG;COND;PRS	do të buzëqeshje	V;1;SG;ADM;PRF	paskam buzëqeshur
+V;2;PL;SBJV;PST	të shkërdhenit	V;2;PL;SBJV;PRF;PRF	të kishit shkërdhyer
+V;3;PL;IND;PST	sulmuan	V;3;PL;COND;PRF	do të kishin sulmuar
+V;3;PL;IND;IPFV	fërkonin	V;3;PL;OPT;PRF	paçin fërkuar
+V;2;PL;OPT;PRF	paçit fërkuar	V;1;SG;COND;PRF	do të kisha fërkuar
+V;3;SG;COND;PRF	do të kishte prishur	V;1;SG;IND;IPFV	prishja
+V;2;PL;ADM;IPFV	fërkuakëshit	V;2;SG;SBJV;PRS	të fërkosh
+V;1;SG;ADM;PRF;PST	paskësha lexuar	V;2;PL;ADM;PRF	paskeni lexuar
+V;2;PL;SBJV;PST	të hapnit	V;2;SG;IND;PRF;FUT	do të kesh hapur
+V;2;SG;IND;PRF	ke abdikuar	V;1;SG;SBJV;PRF	të kem abdikuar
+V;2;PL;IND;PST	dërmuat	V;2;SG;ADM;IPFV	dërmuakëshe
+V;3;PL;IND;PRF	janë zhvilluar	V;1;SG;OPT;PRF	qofsha zhvilluar
+V;V.PTCP	hapur	V;3;PL;ADM;PRS	hapkan
+V;3;SG;SBJV;PRF	të ketë themeluar	V;2;PL;SBJV;PRF	të keni themeluar
+V;V.PTCP	shfuqizuar	V;1;PL;OPT;PRS	shfuqizofshim
+V;2;SG;SBJV;PRF	të kesh votuar	V;2;PL;IND;PRS	votoni
+V;1;SG;IND;PRF;FUT	do të kem kënduar	V;2;SG;SBJV;PRS	të këndosh
+V;3;PL;IND;PRF;PST	patën lexuar	V;3;PL;OPT;PRS	lexofshin
+V;1;PL;ADM;PRF;PST	paskëshim votuar	V;1;PL;SBJV;PST	të votonim
+V;3;SG;IND;IPFV	hapte	V;2;PL;ADM;PRF;PRF	paskëshit hapur
+V;2;SG;IND;PST	hape	V;1;SG;ADM;PRF	paskam hapur
+V;1;SG;IND;IPFV	sodomizoja	V;2;SG;COND;PRS	do të sodomizoje
+V;3;SG;IND;FUT	do të themelojë	V;V.PTCP	themeluar
+V;2;SG;IMP	sulmo	V;1;PL;COND;PRS	do të sulmonim
+V;1;SG;SBJV;PRF	të kem thënë	V;1;SG;ADM;PRF	paskam thënë
+V;3;PL;SBJV;PRF;PST	të kishin kënduar	V;1;SG;IND;FUT	do të këndoj
+V;1;SG;SBJV;PST	të zgjedhja	V;2;PL;ADM;PRF	paskeni zgjedhur
+V;3;SG;SBJV;PRF;PST	të kishte shfuqizuar	V;1;SG;IND;PRS	shfuqizoj
+V;2;SG;IND;PRF;PST	ishe zhvilluar	V;2;SG;ADM;PRF;PST	qenkëshe zhvilluar
+V;2;PL;IMP	zhvillohuni	V;2;PL;ADM;PRF;PRF	qenkëshit zhvilluar
+V;2;SG;IND;IPFV	fërkoje	V;2;PL;ADM;PRS	fërkuakeni
+V;1;PL;IND;FUT	do të votojmë	V;2;PL;SBJV;PRS	të votoni
+V;3;SG;ADM;PRS	shkëlqyeka	V;2;PL;IND;PRF	keni shkëlqyer
+V;3;SG;SBJV;PRS	të hapë	V;1;SG;IND;PRS	hap
+V;3;PL;IND;FUT	do të shkëlqejnë	V;1;PL;COND;PRF	do të kishim shkëlqyer
+V;3;SG;ADM;PRF	paska abdikuar	V;3;SG;COND;PRF	do të kishte abdikuar
+V;2;PL;ADM;PRS	sodomizuakeni	V;2;SG;OPT;PRS	sodomizofsh
+V;1;SG;IND;PRS	zhvillohem	V;3;PL;IND;PST	u zhvilluan
+V;2;PL;IND;PRF;FUT	do të keni dëmtuar	V;3;SG;IND;PRF	ka dëmtuar
+V;1;SG;ADM;IPFV	fërkuakësha	V;2;SG;IND;PRF;FUT	do të kesh fërkuar
+V;1;PL;SBJV;PRS	të themelojmë	V;2;PL;COND;PRS	do të themelonit
+V;1;PL;IND;PRF;PST	patëm ofenduar	V;1;SG;ADM;PRF	paskam ofenduar
+V;1;SG;IND;PRF;FUT	do të kem lënë	V;2;SG;IND;PRF;FUT	do të kesh lënë
+V;2;PL;IMP	sodomizoni	V;2;PL;SBJV;PRF;PRF	të kishit sodomizuar
+V;3;SG;IND;PST	votoi	V;2;PL;ADM;PRS	votuakeni
+V;2;PL;ADM;PRS	shfuqizuakeni	V;3;SG;IND;PRS	shfuqizon
+V;2;PL;IND;IPFV	lexonit	V;3;PL;IND;PRS	lexojnë
+V;3;PL;ADM;PRF	paskan thënë	V;1;SG;IND;PRF;FUT	do të kem thënë
+V;2;PL;SBJV;PRF	të keni kënduar	V;1;PL;IND;PRF;PST	patëm kënduar
+V;2;PL;IND;PRF	keni fërkuar	V;1;SG;IND;PRF;FUT	do të kem fërkuar
+V;3;PL;IND;IPFV	themelonin	V;1;PL;ADM;PRF;PST	paskëshim themeluar
+V;3;SG;IND;IPFV	hapte	V;3;SG;COND;PRS	do të hapte
+V;V.PTCP	thënë	V;1;SG;IND;PRF	kam thënë
+V;1;SG;ADM;PRF	paskam fërkuar	V;3;PL;IND;PST	fërkuan
+V;3;SG;IND;FUT	do të zhvillohet	V;1;SG;OPT;PRS	u zhvillofsha
+V;2;SG;IND;PRS	ngjitesh	V;3;PL;IND;PRF;PST	ishin ngjituar
+V;1;PL;IND;PRF	kemi shkërdhyer	V;2;PL;OPT;PRS	shkërdhefshit
+V;3;PL;IND;PRS	shfuqizojnë	V;1;SG;COND;PRS	do të shfuqizoja
+V;3;PL;OPT;PRF	paçin sulmuar	V;3;PL;IND;IPFV	sulmonin
+V;3;SG;ADM;PRF;PST	paskësh ofenduar	V;3;PL;ADM;IPFV	ofenduakëshin
+V;2;SG;IND;PRF;PST	pate prishur	V;2;SG;IND;PRF	ke prishur
+V;3;PL;ADM;PRF;PST	paskëshin hapur	V;2;PL;ADM;PRS	hapkeni
+V;2;SG;ADM;PRS	kënduake	V;3;PL;IND;PRF;FUT	do të kenë kënduar
+V;1;SG;ADM;PRS	sulmuakam	V;3;SG;IND;PRS	sulmon
+V;3;PL;IND;PRF	kanë abdikuar	V;2;SG;ADM;PRF;PST	paskëshe abdikuar
+V;2;PL;IND;IPFV	këndonit	V;2;PL;OPT;PRS	këndofshit
+V;2;SG;SBJV;PRF	të kesh sulmuar	V;2;SG;IND;FUT	do të sulmosh
+V;1;SG;ADM;PRF;PST	paskësha fërkuar	V;2;SG;IND;PRF	ke fërkuar
+V;2;SG;IND;PRS	buzëqesh	V;3;SG;IND;PRF	ka buzëqeshur
+V;1;PL;ADM;PRF;PST	paskëshim lënë	V;2;PL;COND;PRS	do të linit
+V;V.PTCP;PST	duke u pasë ngjituar	V;2;SG;SBJV;PRF;PST	të ishe ngjituar
+V;3;PL;IND;PRF;PST	patën dëmtuar	V;2;PL;SBJV;PRF	të keni dëmtuar
+V;1;PL;IND;IPFV	hapnim	V;2;PL;ADM;IPFV	hapkëshit
+V;2;SG;IND;FUT	do të zgjedhësh	V;1;PL;OPT;PRF	paçim zgjedhur
+V;3;SG;IND;PRF	ka votuar	V;1;PL;ADM;PRS	votuakemi
+V;2;SG;SBJV;PST	të ngjiteshe	V;1;PL;IND;PRS	ngjitemi
+V;2;PL;ADM;PRS	prishkeni	V;3;PL;SBJV;PST	të prishnin
+V;V.PTCP;PRS	duke lexuar	V;1;PL;OPT;PRF	paçim lexuar
+V;1;SG;OPT;PRF	paça lënë	V;3;SG;IND;PRF;PST	pati lënë
+V;3;SG;ADM;PRS	sulmuaka	V;2;SG;OPT;PRS	sulmofsh
+V;1;PL;ADM;PRF	paskemi fërkuar	V;NFIN	për të fërkuar
+V;3;PL;OPT;PRS	u zhvillofshin	V;2;SG;ADM;PRS	u zhvilluake
+V;2;PL;IND;PRF;PRF	ishit zhvilluar	V;3;PL;OPT;PRF	qofshin zhvilluar
+V;1;SG;IND;PRF;PST	isha ngjituar	V;2;SG;COND;PRF	do të ishe ngjituar
+V;3;SG;IND;PRF	ka prishur	V;3;SG;IND;FUT	do të prishë
+V;3;SG;ADM;IPFV	buzëqeshkësh	V;1;SG;ADM;PRF	paskam buzëqeshur
+V;1;PL;OPT;PRF	paçim ofenduar	V;2;PL;SBJV;PRF;PRF	të kishit ofenduar
+V;2;SG;ADM;PRS	zgjedhke	V;3;PL;ADM;PRF	paskan zgjedhur
+V;1;SG;COND;PRF	do të kisha lënë	V;1;SG;IND;PRF;PST	pata lënë
+V;3;PL;OPT;PRF	paçin kënduar	V;3;PL;OPT;PRS	këndofshin
+V;2;PL;IND;PST	votuat	V;1;PL;SBJV;PRF;PST	të kishim votuar
+V;2;SG;ADM;PRF;PST	paskëshe dërmuar	V;3;PL;ADM;PRF;PST	paskëshin dërmuar
+V;1;PL;IND;PRF;PST	patëm themeluar	V;1;PL;ADM;PRF;PST	paskëshim themeluar
+V;1;PL;SBJV;PRF;PST	të kishim zgjedhur	V;1;SG;ADM;PRS	zgjedhkam
+V;1;SG;SBJV;PRF;PST	të kisha dëmtuar	V;2;SG;OPT;PRF	paç dëmtuar
+V;V.PTCP;PRS	duke sodomizuar	V;2;PL;IND;PRS	sodomizoni
+V;1;PL;IND;PRS	dërmojmë	V;2;PL;OPT;PRF	paçit dërmuar
+V;3;PL;SBJV;PRF	të kenë prishur	V;3;SG;SBJV;PRF	të ketë prishur
+V;1;SG;COND;PRF	do të isha zhvilluar	V;2;SG;IND;PRF;FUT	do të jesh zhvilluar
+V;3;SG;SBJV;PRF	të ketë lënë	V;3;PL;SBJV;PST	të linin
+V;3;PL;IND;PRF	kanë fërkuar	V;V.PTCP;PST	duke pasë fërkuar
+V;3;PL;OPT;PRS	zgjedhshin	V;1;PL;IND;PRF;FUT	do të kemi zgjedhur
+V;1;PL;ADM;PRF;PST	paskëshim themeluar	V;1;SG;COND;PRS	do të themeloja
+V;2;PL;COND;PRS	do të hapnit	V;3;PL;IND;PRF	kanë hapur
+V;3;PL;IND;PRF;PST	patën prishur	V;2;PL;IND;PRF;PRF	patët prishur
+V;3;PL;SBJV;PRS	të shkëlqejnë	V;2;PL;OPT;PRS	shkëlqefshit
+V;3;SG;COND;PRS	do të sodomizonte	V;3;PL;SBJV;PRS	të sodomizojnë
+V;2;SG;IND;PRF	je zhvilluar	V;2;SG;IMP	zhvillohu
+V;2;SG;IND;FUT	do të fërkosh	V;3;SG;IND;PST	fërkoi
+V;3;SG;IND;PRF;FUT	do të ketë hapur	V;3;PL;ADM;PRF;PST	paskëshin hapur
+V;3;PL;IND;PST	ofenduan	V;1;SG;SBJV;PRF	të kem ofenduar
+V;3;PL;IND;PRF	kanë shkërdhyer	V;1;PL;SBJV;PRF	të kemi shkërdhyer
+V;1;SG;IND;PRS	sodomizoj	V;1;PL;ADM;PRS	sodomizuakemi
+V;1;SG;ADM;PRF	paskam lexuar	V;2;SG;IND;FUT	do të lexosh
+V;3;PL;SBJV;PST	të sulmonin	V;3;SG;IND;PRF	ka sulmuar
+V;3;SG;OPT;PRS	lëntë	V;1;SG;SBJV;PRF	të kem lënë
+V;3;SG;SBJV;PRF;PST	të kishte sulmuar	V;1;PL;ADM;PRF;PST	paskëshim sulmuar
+V;2;SG;IND;PRF	ke sodomizuar	V;3;SG;IND;PRS	sodomizon
+V;2;PL;SBJV;PST	të këndonit	V;1;PL;COND;PRS	do të këndonim
+V;2;SG;IND;PRF;FUT	do të kesh lënë	V;1;SG;OPT;PRF	paça lënë
+V;2;SG;IND;FUT	do të shkëlqesh	V;2;PL;SBJV;PST	të shkëlqenit
+V;3;PL;SBJV;PRF	të kenë zgjedhur	V;2;PL;IND;FUT	do të zgjedhni
+V;3;PL;IND;PRF;PST	patën lexuar	V;1;SG;COND;PRF	do të kisha lexuar
+V;3;SG;OPT;PRS	ofendoftë	V;V.PTCP;PRS	duke ofenduar
+V;1;PL;OPT;PRS	lexofshim	V;3;SG;SBJV;PRF	të ketë lexuar
+V;2;PL;ADM;PRF;PRF	paskëshit dërmuar	V;3;PL;ADM;IPFV	dërmuakëshin
+V;2;PL;IND;PRF	keni abdikuar	V;1;PL;SBJV;PRS	të abdikojmë
+V;1;SG;COND;PRF	do të kisha shkërdhyer	V;3;SG;COND;PRS	do të shkërdhente
+V;1;SG;SBJV;PRS	të sulmoj	V;2;PL;IND;PRF;FUT	do të keni sulmuar
+V;V.PTCP;PST	duke pasë ofenduar	V;2;SG;IND;PRF	ke ofenduar
+V;3;PL;SBJV;PST	të shkëlqenin	V;1;SG;IND;IPFV	shkëlqeja
+V;2;PL;OPT;PRF	paçit fërkuar	V;2;PL;ADM;PRS	fërkuakeni
+V;2;SG;ADM;PRS	ofenduake	V;3;PL;ADM;PRF;PST	paskëshin ofenduar
+V;2;PL;OPT;PRS	abdikofshit	V;2;SG;COND;PRF	do të kishe abdikuar
+V;2;PL;IND;PRF;PRF	patët zgjedhur	V;3;PL;IND;PRF	kanë zgjedhur
+V;3;SG;IND;FUT	do të shkëlqejë	V;2;SG;ADM;PRS	shkëlqyeke
+V;3;PL;SBJV;PST	të abdikonin	V;1;SG;IND;PRF;FUT	do të kem abdikuar
+V;2;PL;SBJV;PST	të dëmtonit	V;2;SG;IND;IPFV	dëmtoje
+V;1;SG;IND;PRS	them	V;2;SG;ADM;PRS	thënke
+V;3;PL;IND;PRF;PST	patën dëmtuar	V;3;SG;SBJV;PRF	të ketë dëmtuar
+V;3;SG;COND;PRS	do të prishte	V;3;SG;SBJV;PST	të prishte
+V;3;PL;OPT;PRS	shkëlqefshin	V;1;PL;SBJV;PST	të shkëlqenim
+V;1;SG;SBJV;PRF	të kem lënë	V;3;SG;IND;PRF	ka lënë
+V;3;SG;IND;PST	votoi	V;1;PL;COND;PRS	do të votonim
+V;1;PL;OPT;PRS	sodomizofshim	V;1;SG;ADM;PRF;PST	paskësha sodomizuar
+V;2;SG;COND;PRF	do të kishe sulmuar	V;2;SG;ADM;IPFV	sulmuakëshe
+V;2;SG;SBJV;PST	të këndoje	V;3;SG;ADM;PRF	paska kënduar
+V;1;PL;ADM;PRF;PST	paskëshim sulmuar	V;1;SG;IND;FUT	do të sulmoj
+V;2;PL;COND;PRF	do të kishit dërmuar	V;1;SG;IND;PST	dërmova
+V;3;SG;IND;IPFV	buzëqeshte	V;3;SG;IND;PRF;FUT	do të ketë buzëqeshur
+V;2;PL;SBJV;PST	të shkërdhenit	V;3;SG;ADM;IPFV	shkërdhyekësh
+V;2;PL;SBJV;PRS	të dëmtoni	V;NFIN	për të dëmtuar
+V;3;SG;SBJV;PRF	të ketë thënë	V;2;SG;IMP	thuaj
+V;3;PL;ADM;PRF;PST	qenkëshin ngjituar	V;1;PL;COND;PRS	do të ngjiteshim
+V;V.PTCP;PST	duke u pasë ngjituar	V;1;SG;ADM;PRF;PST	qenkësha ngjituar
+V;1;SG;COND;PRF	do të kisha sulmuar	V;1;PL;IND;PRS	sulmojmë
+V;1;SG;ADM;PRF	paskam fërkuar	V;1;SG;IND;PRS	fërkoj
+V;1;PL;OPT;PRF	paçim dëmtuar	V;1;PL;SBJV;PST	të dëmtonim
+V;3;PL;COND;PRS	do të buzëqeshnin	V;3;SG;OPT;PRF	pastë buzëqeshur
+V;2;SG;ADM;PRS	ofenduake	V;2;PL;SBJV;PRS	të ofendoni
+V;1;PL;ADM;PRF;PST	paskëshim sulmuar	V;1;PL;SBJV;PRF;PST	të kishim sulmuar
+V;3;SG;OPT;PRF	qoftë ngjituar	V;3;SG;SBJV;PRF	të jetë ngjituar
+V;3;PL;OPT;PRS	shkërdhefshin	V;2;PL;IND;PRS	shkërdheni
+V;1;SG;IND;PST	ofendova	V;1;PL;ADM;IPFV	ofenduakëshim
+V;1;SG;SBJV;PRF	të kem kënduar	V;2;SG;OPT;PRS	këndofsh
+V;3;SG;SBJV;PRF;PST	të kishte sodomizuar	V;2;PL;IND;PRF	keni sodomizuar
+V;2;PL;COND;PRF	do të kishit hapur	V;2;SG;ADM;PRS	hapke
+V;1;SG;IND;PRS	zgjedh	V;2;SG;IND;PST	zgjedhe
+V;1;PL;ADM;IPFV	lexuakëshim	V;V.PTCP;PRS	duke lexuar
+V;1;SG;COND;PRF	do të isha zhvilluar	V;3;SG;IND;PRF	është zhvilluar
+V;1;SG;ADM;PRS	thënkam	V;1;PL;SBJV;PST	të thoshim
+V;2;PL;OPT;PRF	paçit buzëqeshur	V;2;PL;IND;IPFV	buzëqeshnit
+V;V.PTCP;PST	duke pasë fërkuar	V;3;PL;SBJV;PRF;PST	të kishin fërkuar
+V;1;PL;OPT;PRS	shkëlqefshim	V;2;SG;OPT;PRF	paç shkëlqyer
+V;2;PL;IND;PRS	zhvilloheni	V;2;SG;IMP	zhvillohu
+V;1;SG;ADM;PRF;PST	paskësha abdikuar	V;3;PL;IND;PRS	abdikojnë
+V;2;PL;ADM;PRS	shkëlqyekeni	V;1;SG;SBJV;PRF;PST	të kisha shkëlqyer
+V;1;PL;IND;PRF	kemi shkërdhyer	V;2;SG;OPT;PRS	shkërdhefsh
+V;3;PL;ADM;PRF	paskan shkëlqyer	V;2;PL;SBJV;PST	të shkëlqenit
+V;2;SG;OPT;PRS	shkërdhefsh	V;1;PL;IND;PRF;FUT	do të kemi shkërdhyer
+V;2;SG;SBJV;PST	të hapje	V;2;SG;SBJV;PRF	të kesh hapur
+V;3;SG;ADM;PRS	sulmuaka	V;1;SG;ADM;PRS	sulmuakam
+V;3;SG;IND;IPFV	zgjedhte	V;1;SG;ADM;PRS	zgjedhkam
+V;3;PL;ADM;PRF	paskan votuar	V;3;PL;IND;PRF	kanë votuar
+V;2;SG;OPT;PRS	buzëqeshsh	V;1;SG;IND;IPFV	buzëqeshja
+V;1;SG;SBJV;PST	të zhvillohesha	V;3;SG;IND;PRF;PST	ishte zhvilluar
+V;1;PL;OPT;PRF	paçim lënë	V;3;SG;COND;PRF	do të kishte lënë
+V;3;SG;IND;FUT	do të buzëqeshë	V;3;SG;SBJV;PRS	të buzëqeshë
+V;V.PTCP	lexuar	V;3;PL;IND;IPFV	lexonin
+V;3;PL;ADM;PRF;PST	paskëshin sodomizuar	V;1;SG;SBJV;PRF;PST	të kisha sodomizuar
+V;3;SG;SBJV;PRF;PST	të kishte dërmuar	V;2;SG;IMP	dërmo
+V;2;PL;ADM;PRF;PRF	paskëshit lënë	V;1;PL;IND;PST	lamë
+V;2;SG;IND;PST	këndove	V;3;SG;ADM;PRS	kënduaka
+V;1;PL;SBJV;PST	të dërmonim	V;1;SG;IND;PRS	dërmoj
+V;3;PL;ADM;PRF	paskan sulmuar	V;1;SG;SBJV;PRS	të sulmoj
+V;1;SG;IND;PRF	kam sodomizuar	V;NFIN	për të sodomizuar
+V;1;PL;SBJV;PST	të hapnim	V;2;SG;OPT;PRF	paç hapur
+V;3;SG;ADM;PRS	shkërdhyeka	V;2;SG;SBJV;PRF;PST	të kishe shkërdhyer
+V;2;SG;OPT;PRS	u zhvillofsh	V;1;PL;IND;PST	u zhvilluam
+V;1;SG;IND;PST	buzëqesha	V;2;PL;ADM;PRF	paskeni buzëqeshur
+V;2;PL;COND;PRS	do të abdikonit	V;3;PL;SBJV;PRF;PST	të kishin abdikuar
+V;1;SG;ADM;PRS	ofenduakam	V;3;PL;COND;PRS	do të ofendonin
+V;3;SG;SBJV;PST	të votonte	V;2;SG;OPT;PRS	votofsh
+V;3;PL;ADM;PRS	sodomizuakan	V;2;SG;ADM;PRF	paske sodomizuar
+V;3;SG;ADM;IPFV	zgjedhkësh	V;2;PL;ADM;IPFV	zgjedhkëshit
+V;3;PL;ADM;PRS	shkëlqyekan	V;3;PL;OPT;PRS	shkëlqefshin
+V;2;SG;COND;PRF	do të kishe lënë	V;3;PL;OPT;PRF	paçin lënë
+V;3;PL;ADM;PRF;PST	paskëshin lexuar	V;1;PL;IND;PST	lexuam
+V;1;SG;SBJV;PRF	të kem ofenduar	V;3;PL;IND;IPFV	ofendonin
+V;2;SG;OPT;PRS	prishsh	V;2;SG;SBJV;PRF	të kesh prishur
+V;2;SG;IND;PRS	voton	V;1;PL;SBJV;PST	të votonim
+V;3;SG;OPT;PRF	pastë shkëlqyer	V;3;SG;IND;IPFV	shkëlqente
+V;2;PL;IND;PRF	keni votuar	V;3;PL;OPT;PRF	paçin votuar
+V;1;SG;IND;PRF	kam themeluar	V;1;PL;ADM;PRF;PST	paskëshim themeluar
+V;2;PL;COND;PRF	do të kishit votuar	V;2;PL;IND;FUT	do të votoni
+V;1;PL;IND;FUT	do të ngjitemi	V;3;PL;IND;PRF	janë ngjituar
+V;1;PL;SBJV;PRF	të jemi zhvilluar	V;3;SG;IND;PRF;PST	ishte zhvilluar
+V;1;PL;SBJV;PRF;PST	të kishim shfuqizuar	V;1;SG;IND;FUT	do të shfuqizoj
+V;2;PL;IND;PST	shkërdhyet	V;1;SG;IND;PRS	shkërdhej
+V;3;PL;COND;PRF	do të kishin sulmuar	V;2;SG;SBJV;PRF;PST	të kishe sulmuar
+V;2;PL;ADM;PRF;PRF	paskëshit thënë	V;2;PL;IND;PRF;PRF	patët thënë
+V;2;SG;SBJV;PST	të shkërdheje	V;3;PL;SBJV;PRF;PST	të kishin shkërdhyer
+V;2;PL;ADM;PRS	sodomizuakeni	V;2;PL;IND;IPFV	sodomizonit
+V;1;SG;ADM;IPFV	shkërdhyekësha	V;1;SG;ADM;PRF	paskam shkërdhyer
+V;1;SG;IND;PRS	këndoj	V;2;SG;IND;PRF	ke kënduar
+V;3;PL;SBJV;PRS	të hapin	V;2;SG;ADM;IPFV	hapkëshe
+V;3;SG;IND;PST	shkërdheu	V;2;PL;IND;PRS	shkërdheni
+V;1;SG;SBJV;PRF;PST	të kisha fërkuar	V;3;PL;IND;IPFV	fërkonin
+V;3;PL;SBJV;PRF	të kenë fërkuar	V;3;PL;ADM;IPFV	fërkuakëshin
+V;3;PL;OPT;PRF	paçin kënduar	V;V.PTCP;PST	duke pasë kënduar
+V;1;PL;ADM;PRF;PST	paskëshim lënë	V;2;SG;IND;FUT	do të lesh
+V;1;PL;IND;FUT	do të abdikojmë	V;3;SG;ADM;PRS	abdikuaka
+V;1;SG;ADM;IPFV	shkërdhyekësha	V;3;SG;SBJV;PRF;PST	të kishte shkërdhyer
+V;3;SG;ADM;IPFV	thënkësh	V;3;SG;SBJV;PST	të thoshte
+V;1;PL;ADM;IPFV	abdikuakëshim	V;2;SG;SBJV;PST	të abdikoje
+V;2;SG;IND;PRF;PST	ishe ngjituar	V;2;PL;COND;PRS	do të ngjiteshit
+V;3;PL;OPT;PRF	paçin lexuar	V;1;SG;SBJV;PRF	të kem lexuar
+V;1;SG;IND;FUT	do të zgjedh	V;1;SG;SBJV;PRF	të kem zgjedhur
+V;2;PL;OPT;PRS	shfuqizofshit	V;NFIN	për të shfuqizuar
+V;1;SG;IND;PRF;PST	pata shkëlqyer	V;2;PL;OPT;PRF	paçit shkëlqyer
+V;1;SG;IND;IPFV	fërkoja	V;3;SG;ADM;PRS	fërkuaka
+V;2;SG;SBJV;PRF;PST	të kishe prishur	V;3;PL;SBJV;PST	të prishnin
+V;2;PL;IND;PRF	keni lënë	V;1;SG;IND;PRF;FUT	do të kem lënë
+V;2;PL;ADM;PRF	paskeni themeluar	V;1;PL;ADM;IPFV	themeluakëshim
+V;3;SG;SBJV;PRS	të prishë	V;3;PL;IND;PRS	prishin
+V;1;SG;SBJV;PRS	të shkëlqej	V;3;SG;SBJV;PRS	të shkëlqejë
+V;2;SG;SBJV;PRF;PST	të kishe votuar	V;2;PL;SBJV;PRS	të votoni
+V;2;PL;IND;FUT	do të lëni	V;2;PL;IND;PST	latë
+V;2;PL;OPT;PRS	dërmofshit	V;2;PL;COND;PRS	do të dërmonit
+V;V.PTCP;PST	duke pasë sulmuar	V;1;SG;SBJV;PST	të sulmoja
+V;1;SG;COND;PRF	do të kisha shkërdhyer	V;3;SG;IND;FUT	do të shkërdhejë
+V;2;PL;IMP	këndoni	V;1;PL;IND;IPFV	këndonim
+V;3;PL;IND;PRF;PST	patën abdikuar	V;2;PL;OPT;PRS	abdikofshit
+V;2;SG;IMP	thuaj	V;1;SG;ADM;IPFV	thënkësha
+V;1;SG;IND;IPFV	zgjedhja	V;2;PL;IND;PRF;FUT	do të keni zgjedhur
+V;2;SG;IND;FUT	do të shkëlqesh	V;3;PL;ADM;PRF;PST	paskëshin shkëlqyer
+V;1;PL;IND;FUT	do të lexojmë	V;1;SG;IND;PST	lexova
+V;1;PL;IND;IPFV	linim	V;3;PL;ADM;PRF	paskan lënë
+V;1;SG;IND;PST	prisha	V;1;PL;IND;PRF;PST	patëm prishur
+V;1;PL;IND;PRS	këndojmë	V;2;SG;OPT;PRS	këndofsh
+V;2;PL;ADM;PRF	paskeni lexuar	V;2;SG;IMP	lexo
+V;2;SG;SBJV;PRS	të ngjitesh	V;2;SG;IND;PRF	je ngjituar
+V;2;PL;SBJV;PRF;PRF	të kishit prishur	V;1;PL;ADM;PRF;PST	paskëshim prishur
+V;3;SG;ADM;PRF	paska lënë	V;2;SG;IND;IPFV	lije
+V;1;SG;ADM;PRF	paskam shfuqizuar	V;3;PL;ADM;PRF	paskan shfuqizuar
+V;2;PL;ADM;PRF;PRF	paskëshit dëmtuar	V;3;PL;ADM;PRF;PST	paskëshin dëmtuar
+V;3;PL;SBJV;PST	të dëmtonin	V;1;SG;IND;PRS	dëmtoj
+V;2;PL;IND;PRF;FUT	do të keni zgjedhur	V;1;SG;IND;PST	zgjedha
+V;3;PL;IND;FUT	do të abdikojnë	V;3;PL;SBJV;PRS	të abdikojnë
+V;3;PL;SBJV;PRF	të kenë shkëlqyer	V;2;SG;IMP	shkëlqe
+V;1;SG;SBJV;PRF	të kem ofenduar	V;2;SG;OPT;PRS	ofendofsh
+V;2;PL;ADM;PRF;PRF	paskëshit shkërdhyer	V;1;PL;ADM;PRF	paskemi shkërdhyer
+V;3;SG;SBJV;PRF;PST	të kishte thënë	V;2;SG;OPT;PRS	thënç
+V;3;PL;IND;FUT	do të prishin	V;NFIN	për të prishur
+V;3;SG;COND;PRF	do të kishte kënduar	V;2;SG;ADM;PRF;PST	paskëshe kënduar
+V;2;PL;IND;IPFV	themelonit	V;1;SG;IND;PRF;FUT	do të kem themeluar
+V;1;SG;SBJV;PST	të ngjitesha	V;1;SG;SBJV;PRS	të ngjitem
+V;1;PL;IND;PRF	kemi dërmuar	V;1;PL;ADM;PRF;PST	paskëshim dërmuar
+V;1;SG;SBJV;PRS	të zgjedh	V;V.PTCP;PST	duke pasë zgjedhur
+V;1;SG;IND;PRF	kam shkërdhyer	V;2;PL;ADM;PRF;PRF	paskëshit shkërdhyer
+V;2;SG;SBJV;PST	të themeloje	V;2;PL;IND;PRF;PRF	patët themeluar
+V;1;PL;SBJV;PRF;PST	të kishim shkëlqyer	V;2;PL;COND;PRS	do të shkëlqenit
+V;1;SG;SBJV;PRF	të kem fërkuar	V;1;PL;IND;PRF	kemi fërkuar
+V;3;PL;IND;PRF;PST	patën shkërdhyer	V;1;SG;SBJV;PRF	të kem shkërdhyer
+V;2;PL;IND;FUT	do të sulmoni	V;1;PL;SBJV;PRF	të kemi sulmuar
+V;3;PL;COND;PRS	do të zhvilloheshin	V;3;SG;IND;PRF	është zhvilluar
+V;V.PTCP;PST	duke pasë dërmuar	V;2;SG;COND;PRF	do të kishe dërmuar
+V;1;SG;IND;FUT	do të buzëqesh	V;1;PL;OPT;PRS	buzëqeshshim
+V;3;SG;IND;IPFV	shkëlqente	V;V.PTCP	shkëlqyer
+V;3;PL;OPT;PRS	prishshin	V;NFIN	për të prishur
+V;2;PL;COND;PRS	do të dërmonit	V;3;PL;OPT;PRS	dërmofshin
+V;1;SG;SBJV;PRS	të këndoj	V;1;PL;IND;PRF	kemi kënduar
+V;1;SG;IND;PRF;FUT	do të kem dërmuar	V;3;SG;OPT;PRS	dërmoftë
+V;1;PL;SBJV;PRF	të kemi dëmtuar	V;1;SG;SBJV;PRF;PST	të kisha dëmtuar
+V;2;SG;IND;PST	prishe	V;1;PL;SBJV;PRF	të kemi prishur
+V;2;PL;SBJV;PST	të lexonit	V;2;SG;SBJV;PRS	të lexosh
+V;2;PL;SBJV;PRF;PRF	të kishit zgjedhur	V;3;PL;IND;PST	zgjedhën
+V;2;PL;IMP	lini	V;2;SG;IMP	lër
+V;1;SG;ADM;PRF;PST	paskësha shkërdhyer	V;1;SG;SBJV;PRS	të shkërdhej
+V;1;PL;IND;PST	lexuam	V;3;SG;OPT;PRF	pastë lexuar
+V;1;SG;OPT;PRS	fërkofsha	V;3;SG;OPT;PRF	pastë fërkuar
+V;3;SG;SBJV;PST	të dëmtonte	V;3;PL;COND;PRF	do të kishin dëmtuar
+V;1;PL;IND;IPFV	këndonim	V;1;PL;ADM;IPFV	kënduakëshim
+V;2;SG;COND;PRS	do të fërkoje	V;1;PL;SBJV;PRF;PST	të kishim fërkuar
+V;2;SG;IMP	prish	V;3;PL;OPT;PRF	paçin prishur
+V;1;SG;SBJV;PRS	të abdikoj	V;3;SG;SBJV;PST	të abdikonte
+V;2;PL;IND;PRF	keni shkërdhyer	V;3;PL;IND;FUT	do të shkërdhejnë
+V;2;SG;SBJV;PRF;PST	të kishe shkëlqyer	V;1;PL;SBJV;PST	të shkëlqenim
+V;2;SG;OPT;PRF	paç kënduar	V;1;SG;ADM;PRF	paskam kënduar
+V;1;PL;IND;PRF;PST	patëm thënë	V;3;SG;IND;IPFV	thoshte
+V;3;PL;SBJV;PST	të ofendonin	V;3;PL;ADM;IPFV	ofenduakëshin
+V;1;SG;SBJV;PRF;PST	të kisha sodomizuar	V;1;PL;SBJV;PST	të sodomizonim
+V;2;PL;SBJV;PST	të dërmonit	V;1;SG;IND;PRF	kam dërmuar
+V;1;SG;IND;PRF	kam sulmuar	V;2;PL;IND;PST	sulmuat
+V;2;PL;IND;PST	shkëlqyet	V;3;PL;IND;PRS	shkëlqejnë
+V;2;PL;OPT;PRF	paçit votuar	V;2;SG;IND;PRS	voton
+V;1;PL;SBJV;PRS	të lëmë	V;1;PL;OPT;PRF	paçim lënë
+V;3;SG;OPT;PRS	ofendoftë	V;1;SG;OPT;PRF	paça ofenduar
+V;3;SG;ADM;IPFV	hapkësh	V;2;PL;IND;PRS	hapni
+V;2;PL;COND;PRF	do të kishit sulmuar	V;3;SG;IND;PRF	ka sulmuar
+V;1;SG;SBJV;PRF	të kem zgjedhur	V;3;PL;IND;PRF;FUT	do të kenë zgjedhur
+V;2;SG;IND;PRS	lexon	V;1;SG;SBJV;PRF	të kem lexuar
+V;3;SG;ADM;PRF;PST	paskësh shfuqizuar	V;1;PL;SBJV;PRF;PST	të kishim shfuqizuar
+V;3;SG;SBJV;PRF	të ketë prishur	V;1;PL;IND;FUT	do të prishim
+V;3;SG;IND;PRF	ka dërmuar	V;2;PL;SBJV;PRS	të dërmoni
+V;2;SG;IND;PRS	zhvillohesh	V;3;PL;SBJV;PRS	të zhvillohen
+V;2;SG;SBJV;PRF;PST	të kishe lënë	V;2;SG;IMP	lër
+V;2;SG;IND;PRF;PST	ishe ngjituar	V;2;PL;COND;PRF	do të ishit ngjituar
+V;3;SG;IND;PRF	ka fërkuar	V;1;SG;IND;FUT	do të fërkoj
+V;3;PL;IND;IPFV	dëmtonin	V;1;SG;IND;PRS	dëmtoj
+V;3;SG;IND;PRF	ka shkëlqyer	V;2;SG;OPT;PRS	shkëlqefsh
+V;3;PL;SBJV;PRF	të kenë dërmuar	V;3;PL;OPT;PRS	dërmofshin
+V;3;PL;OPT;PRF	paçin lexuar	V;2;PL;IND;IPFV	lexonit
+V;1;PL;SBJV;PST	të ngjiteshim	V;1;SG;IND;PRF	jam ngjituar
+V;3;PL;SBJV;PRS	të votojnë	V;1;PL;ADM;PRF	paskemi votuar
+V;3;PL;IND;PRF	kanë dëmtuar	V;1;SG;IND;IPFV	dëmtoja
+V;3;SG;ADM;PRF	paska shkëlqyer	V;3;SG;ADM;PRF;PST	paskësh shkëlqyer
+V;3;PL;SBJV;PRF;PST	të kishin dëmtuar	V;3;PL;IND;PST	dëmtuan
+V;1;PL;IND;PRF;PST	patëm ofenduar	V;3;PL;ADM;PRF;PST	paskëshin ofenduar
+V;1;SG;ADM;PRF;PST	paskësha thënë	V;1;SG;OPT;PRF	paça thënë
+V;1;PL;IND;PRS	themelojmë	V;2;PL;SBJV;PRF;PRF	të kishit themeluar
+V;1;SG;ADM;PRS	lexuakam	V;3;SG;ADM;IPFV	lexuakësh
+V;NFIN	për të shkëlqyer	V;3;PL;IND;PRS	shkëlqejnë
+V;2;PL;SBJV;PST	të abdikonit	V;1;PL;IND;PRF	kemi abdikuar
+V;1;SG;OPT;PRS	lënça	V;1;SG;IND;PRF;FUT	do të kem lënë
+V;V.PTCP;PRS	duke kënduar	V;1;SG;SBJV;PRS	të këndoj
+V;2;SG;IND;IPFV	hapje	V;3;PL;COND;PRF	do të kishin hapur
+V;2;PL;COND;PRS	do të shkëlqenit	V;1;SG;SBJV;PST	të shkëlqeja
+V;3;SG;IND;PRF;FUT	do të ketë dërmuar	V;1;SG;SBJV;PRF	të kem dërmuar
+V;3;SG;IND;PST	ofendoi	V;3;PL;SBJV;PRF	të kenë ofenduar
+V;1;SG;IND;PRF	kam shkërdhyer	V;1;SG;SBJV;PRF;PST	të kisha shkërdhyer
+V;3;PL;ADM;PRF;PST	paskëshin sulmuar	V;3;SG;OPT;PRS	sulmoftë
+V;2;PL;IND;PST	abdikuat	V;3;PL;ADM;PRF	paskan abdikuar
+V;NFIN	për t'u ngjituar	V;3;PL;IND;PRS	ngjiten
+V;1;SG;IND;IPFV	sulmoja	V;3;SG;IND;PRF	ka sulmuar
+V;3;SG;IND;IPFV	hapte	V;1;SG;IND;PST	hapa
+V;1;SG;IND;FUT	do të shkërdhej	V;V.PTCP;PST	duke pasë shkërdhyer
+V;1;SG;IND;FUT	do të dëmtoj	V;1;SG;SBJV;PRS	të dëmtoj
+V;3;PL;SBJV;PRS	të buzëqeshin	V;2;PL;IND;PRF;FUT	do të keni buzëqeshur
+V;2;SG;SBJV;PRF	të kesh prishur	V;2;SG;COND;PRF	do të kishe prishur
+V;1;PL;ADM;PRF;PST	paskëshim themeluar	V;3;SG;COND;PRS	do të themelonte
+V;2;PL;IND;PST	shfuqizuat	V;3;PL;SBJV;PRF	të kenë shfuqizuar
+V;2;SG;OPT;PRS	shfuqizofsh	V;3;PL;IND;PST	shfuqizuan
+V;2;PL;IMP	zhvillohuni	V;3;PL;ADM;PRF	qenkan zhvilluar
+V;3;PL;ADM;PRS	themeluakan	V;1;SG;IND;PRF	kam themeluar
+V;3;SG;IND;PRF	është ngjituar	V;2;PL;SBJV;PST	të ngjiteshit
+V;1;PL;IND;FUT	do të zgjedhim	V;1;SG;SBJV;PRS	të zgjedh
+V;3;SG;SBJV;PRF	të ketë zgjedhur	V;2;SG;IND;FUT	do të zgjedhësh
+V;2;SG;ADM;PRF;PST	paskëshe lexuar	V;1;PL;ADM;IPFV	lexuakëshim
+V;2;PL;IND;FUT	do të sulmoni	V;3;SG;SBJV;PRF;PST	të kishte sulmuar
+V;1;SG;IND;PRF	kam votuar	V;2;SG;IND;FUT	do të votosh
+V;1;SG;ADM;IPFV	buzëqeshkësha	V;2;SG;IMP	buzëqesh
+V;2;SG;IND;PRF	ke sodomizuar	V;2;PL;SBJV;PRF;PRF	të kishit sodomizuar
+V;1;PL;ADM;PRS	buzëqeshkemi	V;2;SG;ADM;IPFV	buzëqeshkëshe
+V;3;SG;SBJV;PRS	të dërmojë	V;2;PL;ADM;PRF;PRF	paskëshit dërmuar
+V;1;PL;ADM;IPFV	sulmuakëshim	V;1;SG;SBJV;PST	të sulmoja
+V;2;SG;IND;PST	shkërdheve	V;2;SG;SBJV;PRF	të kesh shkërdhyer
+V;2;PL;ADM;PRF	paskeni kënduar	V;1;SG;SBJV;PRS	të këndoj
+V;1;PL;OPT;PRS	themelofshim	V;1;SG;OPT;PRF	paça themeluar
+V;1;PL;OPT;PRS	abdikofshim	V;2;PL;IND;PRF;PRF	patët abdikuar
+V;1;SG;SBJV;PRS	të lë	V;3;PL;SBJV;PST	të linin
+V;2;PL;ADM;PRF	paskeni lexuar	V;3;SG;OPT;PRS	lexoftë
+V;2;SG;ADM;PRF	paske themeluar	V;2;PL;OPT;PRF	paçit themeluar
+V;2;SG;IND;PST	këndove	V;2;PL;ADM;IPFV	kënduakëshit
+V;2;PL;IND;IPFV	shfuqizonit	V;1;SG;ADM;PRF	paskam shfuqizuar
+V;2;SG;ADM;PRS	thënke	V;3;PL;ADM;PRF	paskan thënë
+V;3;PL;IND;PRF	janë zhvilluar	V;2;SG;ADM;IPFV	u zhvilluakëshe
+V;3;PL;IND;IPFV	zgjedhnin	V;3;PL;OPT;PRF	paçin zgjedhur
+V;2;PL;IND;PRF;PRF	patët abdikuar	V;NFIN	për të abdikuar
+V;2;PL;IND;PRF	keni buzëqeshur	V;3;SG;IND;PST	buzëqeshi
+V;3;PL;ADM;PRF	paskan shkërdhyer	V;3;PL;IND;FUT	do të shkërdhejnë
+V;3;PL;ADM;PRF	paskan themeluar	V;2;SG;IND;PRF;PST	pate themeluar
+V;3;PL;ADM;PRF	paskan dërmuar	V;1;PL;IND;PRF;FUT	do të kemi dërmuar
+V;3;SG;SBJV;PST	të lexonte	V;1;PL;ADM;PRS	lexuakemi
+V;2;PL;SBJV;PRS	të prishni	V;2;PL;IND;IPFV	prishnit
+V;2;PL;ADM;PRF	paskeni kënduar	V;3;SG;COND;PRS	do të këndonte
+V;2;PL;IND;PRF	keni prishur	V;1;PL;ADM;IPFV	prishkëshim
+V;3;SG;IND;IPFV	zhvillohej	V;V.PTCP;PST	duke u pasë zhvilluar
+V;1;PL;IND;IPFV	dëmtonim	V;NFIN	për të dëmtuar
+V;2;PL;IND;FUT	do të abdikoni	V;3;PL;SBJV;PST	të abdikonin
+V;1;PL;OPT;PRF	qofshim zhvilluar	V;3;SG;IND;IPFV	zhvillohej
+V;NFIN	për të thënë	V;1;SG;IND;IPFV	thosha
+V;3;SG;ADM;PRF;PST	paskësh ofenduar	V;1;PL;SBJV;PRF;PST	të kishim ofenduar
+V;1;PL;OPT;PRF	paçim dërmuar	V;2;SG;SBJV;PRF;PST	të kishe dërmuar
+V;2;SG;SBJV;PRS	të ofendosh	V;2;PL;ADM;PRS	ofenduakeni
+V;2;PL;ADM;PRF;PRF	paskëshit sulmuar	V;2;SG;COND;PRS	do të sulmoje
+V;2;SG;ADM;IPFV	hapkëshe	V;3;SG;IND;PRS	hap
+V;2;SG;ADM;PRS	dëmtuake	V;2;SG;SBJV;PRF;PST	të kishe dëmtuar
+V;2;PL;IND;PRF;FUT	do të keni kënduar	V;1;SG;ADM;PRF;PST	paskësha kënduar
+V;3;PL;IND;PRF;PST	ishin zhvilluar	V;1;PL;COND;PRF	do të ishim zhvilluar
+V;1;SG;IND;PST	u zhvillova	V;3;PL;IND;IPFV	zhvilloheshin
+V;1;SG;SBJV;PRF;PST	të kisha votuar	V;2;SG;OPT;PRF	paç votuar
+V;3;PL;OPT;PRS	sodomizofshin	V;2;PL;IND;PRS	sodomizoni
+V;2;PL;OPT;PRS	shkëlqefshit	V;2;SG;SBJV;PRS	të shkëlqesh
+V;3;PL;ADM;PRS	zgjedhkan	V;1;PL;IND;PRF	kemi zgjedhur
+V;3;SG;SBJV;PRF;PST	të kishte buzëqeshur	V;2;PL;COND;PRF	do të kishit buzëqeshur
+V;3;SG;SBJV;PRS	të hapë	V;1;SG;SBJV;PRF	të kem hapur
+V;2;PL;SBJV;PRF	të keni zgjedhur	V;2;PL;IND;PST	zgjedhët
+V;1;SG;IND;PRF	kam fërkuar	V;3;SG;SBJV;PST	të fërkonte
+V;2;PL;IND;PRF	keni dëmtuar	V;3;SG;OPT;PRF	pastë dëmtuar
+V;1;PL;IND;PST	buzëqeshëm	V;2;SG;IND;IPFV	buzëqeshje
+V;2;SG;COND;PRS	do të themeloje	V;1;SG;ADM;PRF	paskam themeluar
+V;3;SG;IND;PST	votoi	V;3;PL;IND;PRF;PST	patën votuar
+V;3;PL;SBJV;PRF;PST	të kishin shkëlqyer	V;2;SG;IND;FUT	do të shkëlqesh
+V;1;PL;OPT;PRS	shkëlqefshim	V;1;PL;ADM;PRF	paskemi shkëlqyer
+V;1;PL;IND;PRF	kemi shkëlqyer	V;1;SG;ADM;IPFV	shkëlqyekësha
+V;1;PL;ADM;PRF	paskemi dëmtuar	V;3;SG;COND;PRF	do të kishte dëmtuar
+V;3;SG;ADM;PRS	abdikuaka	V;3;SG;ADM;PRF	paska abdikuar
+V;3;PL;ADM;IPFV	zgjedhkëshin	V;1;SG;ADM;PRF	paskam zgjedhur
+V;2;PL;IND;PRS	prishni	V;3;SG;IND;PRF;FUT	do të ketë prishur
+V;3;SG;IND;PRF;FUT	do të ketë shkëlqyer	V;1;SG;SBJV;PST	të shkëlqeja
+V;2;SG;IND;IPFV	zhvilloheshe	V;1;SG;COND;PRF	do të isha zhvilluar
+V;3;PL;IND;FUT	do të lënë	V;1;PL;COND;PRF	do të kishim lënë
+V;3;SG;SBJV;PRF;PST	të kishte shfuqizuar	V;1;SG;IND;PRF;FUT	do të kem shfuqizuar
+V;2;SG;IND;IPFV	prishje	V;1;SG;ADM;PRS	prishkam
+V;3;SG;IND;PST	shkëlqeu	V;2;SG;IND;PRS	shkëlqen
+V;2;SG;ADM;PRS	thënke	V;1;PL;IND;PRF;FUT	do të kemi thënë
+V;3;SG;ADM;IPFV	kënduakësh	V;3;PL;IND;PRF	kanë kënduar
+V;3;SG;SBJV;PRF;PST	të kishte dëmtuar	V;1;SG;IND;PRF;PST	pata dëmtuar
+V;3;PL;ADM;PRS	shfuqizuakan	V;2;PL;OPT;PRF	paçit shfuqizuar
+V;2;SG;ADM;PRF	paske shkëlqyer	V;V.PTCP;PST	duke pasë shkëlqyer
+V;3;PL;OPT;PRS	hapshin	V;2;SG;IMP	hap
+V;3;PL;IND;PRS	abdikojnë	V;3;PL;OPT;PRF	paçin abdikuar
+V;2;SG;IMP	themelo	V;3;PL;SBJV;PST	të themelonin
+V;2;SG;IND;IPFV	thoshe	V;1;PL;IND;PRF	kemi thënë
+V;3;PL;SBJV;PRS	të buzëqeshin	V;1;PL;ADM;PRF	paskemi buzëqeshur
+V;3;PL;IND;PRS	votojnë	V;1;PL;IND;PRS	votojmë
+V;1;SG;SBJV;PRF;PST	të isha ngjituar	V;3;PL;ADM;PRF;PST	qenkëshin ngjituar
+V;3;SG;SBJV;PRS	të ngjitet	V;1;SG;SBJV;PRF;PST	të isha ngjituar
+V;2;PL;ADM;IPFV	shkëlqyekëshit	V;3;PL;IND;PRF;FUT	do të kenë shkëlqyer
+V;2;PL;ADM;PRF	paskeni sodomizuar	V;1;PL;IND;PRS	sodomizojmë
+V;2;PL;IMP	sodomizoni	V;1;SG;SBJV;PRF	të kem sodomizuar
+V;1;PL;SBJV;PRS	të prishim	V;2;SG;COND;PRS	do të prishje
+V;2;SG;IND;PST	sulmove	V;1;SG;IND;PRF;FUT	do të kem sulmuar
+V;2;PL;ADM;PRF;PRF	paskëshit zgjedhur	V;1;PL;IND;PRF;FUT	do të kemi zgjedhur
+V;3;SG;IND;PST	këndoi	V;1;SG;ADM;PRF	paskam kënduar
+V;2;SG;IMP	shkërdhe	V;3;SG;COND;PRS	do të shkërdhente
+V;2;PL;ADM;PRS	thënkeni	V;1;SG;SBJV;PRF	të kem thënë
+V;1;PL;COND;PRF	do të kishim hapur	V;2;PL;ADM;PRF	paskeni hapur
+V;1;SG;OPT;PRS	zgjedhsha	V;1;PL;IND;IPFV	zgjedhnim
+V;1;PL;ADM;IPFV	ofenduakëshim	V;2;PL;IND;PST	ofenduat
+V;2;PL;IND;IPFV	dërmonit	V;3;SG;OPT;PRS	dërmoftë
+V;2;PL;SBJV;PST	të votonit	V;3;PL;COND;PRS	do të votonin
+V;1;PL;OPT;PRS	zgjedhshim	V;1;PL;IND;PST	zgjedhëm
+V;2;SG;IND;PRF;FUT	do të kesh dëmtuar	V;3;SG;OPT;PRF	pastë dëmtuar
+V;V.PTCP	themeluar	V;1;SG;IND;IPFV	themeloja
+V;3;SG;IND;PRF;PST	pati themeluar	V;1;SG;IND;PRF	kam themeluar
+V;2;PL;IND;PRF;FUT	do të keni sulmuar	V;2;PL;COND;PRS	do të sulmonit
+V;2;SG;COND;PRF	do të kishe shkëlqyer	V;3;PL;OPT;PRS	shkëlqefshin
+V;2;SG;IND;PST	shfuqizove	V;2;SG;IND;IPFV	shfuqizoje
+V;2;SG;COND;PRS	do të abdikoje	V;3;SG;SBJV;PRF;PST	të kishte abdikuar
+V;3;SG;IND;FUT	do të thotë	V;2;PL;IND;PRS	thoni
+V;2;PL;OPT;PRS	u zhvillofshit	V;3;SG;SBJV;PRS	të zhvillohet
+V;2;PL;SBJV;PRS	të ngjiteni	V;1;PL;COND;PRS	do të ngjiteshim
+V;3;PL;IND;PRF	kanë themeluar	V;1;SG;SBJV;PRS	të themeloj
+V;3;PL;OPT;PRF	paçin votuar	V;3;PL;ADM;PRS	votuakan
+V;2;SG;ADM;IPFV	buzëqeshkëshe	V;1;SG;IND;PRS	buzëqesh
+V;3;SG;SBJV;PST	të fërkonte	V;1;SG;COND;PRF	do të kisha fërkuar
+V;3;PL;OPT;PRS	lexofshin	V;3;SG;IND;PST	lexoi
+V;2;SG;IMP	ngjitu	V;1;PL;COND;PRF	do të ishim ngjituar
+V;2;SG;OPT;PRF	paç lexuar	V;2;SG;IND;PRS	lexon
+V;1;PL;IND;PRF;PST	patëm thënë	V;3;SG;SBJV;PRS	të thotë
+V;2;PL;IND;PRS	abdikoni	V;3;SG;IND;FUT	do të abdikojë
+V;NFIN	për të ofenduar	V;1;SG;IND;PRF;FUT	do të kem ofenduar
+V;2;SG;ADM;IPFV	zgjedhkëshe	V;1;PL;IND;IPFV	zgjedhnim
+V;1;SG;IND;PRF;PST	pata lënë	V;3;SG;SBJV;PST	të linte
+V;1;SG;IND;PST	hapa	V;1;SG;ADM;PRF	paskam hapur
+V;3;PL;IND;PRF	kanë dëmtuar	V;2;SG;ADM;PRF	paske dëmtuar
+V;2;PL;SBJV;PRF	të keni shkërdhyer	V;1;PL;ADM;PRS	shkërdhyekemi
+V;3;SG;IND;FUT	do të fërkojë	V;2;PL;SBJV;PRF;PRF	të kishit fërkuar
+V;NFIN	për të kënduar	V;1;PL;ADM;PRS	kënduakemi
+V;3;PL;IND;IPFV	sodomizonin	V;1;PL;SBJV;PRS	të sodomizojmë
+V;2;PL;IND;PRF;PRF	patët thënë	V;3;PL;IND;PRF	kanë thënë
+V;1;SG;SBJV;PRF;PST	të isha ngjituar	V;3;SG;SBJV;PRF;PST	të ishte ngjituar
+V;2;PL;COND;PRF	do të kishit shkëlqyer	V;3;PL;IND;PRF;FUT	do të kenë shkëlqyer
+V;3;SG;IND;PST	këndoi	V;2;SG;IND;PRF	ke kënduar
+V;1;SG;IND;PRF;PST	pata votuar	V;1;SG;SBJV;PST	të votoja
+V;3;SG;SBJV;PRF	të ketë zgjedhur	V;2;SG;COND;PRF	do të kishe zgjedhur
+V;3;SG;ADM;IPFV	shkëlqyekësh	V;2;SG;IND;PST	shkëlqeve
+V;2;SG;OPT;PRF	paç sulmuar	V;2;PL;ADM;IPFV	sulmuakëshit
+V;1;SG;IND;FUT	do të zhvillohem	V;1;SG;OPT;PRF	qofsha zhvilluar
+V;1;PL;ADM;PRS	buzëqeshkemi	V;2;PL;COND;PRS	do të buzëqeshnit
+V;3;PL;SBJV;PST	të linin	V;3;PL;IND;PRS	lënë
+V;2;PL;COND;PRF	do të kishit fërkuar	V;3;PL;SBJV;PRF;PST	të kishin fërkuar
+V;3;SG;IND;IPFV	ofendonte	V;1;SG;SBJV;PRF;PST	të kisha ofenduar
+V;2;SG;SBJV;PRS	të shkërdhesh	V;2;PL;IND;PRS	shkërdheni
+V;2;PL;IND;PRF;FUT	do të keni dëmtuar	V;1;SG;SBJV;PRF	të kem dëmtuar
+V;1;SG;IND;IPFV	zhvillohesha	V;2;PL;ADM;PRF	qenkeni zhvilluar
+V;3;PL;ADM;PRS	shkërdhyekan	V;V.PTCP	shkërdhyer
+V;3;PL;SBJV;PRS	të votojnë	V;3;SG;SBJV;PRS	të votojë
+V;2;PL;SBJV;PST	të sodomizonit	V;2;PL;ADM;IPFV	sodomizuakëshit
+V;2;PL;SBJV;PST	të dëmtonit	V;1;PL;IND;PRF;FUT	do të kemi dëmtuar
+V;V.PTCP;PRS	duke zgjedhur	V;1;SG;IND;PST	zgjedha
+V;3;SG;SBJV;PRS	të dërmojë	V;3;SG;SBJV;PRF	të ketë dërmuar
+V;3;SG;SBJV;PRF;PST	të kishte fërkuar	V;1;PL;IND;IPFV	fërkonim
+V;1;SG;SBJV;PST	të dërmoja	V;2;PL;IND;PRF;FUT	do të keni dërmuar
+V;3;SG;IND;FUT	do të dëmtojë	V;1;PL;ADM;PRS	dëmtuakemi
+V;1;SG;COND;PRF	do të kisha prishur	V;2;PL;IND;PRS	prishni
+V;3;PL;COND;PRF	do të kishin kënduar	V;1;SG;IND;PRS	këndoj
+V;2;SG;OPT;PRF	paç buzëqeshur	V;3;SG;SBJV;PST	të buzëqeshte
+V;3;SG;SBJV;PST	të abdikonte	V;3;SG;COND;PRF	do të kishte abdikuar
+V;3;PL;IND;PRF;FUT	do të jenë ngjituar	V;2;PL;IND;PRF;PRF	ishit ngjituar
+V;1;PL;SBJV;PRF;PST	të kishim dërmuar	V;3;PL;COND;PRS	do të dërmonin
+V;3;PL;SBJV;PRF;PST	të ishin zhvilluar	V;1;PL;SBJV;PRF	të jemi zhvilluar
+V;3;PL;IND;PRF;PST	patën abdikuar	V;3;SG;COND;PRS	do të abdikonte
+V;1;SG;SBJV;PRF	të kem dërmuar	V;3;SG;COND;PRF	do të kishte dërmuar
+V;1;SG;ADM;PRS	prishkam	V;1;SG;ADM;PRF	paskam prishur
+V;3;SG;ADM;PRS	sulmuaka	V;3;PL;ADM;PRS	sulmuakan
+V;1;SG;SBJV;PRS	të ngjitem	V;3;PL;IND;PRF;PST	ishin ngjituar
+V;3;SG;ADM;PRS	sodomizuaka	V;1;SG;IND;PST	sodomizova
+V;2;PL;IND;FUT	do të ngjiteni	V;3;SG;ADM;PRF	qenka ngjituar
+V;1;PL;ADM;PRS	lënkemi	V;1;PL;IND;PRS	lëmë
+V;3;PL;ADM;PRF;PST	paskëshin zgjedhur	V;3;PL;IND;FUT	do të zgjedhin
+V;2;SG;OPT;PRS	lënç	V;1;SG;IND;IPFV	lija
+V;2;PL;IND;PRF;FUT	do të keni votuar	V;1;PL;COND;PRS	do të votonim
+V;1;SG;ADM;PRF	paskam lexuar	V;2;PL;IND;FUT	do të lexoni
+V;1;SG;OPT;PRF	paça votuar	V;1;SG;IND;FUT	do të votoj
+V;3;PL;SBJV;PRF;PST	të kishin prishur	V;3;SG;IND;PRF;PST	pati prishur
+V;3;SG;IND;PST	këndoi	V;3;PL;IND;PRS	këndojnë
+V;2;SG;IND;FUT	do të shkëlqesh	V;2;SG;OPT;PRF	paç shkëlqyer
+V;2;PL;SBJV;PRS	të abdikoni	V;3;SG;ADM;PRS	abdikuaka
+V;2;PL;IND;IPFV	shfuqizonit	V;1;SG;SBJV;PST	të shfuqizoja
+V;2;PL;OPT;PRF	paçit sulmuar	V;2;PL;ADM;IPFV	sulmuakëshit
+V;2;SG;ADM;PRF	paske sulmuar	V;1;PL;IND;FUT	do të sulmojmë
+V;1;SG;IND;PST	sulmova	V;3;PL;IND;FUT	do të sulmojnë
+V;2;PL;SBJV;PRF	të jeni zhvilluar	V;1;PL;IND;PRS	zhvillohemi
+V;1;SG;ADM;IPFV	sodomizuakësha	V;1;SG;SBJV;PST	të sodomizoja
+V;1;SG;OPT;PRS	dërmofsha	V;1;PL;IND;PRF;PST	patëm dërmuar
+V;3;PL;COND;PRF	do të kishin buzëqeshur	V;2;PL;IND;PST	buzëqeshët
+V;2;SG;IND;PRF;PST	pate votuar	V;3;SG;IND;FUT	do të votojë
+V;1;PL;IND;IPFV	shfuqizonim	V;3;PL;SBJV;PRF	të kenë shfuqizuar
+V;2;SG;COND;PRS	do të thoshe	V;2;PL;SBJV;PST	të thoshit
+V;1;SG;IND;PRF;PST	pata dërmuar	V;3;PL;ADM;IPFV	dërmuakëshin
+V;1;PL;OPT;PRS	zgjedhshim	V;1;SG;SBJV;PST	të zgjedhja
+V;2;PL;IMP	këndoni	V;2;PL;OPT;PRF	paçit kënduar
+V;2;SG;IND;PRS	fërkon	V;2;SG;IND;PST	fërkove
+V;1;SG;SBJV;PRF	të kem zgjedhur	V;1;PL;IND;FUT	do të zgjedhim
+V;3;SG;OPT;PRS	dërmoftë	V;3;SG;IND;FUT	do të dërmojë
+V;1;SG;IND;IPFV	këndoja	V;2;PL;COND;PRS	do të këndonit
+V;1;PL;IND;PRF;FUT	do të jemi ngjituar	V;V.PTCP	ngjituar
+V;1;SG;COND;PRS	do të prishja	V;2;PL;IND;IPFV	prishnit
+V;3;PL;IND;PST	dërmuan	V;3;PL;SBJV;PRF	të kenë dërmuar
+V;1;SG;IND;PRF	kam fërkuar	V;1;SG;OPT;PRF	paça fërkuar
+V;1;PL;IND;IPFV	themelonim	V;3;SG;IND;PRS	themelon
+V;2;PL;IND;FUT	do të sulmoni	V;3;PL;ADM;IPFV	sulmuakëshin
+V;2;SG;ADM;PRF;PST	qenkëshe zhvilluar	V;1;PL;SBJV;PST	të zhvilloheshim
+V;1;PL;IND;PST	zgjedhëm	V;1;SG;IND;FUT	do të zgjedh
+V;2;PL;IND;FUT	do të shkërdheni	V;3;SG;SBJV;PRF;PST	të kishte shkërdhyer
+V;2;PL;IND;PRF;PRF	patët prishur	V;3;SG;SBJV;PRF	të ketë prishur
+V;2;SG;IND;PST	abdikove	V;2;PL;SBJV;PST	të abdikonit
+V;3;PL;IND;PST	fërkuan	V;3;SG;IND;PRF;FUT	do të ketë fërkuar
+V;3;SG;IND;IPFV	dëmtonte	V;3;PL;IND;FUT	do të dëmtojnë
+V;1;SG;IND;FUT	do të shfuqizoj	V;2;SG;COND;PRS	do të shfuqizoje
+V;1;PL;SBJV;PRS	të lëmë	V;1;SG;ADM;PRS	lënkam
+V;3;PL;COND;PRF	do të kishin shkëlqyer	V;2;SG;SBJV;PRS	të shkëlqesh
+V;1;PL;SBJV;PRS	të shfuqizojmë	V;3;SG;OPT;PRF	pastë shfuqizuar
+V;V.PTCP	dëmtuar	V;3;SG;IND;PST	dëmtoi
+V;3;PL;SBJV;PRF	të kenë thënë	V;2;SG;IND;PRF;PST	pate thënë
+V;1;SG;IND;PRF;PST	pata zgjedhur	V;2;SG;ADM;PRF	paske zgjedhur
+V;2;PL;COND;PRF	do të ishit zhvilluar	V;1;SG;SBJV;PST	të zhvillohesha
+V;3;PL;IND;IPFV	prishnin	V;3;PL;ADM;PRF	paskan prishur
+V;1;SG;OPT;PRF	paça buzëqeshur	V;3;PL;OPT;PRF	paçin buzëqeshur
+V;1;SG;IND;PRF;FUT	do të jem ngjituar	V;3;PL;IND;PRF	janë ngjituar
+V;1;PL;SBJV;PRF	të kemi abdikuar	V;3;SG;SBJV;PRF	të ketë abdikuar
+V;1;PL;ADM;PRF	paskemi shfuqizuar	V;V.PTCP	shfuqizuar
+V;2;SG;IMP	dërmo	V;2;PL;IND;PRF	keni dërmuar
+V;3;PL;SBJV;PST	të ngjiteshin	V;2;PL;COND;PRS	do të ngjiteshit
+V;1;PL;OPT;PRF	paçim ofenduar	V;3;PL;ADM;IPFV	ofenduakëshin
+V;1;PL;ADM;IPFV	abdikuakëshim	V;1;PL;IND;PRF;PST	patëm abdikuar
+V;2;SG;IND;PRF;FUT	do të kesh lexuar	V;3;PL;ADM;IPFV	lexuakëshin
+V;1;SG;COND;PRS	do të zhvillohesha	V;1;SG;IND;PRF;FUT	do të jem zhvilluar
+V;1;SG;IND;PST	votova	V;2;SG;OPT;PRS	votofsh
+V;1;PL;SBJV;PRF	të kemi lexuar	V;1;PL;IND;PRF;PST	patëm lexuar
+V;1;SG;OPT;PRF	qofsha ngjituar	V;3;PL;OPT;PRF	qofshin ngjituar
+V;2;SG;SBJV;PRF;PST	të kishe buzëqeshur	V;2;SG;ADM;PRF;PST	paskëshe buzëqeshur
+V;2;SG;IND;PRS	shfuqizon	V;2;PL;IND;PRF;FUT	do të keni shfuqizuar
+V;3;PL;COND;PRS	do të fërkonin	V;2;PL;IMP	fërkoni
+V;3;SG;ADM;IPFV	votuakësh	V;3;SG;IND;PRF	ka votuar
+V;2;PL;ADM;IPFV	kënduakëshit	V;1;SG;IND;PRF;FUT	do të kem kënduar
+V;3;SG;SBJV;PRF	të ketë dëmtuar	V;1;PL;SBJV;PRF;PST	të kishim dëmtuar
+V;2;SG;IND;FUT	do të shkëlqesh	V;2;SG;ADM;PRF;PST	paskëshe shkëlqyer
+V;2;PL;ADM;PRS	shkërdhyekeni	V;2;SG;COND;PRF	do të kishe shkërdhyer
+V;2;PL;IND;PST	fërkuat	V;3;PL;IND;PST	fërkuan
+V;1;SG;SBJV;PRS	të sodomizoj	V;1;PL;SBJV;PRF	të kemi sodomizuar
+V;2;SG;SBJV;PST	të sodomizoje	V;2;SG;OPT;PRS	sodomizofsh
+V;1;PL;IND;PRF	kemi votuar	V;1;SG;IND;IPFV	votoja
+V;1;SG;OPT;PRS	shkëlqefsha	V;1;SG;IND;FUT	do të shkëlqej
+V;2;SG;SBJV;PRF	të kesh hapur	V;1;SG;IND;IPFV	hapja
+V;3;PL;COND;PRS	do të shkërdhenin	V;3;PL;ADM;PRS	shkërdhyekan
+V;1;SG;IND;PRF;PST	pata shfuqizuar	V;1;PL;SBJV;PST	të shfuqizonim
+V;2;PL;ADM;PRS	shkërdhyekeni	V;3;SG;SBJV;PRF;PST	të kishte shkërdhyer
+V;3;PL;OPT;PRS	dëmtofshin	V;1;PL;SBJV;PRF;PST	të kishim dëmtuar
+V;1;SG;IND;PST	buzëqesha	V;3;PL;SBJV;PRF	të kenë buzëqeshur
+V;1;PL;COND;PRF	do të kishim sodomizuar	V;3;PL;ADM;PRF	paskan sodomizuar
+V;3;PL;ADM;PRF;PST	paskëshin themeluar	V;1;PL;ADM;PRS	themeluakemi
+V;V.PTCP;PRS	duke buzëqeshur	V;2;SG;IND;PRS	buzëqesh
+V;1;SG;IND;PRF;PST	pata sulmuar	V;1;SG;ADM;PRF	paskam sulmuar
+V;2;PL;IND;IPFV	fërkonit	V;1;SG;COND;PRS	do të fërkoja
+V;3;PL;ADM;PRF;PST	paskëshin ofenduar	V;1;PL;ADM;IPFV	ofenduakëshim
+V;3;PL;SBJV;PST	të dëmtonin	V;3;SG;IND;PST	dëmtoi
+V;1;SG;IND;PST	prisha	V;2;PL;OPT;PRF	paçit prishur
+V;2;PL;COND;PRS	do të ngjiteshit	V;3;SG;OPT;PRF	qoftë ngjituar
+V;2;PL;SBJV;PST	të zgjedhnit	V;1;SG;OPT;PRS	zgjedhsha
+V;2;PL;IND;PRF;PRF	patët lexuar	V;3;SG;IND;PRF;FUT	do të ketë lexuar
+V;2;SG;COND;PRF	do të kishe zgjedhur	V;1;PL;ADM;IPFV	zgjedhkëshim
+V;1;SG;ADM;PRF	paskam themeluar	V;1;SG;ADM;PRS	themeluakam
+V;1;PL;IND;PST	shkërdhyem	V;1;PL;IND;PRS	shkërdhejmë
+V;3;SG;OPT;PRF	pastë thënë	V;3;SG;ADM;PRF;PST	paskësh thënë
+V;3;SG;SBJV;PRF;PST	të kishte shkëlqyer	V;1;SG;ADM;PRF;PST	paskësha shkëlqyer
+V;1;SG;IND;PRF	kam prishur	V;3;PL;IND;IPFV	prishnin
+V;1;PL;ADM;PRF;PST	paskëshim dëmtuar	V;3;SG;SBJV;PST	të dëmtonte
+V;3;SG;ADM;PRF;PST	paskësh dërmuar	V;3;PL;IND;PRF;FUT	do të kenë dërmuar
+V;1;PL;IND;PST	kënduam	V;1;SG;COND;PRS	do të këndoja
+V;2;PL;IND;IPFV	këndonit	V;3;PL;SBJV;PRF	të kenë kënduar
+V;1;PL;ADM;PRF;PST	qenkëshim zhvilluar	V;3;SG;ADM;IPFV	u zhvilluakësh
+V;NFIN	për t'u zhvilluar	V;2;SG;SBJV;PST	të zhvilloheshe
+V;3;PL;COND;PRS	do të shkëlqenin	V;1;SG;IND;PST	shkëlqeva
+V;3;PL;SBJV;PRS	të shfuqizojnë	V;3;PL;ADM;IPFV	shfuqizuakëshin
+V;2;SG;IND;PRF	ke sodomizuar	V;1;SG;IND;FUT	do të sodomizoj
+V;1;SG;IND;FUT	do të them	V;3;PL;ADM;PRS	thënkan
+V;1;SG;SBJV;PRF	të kem zgjedhur	V;2;PL;IND;PRF;PRF	patët zgjedhur
+V;NFIN	për të zgjedhur	V;1;PL;IND;PRF;FUT	do të kemi zgjedhur
+V;3;PL;COND;PRF	do të ishin ngjituar	V;V.PTCP;PRS	duke u ngjituar
+V;2;SG;ADM;PRF;PST	qenkëshe ngjituar	V;2;SG;SBJV;PRF;PST	të ishe ngjituar
+V;1;SG;IND;PRF;FUT	do të kem dëmtuar	V;2;SG;SBJV;PST	të dëmtoje
+V;1;PL;IND;PRF;PST	ishim ngjituar	V;2;PL;COND;PRS	do të ngjiteshit
+V;3;SG;SBJV;PRF;PST	të kishte dëmtuar	V;3;PL;ADM;IPFV	dëmtuakëshin
+V;2;SG;SBJV;PRS	të zhvillohesh	V;1;PL;IND;IPFV	zhvilloheshim
+V;2;SG;SBJV;PRF;PST	të kishe shkërdhyer	V;2;PL;IND;IPFV	shkërdhenit
+V;1;SG;IND;PRF;PST	pata dërmuar	V;2;PL;IMP	dërmoni
+V;2;SG;SBJV;PRF	të kesh dërmuar	V;3;PL;IND;PRS	dërmojnë
+V;V.PTCP;PST	duke pasë dërmuar	V;2;SG;ADM;IPFV	dërmuakëshe
+V;3;PL;ADM;PRF	paskan lexuar	V;2;SG;OPT;PRS	lexofsh
+V;2;SG;IMP	fërko	V;1;PL;ADM;PRF	paskemi fërkuar
+V;3;SG;SBJV;PRF;PST	të kishte lënë	V;1;SG;ADM;IPFV	lënkësha
+V;3;SG;SBJV;PRF	të ketë zgjedhur	V;NFIN	për të zgjedhur
+V;1;PL;COND;PRF	do të kishim thënë	V;1;SG;IND;PRF;PST	pata thënë
+V;3;PL;IND;PRF;FUT	do të kenë buzëqeshur	V;3;PL;OPT;PRF	paçin buzëqeshur
+V;2;PL;IND;PRF	keni abdikuar	V;1;PL;SBJV;PRS	të abdikojmë
+V;2;SG;IND;PRF;FUT	do të kesh dërmuar	V;1;PL;ADM;PRF;PST	paskëshim dërmuar
+V;1;SG;SBJV;PRF	të kem kënduar	V;3;SG;SBJV;PRF;PST	të kishte kënduar
+V;3;SG;COND;PRF	do të kishte buzëqeshur	V;3;SG;ADM;PRF	paska buzëqeshur
+V;3;SG;SBJV;PRF	të ketë shfuqizuar	V;1;SG;SBJV;PRF	të kem shfuqizuar
+V;1;PL;OPT;PRS	prishshim	V;1;SG;SBJV;PRS	të prish
+V;3;PL;ADM;PRF	paskan ofenduar	V;2;PL;IND;PRF;FUT	do të keni ofenduar
+V;3;SG;IND;PRF;FUT	do të ketë zgjedhur	V;1;SG;ADM;IPFV	zgjedhkësha
+V;1;PL;COND;PRF	do të kishim fërkuar	V;1;PL;OPT;PRS	fërkofshim
+V;1;SG;SBJV;PRS	të sulmoj	V;3;SG;IND;PRS	sulmon
+V;2;SG;COND;PRS	do të shkërdheje	V;1;SG;IND;PST	shkërdheva
+V;2;PL;IND;PRF;FUT	do të keni buzëqeshur	V;3;PL;SBJV;PRF	të kenë buzëqeshur
+V;3;SG;IND;PRF;PST	pati votuar	V;1;SG;ADM;IPFV	votuakësha
+V;1;SG;IND;FUT	do të këndoj	V;2;SG;IND;PRF;FUT	do të kesh kënduar
+V;2;SG;IMP	ngjitu	V;2;SG;IND;PRF	je ngjituar
+V;2;PL;IND;PRF	keni hapur	V;1;SG;SBJV;PST	të hapja
+V;2;PL;ADM;IPFV	buzëqeshkëshit	V;2;PL;ADM;PRF	paskeni buzëqeshur
+V;2;PL;IND;PRS	lexoni	V;1;PL;OPT;PRF	paçim lexuar
+V;1;PL;IND;PRF;PST	patëm lënë	V;1;SG;IND;FUT	do të lë
+V;1;PL;SBJV;PRF	të kemi sodomizuar	V;2;PL;ADM;PRF	paskeni sodomizuar
+V;2;SG;SBJV;PRF;PST	të kishe dëmtuar	V;1;SG;IND;PRS	dëmtoj
+V;3;SG;IND;PRF;FUT	do të ketë hapur	V;3;PL;IND;PRF;PST	patën hapur
+V;1;SG;IND;PRF;FUT	do të jem ngjituar	V;1;PL;SBJV;PRS	të ngjitemi
+V;1;PL;SBJV;PRF	të kemi ofenduar	V;3;SG;IND;PRF;FUT	do të ketë ofenduar
+V;2;PL;IND;PRF	keni themeluar	V;2;PL;IND;PRF;FUT	do të keni themeluar
+V;2;SG;ADM;PRS	sulmuake	V;3;PL;SBJV;PST	të sulmonin
+V;3;PL;IND;FUT	do të ngjiten	V;3;SG;IND;PRF	është ngjituar
+V;2;SG;COND;PRF	do të kishe themeluar	V;2;PL;OPT;PRS	themelofshit
+V;3;PL;IND;FUT	do të votojnë	V;1;PL;IND;PRF;FUT	do të kemi votuar
+V;3;SG;ADM;PRS	shfuqizuaka	V;1;PL;IND;PRF;PST	patëm shfuqizuar
+V;3;SG;COND;PRS	do të fërkonte	V;1;PL;IND;PST	fërkuam
+V;1;SG;ADM;PRF	paskam shkëlqyer	V;1;PL;IND;PRF;FUT	do të kemi shkëlqyer

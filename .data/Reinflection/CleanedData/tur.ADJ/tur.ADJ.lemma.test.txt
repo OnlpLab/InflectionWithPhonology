@@ -1,0 +1,1000 @@
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	değerli değildim
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	değerli misin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	abazan değilmiş
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyüleyici değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bencil değiller mi?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyüleyici miymişiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bencil değilmişsiniz	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	abazanmışım	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyüleyiciymişsin	ADJ;LGSPEC1;PST;1;SG;POS;DECL	büyüleyiciydim
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	ilginç değilmişsiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	büyüleyiciydik
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	ilginç değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	bencil değilmişiz	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bencildim
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	değerlisiniz	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bencilmişler	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bencil misiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	abazanmışsın	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	abazan mıyız?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	ilginç değil mi?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	ilginç değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bencil miymiş?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	değerli değilmiş	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	değerlisiniz
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	abazanım	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	abazan değildik
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	umutsuz değil miymişiz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	umutsuz değil mi?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	abazan değil miydi?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	huzurlu muydu?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	ilginç miydiler?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	büyüleyiciydik	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyüleyiciler mi?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyüleyici değiller	ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyüleyiciydin
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	umutsuz muymuşsun?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	değerli değilmişiz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	değerli değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	huzurlu değildim	ADJ;LGSPEC1;PST;2;PL;POS;INTR	huzurlu muydunuz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	umutsuz değil miymiş?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	umutsuzdu
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	abazan mıyız?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyüleyiciler mi?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	büyüleyicisiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	umutsuz değilsiniz	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	değerli değildiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	abazan değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyüleyici değil miymiş?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyüleyici değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	ilginç değil
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	huzurlu muymuşsun?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	değerli miymiş?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	değerli değilmişiz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	abazandık
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	huzurlu muydun?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	değerli miydin?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	değerli değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	ilginç değildin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	ilginç değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	değerli miymişsin?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	değerli mi?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	huzurlu musun?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	abazanmışsın	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	abazan mıymışım?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyüleyici değildiler	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	değerli değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	değerli değil miymişsin?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	abazan mısınız?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bencil değil miyim?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	bencildik
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyüleyici değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	ilginç değilmişsin	ADJ;LGSPEC1;PST;2;SG;POS;INTR	ilginç miydin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	huzurluymuşuz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	huzurlu değilsiniz
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	umutsuzlar	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	umutsuz değil miydi?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	huzurlu değil
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	umutsuzmuş	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	umutsuz değilsin
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	abazan değildim	ADJ;LGSPEC1;PST;3;PL;POS;INTR	abazan mıydılar?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	büyüleyici değil miydin?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyüleyici miydim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	abazan değil miymişsiniz?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	abazan değilim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	huzurluydu
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	abazan mıymışlar?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	değerli değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	değerli miymişim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	huzurluymuşuz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	huzurlu değilmişiz
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	umutsuzduk	ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	umutsuz muyduk?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	benciller	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bencilmişiz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	ilginç değil	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi	ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyüleyiciydi
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	ilginç değil miydi?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	ilginçsiniz	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	umutsuzmuşuz
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	değerliymiş	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	huzurlu değiller
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	umutsuz muydun?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	umutsuz muyum?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bencil değilsin	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bencil değil miydiler?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	büyüleyici değil miymişsin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bencil değil miymişim?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	bencildik
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	huzurlu değilmiş
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	büyüleyici miydi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	abazan değil miydiler?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	abazan mıymışlar?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyüleyici değiller mi?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	büyüleyicisiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bencil değil miydi?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bencil değildiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	abazan mıydın?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	abazan değilim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	abazan mıymışlar?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	umutsuz değil miydiniz?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	umutsuz değiller
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	umutsuz değildi	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	umutsuz değil miymiş?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	huzurlu değildim	ADJ;LGSPEC1;PST;2;SG;POS;DECL	huzurluydun
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	huzurlu değilmişsiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	huzurlu değil
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	umutsuz muymuşuz?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	umutsuzmuşuz
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	değerliydin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	değerliymişiz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	umutsuz değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	umutsuzmuşsun
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyüleyici değil misin?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyüleyici miymiş?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	umutsuz değiliz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	değerli değil mi?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	değerliydiler
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	ilginçmişsin	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	ilginç değiller mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bencil değil miymiş?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	bencildim
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	değerli değildi	ADJ;LGSPEC1;PST;1;PL;POS;DECL	değerliydik
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	huzurlu değil miydik?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	huzurlu muymuşuz?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	ilginçsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyüleyiciymişiz	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyüleyici değiller mi?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	abazan değildim
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	umutsuz değilmişler	ADJ;LGSPEC1;PST;2;PL;POS;INTR	umutsuz muydunuz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	değerliymişler	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	değerli miymişim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyüleyiciymişiz	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyüleyici değil
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	ilginç misin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	ilginç değildim
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	bencil miydik?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bencil miydi?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	değerliydiniz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	değerlisiniz
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	değerliydi	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	büyüleyici miydin?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	büyüleyicisin	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyüleyici misiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bencil miymişsin?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bencil değildi	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bencil miydi?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bencil miyim?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	ilginç değiller mi?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	abazansınız	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	değerli değil miydiler?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	değerliydin
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	umutsuz muyuz?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	umutsuzduk
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	huzurlu muyum?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	değerli miydiniz?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	değerliyiz
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	ilginç değilim	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	huzurlu muydu?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	değerli değildiniz	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	değerli değilim
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	huzurluydular	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	huzurlu değiller	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bencil miymişler?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	değerliymişler
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	abazan değil miydiler?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	abazandık
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	değerliler
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	ilginç değilmişsiniz	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	ilginç değildim
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	umutsuz değildik	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	umutsuz değildi
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	ilginç değil miymiş?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	ilginç değil
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	huzurlular mı?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	huzurlu değil misin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız	ADJ;LGSPEC1;PST;2;SG;POS;INTR	abazan mıydın?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	huzurlu değilim
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	abazan mıymışım?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	değerli değil miydi?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	değerli değil miyim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	umutsuz değil misin?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	umutsuz mu?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	huzurlu değildim	ADJ;LGSPEC1;PST;1;SG;POS;INTR	huzurlu muydum?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyüleyici değildiler
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	abazanlar mı?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	değerliyiz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bencil miymişsin?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bencil değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	abazan değil miymişim?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	abazanım
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	değerli değil misin?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	değerli değil miydiler?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	huzurlular mı?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	değerli değil misiniz?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	abazanmışlar	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	huzurlu değil miydiniz?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	huzurluydunuz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin	ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	ilginçmişiz	ADJ;LGSPEC1;PST;2;SG;POS;DECL	ilginçtin
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	huzurlu musun?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	huzurlu değil miymişiz?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bencilsin	ADJ;LGSPEC1;PST;2;PL;POS;DECL	bencildiniz
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	ilginç değildi	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	ilginç değil
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bencil değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	ilginç miydi?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	umutsuz değil miydiler?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	umutsuzlar
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	ilginçmişim	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	ilginçmişler
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	ilginç değiliz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyüleyici değil miydi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyüleyici değilmişler
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	umutsuz muymuş?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	umutsuzmuşuz
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyüleyici değilim
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	huzurluydular	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	huzurluymuşsun
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	abazan değil miymişler?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	umutsuzdu	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	umutsuz değildi
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	umutsuz değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	abazanmış	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	abazan değil miymişsiniz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	huzurluyum	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	huzurluymuşsunuz
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	abazan mıydın?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	abazanlar mı?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	abazan mıydı?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	umutsuzsunuz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin	ADJ;LGSPEC1;PST;3;PL;POS;INTR	huzurlu muydular?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	abazan mıymışsınız?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyüleyici miydim?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyüleyiciler mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bencil miymiş?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	umutsuzdunuz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	umutsuzsunuz
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	abazanlar
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim	ADJ;LGSPEC1;PST;2;PL;POS;DECL	değerliydiniz
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bencil değildim
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	ilginçmişler	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	ilginçsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyüleyici miymişler?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	abazan değildin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	abazan mıydınız?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	bencil miydim?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bencil miydi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	abazanmışız	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	umutsuz değilmişiz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	umutsuzmuş
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyüleyici değildin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	umutsuz değiller
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	huzurlu musunuz?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	huzurlu değil miydim?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	değerliydi	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	değerli değil
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	değerli değil miymişsin?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	umutsuz muymuşlar?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	umutsuz muydun?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	değerli değil miydim?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	umutsuz değildim	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	umutsuzmuşsun
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	ilginç değil miymiş?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	huzurlu muyduk?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	abazan değil misiniz?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	abazan değiller mi?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	abazan mısınız?
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	abazan mıydın?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	abazan değil miyiz?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	abazan değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	değerliydik	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	değerli misin?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyüleyici değil miydim?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	büyüleyici değil miydik?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	huzurluydu	ADJ;LGSPEC1;PST;2;PL;POS;DECL	huzurluydunuz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	değerli miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyüleyici değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	ilginçmişiz	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	ilginç değil miydik?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	abazan değildik
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bencilmişim
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bencil değil miymişim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bencilmişler
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	umutsuz değil miyiz?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	umutsuzdum
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyüleyiciydi
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	umutsuz değil misiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	umutsuz değildiler
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	abazan değildim
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	büyüleyiciymişim
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	huzurlu muydun?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	huzurluymuş
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	huzurlu değilim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	abazan değildik
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	değerli değiliz	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	değerliler mi?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyüleyici değil miyim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	değerli miymişsiniz?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	değerli değildim
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bencil değil misin?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bencilmişiz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	huzurlu değil miymişiz?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	huzurlu muyduk?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bencilmiş	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	ilginç değil miymiş?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	ilginç değil mi?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	huzurlu muyuz?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	değerli miydiniz?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	değerli değil miyim?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	huzurlu değilim	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	benciliz	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bencil miymişim?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	huzurlu muydu?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	huzurluymuşum
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	büyüleyici değil mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyüleyiciymişiz
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	büyüleyici miyiz?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bencil değil miydi?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	umutsuzmuşsunuz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	umutsuzmuşlar
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	umutsuz muyum?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	umutsuz değil miymişsin?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	abazan değil miymişim?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	abazansınız
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	abazan değildi	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	abazan mıymış?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	ilginç miymişsiniz?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	ilginçtik
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	ilginç değil miydi?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	ilginç değil miydik?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyüleyici değil misin?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	bencildiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	abazan değilmişiz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin	ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	değerliydiler	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	değerliler mi?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	umutsuz değil miydi?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	umutsuz değilmişsiniz
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	ilginç mi?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	ilginç	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	ilginç değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	ilginç miymişsin?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bencil değil miymiş?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	bencil değil miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	değerli değildiniz
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	ilginç değil miydin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	abazan mıymışlar?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	abazandın
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	huzurlu değilim	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	huzurlu değil miyiz?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	abazan değil miydiniz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	değerli değil miymişler?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	ilginç misiniz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	ilginç değil miydin?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	abazan değil miymiş?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	abazan değilsin
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	değerli değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	değerli miymiş?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	ilginç değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	abazan değilmişiz	ADJ;LGSPEC1;PST;2;PL;POS;INTR	abazan mıydınız?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	huzurlu muyduk?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	umutsuzlar mı?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	umutsuzmuşsun	ADJ;LGSPEC1;PST;1;SG;POS;DECL	umutsuzdum
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyüleyiciymiş
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	değerli değiller
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	umutsuzdum	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	umutsuz değilmişiz
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bencil miyim?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	benciliz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bencil değilmişler
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bencil değildiniz	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bencil misiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	ilginç miymişsin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	değerli değiliz
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	abazan değildi	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bencil değil miydiler?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	bencildiniz
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	değerli miymiş?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	huzurlu değiller	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	abazansın	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	abazan değil miymişsiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	huzurluydu	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	huzurlu değil
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyüleyiciymişler	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	büyüleyiciyiz
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	abazan değildin	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	abazan mıymışsınız?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	huzurlusunuz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	huzurluymuş
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	ilginçsiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	ilginçmişsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyüleyici değilmişler	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyüleyiciymişsiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bencil miymişler?	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	umutsuz muymuşsun?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	umutsuz değil miymişler?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyüleyici değiller	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyüleyici değil misin?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bencil değiliz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	bencil değilmişim
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	huzurluyum	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	huzurlusun
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	büyüleyici değil miydiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	umutsuz muyuz?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	umutsuz muyduk?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	abazan değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	abazan değilmişiz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	abazanlar mı?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	umutsuz değildiler
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	değerliymişim
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	abazan mıydı?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyüleyici değilsiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	ilginçtin	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	ilginç değil mi?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	değerli değildik	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	değerli miymiş?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	abazan değil miymiş?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	huzurlusun	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	huzurlusunuz
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	büyüleyicisin	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	büyüleyici miymişim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	umutsuz muymuşuz?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	umutsuz muymuşlar?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	değerli değil miyim?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	değerli değildik
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	umutsuz muydu?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	umutsuz mu?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bencilsin	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	benciliz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	değerli değilmişsiniz	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	değerli misiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	ilginç değil miymişim?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyüleyici değiller	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyüleyici değilmişim	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	bencildiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	umutsuzum	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bencil değilmiş	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	bencil mi?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	ilginçmişsin	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	ilginç miymişiz?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz	ADJ;LGSPEC1;PST;3;SG;POS;INTR	ilginç miydi?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	büyüleyici değiller	ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyüleyici değilim
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	huzurlu değilmişim	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	ilginç değil miydi?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	ilginç değildiler
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyüleyiciymişsin	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	huzurluydu	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	huzurlu değil miydik?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bencil miyiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyüleyici değilmişler	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	değerli değilmişiz	ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyüleyici miymişiz?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	umutsuzlar	ADJ;LGSPEC1;PST;1;PL;POS;DECL	umutsuzduk
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	değerli değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	huzurlu değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	huzurlu değil misin?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	ilginç misiniz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	huzurlu değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyüleyici
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	ilginç değildi	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız	ADJ;LGSPEC1;PST;2;PL;POS;INTR	abazan mıydınız?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	bencil değilmişim	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	umutsuz muydunuz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bencil değilmişsin	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bencil değil misin?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	ilginç değiller mi?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	ilginç miyiz?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	ilginç değil miyiz?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	değerli miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	bencilmiş	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bencil miyiz?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	bencil değildik
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	abazan değil miymişler?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	huzurlu değiliz	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	huzurlu değil misin?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	büyüleyici değil miydik?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyüleyici değilmişler
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	umutsuzlar	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	umutsuz değiller mi?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	abazan mısınız?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	değerli değiller mi?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bencil değildi	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	huzurlu muymuşlar?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	huzurlu musun?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	değerli misiniz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	değerli değildi
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyüleyici değildin	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	büyüleyicisin
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	abazan mıydı?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	abazan değilmiş
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bencil değilmiş
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyüleyici değil miyim?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	büyüleyici miyiz?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım	ADJ;LGSPEC1;PST;1;PL;POS;DECL	abazandık
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	değerli değildim
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyüleyici miymişiz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	huzurlu değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	huzurlu değilmişiz
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyüleyici değildim	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	büyüleyici değilmişler
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	huzurlu değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	ilginç değil miymişim?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	ilginç miydin?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bencil değil miyim?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	bencil değildin
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyüleyici değilmişim	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyüleyici değildin
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyüleyici değil miydim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	huzurluymuşuz	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	bencildik	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bencil değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	umutsuzmuşuz	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	umutsuz değil miydin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	değerli değildik
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	huzurlu muydun?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim	ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	huzurlu muydular?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	umutsuz değil miymiş?
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	umutsuz muydun?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	umutsuz değil miydim?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	umutsuz muymuşum?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	umutsuz değil misin?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bencil değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bencil değil miymişim?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyüleyici miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	abazan değilmişsiniz	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	abazan değil miydiniz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyüleyici değil miymişim?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	büyüleyici değilmişiz
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	huzurlu değilmişiz
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	umutsuzmuşsun	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	huzurlu değil miymişiz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	değerli değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bencilmişler
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyüleyici değiller mi?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	ilginç miymişiz?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	ilginç değiller mi?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	umutsuz değil misin?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	umutsuz muyuz?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	abazansınız	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bencil değil mi?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bencil değil miyim?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	ilginç değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	ilginç değilmişsin
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	umutsuzsun	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	umutsuz değil miydi?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar	ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bencil değiliz
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	değerli değildi	ADJ;LGSPEC1;PST;1;PL;POS;INTR	değerli miydik?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bencil miymişler?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	bencildi
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	umutsuzmuşsunuz	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	umutsuz muyuz?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	değerli değilim	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	abazan mıydım?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	huzurlu değil miydiniz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	huzurluydular
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	ilginç miyiz?	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	bencil değil miydiniz?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	ilginç misin?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	ilginç misin?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	ilginç değiller
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	umutsuz muydun?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	umutsuzdular
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	değerliydiler	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	umutsuzdunuz	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	değerli değil misin?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	değerliydiler
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	abazan mısın?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	ilginçmiş	ADJ;LGSPEC1;PST;3;PL;POS;DECL	ilginçtiler
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	bencil değildim
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyüleyici değildim	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	büyüleyici değil mi?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	umutsuz değildim	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	umutsuz değil miymişiz?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	huzurlu değildim	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	huzurlu muyuz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bencil değilsin	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	bencil değilmişim
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	ilginçtiler
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	ilginç değiller	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bencil miydi?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	abazan mı?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	büyüleyiciydin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyüleyiciymişler
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	değerliymişiz	ADJ;LGSPEC1;PST;1;PL;POS;DECL	değerliydik
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	bencil miymişsin?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bencil değildi
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	abazanmışlar	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	abazan mıyım?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	ilginç miymişsin?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	ilginç değil miydiler?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bencil değil miydi?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	umutsuz değilim	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	umutsuzlar mı?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	büyüleyiciyiz	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	büyüleyici değil miyim?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	büyüleyiciydik	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	abazanmışlar
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	değerli değil miymişsin?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	değerli değildi	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	değerli değilim
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	büyüleyici değilsiniz	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	değerli değilsiniz
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	büyüleyici değilim	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyüleyici
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	ilginç değilmişler	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	ilginç değil miydiler?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	abazan değilim	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	değerliymişler
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bencil değilmişsiniz	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	bencil değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	huzurlu değilsiniz
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bencilsin	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	bencil değilmişsin
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	değerli değil misin?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	değerliydi	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bencil değil miydim?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	bencil değildiler
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular	ADJ;LGSPEC1;PST;1;PL;POS;INTR	huzurlu muyduk?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	huzurlu musunuz?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	huzurlu değil miydin?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz	ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	ilginç değilmişsin
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	huzurlular mı?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bencildim	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bencilmişim
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bencil değil miymiş?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyüleyici değildim	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	huzurluymuşuz
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	abazan mıyız?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	abazanmışlar
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	değerli değil miydi?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	huzurluymuşum
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	huzurlu değilmiş	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	abazan değil miymiş?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	abazan mıymışsınız?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	huzurlu değil miydi?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	ilginç misin?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	ilginç değil miydin?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	değerli miymişim?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	değerli değilmişsiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	değerli değil mi?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	değerliydin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	umutsuz değilsiniz
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	bencil değil miyiz?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bencil değilmişler
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	umutsuz değilmişler	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	umutsuz değildik
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	büyüleyici miymişler?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	abazan mısın?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	değerliyiz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	değerli değilmiş
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	ilginç miymişsin?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bencil değiliz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bencil değil miymişim?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	abazan mısın?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	umutsuz değil misiniz?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	umutsuz muymuşuz?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bencil miymişler?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	bencilmişler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	abazanmış	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	abazan mıydınız?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	huzurlu mu?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	ilginç değil misin?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	ilginç değil miydiniz?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	huzurluydunuz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	değerli değil miydi?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	ilginçtiniz	ADJ;LGSPEC1;PST;3;SG;POS;INTR	ilginç miydi?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bencil değil miyim?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bencil değiller mi?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	bencildiler	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bencil değilsin
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	huzurluymuşsunuz
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	umutsuz mu?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	değerliymiş
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	değerliymiş	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	değerli değiliz
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	ilginç değil misiniz?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	ilginç miydim?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	büyüleyiciyiz	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyüleyici değildim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	büyüleyici miymişsin?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyüleyici değil miyiz?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	değerli değil miydi?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	değerliler
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	huzurlu değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	ilginç miymişsiniz?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	büyüleyici değildik	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyüleyici değil
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	ilginçmişim
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bencil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	umutsuz değil miymişler?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	umutsuz değiller
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	ilginç değil miymişsin?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	ilginç değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bencil miyim?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	ilginç değil miydi?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	ilginçmiş
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bencil değilsin	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bencil değil miymişsin?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	umutsuz değilsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	umutsuzsun
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	ilginç miydim?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	umutsuz değil miydi?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	umutsuz değiliz
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	umutsuzum	ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	bencil değilim	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	bencil değil miydik?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	huzurluymuşsun	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	huzurlu değil miymiş?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	huzurlu değil miydi?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	değerli değil miydin?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	değerli mi?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	ilginç değilmişiz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	ilginçmişler
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	bencil değil miyiz?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	benciller
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	ilginçmişiz
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	umutsuz değil mi?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	umutsuz değil miymişler?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	umutsuz değiliz
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bencil değildiniz	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bencil değiliz
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	umutsuz değildi	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	umutsuz değil miyim?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	değerli değil	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	değerli değil miydiniz?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	ilginç misiniz?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	ilginç miydin?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyüleyiciymişsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	abazan mıymışsın?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	umutsuz muymuşlar?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bencil değilmiş
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	huzurlu değil miydin?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	huzurlu değilsin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	değerliymişsiniz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	değerli değil miymiş?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyüleyiciler mi?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	abazandılar	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	abazan değiller mi?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	ilginç değiller	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	ilginç miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	umutsuzmuşlar	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bencil değil misin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bencil değil miymişsin?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bencil misiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	değerli değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	değerli değil misin?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	değerli değil miydiler?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	değerli değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	umutsuz değil misin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	umutsuz değil miymişim?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	ilginç değiliz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	ilginçmişiz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	abazan mıymışsınız?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	abazan değil miymiş?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	huzurlu muyum?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	ilginç değil mi?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyüleyiciymiş	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	ilginç değil miyim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	umutsuz musun?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	umutsuzsun
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyüleyici değil miydi?	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	değerli misin?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	huzurlu değilsin	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	huzurlu mu?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	abazan değilmişiz	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	abazan değilim
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyüleyici değildiniz	ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	umutsuz değilmiş	ADJ;LGSPEC1;PST;2;PL;POS;DECL	umutsuzdunuz
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	umutsuz değildiler	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	umutsuz değilim
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	abazan değil miydiniz?	ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	değerli değil miydiler?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PST;1;PL;POS;INTR	bencil miydik?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim	ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	umutsuz değil miydiler?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	değerliymiş
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	ilginç misiniz?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	ilginç değil mi?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	ilginç değildiler
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	bencil değilmişiz
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	abazan mıydın?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	abazan mıymışsın?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	değerli misiniz?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	değerli miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	huzurluymuş	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	ilginçler
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim	ADJ;LGSPEC1;PST;2;SG;POS;DECL	değerliydin
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bencil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	değerli değil miydik?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyüleyici misiniz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	ilginç değil miymişim?	ADJ;LGSPEC1;PST;1;SG;POS;INTR	ilginç miydim?
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	bencil miyiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	umutsuzuz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	umutsuzsunuz
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	abazanım	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	abazan değilsin
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	abazan değilmişiz	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	büyüleyici değildiler	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	abazan değil miydim?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	huzurlu değilmiş	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	ilginç değil miymiş?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	ilginçsin	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	abazan değilmişsiniz
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	değerli değildi	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	değerli değil miymişiz?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	umutsuz muydular?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	umutsuz musun?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	abazan değildik	ADJ;LGSPEC1;PST;3;PL;POS;INTR	abazan mıydılar?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	ilginç mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	abazanmışsın	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	abazan mıymışım?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	abazansın	ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	ilginç değilmişler
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	umutsuz muymuşsun?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	umutsuz değil miymiş?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	abazan değildik
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	umutsuz muymuşuz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	umutsuz değildiniz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	abazan mıymışlar?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	bencil değil miymişim?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bencilmişiz
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	abazan değil
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi	ADJ;LGSPEC1;PST;1;SG;POS;INTR	huzurlu muydum?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	değerli değildik
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	abazanlar mı?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bencil değil mi?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	büyüleyici değilsin	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyüleyici değil miymiş?
+ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	umutsuz değil miydi?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	ilginçtiler	ADJ;LGSPEC1;PST;1;PL;POS;DECL	ilginçtik
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	değerlisiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	umutsuzsunuz	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	umutsuz muyum?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	huzurlusunuz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	huzurluymuşsunuz
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyüleyici miymiş?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyüleyiciymişler
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	ilginç değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	ilginç değilsin
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	bencildim	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bencil değil misin?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	ilginç değiller	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	ilginçsiniz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	benciliz	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	bencil değil miymişler?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	ilginç değiliz	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	huzurlu muydular?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	huzurlu değilmişim
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	ilginç miyiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	ilginç değil miymişsiniz?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz	ADJ;LGSPEC1;PST;2;SG;POS;INTR	ilginç miydin?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	huzurlu değildi	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	ilginç miymişsiniz?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyüleyiciymiş	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	büyüleyici değil miymişim?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	bencildin
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	ilginç değil miymiş?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	ilginç değil misin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	büyüleyici değilmişim	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	büyüleyiciyiz
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	abazanmışsın
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	değerli değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	değerliyiz	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	değerli miyiz?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	abazan mıyım?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	değerli değildiniz	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	değerli değil miydik?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	büyüleyici miydi?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	büyüleyici değil miymişiz?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler	ADJ;LGSPEC1;PST;2;PL;POS;INTR	değerli miydiniz?
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	ilginç değilmişsin
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyüleyiciymiş	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	büyüleyici miyim?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	abazan değil miydik?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	abazandılar
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	umutsuz değilmişler	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	değerli değilmişsin	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	değerlisiniz
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	abazanım	ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	büyüleyici değildin	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	huzurlu musun?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	bencil miymişiz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	bencil değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	bencil değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	ilginç değildim	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	ilginç değil misin?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	umutsuz değildiniz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	umutsuz değilmiş
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	değerli değil miymişler?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	abazanlar	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	huzurlu değiliz	ADJ;LGSPEC1;PST;1;SG;POS;DECL	huzurluydum
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	abazan mıymış?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	abazan değiller mi?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	umutsuz muymuşsunuz?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	umutsuz değiller
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	ilginçler mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	ilginçmişler
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	değerli değil miydik?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	değerli değilmişiz
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	abazan değiller
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	umutsuz muydun?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	umutsuz değilmişler
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	değerli değiller	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	değerli değilmişsin
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	bencil miydiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	bencil değilmiş
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	değerli değiller	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	ilginç değil miydim?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	umutsuz değil miydiler?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	umutsuz değil
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	değerliyim	ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	huzurlusunuz
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	değerli değil miydim?	ADJ;LGSPEC1;PST;2;SG;POS;INTR	değerli miydin?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	ilginç değil miydiler?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	ilginç değilmişsin
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	büyüleyici değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	değerli miymiş?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bencil değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	umutsuz değiller mi?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	bencil değil miymişiz?	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	huzurlu değil miyiz?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	bencil değil miymiş?	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bencil değildi	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	bencil değildik	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bencil değil miydiler?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	abazan değilsin	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	abazan değiller mi?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	huzurlu mu?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	huzurluydular
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	umutsuz muymuş?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	umutsuz değilmişsiniz
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	değerli miydi?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	değerli değilmişsiniz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	abazan mıymışsınız?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	ilginçtim	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	ilginç
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	değerli miydik?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	değerli değildim
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	huzurlu değil miymişsiniz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?	ADJ;LGSPEC1;PRS;1;PL;POS;INTR	değerli miyiz?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	huzurlu muyduk?	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	huzurlu değil misin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	abazanım	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	abazan mıymışım?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	abazan değilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	umutsuzmuşum	ADJ;LGSPEC1;PST;3;SG;NEG;DECL	umutsuz değildi
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	büyüleyiciymiş
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	ilginçsin	ADJ;LGSPEC1;PST;2;PL;POS;INTR	ilginç miydiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bencil miymiş?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	huzurluymuşsunuz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	bencil miydiniz?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	bencil misiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	değerli değiller	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	bencil değil misin?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	bencil miydiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	ilginç	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	ilginç değildin	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	ilginç değildik
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	huzurlu değil miyiz?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	ilginçmişim
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	bencil miyim?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	abazandılar	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	abazan değilmişler
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	ilginç değil miyiz?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	ilginç değiliz
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	değerli değilsiniz	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	huzurlu değilmişim	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyüleyiciymişler
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	huzurlular mı?
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	değerli miydiler?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	değerli değil miymişim?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	büyüleyici değil misiniz?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	büyüleyici değil miydiler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	benciliz
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	ilginç değil misin?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz	ADJ;LGSPEC1;PST;3;PL;POS;INTR	abazan mıydılar?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	huzurlusun	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	huzurlu
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	büyüleyici değil misin?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	ilginç miyim?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	ilginçtin
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	değerli değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	değerliymişler
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	bencil miydin?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bencil değil mi?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	büyüleyiciymişim	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	büyüleyici değildik
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	umutsuz değil mi?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	umutsuzdun
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyüleyici değil miyiz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	büyüleyici değil mi?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	huzurluyduk	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	huzurluymuş	ADJ;LGSPEC1;PST;3;SG;POS;INTR	huzurlu muydu?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	abazan mıymışsın?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	huzurlu değilsin
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	ilginçsiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	ilginçmişsiniz
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	büyüleyiciymişler	ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyüleyiciydi
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	huzurlu değil miyim?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyüleyici değildiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	huzurlu muymuşsunuz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	huzurluyum
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	bencilmişiz	ADJ;LGSPEC1;PRS;2;PL;POS;DECL	bencilsiniz
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	huzurlu değiller mi?	ADJ;LGSPEC1;PST;3;PL;POS;DECL	huzurluydular
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bencil değil miydiler?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bencil değildiniz
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	umutsuz değilmişler
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	değerli değilim
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	ilginç değil miyim?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	umutsuz muyum?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	umutsuz değil miymişsiniz?
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin	ADJ;LGSPEC1;PST;3;PL;POS;DECL	değerliydiler
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	huzurlu değil miydin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	bencil değil miyim?
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	büyüleyici değil miydiniz?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyüleyici miymişiz?
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	değerli değil miymişiz?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	değerli değil miyiz?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	umutsuzmuşsun
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	değerli değil miymişler?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	değerli miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	bencil mi?	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bencil değil miydim?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	değerli değildim
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	büyüleyici miydim?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	büyüleyici değilmişsin
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	ilginç değil miydiniz?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	ilginçtik
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	bencil değilim	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	abazanmışım	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	bencil değil miymişsin?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	bencil değil mi?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	abazan mısın?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	umutsuzsunuz	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	umutsuz muymuşuz?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	bencil değildi	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	bencil miymişim?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	huzurlu değilmişsin	ADJ;LGSPEC1;PST;1;PL;NEG;DECL	huzurlu değildik
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bencilsin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	bencil değil miymişler?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	umutsuz mu?	ADJ;LGSPEC1;PST;2;SG;NEG;INTR	umutsuz değil miydin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	huzurlu muymuşum?	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	huzurlu muyum?
+ADJ;LGSPEC1;PST;2;SG;NEG;DECL	ilginç değildin	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	abazan değiliz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	abazan mıymış?
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	bencil değil	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	bencil miymişler?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	değerli miydik?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	büyüleyici değildiniz
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	umutsuz muydunuz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	huzurlu muymuşsun?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	huzurlu değil miymişsin?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	umutsuz değilim	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	umutsuzsun
+ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	huzurlu değiliz	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	huzurlu mu?
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	ilginçsiniz	ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz
+ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	umutsuz değil miyiz?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	umutsuz değilmişsin
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	benciller mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	bencil değilmişler
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	abazanmış
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bencil değiller mi?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	abazan mısınız?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	umutsuzmuşuz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	umutsuzmuşsunuz
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	huzurlu değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;INTR	huzurlu değil miymişim?
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	abazan mısın?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	abazan değil miydi?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyüleyiciydi	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	büyüleyici değil miyiz?
+ADJ;LGSPEC1;PST;3;SG;NEG;DECL	büyüleyici değildi	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	abazan değildim	ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	ilginciz	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	ilginç değilmişim
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	ilginç değil misin?	ADJ;LGSPEC1;PST;1;PL;POS;DECL	ilginçtik
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	abazan değilmişim	ADJ;LGSPEC1;PRS;3;SG;POS;INTR	abazan mı?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	abazan mıydım?	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	abazan değil
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	umutsuz değildik	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	umutsuz değil miydim?
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	bencil miydin?	ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	bencilmişim
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	umutsuzdum	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	umutsuzsun
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	umutsuz değildiler	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	umutsuz değildin
+ADJ;LGSPEC1;PST;2;PL;POS;INTR	huzurlu muydunuz?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	huzurlu değildiniz
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin	ADJ;LGSPEC1;PST;1;PL;POS;DECL	değerliydik
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	değerli değil mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;DECL	değerli değilmişler
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	büyüleyiciymişiz
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	ilginç değilmişim	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	umutsuzdular	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	umutsuz değil miyiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bencil değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	değerli değil	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	değerli misin?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	değerli miydim?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	değerliler mi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	ilginç değil misiniz?	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	ilginç değilmiş
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	büyüleyici değilmişsiniz	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	büyüleyici misin?
+ADJ;LGSPEC1;PRS;1;SG;POS;INTR	abazan mıyım?	ADJ;LGSPEC1;PST;2;SG;POS;DECL	abazandın
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş	ADJ;LGSPEC1;PST;1;SG;NEG;INTR	büyüleyici değil miydim?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyüleyici değil miymiş?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	büyüleyiciymişsin	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyüleyici değil miymiş?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	değerli değiller mi?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	değerli miymişiz?
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	bencilim	ADJ;LGSPEC1;PST;3;SG;POS;DECL	bencildi
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	ilgincim	ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	ilginç değilim
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	ilginç miymişler?	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	ilginç değil miymişler?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	büyüleyici değildik	ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	ilginç miydi?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	ilginç değil miydi?
+ADJ;LGSPEC1;PST;1;PL;NEG;DECL	değerli değildik	ADJ;LGSPEC1;PRS;1;SG;POS;INTR	değerli miyim?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	ilginç değil miydiler?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	ilginç miymişsiniz?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	büyüleyici mi?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	büyüleyiciydiniz
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	büyüleyici değil	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyüleyici değil miydi?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	değerli değil misiniz?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	değerli değiliz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	büyüleyici miydik?	ADJ;LGSPEC1;PST;1;SG;NEG;DECL	büyüleyici değildim
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	değerli misin?	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	değerli değil miydi?
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?	ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	huzurlu değil misiniz?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;DECL	değerliymişim	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	değerli değil miydik?
+ADJ;LGSPEC1;PRS;1;PL;POS;DECL	huzurluyuz	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	huzurlu değiliz
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	bencil mi?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	bencil miydi?
+ADJ;LGSPEC1;PST;3;SG;NEG;INTR	bencil değil miydi?	ADJ;LGSPEC1;PRS;1;PL;NEG;DECL	bencil değiliz
+ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	abazan değil miyim?
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	huzurlu muymuşuz?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	huzurlu değil mi?
+ADJ;LGSPEC1;PST;2;PL;POS;DECL	huzurluydunuz	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	huzurlu değiller
+ADJ;LGSPEC1;PST;2;SG;POS;INTR	huzurlu muydun?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	huzurluymuşlar
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	büyüleyiciydi	ADJ;LGSPEC1;PST;3;SG;NEG;INTR	büyüleyici değil miydi?
+ADJ;LGSPEC1;PST;1;SG;POS;INTR	abazan mıydım?	ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	abazan değil mi?
+ADJ;LGSPEC1;PST;1;SG;POS;DECL	abazandım	ADJ;LGSPEC1;PRS;2;SG;NEG;INTR	abazan değil misin?
+ADJ;LGSPEC1;LGSPEC2;1;SG;POS;INTR	ilginç miymişim?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	ilginç değilmişiz
+ADJ;LGSPEC1;PST;1;SG;NEG;INTR	bencil değil miydim?	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	bencil değilsin
+ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	umutsuz değilsin	ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	umutsuz değil miyim?
+ADJ;LGSPEC1;PRS;1;SG;NEG;DECL	umutsuz değilim	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	umutsuz değildin
+ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	değerli değil miymişiz?	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	değerli değildiler
+ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	huzurlu değil	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	huzurluymuşsun
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	huzurlu değilmiş	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	huzurlusun
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	bencil miymişsiniz?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	bencildiniz
+ADJ;LGSPEC1;PST;2;PL;NEG;INTR	ilginç değil miydiniz?	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	ilginç değilsiniz
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	bencilsin	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	bencil değildiniz
+ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?	ADJ;LGSPEC1;PRS;3;PL;POS;INTR	büyüleyiciler mi?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	büyüleyici değiller mi?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	büyüleyici değil miymişsiniz?
+ADJ;LGSPEC1;PRS;3;PL;POS;INTR	abazanlar mı?	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	abazan mıymışız?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	abazan değil miymiş?	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	abazan değil miymişiz?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	abazanmışsınız	ADJ;LGSPEC1;PRS;3;SG;POS;DECL	abazan
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;DECL	abazanmışız	ADJ;LGSPEC1;PST;1;PL;POS;DECL	abazandık
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;INTR	değerli değil miymişsiniz?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	değerli değilmişim
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz	ADJ;LGSPEC1;PST;1;SG;POS;INTR	abazan mıydım?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	huzurlular	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	huzurlu değiller mi?
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı	ADJ;LGSPEC1;PST;3;PL;POS;INTR	abazan mıydılar?
+ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;DECL	büyüleyici değilmiş	ADJ;LGSPEC1;PST;2;PL;POS;INTR	büyüleyici miydiniz?
+ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	bencil değiller	ADJ;LGSPEC1;PRS;2;SG;POS;INTR	bencil misin?
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	büyüleyici değil misiniz?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	büyüleyiciyim
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	değerli	ADJ;LGSPEC1;PST;2;PL;POS;DECL	değerliydiniz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	büyüleyici	ADJ;LGSPEC1;PST;1;PL;NEG;INTR	büyüleyici değil miydik?
+ADJ;LGSPEC1;PST;2;PL;NEG;DECL	ilginç değildiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	ilginçmişler
+ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	huzurlu değil miymişler?	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	huzurlu değilmişim
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	değerli miydik?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;PST;2;PL;NEG;DECL	abazan değildiniz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	umutsuz musunuz?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	umutsuz muydu?
+ADJ;LGSPEC1;PRS;3;SG;NEG;INTR	umutsuz değil mi?	ADJ;LGSPEC1;PRS;1;SG;POS;DECL	umutsuzum
+ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	büyüleyici miymişiz?	ADJ;LGSPEC1;PST;3;PL;POS;INTR	büyüleyici miydiler?
+ADJ;LGSPEC1;PRS;1;SG;NEG;INTR	umutsuz değil miyim?	ADJ;LGSPEC1;PST;3;SG;POS;INTR	umutsuz muydu?
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	bencilmişsin	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	bencilmişsiniz
+ADJ;LGSPEC1;PRS;1;SG;POS;DECL	huzurluyum	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;INTR	huzurlu değil miymişiz?
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	bencil değil miydiler?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	bencil değiller mi?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	abazanmış	ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	abazan değilsiniz
+ADJ;LGSPEC1;PST;3;PL;NEG;INTR	huzurlu değil miydiler?	ADJ;LGSPEC1;PST;2;SG;NEG;DECL	huzurlu değildin
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	huzurlu muydu?	ADJ;LGSPEC1;PRS;1;PL;NEG;INTR	huzurlu değil miyiz?
+ADJ;LGSPEC1;PST;1;SG;NEG;DECL	abazan değildim	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	abazan mıymışız?
+ADJ;LGSPEC1;PRS;3;SG;POS;INTR	ilginç mi?	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	ilginç miymişler?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	büyüleyiciymişsiniz	ADJ;LGSPEC1;LGSPEC2;3;SG;NEG;INTR	büyüleyici değil miymiş?
+ADJ;LGSPEC1;PRS;2;PL;NEG;DECL	değerli değilsiniz	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	değerli değilmişiz
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	ilginç miydik?	ADJ;LGSPEC1;PST;2;PL;NEG;INTR	ilginç değil miydiniz?
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	umutsuzdular	ADJ;LGSPEC1;PST;1;PL;POS;DECL	umutsuzduk
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	değerliydi	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	ilginç miymiş?	ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	umutsuz değilmişim	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	umutsuz değilmişsiniz
+ADJ;LGSPEC1;PST;3;PL;POS;DECL	büyüleyiciydiler	ADJ;LGSPEC1;LGSPEC2;3;PL;NEG;INTR	büyüleyici değil miymişler?
+ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	huzurlu değilmişim	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	huzurlu değil
+ADJ;LGSPEC1;PRS;2;PL;POS;DECL	abazansınız	ADJ;LGSPEC1;PST;3;SG;POS;DECL	abazandı
+ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;INTR	abazan değil miymişsin?	ADJ;LGSPEC1;PST;2;PL;POS;DECL	abazandınız
+ADJ;LGSPEC1;LGSPEC2;3;PL;POS;DECL	abazanmışlar	ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler
+ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	büyüleyici miymiş?	ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyüleyici misiniz?
+ADJ;LGSPEC1;PST;2;SG;NEG;INTR	abazan değil miydin?	ADJ;LGSPEC1;LGSPEC2;2;SG;POS;INTR	abazan mıymışsın?
+ADJ;LGSPEC1;PST;3;SG;POS;INTR	abazan mıydı?	ADJ;LGSPEC1;PST;3;PL;NEG;INTR	abazan değil miydiler?
+ADJ;LGSPEC1;PRS;3;PL;POS;DECL	benciller	ADJ;LGSPEC1;LGSPEC2;1;PL;NEG;DECL	bencil değilmişiz
+ADJ;LGSPEC1;PRS;3;SG;POS;DECL	bencil	ADJ;LGSPEC1;PST;3;PL;POS;INTR	bencil miydiler?
+ADJ;LGSPEC1;PST;1;PL;NEG;INTR	umutsuz değil miydik?	ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	umutsuz değiller mi?
+ADJ;LGSPEC1;LGSPEC2;2;PL;POS;DECL	değerliymişsiniz	ADJ;LGSPEC1;LGSPEC2;3;PL;POS;INTR	değerli miymişler?
+ADJ;LGSPEC1;PST;3;PL;NEG;DECL	abazan değildiler	ADJ;LGSPEC1;LGSPEC2;1;PL;POS;INTR	abazan mıymışız?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	umutsuz değiller mi?	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;DECL	umutsuzmuş
+ADJ;LGSPEC1;PST;3;SG;POS;DECL	ilginçti	ADJ;LGSPEC1;LGSPEC2;1;SG;NEG;DECL	ilginç değilmişim
+ADJ;LGSPEC1;LGSPEC2;2;SG;POS;DECL	değerliymişsin	ADJ;LGSPEC1;PRS;3;PL;NEG;DECL	değerli değiller
+ADJ;LGSPEC1;PRS;2;SG;POS;INTR	umutsuz musun?	ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	umutsuz değilmişsiniz
+ADJ;LGSPEC1;PRS;2;PL;POS;INTR	büyüleyici misiniz?	ADJ;LGSPEC1;PRS;3;PL;POS;DECL	büyüleyiciler
+ADJ;LGSPEC1;PRS;2;SG;POS;DECL	değerlisin	ADJ;LGSPEC1;PRS;2;SG;NEG;DECL	değerli değilsin
+ADJ;LGSPEC1;LGSPEC2;2;PL;NEG;DECL	bencil değilmişsiniz	ADJ;LGSPEC1;LGSPEC2;3;SG;POS;INTR	bencil miymiş?
+ADJ;LGSPEC1;PRS;3;PL;NEG;INTR	ilginç değiller mi?	ADJ;LGSPEC1;PRS;2;SG;POS;DECL	ilginçsin
+ADJ;LGSPEC1;PRS;2;PL;NEG;INTR	değerli değil misiniz?	ADJ;LGSPEC1;PST;1;SG;POS;DECL	değerliydim
+ADJ;LGSPEC1;PST;1;PL;POS;INTR	abazan mıydık?	ADJ;LGSPEC1;LGSPEC2;2;SG;NEG;DECL	abazan değilmişsin
+ADJ;LGSPEC1;PRS;1;PL;POS;INTR	ilginç miyiz?	ADJ;LGSPEC1;LGSPEC2;2;PL;POS;INTR	ilginç miymişsiniz?
+ADJ;LGSPEC1;PST;1;PL;POS;DECL	abazandık	ADJ;LGSPEC1;PRS;3;SG;NEG;DECL	abazan değil
