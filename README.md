@@ -1,0 +1,3 @@
+# InflectionWithPhonology
+
+This repo includes the supplementary material of the paper [**Morphological Inflection with Phonological Features**](https://github.com/OnlpLab/InflectionWithPhonology.git) that was accepted to the ACL 2023 main conference. It includes a folder of the generated data for the training process, and two folders for each of the models trained in our experiments. This is a clone of the models codebases, and we recommend forking the original repos, both for the [LSTM model](https://github.com/davidgu13/ReinflectionTransduce3) and the [Transducer model](https://github.com/davidgu13/phonologyreinflection). You may also find the running instructions for both of them.
