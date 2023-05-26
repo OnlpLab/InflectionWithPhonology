@@ -1,0 +1,1000 @@
+V;ACT;PRS;PRF;POS;POT;3;PL	lienevät pärskähdelleet	V;ACT;PST;PRF;POS;IND;1;PL	olimme pärskähdelleet
+V;PASS;PST;NEG;IND	ei haketettu	V;PASS;PRS;NEG;IMP	älköön haketettako
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole löystynyt	V;ACT;PST;NEG;IND;1;PL	emme löystyneet
+V;V.PTCP;PASS;PRS	jauhotettava	V;ACT;PRS;PRF;POS;IND;1;SG	olen jauhottanut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi kajonnut	V;PASS;PRS;NEG;IND	ei kajota
+V;ACT;PST;PRF;POS;IND;1;SG	olin suggeroinut	V;ACT;PST;NEG;IND;2;SG	et suggeroinut
+V;ACT;PRS;NEG;POT;3;PL	eivät alentane	V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet alentaneet
+V;ACT;PRS;POS;POT;3;SG	rihlannee	V;ACT;PRS;NEG;POT;2;SG	et rihlanne
+V;ACT;PRS;NEG;POT;1;PL	emme pureskelle	V;ACT;PST;PRF;POS;IND;2;SG	olit pureskellut
+V;ACT;PST;NEG;IND;2;PL	ette teloneet	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme teloneet
+V;PASS;PRS;PRF;NEG;POT	ei liene nurjahdettu	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi nurjahtaneet
+V;ACT;PRS;POS;IMP;3;PL	lieventykööt	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet lieventyneet
+V;ACT;PST;NEG;IND;1;PL	emme ampaisseet	V;PASS;PRS;POS;IMP	ampaistakoon
+V;ACT;PRS;NEG;POT;2;SG	et plonkanne	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi plonkannut
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi tapelleet	V;V.PTCP;PASS;PRS	tapeltava
+V;PASS;PST;PRF;POS;IND	oli maalailtu	V;V.PTCP;ACT;PST	maalaillut
+V;PASS;PST;PRF;POS;IND	oli aherrettu	V;ACT;PRS;NEG;COND;3;PL	eivät ahertaisi
+V;ACT;PRS;NEG;IMP;2;PL	älkää tylpentäkö	V;ACT;PST;PRF;POS;IND;2;SG	olit tylpentänyt
+V;ACT;PRS;PRF;POS;IND;2;PL	olette kehaisseet	V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi kehaisseet
+V;ACT;PRS;NEG;COND;3;SG	ei järjestäisi	V;ACT;PST;PRF;POS;IND;3;PL	olivat järjestäneet
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet koskettanut	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat koskettaneet
+V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole kestäneet	V;PASS;PRS;PRF;NEG;IND	ei ole kestetty
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene jeesustelleet	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi jeesustelleet
+V;ACT;PRS;NEG;IMP;2;SG	älä kieroudu	V;PASS;PST;POS;IND	kierouduttiin
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit rupsahtanut	V;ACT;PRS;NEG;COND;3;SG	ei rupsahtaisi
+V;PASS;PRS;NEG;IND	ei raiskata	V;ACT;PRS;PRF;POS;IND;3;SG	on raiskannut
+V;ACT;PRS;NEG;IND;2;PL	ette jeesaa	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko jeesanneet
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole viestitelleet	V;PASS;PRS;PRF;POS;COND	olisi viestitelty
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole vouhottanut	V;ACT;PRS;PRF;POS;POT;2;PL	lienette vouhottaneet
+V;PASS;PRS;POS;IND	kitkeröitetään	V;ACT;PRS;NEG;COND;3;SG	ei kitkeröittäisi
+V;ACT;PRS;POS;COND;2;PL	kyntäisitte	V;ACT;PRS;POS;POT;1;PL	kyntänemme
+V;ACT;PRS;POS;COND;2;PL	kuskaisitte	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole kuskannut
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet kihartunut	V;ACT;PST;POS;IND;2;PL	kiharruitte
+V;PASS;PRS;NEG;IMP	älköön seisottako	V;ACT;PRS;NEG;COND;1;SG	en seisoisi
+V;ACT;PRS;POS;COND;2;SG	raffinoisit	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme raffinoineet
+V;ACT;PRS;NEG;IND;2;SG	et mehevöidy	V;ACT;PRS;POS;POT;1;SG	mehevöitynen
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole pantanneet	V;PASS;PRS;PRF;POS;IND	on pantattu
+V;PASS;PRS;NEG;IND	ei vainota	V;PASS;PRS;PRF;NEG;POT	ei liene vainottu
+V;V.PTCP;PASS;PST	aristeltu	V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko aristelleet
+V;NFIN	läsiä	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko läsineet
+V;PASS;PRS;POS;IMP	observoitakoon	V;ACT;PRS;POS;IMP;1;PL	observoikaamme
+V;V.PTCP;ACT;PST	hulvahtanut	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät hulvahtaneet
+V;PASS;PRS;POS;POT	leikkautettaneen	V;ACT;PRS;NEG;POT;2;SG	et leikkauttane
+V;PASS;PRS;PRF;POS;COND	olisi menty mönkään	V;ACT;PRS;POS;POT;3;SG	mennee mönkään
+V;ACT;PRS;NEG;COND;2;PL	ette ailahtaisi	V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko ailahtaneet
+V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko pidättäytyneet	V;ACT;PST;POS;IND;1;PL	pidättäydyimme
+V;ACT;PST;NEG;IND;2;PL	ette löyhentyneet	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat löyhentyneet
+V;PASS;PST;PRF;POS;IND	oli harrastettu	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte harrastaneet
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene eskaloineet	V;ACT;PRS;PRF;POS;POT;2;PL	lienette eskaloineet
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme oksettaneet	V;ACT;PRS;NEG;POT;3;PL	eivät oksettane
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene sumplineet	V;ACT;PST;PRF;NEG;IND;1;SG	en ollut sumplinut
+V;ACT;PST;PRF;POS;IND;2;PL	olitte pielestäneet	V;ACT;PST;POS;IND;3;PL	pielestivät
+V;ACT;PRS;NEG;IND;1;SG	en liioittele	V;PASS;PRS;PRF;NEG;IMP	älköön olko liioiteltu
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon nuollut	V;ACT;PRS;NEG;COND;2;SG	et nuolisi
+V;ACT;PRS;PRF;POS;IND;3;PL	ovat kysyneet	V;ACT;PST;PRF;POS;IND;3;PL	olivat kysyneet
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin kampannut	V;ACT;PST;NEG;IND;1;SG	en kampannut
+V;ACT;PST;NEG;IND;2;SG	et lauleskellut	V;NFIN	lauleskella
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole hyödyttänyt	V;ACT;PRS;NEG;IND;3;PL	eivät hyödytä
+V;PASS;PRS;NEG;IMP	älköön tähditettäkö	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat tähdittäneet
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole kiillottanut	V;ACT;PRS;PRF;POS;IND;2;PL	olette kiillottaneet
+V;ACT;PRS;NEG;IMP;2;SG	älä kimmauta	V;ACT;PRS;PRF;NEG;POT;2;SG	et liene kimmauttanut
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit savettunut	V;ACT;PRS;POS;IND;1;PL	savetumme
+V;PASS;PRS;NEG;IND	ei ravusteta	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene ravustanut
+V;PASS;PRS;NEG;COND	ei varastettaisi	V;ACT;PRS;PRF;NEG;IND;1;SG	en ole varastanut
+V;ACT;PRS;NEG;IND;1;PL	emme kalvenna	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene kalventanut
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette kekkaloineet	V;ACT;PRS;NEG;IND;3;PL	eivät kekkaloi
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi luonnistaneet	V;ACT;PRS;POS;IND;3;SG	luonnistaa
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon äkäillyt	V;V.PTCP;ACT;PST	äkäillyt
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut naureskellut	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme naureskelleet
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut höpöttänyt	V;ACT;PRS;NEG;POT;3;PL	eivät höpöttäne
+V;ACT;PRS;NEG;POT;2;SG	et normittane	V;V.PTCP;PASS;PRS	normitettava
+V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko keskustellut	V;PASS;PRS;PRF;POS;POT	lienee keskusteltu
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme pidentäneet	V;ACT;PRS;NEG;POT;1;SG	en pidentäne
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet hirttäytyneet	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme hirttäytyneet
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi hetkauttanut	V;ACT;PRS;POS;IND;3;SG	hetkauttaa
+V;PASS;PRS;POS;COND	vuonittaisiin	V;ACT;PRS;PRF;POS;POT;1;SG	lienen vuoninut
+V;ACT;PRS;POS;IND;3;PL	hommautuvat	V;ACT;PRS;NEG;POT;3;SG	ei hommautune
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko menneet läpi	V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole menneet läpi
+V;ACT;PRS;NEG;COND;3;PL	eivät joustavoittaisi	V;ACT;PRS;NEG;IND;2;SG	et joustavoita
+V;ACT;PST;NEG;IND;1;PL	emme tekaisseet	V;ACT;PST;PRF;POS;IND;1;PL	olimme tekaisseet
+V;ACT;PRS;NEG;IMP;3;SG	älköön hybridisoiko	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot hybridisoineet
+V;ACT;PRS;NEG;POT;3;SG	ei kurottautune	V;ACT;PRS;NEG;COND;2;SG	et kurottautuisi
+V;ACT;PST;POS;IND;1;PL	jujutimme	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot jujuttaneet
+V;PASS;PRS;NEG;IND	ei työllistytä	V;ACT;PRS;POS;IMP;3;SG	työllistyköön
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet pamputtanut	V;ACT;PRS;POS;COND;3;PL	pamputtaisivat
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut tuuhentanut	V;ACT;PRS;POS;COND;3;PL	tuuhentaisivat
+V;PASS;PST;POS;IND	levitoitiin	V;ACT;PRS;POS;IND;1;PL	levitoimme
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen kivittänyt	V;ACT;PRS;NEG;IMP;1;PL	älkäämme kivittäkö
+V;ACT;PST;POS;IND;1;PL	juovutimme	V;ACT;PRS;PRF;POS;IMP;2;SG	ole juovuttanut
+V;PASS;PRS;PRF;NEG;COND	ei olisi suostuttu	V;ACT;PRS;POS;POT;3;PL	suostunevat
+V;NFIN	älyllistyä	V;ACT;PRS;NEG;COND;1;SG	en älyllistyisi
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole haparoinut	V;ACT;PRS;PRF;POS;IND;1;PL	olemme haparoineet
+V;ACT;PRS;NEG;IMP;2;SG	älä spraymaalaa	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa spraymaalanneet
+V;PASS;PST;PRF;NEG;IND	ei ollut tummettu	V;ACT;PST;NEG;IND;2;PL	ette tummenneet
+V;ACT;PRS;NEG;IND;2;SG	et satuloi	V;NFIN	satuloida
+V;ACT;PRS;POS;POT;2;SG	hytisyttänet	V;PASS;PRS;PRF;POS;COND	olisi hytisytetty
+V;ACT;PRS;POS;IMP;3;PL	ehdotelkoot	V;ACT;PST;NEG;IND;2;SG	et ehdotellut
+V;ACT;PRS;NEG;IND;2;PL	ette ahnastele	V;ACT;PRS;PRF;POS;POT;2;PL	lienette ahnastelleet
+V;PASS;PST;PRF;POS;IND	oli helpotuttu	V;PASS;PRS;POS;IMP	helpotuttakoon
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet rohmunneet	V;PASS;PRS;POS;POT	rohmuttaneen
+V;ACT;PST;PRF;POS;IND;1;PL	olimme tasoittaneet	V;ACT;PRS;POS;IND;1;SG	tasoitan
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene köntystänyt	V;ACT;PRS;PRF;POS;POT;2;PL	lienette köntystäneet
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa upottaneet	V;ACT;PST;PRF;POS;IND;2;SG	olit upottanut
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet möyhentäneet	V;ACT;PST;NEG;IND;2;PL	ette möyhentäneet
+V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme livenneet	V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene livenneet
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene eriytyneet	V;ACT;PST;PRF;NEG;IND;1;SG	en ollut eriytynyt
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi ronkkineet	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi ronkkinut
+V;ACT;PRS;NEG;COND;1;SG	en sopeuttaisi	V;ACT;PST;PRF;POS;IND;3;PL	olivat sopeuttaneet
+V;ACT;PRS;NEG;IND;2;PL	ette vetäydy	V;PASS;PRS;NEG;POT	ei vetäydyttäne
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko mankuneet	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko mankuneet
+V;ACT;PRS;PRF;POS;COND;2;PL	olisitte löyhkänneet	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät löyhkänneet
+V;ACT;PST;POS;IND;3;SG	emännöi	V;ACT;PRS;PRF;POS;IND;3;PL	ovat emännöineet
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole latinisoinut	V;ACT;PRS;NEG;COND;2;SG	et latinisoisi
+V;ACT;PRS;NEG;IND;1;PL	emme meistä	V;ACT;PST;POS;IND;3;SG	meisti
+V;PASS;PRS;NEG;IMP	älköön tölväistäkö	V;PASS;PST;POS;IND	tölväistiin
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene lakoutuneet	V;ACT;PRS;NEG;IND;1;PL	emme lakoudu
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet kaltevoinut	V;ACT;PST;PRF;POS;IND;2;PL	olitte kaltevoineet
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene sabotoinut	V;ACT;PST;POS;IND;2;SG	sabotoit
+V;ACT;PRS;NEG;IMP;2;SG	älä varhenna	V;ACT;PRS;PRF;POS;COND;3;SG	olisi varhentanut
+V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet tuotteistaneet	V;ACT;PRS;PRF;POS;IND;2;PL	olette tuotteistaneet
+V;ACT;PRS;NEG;COND;1;SG	en havahduttaisi	V;ACT;PRS;POS;IMP;3;SG	havahduttakoon
+V;ACT;PRS;NEG;POT;1;SG	en kerryttäne	V;ACT;PRS;POS;IMP;3;SG	kerryttäköön
+V;ACT;PRS;NEG;COND;1;SG	en psykologioisi	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko psykologioineet
+V;ACT;PRS;PRF;POS;IND;1;SG	olen temppuillut	V;ACT;PRS;PRF;POS;POT;2;PL	lienette temppuilleet
+V;PASS;PRS;PRF;NEG;IMP	älköön olko pimetty	V;V.PTCP;PASS;PST	pimetty
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme avartuneet	V;ACT;PRS;NEG;POT;3;SG	ei avartune
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene onteloinut	V;ACT;PRS;PRF;POS;IMP;2;SG	ole onteloinut
+V;ACT;PRS;NEG;IND;3;PL	eivät kiru	V;ACT;PST;PRF;POS;IND;3;SG	oli kirkunut
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole ääkköstänyt	V;PASS;PRS;NEG;IND	ei ääkköstetä
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene heikottanut	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät heikottaneet
+V;ACT;PRS;NEG;IND;1;PL	emme kenkuta	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi kenkuttanut
+V;ACT;PRS;NEG;POT;2;PL	ette äkänne	V;V.PTCP;ACT;PRS	äkkäävä
+V;ACT;PRS;NEG;COND;1;SG	en herättäisi	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa herättäneet
+V;ACT;PRS;POS;IMP;2;PL	tanhutkaa	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte tanhunneet
+V;V.PTCP;PASS;PST	kirjoittauduttu	V;ACT;PST;POS;IND;3;PL	kirjoittautuivat
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet jäykenneet	V;V.PTCP;ACT;PRS	jäykkenevä
+V;ACT;PST;PRF;POS;IND;1;PL	olimme porvarillistaneet	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole porvarillistanut
+V;ACT;PST;PRF;POS;IND;3;PL	olivat tunnistaneet	V;ACT;PRS;POS;COND;2;SG	tunnistaisit
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa koputtaneet	V;ACT;PRS;POS;IND;2;PL	koputatte
+V;ACT;PRS;NEG;IMP;1;PL	älkäämme viittilöikö	V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi viittilöineet
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi akklimatisoinut	V;ACT;PRS;PRF;POS;IMP;2;SG	ole akklimatisoinut
+V;ACT;PRS;POS;IND;2;PL	diagnosoitte	V;ACT;PRS;POS;COND;3;PL	diagnosoisivat
+V;ACT;PRS;POS;COND;1;PL	pajukoituisimme	V;ACT;PRS;NEG;IMP;1;PL	älkäämme pajukoituko
+V;ACT;PRS;PRF;NEG;POT;1;SG	en liene kiekunut	V;ACT;PRS;POS;POT;1;PL	kiekunemme
+V;ACT;PRS;PRF;POS;COND;2;PL	olisitte kuntouttaneet	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme kuntouttaneet
+V;PASS;PRS;NEG;IND	ei hivota	V;ACT;PRS;PRF;NEG;POT;2;SG	et liene hiponut
+V;ACT;PST;PRF;POS;IND;3;PL	olivat spesialisoineet	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi spesialisoinut
+V;PASS;PRS;PRF;POS;IMP	olkoon hapotettu	V;ACT;PRS;POS;IMP;3;SG	hapottakoon
+V;ACT;PRS;NEG;COND;2;SG	et silmäilisi	V;ACT;PRS;POS;POT;2;SG	silmäillet
+V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot kuraantuneet	V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole kuraantuneet
+V;ACT;PRS;POS;IMP;2;PL	puntaroikaa	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko puntaroineet
+V;ACT;PRS;POS;IND;2;SG	tasaat	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa tasanneet
+V;ACT;PRS;NEG;IND;3;PL	eivät radioi	V;ACT;PRS;PRF;POS;IND;1;PL	olemme radioineet
+V;ACT;PST;PRF;POS;IND;1;SG	olin taklannut	V;ACT;PRS;NEG;IND;3;SG	ei taklaa
+V;ACT;PRS;NEG;IMP;2;PL	älkää norjetko	V;ACT;PRS;PRF;POS;IND;3;PL	ovat norjenneet
+V;ACT;PST;NEG;IND;2;SG	et mahtaillut	V;ACT;PRS;POS;COND;3;SG	mahtailisi
+V;ACT;PRS;POS;COND;1;SG	hellisin	V;ACT;PRS;PRF;POS;POT;2;SG	lienet hellinyt
+V;ACT;PRS;POS;IND;3;PL	abstrahoivat	V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi abstrahoineet
+V;NFIN	tungeksia	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa tungeksineet
+V;ACT;PRS;POS;IND;2;PL	valikoitte	V;PASS;PRS;NEG;IND	ei valikoida
+V;ACT;PRS;NEG;COND;1;SG	en unettaisi	V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet unettaneet
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet ennakoineet	V;ACT;PRS;NEG;IMP;3;PL	älkööt ennakoiko
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen kinunnut	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi kinunnut
+V;ACT;PST;POS;IND;2;SG	epiloit	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko epiloineet
+V;ACT;PRS;NEG;POT;3;SG	ei fudanne	V;ACT;PRS;PRF;POS;IND;2;SG	olet fudannut
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko puhaltaneet	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme puhaltaneet
+V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi nahisseet	V;ACT;PST;PRF;POS;IND;1;PL	olimme nahisseet
+V;PASS;PST;POS;IND	kuolattiin	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa kuolanneet
+V;ACT;PRS;NEG;IMP;2;PL	älkää välttäkö	V;PASS;PST;NEG;IND	ei vältetty
+V;ACT;PRS;NEG;IND;3;SG	ei ikävystytä	V;V.PTCP;ACT;PRS	ikävystyttävä
+V;ACT;PRS;NEG;IND;1;PL	emme salakuljeta	V;ACT;PRS;PRF;POS;POT;2;SG	lienet salakuljettanut
+V;ACT;PRS;POS;POT;1;PL	parantanemme	V;ACT;PRS;POS;POT;1;SG	parantanen
+V;PASS;PRS;PRF;POS;POT	lienee ongittu	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme onkineet
+V;ACT;PST;POS;IND;2;PL	häiritsitte	V;ACT;PRS;NEG;COND;1;SG	en häiritsisi
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi luhistanut	V;ACT;PRS;POS;IND;1;PL	luhistamme
+V;ACT;PRS;NEG;IMP;3;PL	älkööt huhkiko	V;ACT;PST;NEG;IND;2;PL	ette huhkineet
+V;PASS;PRS;NEG;COND	ei kuurattaisi	V;ACT;PST;NEG;IND;1;SG	en kuurannut
+V;PASS;PST;NEG;IND	ei liittouduttu	V;PASS;PRS;PRF;NEG;IND	ei ole liittouduttu
+V;NFIN	kakoa	V;ACT;PST;NEG;IND;1;PL	emme kakoneet
+V;PASS;PRS;POS;COND	televisioitaisiin	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko televisioinut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi safkannut	V;ACT;PST;NEG;IND;1;PL	emme safkanneet
+V;ACT;PRS;POS;IND;3;SG	kellastaa	V;ACT;PRS;NEG;IND;1;PL	emme kellasta
+V;ACT;PRS;POS;IND;1;SG	englanninnan	V;ACT;PRS;POS;POT;3;PL	englannintanevat
+V;ACT;PRS;POS;POT;1;SG	revittänen	V;ACT;PRS;POS;COND;2;PL	revittäisitte
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko sontineet	V;ACT;PRS;NEG;POT;1;SG	en sontine
+V;ACT;PRS;NEG;IND;1;PL	emme kisaa	V;ACT;PRS;POS;IMP;2;SG	kisaa
+V;ACT;PRS;NEG;POT;3;SG	ei löntystelle	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet löntystelleet
+V;PASS;PST;PRF;POS;IND	oli teloitettu	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko teloittanut
+V;ACT;PRS;NEG;IND;3;SG	ei kierähdä	V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole kierähtäneet
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole vihkaisseet	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon vihkaissut
+V;ACT;PST;POS;IND;1;PL	kahisutimme	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko kahisuttaneet
+V;ACT;PST;POS;IND;3;PL	sumusivat	V;ACT;PRS;NEG;IMP;3;PL	älkööt sumutko
+V;ACT;PRS;POS;POT;3;SG	kiljaissee	V;ACT;PST;POS;IND;1;SG	kiljaisin
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme kummeksuneet	V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole kummeksuneet
+V;ACT;PRS;PRF;NEG;POT;1;SG	en liene jumiintunut	V;ACT;PRS;NEG;COND;2;PL	ette jumiintuisi
+V;ACT;PRS;NEG;POT;2;SG	et etäännyttäne	V;ACT;PRS;PRF;POS;IND;3;PL	ovat etäännyttäneet
+V;ACT;PST;PRF;POS;IND;3;PL	olivat uuvahtaneet	V;PASS;PST;POS;IND	uuvahdettiin
+V;ACT;PST;POS;IND;3;SG	likosi	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi lionnut
+V;ACT;PRS;POS;COND;2;PL	suksisitte	V;PASS;PST;POS;IND	suksittiin
+V;ACT;PRS;POS;IMP;3;SG	himmetköön	V;V.PTCP;ACT;PST	himmennyt
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi jääkiekkoillut	V;ACT;PRS;POS;IND;1;SG	jääkiekkoilen
+V;ACT;PRS;POS;IND;3;PL	kierittävät	V;ACT;PST;PRF;NEG;IND;1;SG	en ollut kierittänyt
+V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko kurjistanut	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut kurjistanut
+V;PASS;PRS;PRF;NEG;POT	ei liene kukerrettu	V;ACT;PST;PRF;POS;IND;1;SG	olin kukertanut
+V;ACT;PST;NEG;IND;2;SG	et kiivennyt	V;ACT;PST;POS;IND;1;SG	kiipesin
+V;PASS;PRS;POS;POT	kuperrettaneen	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko kupertaneet
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi napsahtanut	V;ACT;PRS;NEG;IND;3;SG	ei napsahda
+V;ACT;PRS;NEG;COND;2;PL	ette finansioisi	V;ACT;PRS;NEG;IND;3;SG	ei finansioi
+V;ACT;PRS;POS;COND;2;SG	rullaluistelisit	V;ACT;PRS;NEG;POT;2;SG	et rullaluistelle
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen peilaillut	V;PASS;PRS;PRF;NEG;POT	ei liene peilailtu
+V;ACT;PRS;POS;IND;3;SG	slumppaa	V;ACT;PST;POS;IND;3;PL	slumppasivat
+V;ACT;PST;PRF;POS;IND;1;PL	olimme ulontaneet	V;ACT;PRS;POS;IND;1;PL	ulonnamme
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi vatkanneet	V;ACT;PRS;PRF;POS;POT;2;PL	lienette vatkanneet
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet kuraantunut	V;ACT;PRS;POS;IND;1;SG	kuraannun
+V;ACT;PRS;NEG;POT;1;SG	en kakanne	V;ACT;PRS;POS;IMP;2;PL	kakatkaa
+V;PASS;PRS;PRF;NEG;POT	ei liene proletaaristuttu	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene proletaaristunut
+V;ACT;PST;NEG;IND;1;PL	emme mikrofilmanneet	V;ACT;PRS;NEG;IND;1;SG	en mikrofilmaa
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko roihahtaneet	V;PASS;PRS;PRF;NEG;IMP	älköön olko roihahdettu
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene saaneet aikaan	V;ACT;PRS;POS;COND;3;PL	saisivat aikaan
+V;ACT;PRS;NEG;POT;2;SG	et savettane	V;ACT;PRS;PRF;POS;IND;2;PL	olette savettaneet
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole motivoituneet	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene motivoituneet
+V;ACT;PRS;POS;IND;2;SG	georgiannat	V;PASS;PRS;NEG;POT	ei georgiannettane
+V;PASS;PRS;PRF;NEG;IND	ei ole kiilauduttu	V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole kiilautunut
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole siivuttanut	V;ACT;PRS;NEG;COND;2;PL	ette siivuttaisi
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko liikkuneet	V;ACT;PRS;PRF;POS;POT;2;PL	lienette liikkuneet
+V;ACT;PRS;PRF;POS;IND;1;SG	olen oksettanut	V;ACT;PST;NEG;IND;2;PL	ette oksettaneet
+V;ACT;PRS;NEG;COND;3;PL	eivät filmintäisi	V;ACT;PRS;NEG;IMP;3;PL	älkööt filmintäkö
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet asettunut	V;PASS;PRS;PRF;POS;POT	lienee asetuttu
+V;ACT;PRS;PRF;POS;IND;2;SG	olet routaantunut	V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole routaantuneet
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi machoillut	V;ACT;PST;POS;IND;2;SG	machoilit
+V;V.PTCP;PASS;PST	liejuunnuttu	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut liejuuntunut
+V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi käpristäneet	V;PASS;PRS;PRF;POS;IND	on käpristetty
+V;ACT;PST;PRF;POS;IND;2;SG	olit nykäissyt	V;ACT;PRS;PRF;POS;IND;2;SG	olet nykäissyt
+V;ACT;PST;NEG;IND;3;SG	ei hurissut	V;ACT;PRS;NEG;IND;1;PL	emme hurise
+V;ACT;PRS;POS;IMP;3;SG	akkreditoikoon	V;V.PTCP;PASS;PST	akkreditoitu
+V;ACT;PRS;POS;COND;2;PL	osoittelisitte	V;ACT;PRS;NEG;COND;3;PL	eivät osoittelisi
+V;ACT;PRS;NEG;POT;2;PL	ette vierine	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet vierineet
+V;ACT;PRS;POS;IMP;3;PL	skematisoikoot	V;ACT;PRS;POS;COND;1;PL	skematisoisimme
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme vasikoineet	V;ACT;PRS;NEG;POT;3;PL	eivät vasikoine
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa kaavanneet	V;ACT;PRS;PRF;POS;POT;3;SG	lienee kaavannut
+V;ACT;PRS;NEG;IND;2;PL	ette vedä	V;PASS;PRS;PRF;POS;IMP	olkoon vedetty
+V;ACT;PST;PRF;POS;IND;3;PL	olivat liuenneet	V;ACT;PRS;NEG;IND;3;PL	eivät liukene
+V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko vauhkoutuneet	V;PASS;PST;PRF;POS;IND	oli vauhkouduttu
+V;ACT;PRS;POS;COND;1;SG	taintuisin	V;V.PTCP;ACT;PST	taintunut
+V;ACT;PRS;POS;POT;1;PL	ylipukeutunemme	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene ylipukeutuneet
+V;ACT;PST;PRF;POS;IND;3;PL	olivat kermoneet	V;ACT;PRS;PRF;POS;IND;1;SG	olen kermonut
+V;ACT;PRS;POS;IMP;2;PL	pidentykää	V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi pidentyneet
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi haukotellut	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut haukotellut
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene torunut	V;PASS;PRS;POS;POT	toruttaneen
+V;ACT;PST;POS;IND;2;PL	kakkasitte	V;ACT;PST;PRF;POS;IND;1;PL	olimme kakanneet
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene kihlannut	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme kihlanneet
+V;NFIN	murehtia	V;ACT;PRS;NEG;IMP;1;PL	älkäämme murehtiko
+V;PASS;PRS;PRF;NEG;IMP	älköön olko käpätty	V;ACT;PST;NEG;IND;3;SG	ei käpännyt
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko nuhjaantuneet	V;PASS;PRS;POS;COND	nuhjaannuttaisiin
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi kursaillut	V;ACT;PRS;PRF;POS;COND;3;SG	olisi kursaillut
+V;ACT;PRS;NEG;POT;3;PL	eivät kuvautune	V;PASS;PRS;PRF;NEG;IMP	älköön olko kuvauduttu
+V;ACT;PST;PRF;POS;IND;2;SG	olit monoftongiutunut	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut monoftongiutunut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi nuhjautunut	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko nuhjautunut
+V;ACT;PRS;NEG;COND;2;PL	ette äyskyisi	V;ACT;PRS;PRF;NEG;POT;1;SG	en liene äyskynyt
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole voimistanut	V;PASS;PRS;PRF;NEG;POT	ei liene voimistettu
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole noenneet	V;ACT;PRS;POS;IND;3;PL	nokeavat
+V;PASS;PRS;NEG;IMP	älköön valmistettako	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon valmistanut
+V;ACT;PRS;NEG;IND;3;PL	eivät onnu	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi ontuneet
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole tiuhennut	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut tiuhennut
+V;ACT;PRS;NEG;IMP;2;SG	älä painekyllästä	V;PASS;PRS;PRF;NEG;COND	ei olisi painekyllästetty
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole karkaillut	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme karkailleet
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole panetellut	V;ACT;PRS;PRF;NEG;POT;1;SG	en liene panetellut
+V;ACT;PRS;POS;COND;2;SG	kutisit	V;ACT;PRS;POS;IMP;2;SG	kude
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi pyörinyt	V;ACT;PST;POS;IND;2;PL	pyöritte
+V;ACT;PRS;POS;COND;1;PL	hankaloituisimme	V;ACT;PRS;NEG;IND;2;PL	ette hankaloidu
+V;ACT;PRS;POS;POT;2;PL	kaaputtanette	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot kaaputtaneet
+V;ACT;PST;PRF;POS;IND;1;PL	olimme höyhentäneet	V;ACT;PRS;NEG;POT;2;PL	ette höyhentäne
+V;ACT;PRS;POS;COND;3;PL	unohtaisivat	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät unohtaneet
+V;ACT;PRS;POS;IND;1;PL	lökötämme	V;ACT;PRS;POS;IND;1;SG	lökötän
+V;ACT;PST;PRF;POS;IND;2;SG	olit konkretisoinut	V;PASS;PST;POS;IND	konkretisoitiin
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi viistonneet	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat viistonneet
+V;PASS;PRS;POS;IMP	punktoitakoon	V;ACT;PRS;PRF;NEG;POT;1;SG	en liene punktoinut
+V;PASS;PRS;PRF;NEG;COND	ei olisi murtauduttu	V;ACT;PRS;POS;IMP;1;PL	murtautukaamme
+V;ACT;PRS;POS;IMP;1;PL	tuplatkaamme	V;PASS;PRS;NEG;IND	ei tuplata
+V;V.PTCP;ACT;PRS	kehittyvä	V;PASS;PRS;PRF;NEG;IMP	älköön olko kehitytty
+V;PASS;PRS;NEG;IND	ei hermoilla	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet hermoilleet
+V;ACT;PST;NEG;IND;2;SG	et myynyt	V;ACT;PRS;POS;IMP;3;SG	myyköön
+V;ACT;PRS;POS;POT;3;SG	koventanee	V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko koventaneet
+V;ACT;PST;PRF;POS;IND;1;PL	olimme istuksineet	V;ACT;PRS;PRF;POS;IND;2;PL	olette istuksineet
+V;ACT;PST;POS;IND;2;SG	huikkasit	V;ACT;PRS;NEG;IND;2;PL	ette huikkaa
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole kirmaissut	V;ACT;PRS;POS;COND;3;SG	kirmaisisi
+V;PASS;PRS;PRF;NEG;IND	ei ole päädytty	V;PASS;PRS;PRF;NEG;IMP	älköön olko päädytty
+V;ACT;PRS;POS;POT;1;PL	harkinnemme	V;ACT;PST;POS;IND;1;SG	harkitsin
+V;ACT;PST;POS;IND;1;SG	älisin	V;ACT;PRS;NEG;POT;2;PL	ette älisse
+V;ACT;PRS;NEG;COND;2;SG	et eriytyisi	V;ACT;PRS;NEG;IND;2;PL	ette eriydy
+V;ACT;PST;PRF;POS;IND;1;SG	olin harhaantunut	V;ACT;PST;NEG;IND;2;SG	et harhaantunut
+V;ACT;PRS;NEG;IND;3;SG	ei käsittele	V;PASS;PRS;POS;POT	käsiteltäneen
+V;V.PTCP;PASS;PRS	regeneroiduttava	V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole regeneroitunut
+V;ACT;PRS;POS;IND;1;PL	eheydymme	V;ACT;PRS;POS;COND;3;SG	eheytyisi
+V;ACT;PRS;POS;IND;3;SG	luikertaa	V;ACT;PST;NEG;IND;2;PL	ette luikertaneet
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi kalkuttaneet	V;PASS;PRS;NEG;IND	ei kalkuteta
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko enteilleet	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet enteilleet
+V;ACT;PRS;POS;IND;1;PL	poikkeutamme	V;ACT;PRS;NEG;POT;3;PL	eivät poikkeuttane
+V;ACT;PRS;POS;COND;2;PL	hytkähdyttäisitte	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi hytkähdyttänyt
+V;ACT;PRS;POS;POT;2;SG	kakaisset	V;PASS;PRS;PRF;NEG;POT	ei liene kakaistu
+V;PASS;PRS;PRF;POS;IMP	olkoon kukuttu	V;ACT;PRS;PRF;POS;IND;2;PL	olette kukkuneet
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi leikkinyt	V;ACT;PST;POS;IND;3;SG	leikki
+V;PASS;PRS;POS;IND	alivalotetaan	V;V.PTCP;ACT;PST	alivalottanut
+V;ACT;PRS;POS;COND;2;PL	gratinoisitte	V;PASS;PRS;NEG;COND	ei gratinoitaisi
+V;ACT;PST;POS;IND;3;PL	sohivat	V;ACT;PRS;POS;IMP;2;PL	sohikaa
+V;PASS;PRS;POS;IND	viitataan	V;ACT;PRS;NEG;POT;2;PL	ette viitanne
+V;ACT;PRS;NEG;COND;3;SG	ei uurrostaisi	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme uurrostaneet
+V;PASS;PRS;POS;COND	räätälöitäisiin	V;ACT;PRS;POS;POT;3;PL	räätälöinevät
+V;ACT;PST;PRF;POS;IND;3;PL	olivat virittäneet	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut virittänyt
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole oikoneet	V;V.PTCP;PASS;PST	oiottu
+V;ACT;PRS;PRF;POS;IND;2;SG	olet skalpeerannut	V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi skalpeeranneet
+V;ACT;PRS;POS;IMP;3;SG	sujuttautukoon	V;ACT;PST;PRF;NEG;IND;1;SG	en ollut sujuttautunut
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi kypsyttänyt	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi kypsyttänyt
+V;ACT;PST;NEG;IND;2;SG	et vakavoinut	V;ACT;PRS;POS;IND;3;SG	vakavoi
+V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi alittaneet	V;PASS;PRS;PRF;POS;IND	on alitettu
+V;ACT;PRS;NEG;COND;1;SG	en upottaisi	V;ACT;PST;NEG;IND;3;SG	ei upottanut
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene haurastuttaneet	V;ACT;PRS;PRF;POS;POT;3;SG	lienee haurastuttanut
+V;ACT;PRS;POS;POT;1;SG	karsinen	V;ACT;PRS;PRF;POS;COND;1;SG	olisin karsinut
+V;ACT;PST;PRF;POS;IND;1;SG	olin nyyhkäissyt	V;ACT;PRS;NEG;COND;3;PL	eivät nyyhkäisisi
+V;ACT;PRS;POS;IND;1;PL	koostumme	V;ACT;PRS;POS;POT;3;PL	koostunevat
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene sättineet	V;ACT;PRS;NEG;IND;3;PL	eivät säti
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee tasoittanut	V;ACT;PST;POS;IND;1;PL	tasoitimme
+V;ACT;PRS;POS;POT;1;PL	painellemme	V;ACT;PST;POS;IND;2;SG	painelit
+V;ACT;PRS;POS;COND;1;SG	hiipuisin	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene hiipunut
+V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme alitäyttäneet	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi alitäyttänyt
+V;ACT;PRS;NEG;COND;2;PL	ette muodostuisi	V;ACT;PRS;PRF;POS;POT;3;SG	lienee muodostunut
+V;ACT;PRS;PRF;POS;IND;3;SG	on vongannut	V;ACT;PRS;NEG;IMP;2;PL	älkää vongatko
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme surmanneet	V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole surmanneet
+V;ACT;PRS;NEG;POT;3;SG	ei ränsistyne	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene ränsistynyt
+V;ACT;PRS;NEG;IND;1;SG	en irtaudu	V;ACT;PST;NEG;IND;2;SG	et irtautunut
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole kuteloinut	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut kuteloinut
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee taituroinut	V;ACT;PRS;NEG;POT;2;PL	ette taituroine
+V;ACT;PRS;POS;IND;3;PL	sekvensoivat	V;ACT;PRS;PRF;POS;COND;1;SG	olisin sekvensoinut
+V;ACT;PST;POS;IND;3;SG	komparoi	V;ACT;PST;PRF;POS;IND;2;PL	olitte komparoineet
+V;ACT;PRS;POS;IMP;3;SG	hahmottakoon	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat hahmottaneet
+V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole naureskelleet	V;ACT;PST;PRF;POS;IND;2;SG	olit naureskellut
+V;ACT;PRS;PRF;POS;IND;2;SG	olet selostanut	V;NFIN	selostaa
+V;ACT;PRS;PRF;POS;POT;3;PL	lienevät temperoineet	V;ACT;PRS;NEG;IND;1;SG	en temperoi
+V;ACT;PRS;POS;IMP;2;SG	naarmuta	V;ACT;PST;PRF;POS;IND;2;SG	olit naarmuttanut
+V;ACT;PRS;NEG;IMP;2;PL	älkää löyhentäkö	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon löyhentänyt
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin kongruoinut	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko kongruoinut
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit fakkiutunut	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät fakkiutuneet
+V;PASS;PRS;POS;POT	sairastutettaneen	V;ACT;PRS;NEG;IND;1;PL	emme sairastuta
+V;ACT;PRS;NEG;IMP;2;PL	älkää vahvistuko	V;ACT;PRS;NEG;IMP;1;PL	älkäämme vahvistuko
+V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko ojentautunut	V;ACT;PRS;PRF;POS;POT;2;SG	lienet ojentautunut
+V;PASS;PRS;POS;POT	filmatisoitaneen	V;ACT;PRS;NEG;POT;2;SG	et filmatisoine
+V;ACT;PRS;NEG;POT;1;SG	en läntistyne	V;ACT;PRS;POS;COND;3;SG	läntistyisi
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon lueksinut	V;ACT;PRS;PRF;POS;IND;2;PL	olette lueksineet
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi purppuroinut	V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet purppuroineet
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole tuutoroinut	V;PASS;PST;PRF;POS;IND	oli tuutoroitu
+V;PASS;PRS;NEG;COND	ei loikoiltaisi	V;ACT;PRS;PRF;POS;IND;1;PL	olemme loikoilleet
+V;PASS;PRS;PRF;NEG;COND	ei olisi rustouduttu	V;ACT;PRS;PRF;POS;IND;1;SG	olen rustoutunut
+V;ACT;PST;PRF;POS;IND;2;SG	olit hellittänyt	V;ACT;PRS;NEG;IMP;1;PL	älkäämme hellittäkö
+V;ACT;PRS;POS;IND;2;SG	katkeroit	V;V.PTCP;PASS;PRS	katkeroitava
+V;ACT;PRS;NEG;IND;1;PL	emme tuutoroi	V;ACT;PRS;NEG;IMP;2;PL	älkää tuutoroiko
+V;ACT;PST;PRF;POS;IND;3;PL	olivat tyrmistyttäneet	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot tyrmistyttäneet
+V;ACT;PRS;PRF;NEG;POT;1;SG	en liene notkeutunut	V;ACT;PRS;NEG;IMP;3;PL	älkööt notkeutuko
+V;ACT;PST;NEG;IND;2;SG	et hinnoitellut	V;ACT;PST;PRF;POS;IND;2;SG	olit hinnoitellut
+V;V.PTCP;ACT;PRS	turhaantuva	V;ACT;PRS;NEG;COND;2;SG	et turhaantuisi
+V;PASS;PRS;NEG;IMP	älköön säänneltäkö	V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole säännellyt
+V;ACT;PRS;POS;COND;2;PL	hieroutuisitte	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa hieroutuneet
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi tehnyt tiettäväksi	V;ACT;PST;PRF;POS;IND;3;SG	oli tehnyt tiettäväksi
+V;ACT;PRS;NEG;COND;1;SG	en ympyröisi	V;PASS;PRS;POS;COND	ympyröitäisiin
+V;PASS;PST;PRF;NEG;IND	ei ollut vesileimattu	V;ACT;PRS;NEG;COND;1;SG	en vesileimaisi
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut polymerisoinut	V;ACT;PRS;PRF;POS;IND;1;PL	olemme polymerisoineet
+V;ACT;PRS;POS;POT;1;PL	kesinemme	V;ACT;PRS;NEG;POT;2;SG	et kesine
+V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko älähtänyt	V;ACT;PRS;NEG;COND;3;SG	ei älähtäisi
+V;PASS;PST;NEG;IND	ei keretty	V;ACT;PRS;POS;POT;3;SG	kerennee
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi vaskanneet	V;ACT;PRS;PRF;POS;POT;2;SG	lienet vaskannut
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko kuuroutuneet	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi kuuroutunut
+V;ACT;PRS;NEG;IMP;3;SG	älköön nuutatko	V;ACT;PST;NEG;IND;1;PL	emme nuutanneet
+V;ACT;PST;POS;IND;2;PL	parketoitte	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet parketoineet
+V;ACT;PST;NEG;IND;2;SG	et kutitellut	V;PASS;PST;PRF;POS;IND	oli kutiteltu
+V;ACT;PRS;NEG;COND;1;PL	emme sammaloituisi	V;ACT;PST;PRF;POS;IND;1;SG	olin sammaloitunut
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette muuttuneet	V;ACT;PRS;PRF;POS;COND;2;SG	olisit muuttunut
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon puunannut	V;ACT;PRS;POS;IND;1;PL	puunaamme
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole kuolettanut	V;ACT;PRS;NEG;IND;1;PL	emme kuoleta
+V;PASS;PRS;PRF;POS;IND	on laahittu	V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene laahineet
+V;ACT;PRS;POS;POT;2;PL	huhkinette	V;ACT;PRS;NEG;IND;3;SG	ei huhki
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa tuomaroineet	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon tuomaroinut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi kiroillut	V;ACT;PRS;NEG;IMP;1;PL	älkäämme kiroilko
+V;ACT;PST;NEG;IND;1;PL	emme muodontaneet	V;ACT;PST;NEG;IND;2;PL	ette muodontaneet
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole huhkinut	V;ACT;PST;POS;IND;1;SG	huhkin
+V;ACT;PRS;NEG;IMP;3;SG	älköön nakertako	V;ACT;PST;PRF;POS;IND;1;PL	olimme nakertaneet
+V;ACT;PRS;NEG;IMP;2;SG	älä varaudu	V;PASS;PRS;PRF;NEG;IND	ei ole varauduttu
+V;PASS;PRS;PRF;POS;IND	on odotettu	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi odottanut
+V;ACT;PRS;POS;POT;1;SG	kurtiseerannen	V;ACT;PRS;PRF;POS;COND;3;SG	olisi kurtiseerannut
+V;ACT;PRS;PRF;POS;IND;1;SG	olen asuttanut	V;ACT;PRS;POS;IMP;2;PL	asuttakaa
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin glaseerannut	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot glaseeranneet
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene remontoinut	V;ACT;PRS;POS;IMP;2;SG	remontoi
+V;ACT;PST;POS;IND;3;SG	kovitti	V;ACT;PRS;PRF;NEG;IND;1;SG	en ole kovittanut
+V;ACT;PRS;POS;COND;2;PL	raivostuisitte	V;PASS;PST;PRF;NEG;IND	ei ollut raivostuttu
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko aidoittaneet	V;ACT;PRS;NEG;IMP;2;PL	älkää aidoittako
+V;ACT;PST;PRF;POS;IND;1;SG	olin luottanut	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut luottanut
+V;PASS;PRS;PRF;NEG;COND	ei olisi mätkähdetty	V;PASS;PRS;NEG;IMP	älköön mätkähdettäkö
+V;ACT;PST;NEG;IND;2;PL	ette kertautuneet	V;ACT;PRS;NEG;IMP;2;SG	älä kertaudu
+V;ACT;PRS;NEG;COND;3;SG	ei hypnotisoituisi	V;ACT;PST;NEG;IND;3;PL	eivät hypnotisoituneet
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen chipannut	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut chipannut
+V;ACT;PRS;NEG;IND;2;SG	et opponoi	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole opponoinut
+V;ACT;PRS;POS;POT;3;SG	laimennee	V;ACT;PRS;POS;COND;3;SG	laimenisi
+V;ACT;PRS;POS;IMP;2;PL	rehottakaa	V;PASS;PST;NEG;IND	ei rehotettu
+V;ACT;PRS;NEG;IMP;3;SG	älköön hihkuko	V;ACT;PRS;POS;IMP;2;SG	hihku
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet painiskelleet	V;ACT;PRS;POS;POT;3;PL	painiskellevat
+V;ACT;PST;PRF;POS;IND;3;PL	olivat entäneet	V;ACT;PRS;POS;COND;1;SG	entäisin
+V;ACT;PST;NEG;IND;2;SG	et sanoutunut	V;ACT;PST;PRF;POS;IND;3;PL	olivat sanoutuneet
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole tullut voimaan	V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole tulleet voimaan
+V;PASS;PRS;POS;IMP	lisensioitakoon	V;ACT;PRS;NEG;IMP;3;SG	älköön lisensioiko
+V;ACT;PRS;NEG;IND;1;SG	en ivaile	V;ACT;PST;PRF;POS;IND;2;PL	olitte ivailleet
+V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet korostuneet	V;PASS;PRS;PRF;NEG;COND	ei olisi korostuttu
+V;ACT;PST;POS;IND;1;SG	kimmautin	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene kimmauttanut
+V;ACT;PRS;POS;COND;2;PL	kohmettuisitte	V;PASS;PRS;PRF;NEG;IND	ei ole kohmetuttu
+V;ACT;PRS;POS;COND;3;PL	kastaisivat	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene kastaneet
+V;ACT;PST;NEG;IND;2;PL	ette tiukkuneet	V;PASS;PRS;POS;COND	tiukuttaisiin
+V;V.PTCP;PASS;PRS	uhkuttava	V;ACT;PRS;PRF;POS;IND;3;PL	ovat uhkuneet
+V;ACT;PST;NEG;IND;3;SG	ei piereskellyt	V;PASS;PST;NEG;IND	ei piereskelty
+V;ACT;PRS;POS;IND;1;PL	jurnutamme	V;ACT;PRS;POS;COND;3;PL	jurnuttaisivat
+V;ACT;PRS;NEG;POT;3;PL	eivät illustroine	V;ACT;PRS;POS;IMP;1;PL	illustroikaamme
+V;ACT;PRS;POS;IMP;2;PL	köhiskää	V;ACT;PRS;NEG;IND;2;SG	et köhise
+V;PASS;PRS;PRF;POS;POT	lienee huudahdeltu	V;ACT;PST;POS;IND;2;SG	huudahtelit
+V;ACT;PRS;NEG;POT;2;PL	ette sisenne	V;PASS;PST;POS;IND	sisettiin
+V;ACT;PRS;NEG;IND;3;SG	ei herahda	V;PASS;PST;POS;IND	herahdettiin
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene kypsyttäneet	V;PASS;PST;NEG;IND	ei kypsytetty
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole tumpeloinut	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene tumpeloineet
+V;PASS;PST;PRF;NEG;IND	ei ollut viistottu	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa viistonneet
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole verhonneet	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa verhonneet
+V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko suomalaistuneet	V;ACT;PRS;NEG;IND;1;SG	en suomalaistu
+V;ACT;PRS;POS;COND;3;PL	raaentaisivat	V;ACT;PRS;PRF;POS;POT;2;PL	lienette raaentaneet
+V;ACT;PRS;PRF;POS;IND;3;SG	on soennut	V;ACT;PRS;POS;IND;1;SG	sokenen
+V;ACT;PRS;NEG;IMP;2;PL	älkää teorioiko	V;ACT;PRS;POS;IND;3;SG	teorioi
+V;ACT;PRS;NEG;IMP;2;PL	älkää homehtuko	V;ACT;PRS;POS;POT;1;SG	homehtunen
+V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko romantisoinut	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat romantisoineet
+V;ACT;PST;NEG;IND;2;PL	ette tehneet huorin	V;ACT;PRS;POS;IMP;3;PL	tehkööt huorin
+V;ACT;PRS;POS;POT;2;PL	patoutunette	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme patoutuneet
+V;NFIN	produsoida	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene produsoineet
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi vesittänyt	V;ACT;PRS;NEG;POT;2;SG	et vesittäne
+V;ACT;PRS;NEG;POT;1;SG	en lyyhistäne	V;ACT;PST;PRF;POS;IND;1;PL	olimme lyyhistäneet
+V;V.PTCP;PASS;PRS	viihdyttävä	V;ACT;PRS;NEG;IND;1;SG	en viihdy
+V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi hypittäneet	V;ACT;PST;PRF;POS;IND;3;SG	oli hypittänyt
+V;ACT;PST;POS;IND;1;SG	aikataulutin	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte aikatauluttaneet
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin kolisuttanut	V;ACT;PRS;NEG;IMP;3;PL	älkööt kolisuttako
+V;ACT;PST;POS;IND;3;PL	lanasivat	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot lananneet
+V;V.PTCP;ACT;PST	kirskunut	V;PASS;PRS;PRF;POS;IMP	olkoon kirskuttu
+V;ACT;PRS;NEG;COND;1;PL	emme lillisi	V;ACT;PRS;NEG;POT;2;PL	ette lilline
+V;ACT;PRS;POS;COND;3;PL	hyppelisivät	V;ACT;PRS;PRF;POS;IMP;2;SG	ole hypellyt
+V;ACT;PRS;PRF;POS;COND;3;PL	olisivat ärhennelleet	V;PASS;PRS;POS;COND	ärhenneltäisiin
+V;ACT;PST;POS;IND;3;SG	populaaristi	V;ACT;PRS;POS;COND;1;SG	populaaristaisin
+V;ACT;PRS;POS;IMP;2;PL	jyristäkää	V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene jyristäneet
+V;ACT;PRS;POS;POT;1;SG	proletarisoinen	V;PASS;PRS;NEG;POT	ei proletarisoitane
+V;ACT;PRS;PRF;POS;IND;1;SG	olen laonnut	V;V.PTCP;PASS;PRS	laottava
+V;V.PTCP;ACT;PRS	asemoiva	V;ACT;PRS;POS;POT;3;PL	asemoinevat
+V;ACT;PST;PRF;POS;IND;3;PL	olivat kuleksineet	V;ACT;PRS;NEG;IND;1;PL	emme kuleksi
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon eloksoinut	V;PASS;PRS;PRF;NEG;COND	ei olisi eloksoitu
+V;ACT;PRS;POS;COND;2;SG	naavoittuisit	V;ACT;PRS;POS;POT;2;PL	naavoittunette
+V;ACT;PRS;NEG;IND;2;PL	ette musisoi	V;ACT;PRS;POS;COND;2;PL	musisoisitte
+V;ACT;PRS;NEG;POT;3;PL	eivät pulahtane	V;ACT;PRS;PRF;POS;COND;3;SG	olisi pulahtanut
+V;ACT;PRS;PRF;NEG;COND;1;PL	emme olisi ruiskunneet	V;ACT;PRS;NEG;IND;2;PL	ette ruiskua
+V;ACT;PST;NEG;IND;1;SG	en vipeltänyt	V;ACT;PRS;POS;POT;2;PL	vipeltänette
+V;ACT;PRS;PRF;POS;IND;1;SG	olen kumuloinut	V;ACT;PRS;POS;IND;3;PL	kumuloivat
+V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet plussanneet	V;ACT;PST;NEG;IND;1;PL	emme plussanneet
+V;PASS;PRS;PRF;NEG;POT	ei liene nuukahdeltu	V;PASS;PST;PRF;NEG;IND	ei ollut nuukahdeltu
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole vaapertanut	V;ACT;PRS;POS;POT;2;SG	vaapertanet
+V;ACT;PRS;NEG;IMP;1;PL	älkäämme jämäköitykö	V;ACT;PRS;POS;POT;2;SG	jämäköitynet
+V;ACT;PRS;POS;COND;3;SG	kaksoispysäköisi	V;ACT;PRS;POS;IND;2;PL	kaksoispysäköitte
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet vapautuneet	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko vapautuneet
+V;ACT;PRS;NEG;IMP;2;PL	älkää teikaroiko	V;ACT;PRS;NEG;POT;3;PL	eivät teikaroine
+V;ACT;PRS;POS;COND;2;PL	tihentäisitte	V;ACT;PRS;POS;IND;1;PL	tihennämme
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa suurentaneet	V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet suurentaneet
+V;PASS;PRS;PRF;POS;POT	lienee hajaannutettu	V;PASS;PRS;PRF;NEG;IND	ei ole hajaannutettu
+V;ACT;PRS;NEG;POT;2;PL	ette kirjavoittane	V;PASS;PST;PRF;POS;IND	oli kirjavoitettu
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme differentioineet	V;V.PTCP;PASS;PRS	differentioitava
+V;PASS;PRS;NEG;COND	ei kuolattaisi	V;ACT;PST;PRF;NEG;IND;1;SG	en ollut kuolannut
+V;ACT;PRS;NEG;COND;1;PL	emme tarraisi	V;PASS;PRS;PRF;NEG;COND	ei olisi tarrattu
+V;ACT;PRS;NEG;IMP;3;PL	älkööt aktualisoiko	V;ACT;PRS;POS;IMP;2;SG	aktualisoi
+V;PASS;PST;PRF;NEG;IND	ei ollut naisistuttu	V;PASS;PRS;NEG;POT	ei naisistuttane
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi humahtanut	V;ACT;PRS;POS;COND;3;PL	humahtaisivat
+V;ACT;PST;PRF;NEG;IND;2;SG	et ollut nolannut	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot nolanneet
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut telminyt	V;ACT;PRS;NEG;POT;2;PL	ette telmine
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit emännöinyt	V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene emännöineet
+V;ACT;PRS;NEG;POT;1;PL	emme irtautune	V;PASS;PST;POS;IND	irtauduttiin
+V;PASS;PRS;NEG;COND	ei lainauduttaisi	V;PASS;PRS;PRF;NEG;IMP	älköön olko lainauduttu
+V;ACT;PRS;NEG;IMP;3;PL	älkööt heikotko	V;V.PTCP;ACT;PST	heikonnut
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi laihentunut	V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole laihentunut
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole humahtanut	V;ACT;PST;NEG;IND;1;SG	en humahtanut
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme sitoutuneet	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet sitoutuneet
+V;V.PTCP;PASS;PST	savutettu	V;PASS;PRS;POS;POT	savutettaneen
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette tärvelleet	V;ACT;PRS;POS;POT;2;SG	tärvellet
+V;ACT;PRS;NEG;POT;2;PL	ette postittane	V;ACT;PRS;POS;POT;2;PL	postittanette
+V;ACT;PRS;NEG;IMP;2;SG	älä notkahda	V;ACT;PRS;POS;IMP;1;PL	notkahtakaamme
+V;ACT;PST;POS;IND;1;SG	tuskailin	V;PASS;PST;NEG;IND	ei tuskailtu
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene hiiltäneet	V;ACT;PST;POS;IND;2;PL	hiilsitte
+V;ACT;PST;PRF;POS;IND;2;PL	olitte hankaloituneet	V;ACT;PRS;POS;POT;3;PL	hankaloitunevat
+V;ACT;PRS;NEG;POT;3;PL	eivät lähtene soitellen sotaan	V;V.PTCP;PASS;PRS	lähdettävä soitellen sotaan
+V;ACT;PST;PRF;POS;IND;2;SG	olit nöyristellyt	V;PASS;PRS;PRF;POS;IND	on nöyristelty
+V;ACT;PRS;POS;COND;2;PL	imeytyisitte	V;ACT;PRS;NEG;POT;1;SG	en imeytyne
+V;ACT;PRS;NEG;POT;1;SG	en dreijanne	V;ACT;PST;NEG;IND;2;PL	ette dreijanneet
+V;ACT;PRS;PRF;POS;IND;3;PL	ovat korostaneet	V;ACT;PRS;PRF;POS;IND;2;SG	olet korostanut
+V;PASS;PRS;POS;COND	enimmäistettäisiin	V;ACT;PRS;PRF;NEG;POT;2;SG	et liene enimmäistänyt
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi orkestroineet	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene orkestroinut
+V;PASS;PRS;PRF;NEG;IMP	älköön olko liikennöity	V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene liikennöineet
+V;V.PTCP;ACT;PRS	ylikorostava	V;ACT;PRS;POS;IMP;2;SG	ylikorosta
+V;ACT;PST;NEG;IND;1;SG	en pimentänyt	V;PASS;PRS;POS;IMP	pimennettäköön
+V;PASS;PRS;PRF;POS;POT	lienee kolautettu	V;V.PTCP;ACT;PST	kolauttanut
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole löllynyt	V;ACT;PRS;POS;IND;3;PL	löllyvät
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole ryövännyt	V;ACT;PST;PRF;POS;IND;1;SG	olin ryövännyt
+V;ACT;PRS;POS;IND;3;PL	blokkaavat	V;ACT;PST;PRF;POS;IND;1;SG	olin blokannut
+V;ACT;PST;PRF;POS;IND;1;PL	olimme kammitsoineet	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole kammitsoinut
+V;V.PTCP;ACT;PST	laakeroinut	V;PASS;PRS;PRF;POS;POT	lienee laakeroitu
+V;ACT;PRS;PRF;POS;IND;3;PL	ovat englannintaneet	V;ACT;PRS;NEG;IND;3;SG	ei englanninna
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene kuvittaneet	V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole kuvittanut
+V;ACT;PRS;NEG;IND;3;SG	ei tärpi	V;ACT;PRS;NEG;COND;2;PL	ette tärppisi
+V;PASS;PRS;NEG;IMP	älköön osallistuttako	V;ACT;PST;POS;IND;1;PL	osallistuimme
+V;ACT;PRS;NEG;POT;1;PL	emme juone	V;ACT;PRS;NEG;IMP;1;PL	älkäämme juoko
+V;ACT;PRS;NEG;POT;2;PL	ette riskeeranne	V;ACT;PST;PRF;POS;IND;2;PL	olitte riskeeranneet
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi harventuneet	V;ACT;PST;NEG;IND;3;SG	ei harventunut
+V;ACT;PRS;NEG;COND;3;SG	ei kovenisi	V;PASS;PRS;PRF;NEG;POT	ei liene kovettu
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi lujittanut	V;ACT;PRS;NEG;IMP;3;SG	älköön lujittako
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme hamunneet	V;PASS;PRS;PRF;NEG;IMP	älköön olko hamuttu
+V;ACT;PST;NEG;IND;1;PL	emme lupautuneet	V;ACT;PRS;POS;POT;3;PL	lupautunevat
+V;V.PTCP;ACT;PRS	tuleva toisiin aatoksiin	V;ACT;PRS;NEG;IMP;3;SG	älköön tulko toisiin aatoksiin
+V;V.PTCP;ACT;PRS	hämäävä	V;PASS;PST;PRF;POS;IND	oli hämätty
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole nyplännyt	V;V.PTCP;ACT;PST	nyplännyt
+V;ACT;PRS;NEG;IMP;2;SG	älä koukkua	V;ACT;PRS;NEG;IMP;1;PL	älkäämme koukutko
+V;ACT;PRS;NEG;COND;3;SG	ei rääpisi	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko rääpinyt
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole hämäännyttäneet	V;V.PTCP;ACT;PST	hämäännyttänyt
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet skaalautuneet	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko skaalautuneet
+V;ACT;PRS;PRF;POS;IND;3;SG	on poimuttunut	V;ACT;PRS;PRF;POS;COND;1;SG	olisin poimuttunut
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole nälväissyt	V;PASS;PRS;PRF;NEG;POT	ei liene nälväisty
+V;ACT;PRS;POS;COND;3;SG	valmistautuisi	V;ACT;PST;PRF;POS;IND;1;PL	olimme valmistautuneet
+V;PASS;PRS;PRF;NEG;IND	ei ole kutistettu	V;ACT;PST;PRF;POS;IND;1;PL	olimme kutistaneet
+V;PASS;PRS;POS;IMP	konvergoitakoon	V;ACT;PRS;PRF;POS;COND;2;SG	olisit konvergoinut
+V;PASS;PRS;PRF;POS;IND	on karaistu	V;ACT;PST;NEG;IND;3;PL	eivät karaisseet
+V;PASS;PST;PRF;POS;IND	oli aavistettu	V;ACT;PRS;PRF;POS;IMP;2;SG	ole aavistanut
+V;ACT;PRS;POS;IMP;2;SG	fakkiinnu	V;ACT;PRS;PRF;POS;IND;3;SG	on fakkiintunut
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi kukistunut	V;ACT;PRS;NEG;IMP;3;SG	älköön kukistuko
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin poikkaissut	V;ACT;PRS;NEG;IND;3;SG	ei poikkaise
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene avautuneet	V;ACT;PST;NEG;IND;2;SG	et avautunut
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon hämäännyttänyt	V;ACT;PRS;POS;IMP;3;SG	hämäännyttäköön
+V;ACT;PST;NEG;IND;2;PL	ette haavautuneet	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi haavautuneet
+V;ACT;PST;POS;IND;3;PL	norjistivat	V;PASS;PST;POS;IND	norjistettiin
+V;ACT;PST;PRF;POS;IND;3;PL	olivat ositelleet	V;ACT;PRS;PRF;POS;COND;2;SG	olisit ositellut
+V;ACT;PRS;POS;IND;2;SG	katkot	V;ACT;PRS;POS;COND;1;SG	katkoisin
+V;ACT;PRS;NEG;IMP;3;PL	älkööt lähtekö soitellen sotaan	V;ACT;PRS;NEG;COND;1;SG	en lähtisi soitellen sotaan
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin lellunut	V;ACT;PRS;POS;COND;3;SG	lelluisi
+V;ACT;PRS;POS;COND;1;SG	vuoraisin	V;ACT;PRS;POS;POT;1;SG	vuorannen
+V;ACT;PST;PRF;NEG;IND;2;SG	et ollut koronnut	V;ACT;PST;POS;IND;1;PL	korosimme
+V;ACT;PRS;NEG;POT;2;SG	et tislanne	V;ACT;PRS;POS;COND;1;PL	tislaisimme
+V;ACT;PRS;NEG;POT;1;PL	emme tuskastelle	V;PASS;PRS;POS;IMP	tuskasteltakoon
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee pilannut	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät pilanneet
+V;ACT;PST;POS;IND;3;SG	kieroutti	V;ACT;PST;POS;IND;2;PL	kieroutitte
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi inisseet	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme inisseet
+V;ACT;PST;PRF;POS;IND;2;PL	olitte kipunoineet	V;PASS;PRS;PRF;NEG;COND	ei olisi kipunoitu
+V;ACT;PST;PRF;POS;IND;3;SG	oli laittanut	V;ACT;PRS;POS;POT;1;PL	laittanemme
+V;ACT;PRS;POS;IND;2;PL	haahuilette	V;ACT;PRS;PRF;POS;COND;1;SG	olisin haahuillut
+V;PASS;PRS;PRF;NEG;IMP	älköön olko hyrrätty	V;ACT;PRS;NEG;COND;2;SG	et hyrräisi
+V;ACT;PRS;NEG;IND;2;SG	et nurise	V;ACT;PRS;NEG;COND;1;PL	emme nurisisi
+V;PASS;PST;NEG;IND	ei karhuttu	V;ACT;PRS;POS;POT;1;PL	karhunnemme
+V;ACT;PST;PRF;POS;IND;3;PL	olivat hetkutelleet	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut hetkutellut
+V;ACT;PRS;NEG;COND;1;PL	emme pillahtaisi	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät pillahtaneet
+V;PASS;PRS;POS;COND	tunnettaisiin	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät tunteneet
+V;ACT;PST;PRF;POS;IND;2;SG	olit talttunut	V;ACT;PRS;POS;COND;1;PL	talttuisimme
+V;ACT;PRS;NEG;POT;3;PL	eivät hammastune	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi hammastunut
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi nuorentaneet	V;V.PTCP;PASS;PRS	nuorennettava
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole karstautuneet	V;ACT;PRS;POS;IMP;3;SG	karstautukoon
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi rationoinut	V;ACT;PRS;NEG;COND;3;PL	eivät rationoisi
+V;ACT;PRS;POS;IMP;1;PL	haaraantukaamme	V;PASS;PRS;POS;IMP	haaraannuttakoon
+V;ACT;PRS;NEG;COND;3;SG	ei raivoaisi	V;ACT;PRS;POS;COND;2;PL	raivoaisitte
+V;ACT;PRS;POS;POT;3;PL	ruopannevat	V;ACT;PRS;NEG;COND;1;PL	emme ruoppaisi
+V;ACT;PRS;NEG;COND;1;SG	en universaalistuisi	V;ACT;PRS;NEG;IMP;3;PL	älkööt universaalistuko
+V;PASS;PRS;PRF;POS;COND	olisi halvauduttu	V;ACT;PRS;NEG;IND;3;SG	ei halvaudu
+V;ACT;PRS;NEG;IMP;2;PL	älkää lönkyttäkö	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon lönkyttänyt
+V;ACT;PST;POS;IND;2;SG	kärkyit	V;PASS;PRS;PRF;NEG;IMP	älköön olko kärkytty
+V;ACT;PRS;NEG;POT;1;SG	en hörppine	V;ACT;PST;NEG;IND;2;SG	et hörppinyt
+V;ACT;PRS;POS;POT;3;SG	duunannee	V;ACT;PRS;NEG;COND;3;SG	ei duunaisi
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet kirvonneet	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi kirvonnut
+V;ACT;PRS;POS;POT;1;SG	kuljeskellen	V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet kuljeskelleet
+V;PASS;PRS;PRF;NEG;POT	ei liene sponsoroitu	V;ACT;PRS;POS;COND;2;SG	sponsoroisit
+V;PASS;PRS;NEG;IMP	älköön tuuhetuttako	V;PASS;PRS;PRF;POS;IND	on tuuhetuttu
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene mutkitelleet	V;ACT;PRS;NEG;POT;1;SG	en mutkitelle
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole tyrannisoineet	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole tyrannisoinut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi ponnahtanut	V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole ponnahtaneet
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole notkistuneet	V;ACT;PRS;NEG;COND;2;PL	ette notkistuisi
+V;ACT;PST;PRF;POS;IND;3;PL	olivat raihnaantuneet	V;ACT;PRS;PRF;POS;IND;2;SG	olet raihnaantunut
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette purattaneet	V;ACT;PRS;POS;IMP;3;PL	purattakoot
+V;ACT;PRS;NEG;IMP;3;PL	älkööt hoitako	V;V.PTCP;ACT;PRS	hoitava
+V;ACT;PRS;POS;POT;1;PL	rehabilitoinemme	V;PASS;PRS;POS;IND	rehabilitoidaan
+V;ACT;PRS;POS;POT;1;PL	mumissemme	V;ACT;PRS;PRF;POS;COND;2;SG	olisit mumissut
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet kiiltäneet	V;ACT;PRS;PRF;POS;COND;1;SG	olisin kiiltänyt
+V;ACT;PST;NEG;IND;2;SG	et säätänyt	V;ACT;PRS;POS;IND;3;PL	säätävät
+V;ACT;PRS;NEG;COND;3;SG	ei virittelisi	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko viritelleet
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon hurjistunut	V;ACT;PST;POS;IND;3;SG	hurjistui
+V;PASS;PRS;NEG;IND	ei breikata	V;ACT;PRS;POS;IND;1;SG	breikkaan
+V;ACT;PST;PRF;POS;IND;2;SG	olit virrannut	V;V.PTCP;PASS;PRS	virrattava
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee innostunut	V;ACT;PST;PRF;POS;IND;2;PL	olitte innostuneet
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole pitäneet vettä	V;ACT;PRS;NEG;IND;1;PL	emme pidä vettä
+V;ACT;PST;PRF;NEG;IND;2;SG	et ollut aristunut	V;ACT;PRS;NEG;POT;2;PL	ette aristune
+V;ACT;PRS;POS;POT;3;SG	vieronee	V;ACT;PRS;NEG;IND;3;SG	ei viero
+V;ACT;PRS;PRF;POS;IND;1;SG	olen harjannut	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa harjanneet
+V;ACT;PRS;PRF;NEG;POT;1;SG	en liene rei'ittänyt	V;ACT;PRS;NEG;POT;3;SG	ei rei'ittäne
+V;ACT;PST;POS;IND;3;SG	sukaisi	V;ACT;PRS;PRF;POS;POT;1;SG	lienen sukaissut
+V;ACT;PRS;NEG;IMP;2;PL	älkää valmistako	V;ACT;PRS;NEG;COND;1;PL	emme valmistaisi
+V;ACT;PST;NEG;IND;3;SG	ei torpedoinut	V;ACT;PRS;POS;IND;1;PL	torpedoimme
+V;ACT;PST;PRF;POS;IND;1;PL	olimme pulikoineet	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut pulikoinut
+V;ACT;PRS;POS;POT;3;SG	aiheellistanee	V;ACT;PRS;PRF;POS;IND;1;SG	olen aiheellistanut
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi maisemoinut	V;ACT;PST;POS;IND;2;SG	maisemoit
+V;ACT;PRS;POS;POT;3;PL	sinertynevät	V;ACT;PRS;POS;POT;1;PL	sinertynemme
+V;ACT;PST;PRF;POS;IND;2;SG	olit raahaantunut	V;ACT;PRS;POS;IND;2;PL	raahaannutte
+V;PASS;PRS;NEG;COND	ei kähmittäisi	V;ACT;PST;PRF;POS;IND;2;SG	olit kähminyt
+V;ACT;PRS;POS;COND;1;SG	jyryyttäisin	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko jyryyttänyt
+V;V.PTCP;ACT;PRS	häipyvä	V;ACT;PST;NEG;IND;2;SG	et häipynyt
+V;V.PTCP;ACT;PRS	vuorovaikuttava	V;ACT;PRS;NEG;IND;1;SG	en vuorovaikuta
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi pingoittanut	V;ACT;PRS;PRF;POS;IND;2;PL	olette pingoittaneet
+V;PASS;PRS;POS;POT	kohautettaneen	V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene kohauttaneet
+V;ACT;PST;PRF;POS;IND;3;PL	olivat panetelleet	V;PASS;PST;PRF;NEG;IND	ei ollut paneteltu
+V;ACT;PRS;NEG;IMP;3;PL	älkööt haarautuko	V;ACT;PRS;PRF;POS;IND;3;PL	ovat haarautuneet
+V;ACT;PRS;POS;IND;3;SG	suuntaa	V;ACT;PRS;NEG;POT;3;PL	eivät suunnanne
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene jyräyttäneet	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa jyräyttäneet
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole ryysännyt	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot ryysänneet
+V;ACT;PST;NEG;IND;3;PL	eivät hörähtäneet	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi hörähtäneet
+V;ACT;PST;NEG;IND;2;PL	ette kastattaneet	V;V.PTCP;PASS;PST	kastatettu
+V;ACT;PRS;NEG;COND;2;PL	ette replikoisi	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene replikoineet
+V;PASS;PRS;PRF;NEG;IND	ei ole ajantasaistettu	V;PASS;PRS;NEG;POT	ei ajantasaistettane
+V;ACT;PRS;PRF;POS;IND;3;SG	on hävittänyt	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme hävittäneet
+V;ACT;PRS;POS;IMP;2;PL	varoitelkaa	V;ACT;PRS;POS;COND;1;PL	varoittelisimme
+V;ACT;PRS;POS;IND;3;SG	säpsähtää	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi säpsähtänyt
+V;ACT;PRS;POS;IMP;2;SG	taukoa	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko tauonneet
+V;ACT;PST;NEG;IND;3;SG	ei rumistanut	V;ACT;PRS;POS;COND;3;SG	rumistaisi
+V;PASS;PRS;PRF;NEG;COND	ei olisi lyllytty	V;PASS;PRS;PRF;POS;POT	lienee lyllytty
+V;ACT;PST;NEG;IND;1;SG	en absorboinut	V;PASS;PRS;POS;IND	absorboidaan
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole paperoineet	V;ACT;PST;NEG;IND;1;SG	en paperoinut
+V;ACT;PRS;NEG;IND;2;PL	ette köllöttele	V;ACT;PRS;POS;IND;1;SG	köllöttelen
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen grillautunut	V;ACT;PRS;PRF;POS;IND;2;SG	olet grillautunut
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme sinertyneet	V;V.PTCP;PASS;PST	sinerrytty
+V;ACT;PRS;NEG;IND;1;SG	en älyä	V;ACT;PRS;NEG;IND;3;SG	ei älyä
+V;ACT;PRS;POS;IMP;2;SG	ärähtele	V;ACT;PRS;NEG;IMP;3;PL	älkööt ärähdelkö
+V;ACT;PRS;POS;IND;3;SG	juksaa	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät juksanneet
+V;ACT;PRS;POS;POT;2;SG	äyskinet	V;ACT;PST;POS;IND;2;PL	äyskitte
+V;ACT;PST;NEG;IND;2;PL	ette nuuduttaneet	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa nuuduttaneet
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi ryömineet	V;ACT;PRS;PRF;POS;IND;2;PL	olette ryömineet
+V;PASS;PRS;PRF;POS;COND	olisi kiistetty	V;ACT;PRS;PRF;POS;POT;3;SG	lienee kiistänyt
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole diskannut	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi diskannut
+V;PASS;PRS;PRF;NEG;POT	ei liene puhutettu	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon puhuttanut
+V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon nelinkertaistunut	V;ACT;PRS;POS;COND;3;SG	nelinkertaistuisi
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole pudottanut	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi pudottanut
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole suistuneet	V;ACT;PRS;PRF;POS;POT;2;SG	lienet suistunut
+V;PASS;PRS;NEG;POT	ei nytkyttäne	V;PASS;PRS;PRF;NEG;IMP	älköön olko nytkytty
+V;ACT;PRS;NEG;IMP;2;SG	älä tokaise	V;NFIN	tokaista
+V;ACT;PRS;POS;IMP;1;PL	uikaamme	V;ACT;PRS;PRF;NEG;POT;1;SG	en liene uinut
+V;PASS;PST;PRF;NEG;IND	ei ollut karkailtu	V;ACT;PST;NEG;IND;2;SG	et karkaillut
+V;ACT;PRS;PRF;POS;POT;1;SG	lienen veistänyt	V;PASS;PST;PRF;POS;IND	oli veistetty
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene esiintyneet	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut esiintynyt
+V;ACT;PRS;NEG;IND;1;PL	emme lyöty	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi lyöttyneet
+V;PASS;PST;PRF;NEG;IND	ei ollut nujerruttu	V;PASS;PST;NEG;IND	ei nujerruttu
+V;ACT;PST;PRF;POS;IND;1;SG	olin passittanut	V;ACT;PST;PRF;POS;IND;2;PL	olitte passittaneet
+V;PASS;PRS;POS;COND	uusiuduttaisiin	V;ACT;PRS;NEG;COND;2;PL	ette uusiutuisi
+V;ACT;PRS;PRF;POS;IND;2;PL	olette ruotineet	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät ruotineet
+V;ACT;PRS;PRF;POS;COND;3;PL	olisivat notarisoineet	V;PASS;PRS;PRF;NEG;IMP	älköön olko notarisoitu
+V;ACT;PRS;NEG;IMP;2;SG	älä kipaise	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte kipaisseet
+V;ACT;PRS;POS;IND;2;SG	kalastat	V;PASS;PRS;POS;COND	kalastettaisiin
+V;ACT;PRS;POS;IND;2;SG	telttailet	V;ACT;PRS;POS;IMP;2;SG	telttaile
+V;ACT;PRS;POS;COND;3;SG	märehtisi	V;PASS;PRS;PRF;POS;IMP	olkoon märehditty
+V;PASS;PRS;POS;COND	hyytelöitäisiin	V;PASS;PRS;PRF;POS;POT	lienee hyytelöity
+V;PASS;PST;NEG;IND	ei auktorisoitu	V;ACT;PST;NEG;IND;2;PL	ette auktorisoineet
+V;PASS;PST;NEG;IND	ei tyrannoitu	V;ACT;PRS;NEG;IND;2;SG	et tyrannoi
+V;ACT;PRS;POS;COND;2;PL	äyskisitte	V;ACT;PRS;NEG;IND;3;SG	ei äyski
+V;V.PTCP;PASS;PST	desinfioitu	V;PASS;PRS;POS;POT	desinfioitaneen
+V;ACT;PRS;POS;IMP;2;SG	alusta	V;ACT;PRS;NEG;IND;2;SG	et alusta
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi aktiivistunut	V;PASS;PRS;POS;COND	aktiivistuttaisiin
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi ämpäröineet	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme ämpäröineet
+V;ACT;PRS;POS;COND;2;SG	kyllästyisit	V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet kyllästyneet
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole vaurioitunut	V;ACT;PRS;NEG;POT;1;PL	emme vaurioitune
+V;ACT;PRS;NEG;IMP;1;PL	älkäämme kuvastuko	V;ACT;PRS;POS;COND;1;PL	kuvastuisimme
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole potuttanut	V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole potuttanut
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene härnännyt	V;ACT;PRS;NEG;IND;2;SG	et härnää
+V;ACT;PST;PRF;POS;IND;3;SG	oli nyrpistänyt	V;ACT;PST;NEG;IND;3;PL	eivät nyrpistäneet
+V;ACT;PRS;PRF;NEG;IND;2;SG	et ole lyyhistänyt	V;ACT;PRS;NEG;IMP;3;SG	älköön lyyhistäkö
+V;ACT;PRS;POS;IMP;3;SG	retuuttakoon	V;ACT;PST;PRF;POS;IND;3;PL	olivat retuuttaneet
+V;ACT;PRS;POS;IND;1;SG	kummeksin	V;ACT;PRS;POS;IND;3;PL	kummeksivat
+V;ACT;PRS;POS;IND;2;PL	kositte	V;ACT;PST;POS;IND;1;PL	kosimme
+V;V.PTCP;PASS;PRS	spesiaalistuttava	V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole spesiaalistuneet
+V;ACT;PRS;POS;IND;3;SG	paistattelee	V;V.PTCP;ACT;PRS	paistatteleva
+V;ACT;PRS;POS;POT;1;SG	parkkeerannen	V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme parkkeeranneet
+V;ACT;PRS;POS;COND;1;PL	vetistäisimme	V;ACT;PRS;PRF;POS;IND;1;SG	olen vetistänyt
+V;PASS;PRS;PRF;NEG;POT	ei liene härskiinnytty	V;ACT;PRS;NEG;IND;3;PL	eivät härskiinny
+V;PASS;PST;NEG;IND	ei homogeenistettu	V;ACT;PRS;POS;IMP;3;PL	homogeenistakoot
+V;ACT;PRS;POS;IND;3;PL	pullahtavat	V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko pullahtaneet
+V;ACT;PRS;POS;IND;1;SG	laitan nukkumaan	V;PASS;PST;PRF;NEG;IND	ei ollut laitettu nukkumaan
+V;PASS;PRS;PRF;POS;POT	lienee rouskutettu	V;ACT;PRS;PRF;NEG;POT;2;SG	et liene rouskuttanut
+V;ACT;PRS;NEG;IND;1;SG	en konkkaa	V;ACT;PST;NEG;IND;3;SG	ei konkannut
+V;PASS;PRS;PRF;POS;POT	lienee kangistettu	V;ACT;PRS;POS;POT;3;PL	kangistanevat
+V;ACT;PRS;NEG;IMP;2;PL	älkää palkatko	V;PASS;PRS;PRF;NEG;POT	ei liene palkattu
+V;ACT;PRS;POS;COND;1;PL	englannintaisimme	V;ACT;PRS;PRF;POS;IND;3;SG	on englannintanut
+V;ACT;PST;NEG;IND;2;SG	et saanut	V;ACT;PRS;NEG;IND;3;SG	ei saa
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole piirittänyt	V;PASS;PRS;NEG;COND	ei piiritettäisi
+V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme jumittaneet	V;ACT;PRS;NEG;COND;2;PL	ette jumittaisi
+V;ACT;PRS;NEG;POT;1;SG	en ratkone	V;ACT;PRS;POS;POT;2;SG	ratkonet
+V;PASS;PST;POS;IND	motkotettiin	V;ACT;PRS;PRF;POS;IND;3;PL	ovat motkottaneet
+V;ACT;PRS;NEG;IND;1;SG	en skarppaa	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi skarpanneet
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole aaltoillut	V;ACT;PRS;NEG;COND;2;PL	ette aaltoilisi
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole laulaneet	V;ACT;PRS;POS;IMP;2;SG	laula
+V;ACT;PRS;POS;IND;2;SG	rahtaat	V;ACT;PRS;POS;COND;1;PL	rahtaisimme
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme kyläilleet	V;PASS;PRS;PRF;NEG;IND	ei ole kyläilty
+V;NFIN	väännellä	V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole väännelleet
+V;ACT;PRS;NEG;POT;2;PL	ette huikaisse	V;ACT;PRS;POS;IMP;1;PL	huikaiskaamme
+V;ACT;PRS;POS;POT;1;PL	järjestänemme	V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene järjestäneet
+V;ACT;PRS;POS;IND;1;SG	pulskistan	V;ACT;PRS;POS;POT;3;SG	pulskistanee
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet siteerannut	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat siteeranneet
+V;PASS;PRS;NEG;POT	ei kinattane	V;ACT;PRS;POS;POT;2;SG	kinannet
+V;ACT;PRS;NEG;IND;2;SG	et korkkiinnu	V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko korkkiintuneet
+V;ACT;PRS;POS;POT;1;SG	tomuttanen	V;ACT;PRS;POS;IND;3;SG	tomuttaa
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene hoksanneet	V;ACT;PRS;PRF;POS;IND;2;SG	olet hoksannut
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi lähentänyt	V;ACT;PRS;PRF;POS;IND;3;SG	on lähentänyt
+V;ACT;PRS;NEG;IMP;3;SG	älköön lisätkö	V;PASS;PRS;PRF;NEG;IMP	älköön olko lisätty
+V;ACT;PST;NEG;IND;2;PL	ette korotuttaneet	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi korotuttanut
+V;PASS;PST;PRF;NEG;IND	ei ollut köynnehditty	V;PASS;PRS;PRF;NEG;IND	ei ole köynnehditty
+V;ACT;PST;POS;IND;3;PL	herposivat	V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut hervonnut
+V;PASS;PRS;NEG;COND	ei oudostutettaisi	V;ACT;PST;NEG;IND;3;PL	eivät oudostuttaneet
+V;ACT;PRS;POS;COND;1;PL	teollistuisimme	V;ACT;PRS;POS;IMP;2;SG	teollistu
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko kilahtaneet	V;ACT;PRS;NEG;IND;3;PL	eivät kilahda
+V;ACT;PRS;NEG;COND;3;SG	ei tanhuaisi	V;ACT;PRS;POS;POT;3;PL	tanhunnevat
+V;ACT;PST;POS;IND;1;PL	kreditoimme	V;ACT;PST;NEG;IND;2;PL	ette kreditoineet
+V;ACT;PRS;POS;IND;1;PL	köynnöstämme	V;PASS;PST;PRF;POS;IND	oli köynnöstetty
+V;ACT;PRS;NEG;IND;3;PL	eivät pulppua	V;PASS;PST;NEG;IND	ei pulputtu
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit tilkinnyt	V;ACT;PST;POS;IND;2;PL	tilkitsitte
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin pierryt	V;ACT;PRS;NEG;COND;1;SG	en pierisi
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene samanoinut	V;ACT;PRS;PRF;POS;POT;2;PL	lienette samanoineet
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko näytelleet	V;ACT;PRS;NEG;COND;3;SG	ei näyttelisi
+V;ACT;PRS;POS;COND;1;PL	uppoaisimme	V;ACT;PRS;PRF;POS;IND;2;PL	olette uponneet
+V;ACT;PRS;PRF;NEG;IND;3;PL	eivät ole kuparoineet	V;ACT;PST;NEG;IND;3;PL	eivät kuparoineet
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi pruukannut	V;ACT;PST;PRF;POS;IND;1;PL	olimme pruukanneet
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole sieventynyt	V;ACT;PST;NEG;IND;2;SG	et sieventynyt
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole vapaamielistynyt	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko vapaamielistyneet
+V;ACT;PRS;PRF;POS;COND;2;PL	olisitte pelotelleet	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot pelotelleet
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme arpeutuneet	V;ACT;PRS;POS;IMP;1;PL	arpeutukaamme
+V;PASS;PRS;NEG;COND	ei projisioitaisi	V;ACT;PST;NEG;IND;2;PL	ette projisioineet
+V;ACT;PRS;NEG;IMP;1;PL	älkäämme avatko	V;PASS;PRS;PRF;POS;IMP	olkoon avattu
+V;PASS;PST;NEG;IND	ei kiihkouduttu	V;ACT;PST;PRF;POS;IND;3;PL	olivat kiihkoutuneet
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme kolistaneet	V;ACT;PRS;PRF;POS;IND;1;PL	olemme kolistaneet
+V;ACT;PST;PRF;POS;IND;1;SG	olin krokannut	V;ACT;PRS;PRF;POS;POT;2;PL	lienette krokanneet
+V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut humpsahtanut	V;ACT;PST;POS;IND;1;SG	humpsahdin
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin rastittanut	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme rastittaneet
+V;ACT;PRS;NEG;IND;1;SG	en yhdistä	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi yhdistäneet
+V;PASS;PST;NEG;IND	ei lamattu	V;ACT;PRS;PRF;NEG;IND;1;SG	en ole lamannut
+V;ACT;PST;NEG;IND;1;PL	emme kontrastoineet	V;PASS;PRS;NEG;IMP	älköön kontrastoitako
+V;ACT;PRS;PRF;POS;IND;3;PL	ovat praktisoineet	V;ACT;PRS;PRF;POS;POT;1;SG	lienen praktisoinut
+V;ACT;PST;NEG;IND;2;PL	ette rokanneet	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko rokannut
+V;ACT;PRS;PRF;POS;IND;2;PL	olette sydämistyneet	V;PASS;PRS;NEG;POT	ei sydämistyttäne
+V;ACT;PRS;PRF;POS;IND;2;SG	olet printannut	V;ACT;PST;PRF;POS;IND;3;PL	olivat printanneet
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene feissanneet	V;ACT;PRS;NEG;POT;1;SG	en feissanne
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette pysähtyneet	V;PASS;PRS;PRF;NEG;IMP	älköön olko pysähdytty
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin haaroittanut	V;ACT;PRS;POS;IMP;3;SG	haaroittakoon
+V;PASS;PRS;PRF;NEG;IMP	älköön olko tilkitty	V;PASS;PRS;PRF;NEG;POT	ei liene tilkitty
+V;PASS;PRS;NEG;IND	ei jammailla	V;ACT;PST;NEG;IND;1;SG	en jammaillut
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole pisinyt	V;ACT;PRS;NEG;IND;1;PL	emme pisi
+V;ACT;PRS;PRF;NEG;IMP;1;PL	älkäämme olko koteloituneet	V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi koteloitunut
+V;ACT;PRS;NEG;IMP;2;PL	älkää noukkiko	V;ACT;PRS;NEG;IND;2;SG	et nouki
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut läntistynyt	V;ACT;PRS;NEG;IMP;1;PL	älkäämme läntistykö
+V;ACT;PRS;NEG;IND;2;PL	ette arvo	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme arponeet
+V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi pörissyt	V;ACT;PRS;PRF;POS;IND;2;SG	olet pörissyt
+V;PASS;PST;NEG;IND	ei lunastettu	V;PASS;PST;PRF;POS;IND	oli lunastettu
+V;PASS;PRS;PRF;POS;POT	lienee jippoiltu	V;ACT;PRS;NEG;COND;3;PL	eivät jippoilisi
+V;ACT;PRS;NEG;COND;2;PL	ette kivittäisi	V;PASS;PST;PRF;NEG;IND	ei ollut kivitetty
+V;ACT;PRS;POS;IMP;2;PL	kiistelkää	V;PASS;PST;POS;IND	kiisteltiin
+V;ACT;PRS;NEG;COND;2;PL	ette patsastelisi	V;ACT;PST;NEG;IND;2;SG	et patsastellut
+V;ACT;PRS;PRF;POS;COND;2;PL	olisitte siementäneet	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät siementäneet
+V;ACT;PST;PRF;POS;IND;3;PL	olivat mongertaneet	V;ACT;PST;POS;IND;1;PL	mongersimme
+V;ACT;PST;PRF;NEG;IND;3;SG	ei ollut kovertunut	V;ACT;PRS;PRF;POS;COND;1;SG	olisin kovertunut
+V;PASS;PRS;NEG;COND	ei nöyhtäydyttäisi	V;ACT;PRS;POS;COND;2;PL	nöyhtäytyisitte
+V;ACT;PRS;POS;IND;1;PL	löntystelemme	V;NFIN	löntystellä
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene hiukaisseet	V;ACT;PRS;POS;COND;1;PL	hiukaisisimme
+V;ACT;PRS;NEG;COND;1;PL	emme säestäisi	V;ACT;PRS;POS;IND;3;PL	säestävät
+V;ACT;PRS;NEG;COND;2;PL	ette tapiseeraisi	V;ACT;PRS;POS;IND;1;PL	tapiseeraamme
+V;PASS;PST;PRF;POS;IND	oli puikittu	V;PASS;PRS;PRF;POS;IND	on puikittu
+V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi stressaantunut	V;ACT;PRS;PRF;POS;COND;1;SG	olisin stressaantunut
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole havainnollistunut	V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa havainnollistuneet
+V;ACT;PST;NEG;IND;1;SG	en näpistänyt	V;ACT;PRS;POS;POT;3;SG	näpistänee
+V;ACT;PST;PRF;POS;IND;3;PL	olivat hykertäneet	V;ACT;PRS;NEG;COND;2;PL	ette hykertäisi
+V;ACT;PRS;NEG;IND;1;PL	emme jurnuta	V;PASS;PRS;PRF;NEG;IMP	älköön olko jurnutettu
+V;ACT;PRS;NEG;COND;3;PL	eivät kertyisi	V;ACT;PRS;POS;COND;2;SG	kertyisit
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole ottaneet vaarin	V;PASS;PST;NEG;IND	ei otettu vaarin
+V;ACT;PST;NEG;IND;2;PL	ette kipsanneet	V;V.PTCP;ACT;PRS	kipsaava
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko vanhenneet	V;ACT;PRS;PRF;POS;COND;1;SG	olisin vanhennut
+V;ACT;PRS;POS;IMP;3;SG	haukkukoon maanrakoon	V;ACT;PRS;POS;IMP;1;PL	haukkukaamme maanrakoon
+V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole nahkoneet	V;ACT;PRS;POS;POT;2;PL	nahkonette
+V;ACT;PRS;POS;COND;3;PL	arpoisivat	V;ACT;PST;POS;IND;2;SG	arvoit
+V;ACT;PRS;POS;IND;1;SG	muhin	V;PASS;PRS;NEG;IND	ei muhita
+V;PASS;PRS;PRF;NEG;COND	ei olisi opetettu	V;ACT;PST;NEG;IND;2;SG	et opettanut
+V;PASS;PST;PRF;POS;IND	oli surkastutettu	V;V.PTCP;ACT;PST	surkastuttanut
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet toheloineet	V;ACT;PRS;POS;COND;2;SG	toheloisit
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet tupsahtanut	V;ACT;PST;PRF;POS;IND;3;SG	oli tupsahtanut
+V;PASS;PRS;NEG;COND	ei paskannettaisi	V;V.PTCP;PASS;PRS	paskannettava
+V;ACT;PRS;POS;COND;3;SG	vitoisi	V;ACT;PRS;PRF;POS;IMP;2;SG	ole vitonut
+V;ACT;PRS;POS;POT;3;PL	suolistanevat	V;PASS;PRS;NEG;IND	ei suolisteta
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa reuhanneet	V;ACT;PST;NEG;IND;2;SG	et reuhannut
+V;ACT;PRS;NEG;POT;2;SG	et niuhottane	V;ACT;PRS;NEG;POT;1;PL	emme niuhottane
+V;ACT;PRS;POS;IMP;1;PL	ärsyttäkäämme	V;PASS;PRS;PRF;NEG;POT	ei liene ärsytetty
+V;ACT;PRS;PRF;POS;IND;1;SG	olen havainnollistanut	V;PASS;PRS;POS;IND	havainnollistetaan
+V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene suunnistaneet	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi suunnistaneet
+V;ACT;PST;POS;IND;3;SG	jäädytti	V;PASS;PRS;POS;IND	jäädytetään
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole ylläpitänyt	V;ACT;PRS;POS;POT;2;PL	ylläpitänette
+V;ACT;PRS;NEG;COND;3;PL	eivät kierteittäisi	V;ACT;PRS;POS;POT;3;SG	kierteittänee
+V;ACT;PST;PRF;POS;IND;1;SG	olin mädättänyt	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme mädättäneet
+V;ACT;PRS;NEG;IND;2;PL	ette kouristu	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene kouristunut
+V;ACT;PST;POS;IND;1;SG	koiduin	V;ACT;PRS;NEG;COND;1;SG	en koituisi
+V;ACT;PRS;NEG;IMP;2;PL	älkää löyhähtäkö	V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole löyhähtäneet
+V;ACT;PRS;POS;COND;2;PL	näyttäytyisitte	V;ACT;PRS;POS;POT;3;PL	näyttäytynevät
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi laittaneet pois päältä	V;ACT;PRS;NEG;COND;1;SG	en laittaisi pois päältä
+V;ACT;PST;NEG;IND;3;SG	ei aivastuttanut	V;PASS;PRS;PRF;POS;POT	lienee aivastutettu
+V;ACT;PST;POS;IND;2;SG	amputoit	V;ACT;PST;NEG;IND;3;SG	ei amputoinut
+V;ACT;PRS;PRF;POS;IND;2;SG	olet ketjuutunut	V;PASS;PRS;POS;IMP	ketjuuduttakoon
+V;ACT;PRS;PRF;NEG;POT;2;SG	et liene hämmentänyt	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene hämmentäneet
+V;ACT;PRS;NEG;COND;2;PL	ette veistäisi	V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi veistäneet
+V;ACT;PRS;POS;IND;1;SG	jeesin	V;ACT;PST;PRF;POS;IND;1;PL	olimme jeesineet
+V;ACT;PST;PRF;POS;IND;2;PL	olitte tienanneet	V;ACT;PRS;PRF;POS;POT;3;SG	lienee tienannut
+V;ACT;PST;POS;IND;1;PL	kinkkasimme	V;ACT;PRS;NEG;COND;2;SG	et kinkkaisi
+V;ACT;PST;NEG;IND;2;PL	ette hujeltaneet	V;ACT;PRS;POS;POT;3;PL	hujeltanevat
+V;ACT;PRS;POS;IMP;1;PL	kehittykäämme	V;ACT;PST;NEG;IND;3;SG	ei kehittynyt
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee erakoitunut	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme erakoituneet
+V;ACT;PST;POS;IND;1;SG	kilautin	V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole kilauttaneet
+V;ACT;PST;PRF;NEG;IND;1;SG	en ollut vajentanut	V;ACT;PRS;POS;IND;3;PL	vajentavat
+V;PASS;PRS;NEG;IND	ei helkytetä	V;ACT;PRS;POS;IMP;3;PL	helkyttäkööt
+V;ACT;PRS;NEG;IND;1;PL	emme demokratisoidu	V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene demokratisoitunut
+V;ACT;PRS;POS;POT;1;PL	konkretisoinemme	V;ACT;PRS;NEG;IMP;3;PL	älkööt konkretisoiko
+V;ACT;PRS;POS;IND;2;PL	himoitsette	V;ACT;PRS;POS;IMP;3;SG	himoitkoon
+V;ACT;PRS;POS;COND;2;SG	enenisit	V;ACT;PRS;POS;IND;2;PL	enenette
+V;ACT;PRS;NEG;IMP;2;SG	älä muiskauta	V;ACT;PST;PRF;POS;IND;3;SG	oli muiskauttanut
+V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole linnoittanut	V;ACT;PRS;NEG;IMP;2;PL	älkää linnoittako
+V;PASS;PRS;NEG;IMP	älköön väljähdyttäkö	V;ACT;PRS;NEG;COND;3;PL	eivät väljähtyisi
+V;ACT;PRS;PRF;POS;IND;2;PL	olette hipsuttaneet	V;ACT;PST;PRF;NEG;IND;2;SG	et ollut hipsuttanut
+V;ACT;PST;NEG;IND;1;PL	emme kuristautuneet	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet kuristautuneet
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko haastaneet	V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot haastaneet
+V;ACT;PST;PRF;POS;IND;2;SG	olit suomustanut	V;ACT;PRS;NEG;COND;3;PL	eivät suomustaisi
+V;ACT;PRS;PRF;POS;IND;3;SG	on lirunut	V;ACT;PRS;NEG;IND;1;PL	emme liru
+V;ACT;PRS;NEG;POT;1;PL	emme roihunne	V;ACT;PRS;POS;POT;1;PL	roihunnemme
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole sympatisoineet	V;ACT;PST;NEG;IND;1;PL	emme sympatisoineet
+V;ACT;PRS;POS;POT;1;PL	feissannemme	V;ACT;PRS;NEG;IMP;1;PL	älkäämme feissatko
+V;ACT;PST;PRF;POS;IND;1;PL	olimme toikkaroineet	V;PASS;PRS;POS;IND	toikkaroidaan
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee keittänyt	V;ACT;PRS;PRF;NEG;IND;1;PL	emme ole keittäneet
+V;ACT;PRS;POS;COND;2;SG	rustaisit	V;ACT;PRS;NEG;IMP;1;PL	älkäämme rustatko
+V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi apinoineet	V;ACT;PST;NEG;IND;2;SG	et apinoinut
+V;ACT;PST;POS;IND;3;PL	litistivät	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet litistäneet
+V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme nähneet	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi nähneet
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko nielaisseet	V;ACT;PRS;POS;COND;1;PL	nielaisisimme
+V;ACT;PST;PRF;NEG;IND;2;SG	et ollut kierrättänyt	V;ACT;PRS;NEG;IMP;2;PL	älkää kierrättäkö
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole raapinut	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte raapineet
+V;NFIN	havista	V;PASS;PRS;PRF;NEG;POT	ei liene havistu
+V;PASS;PST;NEG;IND	ei kaarrettu	V;ACT;PRS;PRF;NEG;IMP;3;SG	älköön olko kaartanut
+V;ACT;PRS;NEG;COND;3;SG	ei tuuppaisi	V;ACT;PRS;POS;IND;1;SG	tuuppaan
+V;ACT;PRS;NEG;IND;2;PL	ette matemaattista	V;ACT;PST;NEG;IND;1;SG	en matemaattistanut
+V;ACT;PRS;NEG;IMP;1;PL	älkäämme parantako	V;PASS;PRS;POS;COND	parannettaisiin
+V;ACT;PRS;POS;COND;2;SG	palsamoisit	V;ACT;PRS;PRF;NEG;COND;2;SG	et olisi palsamoinut
+V;V.PTCP;PASS;PST	viety	V;ACT;PST;PRF;POS;IND;1;PL	olimme vieneet
+V;ACT;PRS;PRF;POS;IMP;2;PL	olkaa napanneet	V;PASS;PST;PRF;POS;IND	oli napattu
+V;PASS;PRS;PRF;NEG;COND	ei olisi köynnöstetty	V;PASS;PRS;NEG;IMP	älköön köynnöstettäkö
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene livahtanut	V;PASS;PRS;PRF;NEG;IND	ei ole livahdettu
+V;ACT;PRS;PRF;POS;IMP;2;SG	ole huolettanut	V;PASS;PRS;POS;IMP	huoletettakoon
+V;ACT;PRS;NEG;POT;1;PL	emme murehtine	V;ACT;PRS;POS;IMP;1;PL	murehtikaamme
+V;ACT;PRS;POS;COND;2;PL	kovittaisitte	V;ACT;PRS;POS;IND;3;SG	kovittaa
+V;ACT;PRS;NEG;IND;3;PL	eivät ylläpidä	V;ACT;PST;PRF;POS;IND;3;SG	oli ylläpitänyt
+V;ACT;PRS;POS;POT;2;SG	eriarvoistanet	V;ACT;PRS;POS;COND;1;PL	eriarvoistaisimme
+V;ACT;PRS;PRF;POS;IMP;1;PL	olkaamme hosuneet	V;ACT;PRS;POS;POT;3;PL	hosunevat
+V;NFIN	ottaa käyttöön	V;ACT;PRS;NEG;COND;2;PL	ette ottaisi käyttöön
+V;ACT;PRS;POS;IND;2;PL	ujellatte	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat ujeltaneet
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole maustanut	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi maustanut
+V;ACT;PRS;PRF;POS;COND;1;SG	olisin rasittunut	V;ACT;PRS;NEG;POT;1;SG	en rasittune
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet kuohkenneet	V;PASS;PRS;PRF;NEG;IND	ei ole kuohkettu
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene riittyneet	V;ACT;PRS;POS;COND;3;SG	riittyisi
+V;PASS;PRS;NEG;POT	ei minimoitane	V;ACT;PRS;PRF;NEG;COND;1;SG	en olisi minimoinut
+V;ACT;PST;PRF;POS;IND;2;SG	olit applikoinut	V;ACT;PST;POS;IND;2;SG	applikoit
+V;ACT;PRS;NEG;COND;3;SG	ei mureuttaisi	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi mureuttaneet
+V;ACT;PRS;NEG;IND;3;PL	eivät jyristele	V;ACT;PST;NEG;IND;1;SG	en jyristellyt
+V;ACT;PST;PRF;POS;IND;1;PL	olimme haastelleet	V;ACT;PRS;POS;POT;2;PL	haastellette
+V;ACT;PRS;PRF;POS;IND;1;PL	olemme voimistelleet	V;ACT;PRS;PRF;POS;COND;2;PL	olisitte voimistelleet
+V;ACT;PRS;POS;IND;1;SG	verifioin	V;ACT;PRS;PRF;POS;POT;1;SG	lienen verifioinut
+V;ACT;PRS;NEG;COND;1;PL	emme nuhjautuisi	V;ACT;PRS;NEG;IMP;1;PL	älkäämme nuhjautuko
+V;PASS;PRS;PRF;POS;POT	lienee desentralisoitu	V;ACT;PST;NEG;IND;1;SG	en desentralisoinut
+V;ACT;PRS;NEG;IND;2;SG	et psykologisoi	V;V.PTCP;ACT;PST	psykologisoinut
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi kulminoituneet	V;ACT;PST;NEG;IND;3;PL	eivät kulminoituneet
+V;ACT;PRS;POS;IND;1;SG	kiskaisen	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat kiskaisseet
+V;ACT;PRS;POS;POT;1;PL	lämmitellemme	V;ACT;PRS;PRF;POS;COND;3;PL	olisivat lämmitelleet
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene temperoinut	V;ACT;PRS;NEG;COND;1;SG	en temperoisi
+V;ACT;PRS;PRF;POS;IND;2;SG	olet kuolannut	V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole kuolanneet
+V;ACT;PRS;NEG;COND;3;SG	ei hämäännyttäisi	V;ACT;PST;POS;IND;1;PL	hämäännytimme
+V;ACT;PST;POS;IND;3;SG	köhisi	V;ACT;PST;NEG;IND;2;SG	et köhissyt
+V;ACT;PST;POS;IND;3;PL	ylirasittuivat	V;ACT;PRS;POS;POT;3;SG	ylirasittunee
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette värjänneet	V;V.PTCP;ACT;PST	värjännyt
+V;ACT;PRS;NEG;IND;3;SG	ei kopioi	V;ACT;PRS;PRF;POS;IND;1;PL	olemme kopioineet
+V;ACT;PST;POS;IND;3;PL	kehittyivät	V;ACT;PRS;POS;IND;1;PL	kehitymme
+V;PASS;PST;PRF;NEG;IND	ei ollut armahdettu	V;PASS;PRS;PRF;NEG;COND	ei olisi armahdettu
+V;ACT;PRS;PRF;POS;IND;1;SG	olen tuultanut	V;ACT;PST;POS;IND;3;SG	tuulsi
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet parittaneet	V;ACT;PRS;PRF;POS;COND;3;SG	olisi parittanut
+V;PASS;PST;NEG;IND	ei louhittu	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme louhineet
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet prameillut	V;ACT;PRS;PRF;POS;COND;1;SG	olisin prameillut
+V;ACT;PRS;PRF;NEG;POT;1;PL	emme liene vakuuttuneet	V;ACT;PRS;NEG;IMP;1;PL	älkäämme vakuuttuko
+V;ACT;PST;POS;IND;2;SG	oikoluit	V;ACT;PRS;POS;POT;3;SG	oikolukenee
+V;ACT;PRS;NEG;COND;2;SG	et räkäisisi	V;ACT;PST;PRF;POS;IND;2;SG	olit räkäissyt
+V;ACT;PRS;POS;COND;3;PL	suojaisivat	V;ACT;PRS;PRF;POS;IND;1;PL	olemme suojanneet
+V;ACT;PRS;POS;IMP;1;PL	harjaantukaamme	V;PASS;PRS;NEG;IMP	älköön harjaannuttako
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene hiiltyneet	V;PASS;PST;NEG;IND	ei hiillytty
+V;ACT;PRS;NEG;IMP;2;PL	älkää kutistako	V;ACT;PST;PRF;POS;IND;2;SG	olit kutistanut
+V;PASS;PRS;NEG;POT	ei desalinoitane	V;ACT;PRS;NEG;COND;1;SG	en desalinoisi
+V;PASS;PRS;PRF;NEG;IMP	älköön olko singahdeltu	V;ACT;PRS;POS;POT;2;PL	singahdellette
+V;PASS;PRS;PRF;POS;IND	on pesty	V;ACT;PST;NEG;IND;1;PL	emme pesseet
+V;ACT;PRS;PRF;NEG;POT;3;SG	ei liene halaissut	V;ACT;PST;PRF;POS;IND;3;SG	oli halaissut
+V;ACT;PRS;POS;COND;1;SG	käräjöisin	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko käräjöineet
+V;PASS;PST;PRF;POS;IND	oli karistettu	V;ACT;PRS;POS;COND;3;SG	karistaisi
+V;ACT;PRS;PRF;NEG;POT;1;SG	en liene hapattanut	V;ACT;PRS;PRF;POS;COND;3;SG	olisi hapattanut
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit limittänyt	V;ACT;PRS;POS;POT;1;PL	limittänemme
+V;ACT;PRS;NEG;COND;3;SG	ei nurkuisi	V;ACT;PRS;PRF;POS;IND;2;PL	olette nurkuneet
+V;ACT;PRS;PRF;NEG;POT;2;PL	ette liene lukkoutuneet	V;ACT;PST;PRF;POS;IND;3;PL	olivat lukkoutuneet
+V;ACT;PRS;PRF;POS;COND;3;SG	olisi arkipäiväistänyt	V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet arkipäiväistäneet
+V;ACT;PRS;POS;COND;3;PL	keihästäisivät	V;ACT;PST;POS;IND;2;SG	keihästit
+V;ACT;PRS;POS;COND;2;SG	haukkuisit pataluhaksi	V;ACT;PRS;POS;IMP;2;SG	hauku pataluhaksi
+V;ACT;PRS;NEG;IND;1;PL	emme lääkitse	V;ACT;PRS;PRF;POS;IND;1;PL	olemme lääkinneet
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette harmaantuneet	V;ACT;PRS;PRF;POS;POT;1;PL	lienemme harmaantuneet
+V;PASS;PRS;PRF;NEG;IMP	älköön olko läpsytelty	V;ACT;PRS;NEG;POT;1;PL	emme läpsytelle
+V;PASS;PRS;NEG;COND	ei praktikoitaisi	V;ACT;PRS;PRF;POS;POT;3;SG	lienee praktikoinut
+V;PASS;PRS;POS;POT	kiinattaneen	V;PASS;PRS;NEG;IND	ei kiinata
+V;ACT;PRS;POS;IND;3;PL	helpontavat	V;ACT;PRS;POS;COND;1;PL	helpontaisimme
+V;PASS;PRS;PRF;POS;IND	on ryssitty	V;ACT;PRS;POS;IND;2;PL	ryssitte
+V;ACT;PRS;NEG;IND;2;PL	ette melskaa	V;ACT;PRS;POS;COND;2;PL	melskaisitte
+V;ACT;PRS;PRF;POS;COND;2;PL	olisitte luiskanneet	V;ACT;PRS;PRF;POS;IND;1;PL	olemme luiskanneet
+V;ACT;PST;NEG;IND;3;PL	eivät paasanneet	V;ACT;PRS;POS;IMP;2;SG	paasaa
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi synkennyt	V;ACT;PRS;PRF;POS;IMP;3;SG	olkoon synkennyt
+V;ACT;PRS;PRF;POS;COND;1;PL	olisimme talsineet	V;ACT;PRS;PRF;POS;IMP;2;SG	ole talsinut
+V;ACT;PST;PRF;POS;IND;2;PL	olitte kuorettuneet	V;PASS;PRS;PRF;POS;POT	lienee kuoretuttu
+V;ACT;PRS;POS;POT;2;SG	tomunnet	V;V.PTCP;ACT;PST	tomunnut
+V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet läpsytelleet	V;ACT;PRS;POS;IND;1;PL	läpsyttelemme
+V;ACT;PRS;POS;IND;3;SG	raksuttaa	V;ACT;PRS;POS;IND;3;PL	raksuttavat
+V;ACT;PRS;PRF;POS;POT;3;PL	lienevät tyrmänneet	V;ACT;PRS;POS;COND;2;PL	tyrmäisitte
+V;PASS;PRS;NEG;COND	ei ynistäisi	V;ACT;PRS;NEG;POT;2;SG	et ynisse
+V;ACT;PST;POS;IND;1;SG	yhdenmukaistin	V;ACT;PST;NEG;IND;2;SG	et yhdenmukaistanut
+V;PASS;PRS;POS;COND	yhtäläistyttäisiin	V;ACT;PRS;PRF;NEG;IND;1;SG	en ole yhtäläistynyt
+V;ACT;PRS;NEG;IND;1;PL	emme perusta	V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko perustaneet
+V;PASS;PRS;PRF;NEG;IND	ei ole nuuhkaistu	V;ACT;PRS;PRF;NEG;POT;3;PL	eivät liene nuuhkaisseet
+V;ACT;PRS;PRF;NEG;IND;1;SG	en ole uskaltanut	V;ACT;PRS;POS;IND;3;PL	uskaltavat
+V;ACT;PRS;POS;IMP;3;PL	uhotkoot	V;PASS;PST;NEG;IND	ei uhottu
+V;PASS;PRS;PRF;NEG;POT	ei liene lävistetty	V;ACT;PRS;NEG;IND;2;SG	et lävistä
+V;ACT;PST;PRF;POS;IND;1;PL	olimme funtsanneet	V;ACT;PRS;NEG;IMP;2;PL	älkää funtsatko
+V;ACT;PST;PRF;POS;IND;2;SG	olit vauhkoontunut	V;ACT;PRS;NEG;COND;3;PL	eivät vauhkoontuisi
+V;ACT;PRS;POS;IND;3;SG	vinoutuu	V;ACT;PST;PRF;NEG;IND;1;PL	emme olleet vinoutuneet
+V;PASS;PRS;PRF;NEG;IMP	älköön olko tuuhettu	V;ACT;PRS;POS;POT;1;SG	tuuhennen
+V;ACT;PRS;POS;IND;3;PL	polttomerkitsevät	V;PASS;PRS;POS;IND	polttomerkitään
+V;PASS;PRS;POS;POT	kuhnittaneen	V;ACT;PRS;POS;IND;3;PL	kuhnivat
+V;ACT;PRS;PRF;POS;POT;1;PL	lienemme haaranneet	V;ACT;PRS;NEG;COND;1;PL	emme haaraisi
+V;ACT;PST;NEG;IND;2;SG	et tarhannut	V;PASS;PRS;NEG;IMP	älköön tarhattako
+V;ACT;PRS;NEG;POT;1;PL	emme rikastane	V;ACT;PST;POS;IND;2;PL	rikastitte
+V;ACT;PRS;PRF;POS;POT;2;PL	lienette tupeeranneet	V;ACT;PRS;POS;IMP;2;SG	tupeeraa
+V;ACT;PRS;PRF;POS;POT;2;SG	lienet erkautunut	V;ACT;PRS;NEG;POT;1;SG	en erkautune
+V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot hotkaisseet	V;ACT;PRS;NEG;IND;2;PL	ette hotkaise
+V;ACT;PRS;NEG;COND;3;PL	eivät rämisisi	V;PASS;PRS;PRF;NEG;IND	ei ole rämisty
+V;PASS;PST;PRF;POS;IND	oli jatkuttu	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet jatkuneet
+V;ACT;PST;POS;IND;2;SG	torkuit	V;ACT;PRS;POS;IND;1;SG	torkun
+V;ACT;PST;PRF;POS;IND;3;SG	oli majoittanut	V;ACT;PRS;NEG;IMP;2;PL	älkää majoittako
+V;PASS;PRS;PRF;NEG;POT	ei liene vahdittu	V;PASS;PST;NEG;IND	ei vahdittu
+V;ACT;PRS;NEG;COND;1;PL	emme viuhahtaisi	V;ACT;PRS;PRF;POS;IND;2;SG	olet viuhahtanut
+V;ACT;PRS;PRF;NEG;IMP;3;PL	älkööt olko maiskuttaneet	V;PASS;PRS;POS;COND	maiskutettaisiin
+V;ACT;PRS;POS;IND;2;SG	laadit	V;ACT;PRS;NEG;IND;2;SG	et laadi
+V;ACT;PRS;POS;IMP;2;SG	mellota	V;PASS;PRS;PRF;POS;POT	lienee mellotettu
+V;ACT;PRS;NEG;POT;3;SG	ei kuormittune	V;ACT;PRS;POS;POT;1;PL	kuormittunemme
+V;ACT;PRS;NEG;COND;3;SG	ei nakuttelisi	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi nakutelleet
+V;ACT;PST;NEG;IND;1;PL	emme kannibalisoineet	V;ACT;PRS;PRF;NEG;IND;2;SG	et ole kannibalisoinut
+V;ACT;PRS;NEG;IMP;2;PL	älkää todetko	V;ACT;PRS;NEG;POT;2;SG	et todenne
+V;ACT;PRS;NEG;IND;3;SG	ei tärvää	V;PASS;PRS;NEG;POT	ei tärvättäne
+V;ACT;PRS;NEG;IMP;2;SG	älä alleviivaa	V;PASS;PRS;PRF;NEG;POT	ei liene alleviivattu
+V;ACT;PRS;NEG;COND;1;PL	emme tyyttäisi	V;PASS;PRS;NEG;COND	ei tyytättäisi
+V;ACT;PRS;PRF;NEG;COND;3;SG	ei olisi jyrisyttänyt	V;PASS;PRS;POS;COND	jyrisytettäisiin
+V;ACT;PRS;NEG;COND;1;SG	en vankentaisi	V;ACT;PRS;POS;IND;2;PL	vankennatte
+V;ACT;PST;NEG;IND;3;SG	ei kryptannut	V;ACT;PRS;NEG;COND;1;PL	emme kryptaisi
+V;ACT;PRS;NEG;POT;1;PL	emme kahmaisse	V;ACT;PRS;PRF;POS;IND;1;SG	olen kahmaissut
+V;ACT;PRS;PRF;POS;POT;1;PL	lienemme nilkuttaneet	V;ACT;PRS;PRF;POS;POT;3;PL	lienevät nilkuttaneet
+V;PASS;PRS;PRF;NEG;IND	ei ole definioitu	V;ACT;PRS;PRF;POS;POT;1;SG	lienen definioinut
+V;V.PTCP;ACT;PST	demagnetoinut	V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet demagnetoineet
+V;V.PTCP;ACT;PRS	ahavoittava	V;PASS;PRS;NEG;POT	ei ahavoitettane
+V;ACT;PRS;PRF;POS;IMP;3;PL	olkoot vispaantuneet	V;ACT;PST;NEG;IND;1;SG	en vispaantunut
+V;ACT;PRS;NEG;IMP;2;SG	älä spaklaa	V;ACT;PST;POS;IND;3;PL	spaklasivat
+V;ACT;PRS;POS;COND;3;SG	mouruaisi	V;ACT;PRS;PRF;POS;POT;2;SG	lienet mourunnut
+V;ACT;PRS;PRF;POS;COND;2;SG	olisit kellinyt	V;ACT;PRS;PRF;POS;COND;1;SG	olisin kellinyt
+V;ACT;PRS;POS;COND;3;SG	hämärryttäisi	V;ACT;PRS;POS;POT;3;PL	hämärryttänevät
+V;ACT;PRS;PRF;NEG;IND;2;PL	ette ole rämistäneet	V;ACT;PST;POS;IND;3;SG	rämisti
+V;ACT;PRS;POS;IND;2;PL	tuprutatte	V;ACT;PRS;POS;COND;3;PL	tupruttaisivat
+V;V.PTCP;ACT;PRS	aavistava	V;ACT;PRS;NEG;POT;2;PL	ette aavistane
+V;ACT;PST;PRF;POS;IND;3;PL	olivat blokkiintuneet	V;ACT;PRS;PRF;NEG;IND;3;SG	ei ole blokkiintunut
+V;ACT;PRS;POS;IND;3;PL	viettelevät	V;PASS;PRS;PRF;NEG;POT	ei liene vietelty
+V;ACT;PRS;NEG;IMP;2;PL	älkää vaakkuko	V;ACT;PRS;POS;IMP;2;PL	vaakkukaa
+V;ACT;PST;PRF;NEG;IND;3;PL	eivät olleet luonnostelleet	V;ACT;PRS;NEG;IND;3;SG	ei luonnostele
+V;PASS;PRS;PRF;NEG;IMP	älköön olko tahmaannuttu	V;ACT;PRS;PRF;POS;IMP;2;SG	ole tahmaantunut
+V;ACT;PST;PRF;POS;IND;1;SG	olin polvistunut	V;ACT;PRS;POS;POT;3;SG	polvistunee
+V;ACT;PRS;PRF;NEG;IMP;2;PL	älkää olko eristäytyneet	V;ACT;PRS;POS;COND;2;SG	eristäytyisit
+V;PASS;PST;PRF;NEG;IND	ei ollut ylikuumennuttu	V;ACT;PRS;POS;COND;1;PL	ylikuumentuisimme
+V;ACT;PRS;PRF;NEG;IMP;2;SG	älä ole englannintanut	V;ACT;PRS;PRF;POS;COND;1;PL	olisimme englannintaneet
+V;ACT;PST;PRF;POS;IND;2;PL	olitte roomalaistaneet	V;ACT;PRS;NEG;IND;1;SG	en roomalaista
+V;ACT;PRS;PRF;POS;IND;1;SG	olen supattanut	V;ACT;PST;POS;IND;3;SG	supatti
+V;ACT;PRS;PRF;POS;IND;1;SG	olen motivoinut	V;ACT;PRS;PRF;NEG;COND;2;PL	ette olisi motivoineet
+V;ACT;PRS;PRF;POS;POT;3;SG	lienee palaillut	V;PASS;PST;POS;IND	palailtiin
+V;ACT;PRS;PRF;NEG;COND;3;PL	eivät olisi kristallisoituneet	V;PASS;PST;NEG;IND	ei kristallisoiduttu
+V;PASS;PRS;POS;COND	monopolisoitaisiin	V;ACT;PRS;NEG;IND;3;SG	ei monopolisoi
+V;ACT;PRS;POS;COND;1;PL	pureutuisimme	V;ACT;PRS;NEG;IND;3;PL	eivät pureudu
+V;ACT;PST;PRF;NEG;IND;2;PL	ette olleet menneet rikki	V;PASS;PST;PRF;NEG;IND	ei ollut menty rikki
+V;ACT;PRS;POS;COND;3;PL	napsuttelisivat	V;ACT;PRS;POS;COND;1;PL	napsuttelisimme
+V;ACT;PRS;NEG;POT;1;PL	emme diivanne	V;ACT;PRS;NEG;COND;1;SG	en diivaisi
