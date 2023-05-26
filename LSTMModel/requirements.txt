@@ -1,0 +1,11 @@
+numpy>=1.19.2
+matplotlib>=3.1.1
+torchtext>=0.9.1
+tqdm>=4.59.0
+torch-scatter>=2.0.8
+torch>=1.8.0
+more-itertools>=7.0.0
+tensorboard>=1.15.0
+editdistance>=0.5.3
+parameterized>=0.8.1
+typing>=3.10.0.0

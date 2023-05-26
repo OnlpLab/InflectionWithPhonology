@@ -1,0 +1,359 @@
+{
+  "vowels": {
+    "i": [
+      "close",
+      "front",
+      "unrounded"
+    ],
+    "y": [
+      "close",
+      "front",
+      "rounded"
+    ],
+    "\u026f": [
+      "close",
+      "back",
+      "unrounded"
+    ],
+    "u": [
+      "close",
+      "back",
+      "rounded"
+    ],
+    "e": [
+      "close-mid",
+      "front",
+      "unrounded"
+    ],
+    "\u00f8": [
+      "close-mid",
+      "front",
+      "rounded"
+    ],
+    "\u0264": [
+      "close-mid",
+      "back",
+      "unrounded"
+    ],
+    "o": [
+      "close-mid",
+      "back",
+      "rounded"
+    ],
+    "\u0259": [
+      "mid",
+      "central"
+    ],
+    "\u025b": [
+      "open-mid",
+      "front",
+      "unrounded"
+    ],
+    "\u0153": [
+      "open-mid",
+      "front",
+      "rounded"
+    ],
+    "\u0254": [
+      "mid",
+      "back"
+    ],
+    "a": [
+      "open",
+      "front"
+    ],
+    "\u0251": [
+      "open",
+      "back",
+      "unrounded"
+    ],
+    "\u0252": [
+      "open",
+      "back",
+      "rounded"
+    ]
+  },
+  "consonants": {
+    "m": [
+      "labial",
+      "nasal"
+    ],
+    "p": [
+      "labial",
+      "plosive",
+      "voiceless"
+    ],
+    "b": [
+      "labial",
+      "plosive",
+      "voiced"
+    ],
+    "p\u02b0": [
+      "labial",
+      "plosive",
+      "aspirated"
+    ],
+    "p\u02bc": [
+      "labial",
+      "plosive",
+      "ejective"
+    ],
+    "f": [
+      "labial",
+      "fricative",
+      "voiceless"
+    ],
+    "v": [
+      "labial",
+      "fricative",
+      "voiced"
+    ],
+    "w": [
+      "labial",
+      "approximant",
+      "voiced"
+    ],
+    "\u0253": [
+      "labial",
+      "implosive",
+      "voiced"
+    ],
+    "t\u032a": [
+      "dental",
+      "plosive",
+      "voiceless"
+    ],
+    "d\u032a": [
+      "dental",
+      "plosive",
+      "voiced"
+    ],
+    "\u03b8": [
+      "dental",
+      "fricative",
+      "voiceless"
+    ],
+    "\u00f0": [
+      "dental",
+      "fricative",
+      "voiced"
+    ],
+    "t\u032a\u0361s\u032a": [
+      "dental",
+      "affricate",
+      "voiceless"
+    ],
+    "d\u032a\u0361z\u032a": [
+      "dental",
+      "affricate",
+      "voiced"
+    ],
+    "n": [
+      "alveolar",
+      "nasal"
+    ],
+    "t": [
+      "alveolar",
+      "plosive",
+      "voiceless"
+    ],
+    "d": [
+      "alveolar",
+      "plosive",
+      "voiced"
+    ],
+    "t\u02b0": [
+      "alveolar",
+      "plosive",
+      "aspirated"
+    ],
+    "t\u02bc": [
+      "alveolar",
+      "plosive",
+      "ejective"
+    ],
+    "s": [
+      "alveolar",
+      "fricative",
+      "voiceless"
+    ],
+    "z": [
+      "alveolar",
+      "fricative",
+      "voiced"
+    ],
+    "t\u0361s": [
+      "alveolar",
+      "affricate",
+      "voiceless"
+    ],
+    "d\u0361z": [
+      "alveolar",
+      "affricate",
+      "voiced"
+    ],
+    "t\u0361s\u02b0": [
+      "alveolar",
+      "affricate",
+      "aspirated"
+    ],
+    "t\u0361s\u02bc": [
+      "alveolar",
+      "affricate",
+      "ejective"
+    ],
+    "r": [
+      "alveolar",
+      "trill",
+      "voiced"
+    ],
+    "\u027e": [
+      "alveolar",
+      "tap",
+      "voiced"
+    ],
+    "\u0279": [
+      "alveolar",
+      "approximant",
+      "voiced"
+    ],
+    "l": [
+      "alveolar",
+      "lateral"
+    ],
+    "\u0257": [
+      "alveolar",
+      "implosive",
+      "voiced"
+    ],
+    "\u026b": [
+      "velarized-alveolar",
+      "lateral"
+    ],
+    "\u0283": [
+      "post-alveolar",
+      "fricative",
+      "voiceless"
+    ],
+    "\u0292": [
+      "post-alveolar",
+      "fricative",
+      "voiced"
+    ],
+    "t\u0361\u0283": [
+      "post-alveolar",
+      "affricate",
+      "voiceless"
+    ],
+    "d\u0361\u0292": [
+      "post-alveolar",
+      "affricate",
+      "voiced"
+    ],
+    "t\u0361\u0283\u02b0": [
+      "post-alveolar",
+      "affricate",
+      "aspirated"
+    ],
+    "t\u0361\u0283\u02bc": [
+      "post-alveolar",
+      "affricate",
+      "ejective"
+    ],
+    "\u0272": [
+      "palatal",
+      "nasal",
+      "voiced"
+    ],
+    "c": [
+      "palatal",
+      "plosive",
+      "voiceless"
+    ],
+    "\u025f": [
+      "palatal",
+      "plosive",
+      "voiced"
+    ],
+    "\u025f\u0361\u029d": [
+      "palatal",
+      "affricate",
+      "voiced"
+    ],
+    "j": [
+      "palatal",
+      "approximant",
+      "voiced"
+    ],
+    "\u028e": [
+      "palatal",
+      "lateral",
+      "voiced"
+    ],
+    "\u0284": [
+      "palatal",
+      "implosive",
+      "voiced"
+    ],
+    "\u014b": [
+      "velar",
+      "nasal",
+      "voiced"
+    ],
+    "k": [
+      "velar",
+      "plosive",
+      "voiceless"
+    ],
+    "\u0261": [
+      "velar",
+      "plosive",
+      "voiced"
+    ],
+    "k\u02b0": [
+      "velar",
+      "plosive",
+      "aspirated"
+    ],
+    "k\u02bc": [
+      "velar",
+      "plosive",
+      "ejective"
+    ],
+    "x": [
+      "velar",
+      "fricative",
+      "voiceless"
+    ],
+    "\u0263": [
+      "velar",
+      "fricative",
+      "voiced"
+    ],
+    "\u0260": [
+      "velar",
+      "implosive",
+      "voiced"
+    ],
+    "q\u02bc": [
+      "uvular",
+      "plosive",
+      "ejective"
+    ],
+    "\u0281": [
+      "uvular",
+      "fricative",
+      "voiced"
+    ],
+    "\u03c7": [
+      "uvular",
+      "fricative",
+      "voiceless"
+    ],
+    "h": [
+      "glottal",
+      "fricative",
+      "voiceless"
+    ]
+  }
+}
